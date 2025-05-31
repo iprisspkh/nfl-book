@@ -1,0 +1,1154 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Context: Bill’s sense of humor ran a close second to presence and un-
+#. conditional acceptance as his most-mentioned outstanding characteristics.
+#. In the Urtext, the author commented:
+#: paragraph:1,sentence:1
+msgid ""
+"Bill’s sense of humor ran a close second to presence and un-conditional "
+"acceptance as his most-mentioned outstanding characteristics."
+msgstr ""
+"Bill’s sense of humor ran a close second to presence and un-conditional "
+"acceptance as his most-mentioned outstanding characteristics."
+
+#. Context: Bill’s sense of humor ran a close second to presence and un-
+#. conditional acceptance as his most-mentioned outstanding characteristics.
+#. In the Urtext, the author commented:
+#: paragraph:1,sentence:2
+msgid "In the Urtext, the author commented:"
+msgstr "In the Urtext, the author commented:"
+
+#. Context: I wish he would decide to use that talent of his [for making puns]
+#. constructively. He has no idea how powerful it could be. Actually, it does
+#. come from the unconscious and is really a distorted form of miraculous
+#. perception, which he has reduced to word twisting. Although this can be
+#. quite funny, it is still a real waste. Maybe he’d care to let me control
+#. it, and still use it humorously himself. He doesn’t have to decide it is
+#. one or the other.[44]
+#: paragraph:2,sentence:1
+msgid ""
+"I wish he would decide to use that talent of his [for making puns] "
+"constructively."
+msgstr ""
+"I wish he would decide to use that talent of his [for making puns] "
+"constructively."
+
+#. Context: I wish he would decide to use that talent of his [for making puns]
+#. constructively. He has no idea how powerful it could be. Actually, it does
+#. come from the unconscious and is really a distorted form of miraculous
+#. perception, which he has reduced to word twisting. Although this can be
+#. quite funny, it is still a real waste. Maybe he’d care to let me control
+#. it, and still use it humorously himself. He doesn’t have to decide it is
+#. one or the other.[44]
+#: paragraph:2,sentence:2
+msgid "He has no idea how powerful it could be."
+msgstr "He has no idea how powerful it could be."
+
+#. Context: I wish he would decide to use that talent of his [for making puns]
+#. constructively. He has no idea how powerful it could be. Actually, it does
+#. come from the unconscious and is really a distorted form of miraculous
+#. perception, which he has reduced to word twisting. Although this can be
+#. quite funny, it is still a real waste. Maybe he’d care to let me control
+#. it, and still use it humorously himself. He doesn’t have to decide it is
+#. one or the other.[44]
+#: paragraph:2,sentence:3
+msgid ""
+"Actually, it does come from the unconscious and is really a distorted form "
+"of miraculous perception, which he has reduced to word twisting."
+msgstr ""
+"Actually, it does come from the unconscious and is really a distorted form "
+"of miraculous perception, which he has reduced to word twisting."
+
+#. Context: I wish he would decide to use that talent of his [for making puns]
+#. constructively. He has no idea how powerful it could be. Actually, it does
+#. come from the unconscious and is really a distorted form of miraculous
+#. perception, which he has reduced to word twisting. Although this can be
+#. quite funny, it is still a real waste. Maybe he’d care to let me control
+#. it, and still use it humorously himself. He doesn’t have to decide it is
+#. one or the other.[44]
+#: paragraph:2,sentence:4
+msgid "Although this can be quite funny, it is still a real waste."
+msgstr "Although this can be quite funny, it is still a real waste."
+
+#. Context: I wish he would decide to use that talent of his [for making puns]
+#. constructively. He has no idea how powerful it could be. Actually, it does
+#. come from the unconscious and is really a distorted form of miraculous
+#. perception, which he has reduced to word twisting. Although this can be
+#. quite funny, it is still a real waste. Maybe he’d care to let me control
+#. it, and still use it humorously himself. He doesn’t have to decide it is
+#. one or the other.[44]
+#: paragraph:2,sentence:5
+msgid ""
+"Maybe he’d care to let me control it, and still use it humorously himself."
+msgstr ""
+"Maybe he’d care to let me control it, and still use it humorously himself."
+
+#. Context: I wish he would decide to use that talent of his [for making puns]
+#. constructively. He has no idea how powerful it could be. Actually, it does
+#. come from the unconscious and is really a distorted form of miraculous
+#. perception, which he has reduced to word twisting. Although this can be
+#. quite funny, it is still a real waste. Maybe he’d care to let me control
+#. it, and still use it humorously himself. He doesn’t have to decide it is
+#. one or the other.[44]
+#: paragraph:2,sentence:6
+msgid "He doesn’t have to decide it is one or the other.[44]"
+msgstr "He doesn’t have to decide it is one or the other.[44]"
+
+#. Context: Bill must have surrendered some control over that talent because
+#. he could be simply hilarious. Whit Whitson, a superb wordsmith himself,
+#. noted, “I was soon captivated by Bill because he struck me as a voice of
+#. balance and sanity packaged in dry wit. The more I listened to his views
+#. about the Course, the more my respect grew for it and for the whimsy and
+#. sparkle of his mind.”[45] His innate lovingness, combined with his
+#. wonderful ability to be lighthearted, was indeed sparkling and compelling.
+#. Everyone, without exception, recalled with delight their times of rich,
+#. heartwarming laughter with Bill.
+#: paragraph:3,sentence:1
+msgid ""
+"Bill must have surrendered some control over that talent because he could be"
+" simply hilarious."
+msgstr ""
+"Bill must have surrendered some control over that talent because he could be"
+" simply hilarious."
+
+#. Context: Bill must have surrendered some control over that talent because
+#. he could be simply hilarious. Whit Whitson, a superb wordsmith himself,
+#. noted, “I was soon captivated by Bill because he struck me as a voice of
+#. balance and sanity packaged in dry wit. The more I listened to his views
+#. about the Course, the more my respect grew for it and for the whimsy and
+#. sparkle of his mind.”[45] His innate lovingness, combined with his
+#. wonderful ability to be lighthearted, was indeed sparkling and compelling.
+#. Everyone, without exception, recalled with delight their times of rich,
+#. heartwarming laughter with Bill.
+#: paragraph:3,sentence:2
+msgid ""
+"Whit Whitson, a superb wordsmith himself, noted, “I was soon captivated by "
+"Bill because he struck me as a voice of balance and sanity packaged in dry "
+"wit."
+msgstr ""
+"Whit Whitson, a superb wordsmith himself, noted, “I was soon captivated by "
+"Bill because he struck me as a voice of balance and sanity packaged in dry "
+"wit."
+
+#. Context: Bill must have surrendered some control over that talent because
+#. he could be simply hilarious. Whit Whitson, a superb wordsmith himself,
+#. noted, “I was soon captivated by Bill because he struck me as a voice of
+#. balance and sanity packaged in dry wit. The more I listened to his views
+#. about the Course, the more my respect grew for it and for the whimsy and
+#. sparkle of his mind.”[45] His innate lovingness, combined with his
+#. wonderful ability to be lighthearted, was indeed sparkling and compelling.
+#. Everyone, without exception, recalled with delight their times of rich,
+#. heartwarming laughter with Bill.
+#: paragraph:3,sentence:3
+msgid ""
+"The more I listened to his views about the Course, the more my respect grew "
+"for it and for the whimsy and sparkle of his mind.”[45] His innate "
+"lovingness, combined with his wonderful ability to be lighthearted, was "
+"indeed sparkling and compelling."
+msgstr ""
+"The more I listened to his views about the Course, the more my respect grew "
+"for it and for the whimsy and sparkle of his mind.”[45] His innate "
+"lovingness, combined with his wonderful ability to be lighthearted, was "
+"indeed sparkling and compelling."
+
+#. Context: Bill must have surrendered some control over that talent because
+#. he could be simply hilarious. Whit Whitson, a superb wordsmith himself,
+#. noted, “I was soon captivated by Bill because he struck me as a voice of
+#. balance and sanity packaged in dry wit. The more I listened to his views
+#. about the Course, the more my respect grew for it and for the whimsy and
+#. sparkle of his mind.”[45] His innate lovingness, combined with his
+#. wonderful ability to be lighthearted, was indeed sparkling and compelling.
+#. Everyone, without exception, recalled with delight their times of rich,
+#. heartwarming laughter with Bill.
+#: paragraph:3,sentence:4
+msgid ""
+"Everyone, without exception, recalled with delight their times of rich, "
+"heartwarming laughter with Bill."
+msgstr ""
+"Everyone, without exception, recalled with delight their times of rich, "
+"heartwarming laughter with Bill."
+
+#. Context: LeRoy Zemke’s reading confirmed this trait, even though Bill was
+#. an unknown client at the time: “You have a remarkable talent to aid you in
+#. this, and it is your capacity to draw upon the wit and the clarity of your
+#. own mind that stems from warmth and from your capacity to see a sense of
+#. the ridiculous in all that life offers. . . . Use it amply whenever it
+#. applies and you will find that whatever you have to teach, this will be the
+#. tool that will aid you in the work that needs to be done.”[46]
+#: paragraph:4,sentence:1
+msgid ""
+"LeRoy Zemke’s reading confirmed this trait, even though Bill was an unknown "
+"client at the time: “You have a remarkable talent to aid you in this, and it"
+" is your capacity to draw upon the wit and the clarity of your own mind that"
+" stems from warmth and from your capacity to see a sense of the ridiculous "
+"in all that life offers. . . ."
+msgstr ""
+"LeRoy Zemke’s reading confirmed this trait, even though Bill was an unknown "
+"client at the time: “You have a remarkable talent to aid you in this, and it"
+" is your capacity to draw upon the wit and the clarity of your own mind that"
+" stems from warmth and from your capacity to see a sense of the ridiculous "
+"in all that life offers. . . ."
+
+#. Context: LeRoy Zemke’s reading confirmed this trait, even though Bill was
+#. an unknown client at the time: “You have a remarkable talent to aid you in
+#. this, and it is your capacity to draw upon the wit and the clarity of your
+#. own mind that stems from warmth and from your capacity to see a sense of
+#. the ridiculous in all that life offers. . . . Use it amply whenever it
+#. applies and you will find that whatever you have to teach, this will be the
+#. tool that will aid you in the work that needs to be done.”[46]
+#: paragraph:4,sentence:2
+msgid ""
+"Use it amply whenever it applies and you will find that whatever you have to"
+" teach, this will be the tool that will aid you in the work that needs to be"
+" done.”[46]"
+msgstr ""
+"Use it amply whenever it applies and you will find that whatever you have to"
+" teach, this will be the tool that will aid you in the work that needs to be"
+" done.”[46]"
+
+#. Context: And aid us all, it did. Getting a handle on Bill’s humor moves you
+#. very close to his essence—it was one of his ways of loving. He was never
+#. malicious with humor, which is often a thinly disguised cover for a put-
+#. down, but not with Bill. His really funny way of being was not at someone
+#. else’s expense. Bill laughed at the absurdity of life and found nothing too
+#. sacred for his lighthearted touch. It was all amusing—his work, the science
+#. of psychology, people, situations, or sex. Predictably, when people started
+#. taking themselves or a situation too seriously, he became an impish,
+#. irreverent jokester, as if to say, “Lighten up, everybody!”
+#: paragraph:5,sentence:1
+msgid "And aid us all, it did."
+msgstr "And aid us all, it did."
+
+#. Context: And aid us all, it did. Getting a handle on Bill’s humor moves you
+#. very close to his essence—it was one of his ways of loving. He was never
+#. malicious with humor, which is often a thinly disguised cover for a put-
+#. down, but not with Bill. His really funny way of being was not at someone
+#. else’s expense. Bill laughed at the absurdity of life and found nothing too
+#. sacred for his lighthearted touch. It was all amusing—his work, the science
+#. of psychology, people, situations, or sex. Predictably, when people started
+#. taking themselves or a situation too seriously, he became an impish,
+#. irreverent jokester, as if to say, “Lighten up, everybody!”
+#: paragraph:5,sentence:2
+msgid ""
+"Getting a handle on Bill’s humor moves you very close to his essence—it was "
+"one of his ways of loving."
+msgstr ""
+"Getting a handle on Bill’s humor moves you very close to his essence—it was "
+"one of his ways of loving."
+
+#. Context: And aid us all, it did. Getting a handle on Bill’s humor moves you
+#. very close to his essence—it was one of his ways of loving. He was never
+#. malicious with humor, which is often a thinly disguised cover for a put-
+#. down, but not with Bill. His really funny way of being was not at someone
+#. else’s expense. Bill laughed at the absurdity of life and found nothing too
+#. sacred for his lighthearted touch. It was all amusing—his work, the science
+#. of psychology, people, situations, or sex. Predictably, when people started
+#. taking themselves or a situation too seriously, he became an impish,
+#. irreverent jokester, as if to say, “Lighten up, everybody!”
+#: paragraph:5,sentence:3
+msgid ""
+"He was never malicious with humor, which is often a thinly disguised cover "
+"for a put-down, but not with Bill."
+msgstr ""
+"He was never malicious with humor, which is often a thinly disguised cover "
+"for a put-down, but not with Bill."
+
+#. Context: And aid us all, it did. Getting a handle on Bill’s humor moves you
+#. very close to his essence—it was one of his ways of loving. He was never
+#. malicious with humor, which is often a thinly disguised cover for a put-
+#. down, but not with Bill. His really funny way of being was not at someone
+#. else’s expense. Bill laughed at the absurdity of life and found nothing too
+#. sacred for his lighthearted touch. It was all amusing—his work, the science
+#. of psychology, people, situations, or sex. Predictably, when people started
+#. taking themselves or a situation too seriously, he became an impish,
+#. irreverent jokester, as if to say, “Lighten up, everybody!”
+#: paragraph:5,sentence:4
+msgid "His really funny way of being was not at someone else’s expense."
+msgstr "His really funny way of being was not at someone else’s expense."
+
+#. Context: And aid us all, it did. Getting a handle on Bill’s humor moves you
+#. very close to his essence—it was one of his ways of loving. He was never
+#. malicious with humor, which is often a thinly disguised cover for a put-
+#. down, but not with Bill. His really funny way of being was not at someone
+#. else’s expense. Bill laughed at the absurdity of life and found nothing too
+#. sacred for his lighthearted touch. It was all amusing—his work, the science
+#. of psychology, people, situations, or sex. Predictably, when people started
+#. taking themselves or a situation too seriously, he became an impish,
+#. irreverent jokester, as if to say, “Lighten up, everybody!”
+#: paragraph:5,sentence:5
+msgid ""
+"Bill laughed at the absurdity of life and found nothing too sacred for his "
+"lighthearted touch."
+msgstr ""
+"Bill laughed at the absurdity of life and found nothing too sacred for his "
+"lighthearted touch."
+
+#. Context: And aid us all, it did. Getting a handle on Bill’s humor moves you
+#. very close to his essence—it was one of his ways of loving. He was never
+#. malicious with humor, which is often a thinly disguised cover for a put-
+#. down, but not with Bill. His really funny way of being was not at someone
+#. else’s expense. Bill laughed at the absurdity of life and found nothing too
+#. sacred for his lighthearted touch. It was all amusing—his work, the science
+#. of psychology, people, situations, or sex. Predictably, when people started
+#. taking themselves or a situation too seriously, he became an impish,
+#. irreverent jokester, as if to say, “Lighten up, everybody!”
+#: paragraph:5,sentence:6
+msgid ""
+"It was all amusing—his work, the science of psychology, people, situations, "
+"or sex."
+msgstr ""
+"It was all amusing—his work, the science of psychology, people, situations, "
+"or sex."
+
+#. Context: And aid us all, it did. Getting a handle on Bill’s humor moves you
+#. very close to his essence—it was one of his ways of loving. He was never
+#. malicious with humor, which is often a thinly disguised cover for a put-
+#. down, but not with Bill. His really funny way of being was not at someone
+#. else’s expense. Bill laughed at the absurdity of life and found nothing too
+#. sacred for his lighthearted touch. It was all amusing—his work, the science
+#. of psychology, people, situations, or sex. Predictably, when people started
+#. taking themselves or a situation too seriously, he became an impish,
+#. irreverent jokester, as if to say, “Lighten up, everybody!”
+#: paragraph:5,sentence:7
+msgid ""
+"Predictably, when people started taking themselves or a situation too "
+"seriously, he became an impish, irreverent jokester, as if to say, “Lighten "
+"up, everybody!”"
+msgstr ""
+"Predictably, when people started taking themselves or a situation too "
+"seriously, he became an impish, irreverent jokester, as if to say, “Lighten "
+"up, everybody!”"
+
+#. Context: Happy to be alive in 1982
+#: paragraph:6,sentence:1
+msgid "Happy to be alive in 1982"
+msgstr "Happy to be alive in 1982"
+
+#. Context: Fast forwarding to the La Jolla era, Bill occasionally enjoyed the
+#. company of some lady friends there, although they were never actual
+#. romances. Jack Luckett recounted that sometimes, when someone from Tiburon
+#. would visit and one of those women were around, Bill would “hold and kiss
+#. her and act as if this was a real huge romance; he thought it was a great
+#. kick [to shock the visitor] because he had a little bit of a trickster in
+#. him.”[47] Jack’s wife Layle remembers a great story many of us can identify
+#. with, having been in similar situations with Bill:
+#: paragraph:7,sentence:1
+msgid ""
+"Fast forwarding to the La Jolla era, Bill occasionally enjoyed the company "
+"of some lady friends there, although they were never actual romances."
+msgstr ""
+"Fast forwarding to the La Jolla era, Bill occasionally enjoyed the company "
+"of some lady friends there, although they were never actual romances."
+
+#. Context: Fast forwarding to the La Jolla era, Bill occasionally enjoyed the
+#. company of some lady friends there, although they were never actual
+#. romances. Jack Luckett recounted that sometimes, when someone from Tiburon
+#. would visit and one of those women were around, Bill would “hold and kiss
+#. her and act as if this was a real huge romance; he thought it was a great
+#. kick [to shock the visitor] because he had a little bit of a trickster in
+#. him.”[47] Jack’s wife Layle remembers a great story many of us can identify
+#. with, having been in similar situations with Bill:
+#: paragraph:7,sentence:2
+msgid ""
+"Jack Luckett recounted that sometimes, when someone from Tiburon would visit"
+" and one of those women were around, Bill would “hold and kiss her and act "
+"as if this was a real huge romance; he thought it was a great kick [to shock"
+" the visitor] because he had a little bit of a trickster in him.”[47] Jack’s"
+" wife Layle remembers a great story many of us can identify with, having "
+"been in similar situations with Bill:"
+msgstr ""
+"Jack Luckett recounted that sometimes, when someone from Tiburon would visit"
+" and one of those women were around, Bill would “hold and kiss her and act "
+"as if this was a real huge romance; he thought it was a great kick [to shock"
+" the visitor] because he had a little bit of a trickster in him.”[47] Jack’s"
+" wife Layle remembers a great story many of us can identify with, having "
+"been in similar situations with Bill:"
+
+#. Context: I heard about a poetry reading way across San Diego on the far
+#. east side of town. We found the small, old frame house and entered to find
+#. a small room jammed with chairs and people. We found seats far from the
+#. aisle, a very bad sign for Billy in case escape was required. Also, we
+#. learned that the house had no back door—the back overhung a steep
+#. canyon—and that there was only one bathroom, but we persevered.
+#: paragraph:8,sentence:1
+msgid ""
+"I heard about a poetry reading way across San Diego on the far east side of "
+"town."
+msgstr ""
+"I heard about a poetry reading way across San Diego on the far east side of "
+"town."
+
+#. Context: I heard about a poetry reading way across San Diego on the far
+#. east side of town. We found the small, old frame house and entered to find
+#. a small room jammed with chairs and people. We found seats far from the
+#. aisle, a very bad sign for Billy in case escape was required. Also, we
+#. learned that the house had no back door—the back overhung a steep
+#. canyon—and that there was only one bathroom, but we persevered.
+#: paragraph:8,sentence:2
+msgid ""
+"We found the small, old frame house and entered to find a small room jammed "
+"with chairs and people."
+msgstr ""
+"We found the small, old frame house and entered to find a small room jammed "
+"with chairs and people."
+
+#. Context: I heard about a poetry reading way across San Diego on the far
+#. east side of town. We found the small, old frame house and entered to find
+#. a small room jammed with chairs and people. We found seats far from the
+#. aisle, a very bad sign for Billy in case escape was required. Also, we
+#. learned that the house had no back door—the back overhung a steep
+#. canyon—and that there was only one bathroom, but we persevered.
+#: paragraph:8,sentence:3
+msgid ""
+"We found seats far from the aisle, a very bad sign for Billy in case escape "
+"was required."
+msgstr ""
+"We found seats far from the aisle, a very bad sign for Billy in case escape "
+"was required."
+
+#. Context: I heard about a poetry reading way across San Diego on the far
+#. east side of town. We found the small, old frame house and entered to find
+#. a small room jammed with chairs and people. We found seats far from the
+#. aisle, a very bad sign for Billy in case escape was required. Also, we
+#. learned that the house had no back door—the back overhung a steep
+#. canyon—and that there was only one bathroom, but we persevered.
+#: paragraph:8,sentence:4
+msgid ""
+"Also, we learned that the house had no back door—the back overhung a steep "
+"canyon—and that there was only one bathroom, but we persevered."
+msgstr ""
+"Also, we learned that the house had no back door—the back overhung a steep "
+"canyon—and that there was only one bathroom, but we persevered."
+
+#. Context: The first reader, a man, started out reading something terminally
+#. boring in airy-fairy Victorian style with full expression and an almost
+#. nausea-producing rhythmic beat, sway, and facial expression. Soon, Billy
+#. and Jack found this hilarious, but couldn’t escape! We didn’t dare look at
+#. each other for fear of setting off explosive laughter! They tried not to be
+#. rude, but they were holding back so hard that little snorts were escaping
+#. their noses and mouths. Finally both—on either side of me—had their faces
+#. in their laps shaking. I was bored, but oblivious, so thought they were
+#. emoting. Naturally, this event went on for about ninety hours until we were
+#. finally released. Imagine how fast we got out of there, never to return.
+#. Jack can still get almost hysterical remembering this.[48]
+#: paragraph:9,sentence:1
+msgid ""
+"The first reader, a man, started out reading something terminally boring in "
+"airy-fairy Victorian style with full expression and an almost nausea-"
+"producing rhythmic beat, sway, and facial expression."
+msgstr ""
+"The first reader, a man, started out reading something terminally boring in "
+"airy-fairy Victorian style with full expression and an almost nausea-"
+"producing rhythmic beat, sway, and facial expression."
+
+#. Context: The first reader, a man, started out reading something terminally
+#. boring in airy-fairy Victorian style with full expression and an almost
+#. nausea-producing rhythmic beat, sway, and facial expression. Soon, Billy
+#. and Jack found this hilarious, but couldn’t escape! We didn’t dare look at
+#. each other for fear of setting off explosive laughter! They tried not to be
+#. rude, but they were holding back so hard that little snorts were escaping
+#. their noses and mouths. Finally both—on either side of me—had their faces
+#. in their laps shaking. I was bored, but oblivious, so thought they were
+#. emoting. Naturally, this event went on for about ninety hours until we were
+#. finally released. Imagine how fast we got out of there, never to return.
+#. Jack can still get almost hysterical remembering this.[48]
+#: paragraph:9,sentence:2
+msgid "Soon, Billy and Jack found this hilarious, but couldn’t escape!"
+msgstr "Soon, Billy and Jack found this hilarious, but couldn’t escape!"
+
+#. Context: The first reader, a man, started out reading something terminally
+#. boring in airy-fairy Victorian style with full expression and an almost
+#. nausea-producing rhythmic beat, sway, and facial expression. Soon, Billy
+#. and Jack found this hilarious, but couldn’t escape! We didn’t dare look at
+#. each other for fear of setting off explosive laughter! They tried not to be
+#. rude, but they were holding back so hard that little snorts were escaping
+#. their noses and mouths. Finally both—on either side of me—had their faces
+#. in their laps shaking. I was bored, but oblivious, so thought they were
+#. emoting. Naturally, this event went on for about ninety hours until we were
+#. finally released. Imagine how fast we got out of there, never to return.
+#. Jack can still get almost hysterical remembering this.[48]
+#: paragraph:9,sentence:3
+msgid ""
+"We didn’t dare look at each other for fear of setting off explosive "
+"laughter!"
+msgstr ""
+"We didn’t dare look at each other for fear of setting off explosive "
+"laughter!"
+
+#. Context: The first reader, a man, started out reading something terminally
+#. boring in airy-fairy Victorian style with full expression and an almost
+#. nausea-producing rhythmic beat, sway, and facial expression. Soon, Billy
+#. and Jack found this hilarious, but couldn’t escape! We didn’t dare look at
+#. each other for fear of setting off explosive laughter! They tried not to be
+#. rude, but they were holding back so hard that little snorts were escaping
+#. their noses and mouths. Finally both—on either side of me—had their faces
+#. in their laps shaking. I was bored, but oblivious, so thought they were
+#. emoting. Naturally, this event went on for about ninety hours until we were
+#. finally released. Imagine how fast we got out of there, never to return.
+#. Jack can still get almost hysterical remembering this.[48]
+#: paragraph:9,sentence:4
+msgid ""
+"They tried not to be rude, but they were holding back so hard that little "
+"snorts were escaping their noses and mouths."
+msgstr ""
+"They tried not to be rude, but they were holding back so hard that little "
+"snorts were escaping their noses and mouths."
+
+#. Context: The first reader, a man, started out reading something terminally
+#. boring in airy-fairy Victorian style with full expression and an almost
+#. nausea-producing rhythmic beat, sway, and facial expression. Soon, Billy
+#. and Jack found this hilarious, but couldn’t escape! We didn’t dare look at
+#. each other for fear of setting off explosive laughter! They tried not to be
+#. rude, but they were holding back so hard that little snorts were escaping
+#. their noses and mouths. Finally both—on either side of me—had their faces
+#. in their laps shaking. I was bored, but oblivious, so thought they were
+#. emoting. Naturally, this event went on for about ninety hours until we were
+#. finally released. Imagine how fast we got out of there, never to return.
+#. Jack can still get almost hysterical remembering this.[48]
+#: paragraph:9,sentence:5
+msgid ""
+"Finally both—on either side of me—had their faces in their laps shaking."
+msgstr ""
+"Finally both—on either side of me—had their faces in their laps shaking."
+
+#. Context: The first reader, a man, started out reading something terminally
+#. boring in airy-fairy Victorian style with full expression and an almost
+#. nausea-producing rhythmic beat, sway, and facial expression. Soon, Billy
+#. and Jack found this hilarious, but couldn’t escape! We didn’t dare look at
+#. each other for fear of setting off explosive laughter! They tried not to be
+#. rude, but they were holding back so hard that little snorts were escaping
+#. their noses and mouths. Finally both—on either side of me—had their faces
+#. in their laps shaking. I was bored, but oblivious, so thought they were
+#. emoting. Naturally, this event went on for about ninety hours until we were
+#. finally released. Imagine how fast we got out of there, never to return.
+#. Jack can still get almost hysterical remembering this.[48]
+#: paragraph:9,sentence:6
+msgid "I was bored, but oblivious, so thought they were emoting."
+msgstr "I was bored, but oblivious, so thought they were emoting."
+
+#. Context: The first reader, a man, started out reading something terminally
+#. boring in airy-fairy Victorian style with full expression and an almost
+#. nausea-producing rhythmic beat, sway, and facial expression. Soon, Billy
+#. and Jack found this hilarious, but couldn’t escape! We didn’t dare look at
+#. each other for fear of setting off explosive laughter! They tried not to be
+#. rude, but they were holding back so hard that little snorts were escaping
+#. their noses and mouths. Finally both—on either side of me—had their faces
+#. in their laps shaking. I was bored, but oblivious, so thought they were
+#. emoting. Naturally, this event went on for about ninety hours until we were
+#. finally released. Imagine how fast we got out of there, never to return.
+#. Jack can still get almost hysterical remembering this.[48]
+#: paragraph:9,sentence:7
+msgid ""
+"Naturally, this event went on for about ninety hours until we were finally "
+"released."
+msgstr ""
+"Naturally, this event went on for about ninety hours until we were finally "
+"released."
+
+#. Context: The first reader, a man, started out reading something terminally
+#. boring in airy-fairy Victorian style with full expression and an almost
+#. nausea-producing rhythmic beat, sway, and facial expression. Soon, Billy
+#. and Jack found this hilarious, but couldn’t escape! We didn’t dare look at
+#. each other for fear of setting off explosive laughter! They tried not to be
+#. rude, but they were holding back so hard that little snorts were escaping
+#. their noses and mouths. Finally both—on either side of me—had their faces
+#. in their laps shaking. I was bored, but oblivious, so thought they were
+#. emoting. Naturally, this event went on for about ninety hours until we were
+#. finally released. Imagine how fast we got out of there, never to return.
+#. Jack can still get almost hysterical remembering this.[48]
+#: paragraph:9,sentence:8
+msgid "Imagine how fast we got out of there, never to return."
+msgstr "Imagine how fast we got out of there, never to return."
+
+#. Context: The first reader, a man, started out reading something terminally
+#. boring in airy-fairy Victorian style with full expression and an almost
+#. nausea-producing rhythmic beat, sway, and facial expression. Soon, Billy
+#. and Jack found this hilarious, but couldn’t escape! We didn’t dare look at
+#. each other for fear of setting off explosive laughter! They tried not to be
+#. rude, but they were holding back so hard that little snorts were escaping
+#. their noses and mouths. Finally both—on either side of me—had their faces
+#. in their laps shaking. I was bored, but oblivious, so thought they were
+#. emoting. Naturally, this event went on for about ninety hours until we were
+#. finally released. Imagine how fast we got out of there, never to return.
+#. Jack can still get almost hysterical remembering this.[48]
+#: paragraph:9,sentence:9
+msgid "Jack can still get almost hysterical remembering this.[48]"
+msgstr "Jack can still get almost hysterical remembering this.[48]"
+
+#. Context: Hugh Prather remembers,
+#: paragraph:10,sentence:1
+msgid "Hugh Prather remembers,"
+msgstr "Hugh Prather remembers,"
+
+#. Context: Well, I can tell you, everything about him was this deep
+#. connection with God combined with his advice not to take it all too
+#. seriously—one of the primary themes of Bill’s life and the great gift he
+#. gave the world. Every conversation I had with him had an effect on me
+#. because I was taking the Course very seriously and you just couldn’t do
+#. that with Bill. I wish everyone could have felt his very lighthearted
+#. approach to the Course. As a matter of fact, I think one of the reasons he
+#. kept telling these stories, pointing out the absurdity of everything that
+#. had gone on when the Course came, whether done consciously or not, was for
+#. the effect it had of lightening me up on the whole subject. Additionally,
+#. he just thought it infinitely amusing that the CIA had financed so much of
+#. their work, and he always joked about the typewriter—the CIA-funded
+#. typewriter that typed ACIM.[49]
+#: paragraph:11,sentence:1
+msgid ""
+"Well, I can tell you, everything about him was this deep connection with God"
+" combined with his advice not to take it all too seriously—one of the "
+"primary themes of Bill’s life and the great gift he gave the world."
+msgstr ""
+"Well, I can tell you, everything about him was this deep connection with God"
+" combined with his advice not to take it all too seriously—one of the "
+"primary themes of Bill’s life and the great gift he gave the world."
+
+#. Context: Well, I can tell you, everything about him was this deep
+#. connection with God combined with his advice not to take it all too
+#. seriously—one of the primary themes of Bill’s life and the great gift he
+#. gave the world. Every conversation I had with him had an effect on me
+#. because I was taking the Course very seriously and you just couldn’t do
+#. that with Bill. I wish everyone could have felt his very lighthearted
+#. approach to the Course. As a matter of fact, I think one of the reasons he
+#. kept telling these stories, pointing out the absurdity of everything that
+#. had gone on when the Course came, whether done consciously or not, was for
+#. the effect it had of lightening me up on the whole subject. Additionally,
+#. he just thought it infinitely amusing that the CIA had financed so much of
+#. their work, and he always joked about the typewriter—the CIA-funded
+#. typewriter that typed ACIM.[49]
+#: paragraph:11,sentence:2
+msgid ""
+"Every conversation I had with him had an effect on me because I was taking "
+"the Course very seriously and you just couldn’t do that with Bill."
+msgstr ""
+"Every conversation I had with him had an effect on me because I was taking "
+"the Course very seriously and you just couldn’t do that with Bill."
+
+#. Context: Well, I can tell you, everything about him was this deep
+#. connection with God combined with his advice not to take it all too
+#. seriously—one of the primary themes of Bill’s life and the great gift he
+#. gave the world. Every conversation I had with him had an effect on me
+#. because I was taking the Course very seriously and you just couldn’t do
+#. that with Bill. I wish everyone could have felt his very lighthearted
+#. approach to the Course. As a matter of fact, I think one of the reasons he
+#. kept telling these stories, pointing out the absurdity of everything that
+#. had gone on when the Course came, whether done consciously or not, was for
+#. the effect it had of lightening me up on the whole subject. Additionally,
+#. he just thought it infinitely amusing that the CIA had financed so much of
+#. their work, and he always joked about the typewriter—the CIA-funded
+#. typewriter that typed ACIM.[49]
+#: paragraph:11,sentence:3
+msgid ""
+"I wish everyone could have felt his very lighthearted approach to the "
+"Course."
+msgstr ""
+"I wish everyone could have felt his very lighthearted approach to the "
+"Course."
+
+#. Context: Well, I can tell you, everything about him was this deep
+#. connection with God combined with his advice not to take it all too
+#. seriously—one of the primary themes of Bill’s life and the great gift he
+#. gave the world. Every conversation I had with him had an effect on me
+#. because I was taking the Course very seriously and you just couldn’t do
+#. that with Bill. I wish everyone could have felt his very lighthearted
+#. approach to the Course. As a matter of fact, I think one of the reasons he
+#. kept telling these stories, pointing out the absurdity of everything that
+#. had gone on when the Course came, whether done consciously or not, was for
+#. the effect it had of lightening me up on the whole subject. Additionally,
+#. he just thought it infinitely amusing that the CIA had financed so much of
+#. their work, and he always joked about the typewriter—the CIA-funded
+#. typewriter that typed ACIM.[49]
+#: paragraph:11,sentence:4
+msgid ""
+"As a matter of fact, I think one of the reasons he kept telling these "
+"stories, pointing out the absurdity of everything that had gone on when the "
+"Course came, whether done consciously or not, was for the effect it had of "
+"lightening me up on the whole subject."
+msgstr ""
+"As a matter of fact, I think one of the reasons he kept telling these "
+"stories, pointing out the absurdity of everything that had gone on when the "
+"Course came, whether done consciously or not, was for the effect it had of "
+"lightening me up on the whole subject."
+
+#. Context: Well, I can tell you, everything about him was this deep
+#. connection with God combined with his advice not to take it all too
+#. seriously—one of the primary themes of Bill’s life and the great gift he
+#. gave the world. Every conversation I had with him had an effect on me
+#. because I was taking the Course very seriously and you just couldn’t do
+#. that with Bill. I wish everyone could have felt his very lighthearted
+#. approach to the Course. As a matter of fact, I think one of the reasons he
+#. kept telling these stories, pointing out the absurdity of everything that
+#. had gone on when the Course came, whether done consciously or not, was for
+#. the effect it had of lightening me up on the whole subject. Additionally,
+#. he just thought it infinitely amusing that the CIA had financed so much of
+#. their work, and he always joked about the typewriter—the CIA-funded
+#. typewriter that typed ACIM.[49]
+#: paragraph:11,sentence:5
+msgid ""
+"Additionally, he just thought it infinitely amusing that the CIA had "
+"financed so much of their work, and he always joked about the typewriter—the"
+" CIA-funded typewriter that typed ACIM.[49]"
+msgstr ""
+"Additionally, he just thought it infinitely amusing that the CIA had "
+"financed so much of their work, and he always joked about the typewriter—the"
+" CIA-funded typewriter that typed ACIM.[49]"
+
+#. Context: Incidentally, the CIA never orchestrated the production of the
+#. Course in any way. There is some misleading speculation to that effect on
+#. the Internet, but anyone who knew either Helen or Bill or has the slightest
+#. knowledge of the material would find that patently absurd. This profound
+#. and transformative work could not possibly have been faked or planned by
+#. even the best of intellects, no matter what the purpose. And for those who
+#. knew Helen, the notion that she could be coerced or manipulated into doing
+#. something she didn’t want to do is also ridiculous. When she said no, that
+#. was it.
+#: paragraph:12,sentence:1
+msgid ""
+"Incidentally, the CIA never orchestrated the production of the Course in any"
+" way."
+msgstr ""
+"Incidentally, the CIA never orchestrated the production of the Course in any"
+" way."
+
+#. Context: Incidentally, the CIA never orchestrated the production of the
+#. Course in any way. There is some misleading speculation to that effect on
+#. the Internet, but anyone who knew either Helen or Bill or has the slightest
+#. knowledge of the material would find that patently absurd. This profound
+#. and transformative work could not possibly have been faked or planned by
+#. even the best of intellects, no matter what the purpose. And for those who
+#. knew Helen, the notion that she could be coerced or manipulated into doing
+#. something she didn’t want to do is also ridiculous. When she said no, that
+#. was it.
+#: paragraph:12,sentence:2
+msgid ""
+"There is some misleading speculation to that effect on the Internet, but "
+"anyone who knew either Helen or Bill or has the slightest knowledge of the "
+"material would find that patently absurd."
+msgstr ""
+"There is some misleading speculation to that effect on the Internet, but "
+"anyone who knew either Helen or Bill or has the slightest knowledge of the "
+"material would find that patently absurd."
+
+#. Context: Incidentally, the CIA never orchestrated the production of the
+#. Course in any way. There is some misleading speculation to that effect on
+#. the Internet, but anyone who knew either Helen or Bill or has the slightest
+#. knowledge of the material would find that patently absurd. This profound
+#. and transformative work could not possibly have been faked or planned by
+#. even the best of intellects, no matter what the purpose. And for those who
+#. knew Helen, the notion that she could be coerced or manipulated into doing
+#. something she didn’t want to do is also ridiculous. When she said no, that
+#. was it.
+#: paragraph:12,sentence:3
+msgid ""
+"This profound and transformative work could not possibly have been faked or "
+"planned by even the best of intellects, no matter what the purpose."
+msgstr ""
+"This profound and transformative work could not possibly have been faked or "
+"planned by even the best of intellects, no matter what the purpose."
+
+#. Context: Incidentally, the CIA never orchestrated the production of the
+#. Course in any way. There is some misleading speculation to that effect on
+#. the Internet, but anyone who knew either Helen or Bill or has the slightest
+#. knowledge of the material would find that patently absurd. This profound
+#. and transformative work could not possibly have been faked or planned by
+#. even the best of intellects, no matter what the purpose. And for those who
+#. knew Helen, the notion that she could be coerced or manipulated into doing
+#. something she didn’t want to do is also ridiculous. When she said no, that
+#. was it.
+#: paragraph:12,sentence:4
+msgid ""
+"And for those who knew Helen, the notion that she could be coerced or "
+"manipulated into doing something she didn’t want to do is also ridiculous."
+msgstr ""
+"And for those who knew Helen, the notion that she could be coerced or "
+"manipulated into doing something she didn’t want to do is also ridiculous."
+
+#. Context: Incidentally, the CIA never orchestrated the production of the
+#. Course in any way. There is some misleading speculation to that effect on
+#. the Internet, but anyone who knew either Helen or Bill or has the slightest
+#. knowledge of the material would find that patently absurd. This profound
+#. and transformative work could not possibly have been faked or planned by
+#. even the best of intellects, no matter what the purpose. And for those who
+#. knew Helen, the notion that she could be coerced or manipulated into doing
+#. something she didn’t want to do is also ridiculous. When she said no, that
+#. was it.
+#: paragraph:12,sentence:5
+msgid "When she said no, that was it."
+msgstr "When she said no, that was it."
+
+#. Context: Among his stories from Columbia, Bill delighted to talk about
+#. being co-editor of the Journal of Abnormal Psychology from 1965–1971, the
+#. years of Course dictation. He periodically rejected articles that were “not
+#. sufficiently scientific,” and, of course, he found this situation
+#. ridiculous and very humorous.
+#: paragraph:13,sentence:1
+msgid ""
+"Among his stories from Columbia, Bill delighted to talk about being co-"
+"editor of the Journal of Abnormal Psychology from 1965–1971, the years of "
+"Course dictation."
+msgstr ""
+"Among his stories from Columbia, Bill delighted to talk about being co-"
+"editor of the Journal of Abnormal Psychology from 1965–1971, the years of "
+"Course dictation."
+
+#. Context: Among his stories from Columbia, Bill delighted to talk about
+#. being co-editor of the Journal of Abnormal Psychology from 1965–1971, the
+#. years of Course dictation. He periodically rejected articles that were “not
+#. sufficiently scientific,” and, of course, he found this situation
+#. ridiculous and very humorous.
+#: paragraph:13,sentence:2
+msgid ""
+"He periodically rejected articles that were “not sufficiently scientific,” "
+"and, of course, he found this situation ridiculous and very humorous."
+msgstr ""
+"He periodically rejected articles that were “not sufficiently scientific,” "
+"and, of course, he found this situation ridiculous and very humorous."
+
+#. Context: In the early 1980s, a woman who was writing a spiritually based
+#. sex manual, which she believed was being dictated by Jesus, started
+#. corresponding with Bill to inform him about messages she was getting from
+#. “Jesus.” Being a bit nonplussed and not knowing quite how to respond, he
+#. finally wrote her back after receiving several letters and said that he,
+#. too, had talked to Jesus, who told him they should not communicate for five
+#. years! Once again, this particular use of humor was not to denigrate the
+#. woman but to infuse a greater sense of lightheartedness into the situation.
+#. Most of us take everything so seriously, but this was quintessential Bill.
+#: paragraph:14,sentence:1
+msgid ""
+"In the early 1980s, a woman who was writing a spiritually based sex manual, "
+"which she believed was being dictated by Jesus, started corresponding with "
+"Bill to inform him about messages she was getting from “Jesus.” Being a bit "
+"nonplussed and not knowing quite how to respond, he finally wrote her back "
+"after receiving several letters and said that he, too, had talked to Jesus, "
+"who told him they should not communicate for five years!"
+msgstr ""
+"In the early 1980s, a woman who was writing a spiritually based sex manual, "
+"which she believed was being dictated by Jesus, started corresponding with "
+"Bill to inform him about messages she was getting from “Jesus.” Being a bit "
+"nonplussed and not knowing quite how to respond, he finally wrote her back "
+"after receiving several letters and said that he, too, had talked to Jesus, "
+"who told him they should not communicate for five years!"
+
+#. Context: In the early 1980s, a woman who was writing a spiritually based
+#. sex manual, which she believed was being dictated by Jesus, started
+#. corresponding with Bill to inform him about messages she was getting from
+#. “Jesus.” Being a bit nonplussed and not knowing quite how to respond, he
+#. finally wrote her back after receiving several letters and said that he,
+#. too, had talked to Jesus, who told him they should not communicate for five
+#. years! Once again, this particular use of humor was not to denigrate the
+#. woman but to infuse a greater sense of lightheartedness into the situation.
+#. Most of us take everything so seriously, but this was quintessential Bill.
+#: paragraph:14,sentence:2
+msgid ""
+"Once again, this particular use of humor was not to denigrate the woman but "
+"to infuse a greater sense of lightheartedness into the situation."
+msgstr ""
+"Once again, this particular use of humor was not to denigrate the woman but "
+"to infuse a greater sense of lightheartedness into the situation."
+
+#. Context: In the early 1980s, a woman who was writing a spiritually based
+#. sex manual, which she believed was being dictated by Jesus, started
+#. corresponding with Bill to inform him about messages she was getting from
+#. “Jesus.” Being a bit nonplussed and not knowing quite how to respond, he
+#. finally wrote her back after receiving several letters and said that he,
+#. too, had talked to Jesus, who told him they should not communicate for five
+#. years! Once again, this particular use of humor was not to denigrate the
+#. woman but to infuse a greater sense of lightheartedness into the situation.
+#. Most of us take everything so seriously, but this was quintessential Bill.
+#: paragraph:14,sentence:3
+msgid ""
+"Most of us take everything so seriously, but this was quintessential Bill."
+msgstr ""
+"Most of us take everything so seriously, but this was quintessential Bill."
+
+#. Context: Whit Whitson remembers,
+#: paragraph:15,sentence:1
+msgid "Whit Whitson remembers,"
+msgstr "Whit Whitson remembers,"
+
+#. Context: I often told my children when they were growing up, as a first
+#. principle you really should be more than you seem. And that to me was Bill
+#. in spades. On the surface, he was a good-looking guy and with just a little
+#. exposure one found there was something in Bill that was gentle, that was
+#. tolerant; his punning, his propensity to humor, the light touch were very
+#. important to me. I just enjoyed him, especially the laughter—we laughed a
+#. lot.[50]
+#: paragraph:16,sentence:1
+msgid ""
+"I often told my children when they were growing up, as a first principle you"
+" really should be more than you seem."
+msgstr ""
+"I often told my children when they were growing up, as a first principle you"
+" really should be more than you seem."
+
+#. Context: I often told my children when they were growing up, as a first
+#. principle you really should be more than you seem. And that to me was Bill
+#. in spades. On the surface, he was a good-looking guy and with just a little
+#. exposure one found there was something in Bill that was gentle, that was
+#. tolerant; his punning, his propensity to humor, the light touch were very
+#. important to me. I just enjoyed him, especially the laughter—we laughed a
+#. lot.[50]
+#: paragraph:16,sentence:2
+msgid "And that to me was Bill in spades."
+msgstr "And that to me was Bill in spades."
+
+#. Context: I often told my children when they were growing up, as a first
+#. principle you really should be more than you seem. And that to me was Bill
+#. in spades. On the surface, he was a good-looking guy and with just a little
+#. exposure one found there was something in Bill that was gentle, that was
+#. tolerant; his punning, his propensity to humor, the light touch were very
+#. important to me. I just enjoyed him, especially the laughter—we laughed a
+#. lot.[50]
+#: paragraph:16,sentence:3
+msgid ""
+"On the surface, he was a good-looking guy and with just a little exposure "
+"one found there was something in Bill that was gentle, that was tolerant; "
+"his punning, his propensity to humor, the light touch were very important to"
+" me."
+msgstr ""
+"On the surface, he was a good-looking guy and with just a little exposure "
+"one found there was something in Bill that was gentle, that was tolerant; "
+"his punning, his propensity to humor, the light touch were very important to"
+" me."
+
+#. Context: I often told my children when they were growing up, as a first
+#. principle you really should be more than you seem. And that to me was Bill
+#. in spades. On the surface, he was a good-looking guy and with just a little
+#. exposure one found there was something in Bill that was gentle, that was
+#. tolerant; his punning, his propensity to humor, the light touch were very
+#. important to me. I just enjoyed him, especially the laughter—we laughed a
+#. lot.[50]
+#: paragraph:16,sentence:4
+msgid "I just enjoyed him, especially the laughter—we laughed a lot.[50]"
+msgstr "I just enjoyed him, especially the laughter—we laughed a lot.[50]"
+
+#. Context: During the mid 1980s, the Unity Church in Hawaii sponsored a large
+#. ACIM conference and invited those of us from the early Course days to be
+#. presenters. By this time, it’s obvious that being besieged by adoring fans
+#. was not Bill’s favorite situation. One evening, the church treated the
+#. entire group of participants to a cruise lasting several hours. Bill’s
+#. major goal quickly became to find someplace private. The Prathers, Bill, my
+#. husband Bob, and I found a little bench up near the bow away from the
+#. festivities. As we sat down to chat with no one around, Bill said, “It’s so
+#. good not to be one with my brother, with whom I am one!”
+#: paragraph:17,sentence:1
+msgid ""
+"During the mid 1980s, the Unity Church in Hawaii sponsored a large ACIM "
+"conference and invited those of us from the early Course days to be "
+"presenters."
+msgstr ""
+"During the mid 1980s, the Unity Church in Hawaii sponsored a large ACIM "
+"conference and invited those of us from the early Course days to be "
+"presenters."
+
+#. Context: During the mid 1980s, the Unity Church in Hawaii sponsored a large
+#. ACIM conference and invited those of us from the early Course days to be
+#. presenters. By this time, it’s obvious that being besieged by adoring fans
+#. was not Bill’s favorite situation. One evening, the church treated the
+#. entire group of participants to a cruise lasting several hours. Bill’s
+#. major goal quickly became to find someplace private. The Prathers, Bill, my
+#. husband Bob, and I found a little bench up near the bow away from the
+#. festivities. As we sat down to chat with no one around, Bill said, “It’s so
+#. good not to be one with my brother, with whom I am one!”
+#: paragraph:17,sentence:2
+msgid ""
+"By this time, it’s obvious that being besieged by adoring fans was not "
+"Bill’s favorite situation."
+msgstr ""
+"By this time, it’s obvious that being besieged by adoring fans was not "
+"Bill’s favorite situation."
+
+#. Context: During the mid 1980s, the Unity Church in Hawaii sponsored a large
+#. ACIM conference and invited those of us from the early Course days to be
+#. presenters. By this time, it’s obvious that being besieged by adoring fans
+#. was not Bill’s favorite situation. One evening, the church treated the
+#. entire group of participants to a cruise lasting several hours. Bill’s
+#. major goal quickly became to find someplace private. The Prathers, Bill, my
+#. husband Bob, and I found a little bench up near the bow away from the
+#. festivities. As we sat down to chat with no one around, Bill said, “It’s so
+#. good not to be one with my brother, with whom I am one!”
+#: paragraph:17,sentence:3
+msgid ""
+"One evening, the church treated the entire group of participants to a cruise"
+" lasting several hours."
+msgstr ""
+"One evening, the church treated the entire group of participants to a cruise"
+" lasting several hours."
+
+#. Context: During the mid 1980s, the Unity Church in Hawaii sponsored a large
+#. ACIM conference and invited those of us from the early Course days to be
+#. presenters. By this time, it’s obvious that being besieged by adoring fans
+#. was not Bill’s favorite situation. One evening, the church treated the
+#. entire group of participants to a cruise lasting several hours. Bill’s
+#. major goal quickly became to find someplace private. The Prathers, Bill, my
+#. husband Bob, and I found a little bench up near the bow away from the
+#. festivities. As we sat down to chat with no one around, Bill said, “It’s so
+#. good not to be one with my brother, with whom I am one!”
+#: paragraph:17,sentence:4
+msgid "Bill’s major goal quickly became to find someplace private."
+msgstr "Bill’s major goal quickly became to find someplace private."
+
+#. Context: During the mid 1980s, the Unity Church in Hawaii sponsored a large
+#. ACIM conference and invited those of us from the early Course days to be
+#. presenters. By this time, it’s obvious that being besieged by adoring fans
+#. was not Bill’s favorite situation. One evening, the church treated the
+#. entire group of participants to a cruise lasting several hours. Bill’s
+#. major goal quickly became to find someplace private. The Prathers, Bill, my
+#. husband Bob, and I found a little bench up near the bow away from the
+#. festivities. As we sat down to chat with no one around, Bill said, “It’s so
+#. good not to be one with my brother, with whom I am one!”
+#: paragraph:17,sentence:5
+msgid ""
+"The Prathers, Bill, my husband Bob, and I found a little bench up near the "
+"bow away from the festivities."
+msgstr ""
+"The Prathers, Bill, my husband Bob, and I found a little bench up near the "
+"bow away from the festivities."
+
+#. Context: During the mid 1980s, the Unity Church in Hawaii sponsored a large
+#. ACIM conference and invited those of us from the early Course days to be
+#. presenters. By this time, it’s obvious that being besieged by adoring fans
+#. was not Bill’s favorite situation. One evening, the church treated the
+#. entire group of participants to a cruise lasting several hours. Bill’s
+#. major goal quickly became to find someplace private. The Prathers, Bill, my
+#. husband Bob, and I found a little bench up near the bow away from the
+#. festivities. As we sat down to chat with no one around, Bill said, “It’s so
+#. good not to be one with my brother, with whom I am one!”
+#: paragraph:17,sentence:6
+msgid ""
+"As we sat down to chat with no one around, Bill said, “It’s so good not to "
+"be one with my brother, with whom I am one!”"
+msgstr ""
+"As we sat down to chat with no one around, Bill said, “It’s so good not to "
+"be one with my brother, with whom I am one!”"
+
+#. Context: ACIM was dictated during the cold war era with the Soviets, and
+#. “brinksmanship” was a word often used then. Bill used to refer to
+#. practicing the Course as “celestial brinksmanship.” After all, it asks that
+#. we take on faith a very different way of living, and it seemed to him that
+#. he was plunging into the unknown, not knowing exactly what experiences he
+#. might be precipitating. Humor enabled him to “take the plunge” more
+#. gracefully. He was aware of his human frailties but was able to see through
+#. and not invest in them; he advised all who would listen to do the same, to
+#. laugh at their own judgments. As important as ACIM was for him, and as
+#. dedicated he was to practicing, he still could witness the entire project
+#. from a distance and find it all amusing. He closed many a conversation with
+#. a smile, saying, “I know it’s hopeless, just not serious.”
+#: paragraph:18,sentence:1
+msgid ""
+"ACIM was dictated during the cold war era with the Soviets, and "
+"“brinksmanship” was a word often used then."
+msgstr ""
+"ACIM was dictated during the cold war era with the Soviets, and "
+"“brinksmanship” was a word often used then."
+
+#. Context: ACIM was dictated during the cold war era with the Soviets, and
+#. “brinksmanship” was a word often used then. Bill used to refer to
+#. practicing the Course as “celestial brinksmanship.” After all, it asks that
+#. we take on faith a very different way of living, and it seemed to him that
+#. he was plunging into the unknown, not knowing exactly what experiences he
+#. might be precipitating. Humor enabled him to “take the plunge” more
+#. gracefully. He was aware of his human frailties but was able to see through
+#. and not invest in them; he advised all who would listen to do the same, to
+#. laugh at their own judgments. As important as ACIM was for him, and as
+#. dedicated he was to practicing, he still could witness the entire project
+#. from a distance and find it all amusing. He closed many a conversation with
+#. a smile, saying, “I know it’s hopeless, just not serious.”
+#: paragraph:18,sentence:2
+msgid ""
+"Bill used to refer to practicing the Course as “celestial brinksmanship.” "
+"After all, it asks that we take on faith a very different way of living, and"
+" it seemed to him that he was plunging into the unknown, not knowing exactly"
+" what experiences he might be precipitating."
+msgstr ""
+"Bill used to refer to practicing the Course as “celestial brinksmanship.” "
+"After all, it asks that we take on faith a very different way of living, and"
+" it seemed to him that he was plunging into the unknown, not knowing exactly"
+" what experiences he might be precipitating."
+
+#. Context: ACIM was dictated during the cold war era with the Soviets, and
+#. “brinksmanship” was a word often used then. Bill used to refer to
+#. practicing the Course as “celestial brinksmanship.” After all, it asks that
+#. we take on faith a very different way of living, and it seemed to him that
+#. he was plunging into the unknown, not knowing exactly what experiences he
+#. might be precipitating. Humor enabled him to “take the plunge” more
+#. gracefully. He was aware of his human frailties but was able to see through
+#. and not invest in them; he advised all who would listen to do the same, to
+#. laugh at their own judgments. As important as ACIM was for him, and as
+#. dedicated he was to practicing, he still could witness the entire project
+#. from a distance and find it all amusing. He closed many a conversation with
+#. a smile, saying, “I know it’s hopeless, just not serious.”
+#: paragraph:18,sentence:3
+msgid "Humor enabled him to “take the plunge” more gracefully."
+msgstr "Humor enabled him to “take the plunge” more gracefully."
+
+#. Context: ACIM was dictated during the cold war era with the Soviets, and
+#. “brinksmanship” was a word often used then. Bill used to refer to
+#. practicing the Course as “celestial brinksmanship.” After all, it asks that
+#. we take on faith a very different way of living, and it seemed to him that
+#. he was plunging into the unknown, not knowing exactly what experiences he
+#. might be precipitating. Humor enabled him to “take the plunge” more
+#. gracefully. He was aware of his human frailties but was able to see through
+#. and not invest in them; he advised all who would listen to do the same, to
+#. laugh at their own judgments. As important as ACIM was for him, and as
+#. dedicated he was to practicing, he still could witness the entire project
+#. from a distance and find it all amusing. He closed many a conversation with
+#. a smile, saying, “I know it’s hopeless, just not serious.”
+#: paragraph:18,sentence:4
+msgid ""
+"He was aware of his human frailties but was able to see through and not "
+"invest in them; he advised all who would listen to do the same, to laugh at "
+"their own judgments."
+msgstr ""
+"He was aware of his human frailties but was able to see through and not "
+"invest in them; he advised all who would listen to do the same, to laugh at "
+"their own judgments."
+
+#. Context: ACIM was dictated during the cold war era with the Soviets, and
+#. “brinksmanship” was a word often used then. Bill used to refer to
+#. practicing the Course as “celestial brinksmanship.” After all, it asks that
+#. we take on faith a very different way of living, and it seemed to him that
+#. he was plunging into the unknown, not knowing exactly what experiences he
+#. might be precipitating. Humor enabled him to “take the plunge” more
+#. gracefully. He was aware of his human frailties but was able to see through
+#. and not invest in them; he advised all who would listen to do the same, to
+#. laugh at their own judgments. As important as ACIM was for him, and as
+#. dedicated he was to practicing, he still could witness the entire project
+#. from a distance and find it all amusing. He closed many a conversation with
+#. a smile, saying, “I know it’s hopeless, just not serious.”
+#: paragraph:18,sentence:5
+msgid ""
+"As important as ACIM was for him, and as dedicated he was to practicing, he "
+"still could witness the entire project from a distance and find it all "
+"amusing."
+msgstr ""
+"As important as ACIM was for him, and as dedicated he was to practicing, he "
+"still could witness the entire project from a distance and find it all "
+"amusing."
+
+#. Context: ACIM was dictated during the cold war era with the Soviets, and
+#. “brinksmanship” was a word often used then. Bill used to refer to
+#. practicing the Course as “celestial brinksmanship.” After all, it asks that
+#. we take on faith a very different way of living, and it seemed to him that
+#. he was plunging into the unknown, not knowing exactly what experiences he
+#. might be precipitating. Humor enabled him to “take the plunge” more
+#. gracefully. He was aware of his human frailties but was able to see through
+#. and not invest in them; he advised all who would listen to do the same, to
+#. laugh at their own judgments. As important as ACIM was for him, and as
+#. dedicated he was to practicing, he still could witness the entire project
+#. from a distance and find it all amusing. He closed many a conversation with
+#. a smile, saying, “I know it’s hopeless, just not serious.”
+#: paragraph:18,sentence:6
+msgid ""
+"He closed many a conversation with a smile, saying, “I know it’s hopeless, "
+"just not serious.”"
+msgstr ""
+"He closed many a conversation with a smile, saying, “I know it’s hopeless, "
+"just not serious.”"

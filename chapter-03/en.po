@@ -1,0 +1,930 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Context: Many of you will pick up this book because you know Bill Thetford
+#. by reputation or as a co-scribe of A Course In Miracles. Others may find it
+#. simply because you are meant to do so. Because of her close personal
+#. relationship with Bill during his years in California, and her clear and
+#. eloquent voice, we know of no better person to offer insight into Bill’s
+#. life than our good friend Carol Howe.
+#: paragraph:1,sentence:1
+msgid ""
+"Many of you will pick up this book because you know Bill Thetford by "
+"reputation or as a co-scribe of A Course In Miracles."
+msgstr ""
+"Many of you will pick up this book because you know Bill Thetford by "
+"reputation or as a co-scribe of A Course In Miracles."
+
+#. Context: Many of you will pick up this book because you know Bill Thetford
+#. by reputation or as a co-scribe of A Course In Miracles. Others may find it
+#. simply because you are meant to do so. Because of her close personal
+#. relationship with Bill during his years in California, and her clear and
+#. eloquent voice, we know of no better person to offer insight into Bill’s
+#. life than our good friend Carol Howe.
+#: paragraph:1,sentence:2
+msgid "Others may find it simply because you are meant to do so."
+msgstr "Others may find it simply because you are meant to do so."
+
+#. Context: Many of you will pick up this book because you know Bill Thetford
+#. by reputation or as a co-scribe of A Course In Miracles. Others may find it
+#. simply because you are meant to do so. Because of her close personal
+#. relationship with Bill during his years in California, and her clear and
+#. eloquent voice, we know of no better person to offer insight into Bill’s
+#. life than our good friend Carol Howe.
+#: paragraph:1,sentence:3
+msgid ""
+"Because of her close personal relationship with Bill during his years in "
+"California, and her clear and eloquent voice, we know of no better person to"
+" offer insight into Bill’s life than our good friend Carol Howe."
+msgstr ""
+"Because of her close personal relationship with Bill during his years in "
+"California, and her clear and eloquent voice, we know of no better person to"
+" offer insight into Bill’s life than our good friend Carol Howe."
+
+#. Context: My journey (Jerry) with Bill and Carol began in 1978 when she
+#. first visited Tiburon in the fall of that year. I was still practicing
+#. psychiatry and Bill was new in town. I could tell after the first time all
+#. of us were together that he was impressed with her. I was not surprised
+#. when he started visiting her in Denver and know that being there was a kind
+#. of escape for him. I (Diane) met Carol in 1982 when she was in Tiburon and
+#. also recognized that she and Bill had a unique relationship. Little did any
+#. of us know at that time all the ways our lives would be intertwined over
+#. the years or just where our work would take us.
+#: paragraph:2,sentence:1
+msgid ""
+"My journey (Jerry) with Bill and Carol began in 1978 when she first visited "
+"Tiburon in the fall of that year."
+msgstr ""
+"My journey (Jerry) with Bill and Carol began in 1978 when she first visited "
+"Tiburon in the fall of that year."
+
+#. Context: My journey (Jerry) with Bill and Carol began in 1978 when she
+#. first visited Tiburon in the fall of that year. I was still practicing
+#. psychiatry and Bill was new in town. I could tell after the first time all
+#. of us were together that he was impressed with her. I was not surprised
+#. when he started visiting her in Denver and know that being there was a kind
+#. of escape for him. I (Diane) met Carol in 1982 when she was in Tiburon and
+#. also recognized that she and Bill had a unique relationship. Little did any
+#. of us know at that time all the ways our lives would be intertwined over
+#. the years or just where our work would take us.
+#: paragraph:2,sentence:2
+msgid "I was still practicing psychiatry and Bill was new in town."
+msgstr "I was still practicing psychiatry and Bill was new in town."
+
+#. Context: My journey (Jerry) with Bill and Carol began in 1978 when she
+#. first visited Tiburon in the fall of that year. I was still practicing
+#. psychiatry and Bill was new in town. I could tell after the first time all
+#. of us were together that he was impressed with her. I was not surprised
+#. when he started visiting her in Denver and know that being there was a kind
+#. of escape for him. I (Diane) met Carol in 1982 when she was in Tiburon and
+#. also recognized that she and Bill had a unique relationship. Little did any
+#. of us know at that time all the ways our lives would be intertwined over
+#. the years or just where our work would take us.
+#: paragraph:2,sentence:3
+msgid ""
+"I could tell after the first time all of us were together that he was "
+"impressed with her."
+msgstr ""
+"I could tell after the first time all of us were together that he was "
+"impressed with her."
+
+#. Context: My journey (Jerry) with Bill and Carol began in 1978 when she
+#. first visited Tiburon in the fall of that year. I was still practicing
+#. psychiatry and Bill was new in town. I could tell after the first time all
+#. of us were together that he was impressed with her. I was not surprised
+#. when he started visiting her in Denver and know that being there was a kind
+#. of escape for him. I (Diane) met Carol in 1982 when she was in Tiburon and
+#. also recognized that she and Bill had a unique relationship. Little did any
+#. of us know at that time all the ways our lives would be intertwined over
+#. the years or just where our work would take us.
+#: paragraph:2,sentence:4
+msgid ""
+"I was not surprised when he started visiting her in Denver and know that "
+"being there was a kind of escape for him."
+msgstr ""
+"I was not surprised when he started visiting her in Denver and know that "
+"being there was a kind of escape for him."
+
+#. Context: My journey (Jerry) with Bill and Carol began in 1978 when she
+#. first visited Tiburon in the fall of that year. I was still practicing
+#. psychiatry and Bill was new in town. I could tell after the first time all
+#. of us were together that he was impressed with her. I was not surprised
+#. when he started visiting her in Denver and know that being there was a kind
+#. of escape for him. I (Diane) met Carol in 1982 when she was in Tiburon and
+#. also recognized that she and Bill had a unique relationship. Little did any
+#. of us know at that time all the ways our lives would be intertwined over
+#. the years or just where our work would take us.
+#: paragraph:2,sentence:5
+msgid ""
+"I (Diane) met Carol in 1982 when she was in Tiburon and also recognized that"
+" she and Bill had a unique relationship."
+msgstr ""
+"I (Diane) met Carol in 1982 when she was in Tiburon and also recognized that"
+" she and Bill had a unique relationship."
+
+#. Context: My journey (Jerry) with Bill and Carol began in 1978 when she
+#. first visited Tiburon in the fall of that year. I was still practicing
+#. psychiatry and Bill was new in town. I could tell after the first time all
+#. of us were together that he was impressed with her. I was not surprised
+#. when he started visiting her in Denver and know that being there was a kind
+#. of escape for him. I (Diane) met Carol in 1982 when she was in Tiburon and
+#. also recognized that she and Bill had a unique relationship. Little did any
+#. of us know at that time all the ways our lives would be intertwined over
+#. the years or just where our work would take us.
+#: paragraph:2,sentence:6
+msgid ""
+"Little did any of us know at that time all the ways our lives would be "
+"intertwined over the years or just where our work would take us."
+msgstr ""
+"Little did any of us know at that time all the ways our lives would be "
+"intertwined over the years or just where our work would take us."
+
+#. Context: This book is not simply a biography, but a body of work that
+#. integrates the facts of Bill’s life with Course teachings and the personal
+#. reflections of more than thirty friends in a way that creates a unique and
+#. meaningful experience for the reader. Bill was a man of opposites and
+#. contradictions who did not fall neatly into categories. He was also a very
+#. private person and in reading Carol’s account of his life, we discovered
+#. many things about him that we did not know despite our close friendship and
+#. all the years we spent together. That was a heart-warming experience for
+#. us. As those of us who were there in the beginning of ACIM history continue
+#. to age, there is a sense of urgency to put our experiences and insights on
+#. paper so that others may learn from them. We are grateful Carol has chosen
+#. to do so in regard to Bill’s life.
+#: paragraph:3,sentence:1
+msgid ""
+"This book is not simply a biography, but a body of work that integrates the "
+"facts of Bill’s life with Course teachings and the personal reflections of "
+"more than thirty friends in a way that creates a unique and meaningful "
+"experience for the reader."
+msgstr ""
+"This book is not simply a biography, but a body of work that integrates the "
+"facts of Bill’s life with Course teachings and the personal reflections of "
+"more than thirty friends in a way that creates a unique and meaningful "
+"experience for the reader."
+
+#. Context: This book is not simply a biography, but a body of work that
+#. integrates the facts of Bill’s life with Course teachings and the personal
+#. reflections of more than thirty friends in a way that creates a unique and
+#. meaningful experience for the reader. Bill was a man of opposites and
+#. contradictions who did not fall neatly into categories. He was also a very
+#. private person and in reading Carol’s account of his life, we discovered
+#. many things about him that we did not know despite our close friendship and
+#. all the years we spent together. That was a heart-warming experience for
+#. us. As those of us who were there in the beginning of ACIM history continue
+#. to age, there is a sense of urgency to put our experiences and insights on
+#. paper so that others may learn from them. We are grateful Carol has chosen
+#. to do so in regard to Bill’s life.
+#: paragraph:3,sentence:2
+msgid ""
+"Bill was a man of opposites and contradictions who did not fall neatly into "
+"categories."
+msgstr ""
+"Bill was a man of opposites and contradictions who did not fall neatly into "
+"categories."
+
+#. Context: This book is not simply a biography, but a body of work that
+#. integrates the facts of Bill’s life with Course teachings and the personal
+#. reflections of more than thirty friends in a way that creates a unique and
+#. meaningful experience for the reader. Bill was a man of opposites and
+#. contradictions who did not fall neatly into categories. He was also a very
+#. private person and in reading Carol’s account of his life, we discovered
+#. many things about him that we did not know despite our close friendship and
+#. all the years we spent together. That was a heart-warming experience for
+#. us. As those of us who were there in the beginning of ACIM history continue
+#. to age, there is a sense of urgency to put our experiences and insights on
+#. paper so that others may learn from them. We are grateful Carol has chosen
+#. to do so in regard to Bill’s life.
+#: paragraph:3,sentence:3
+msgid ""
+"He was also a very private person and in reading Carol’s account of his "
+"life, we discovered many things about him that we did not know despite our "
+"close friendship and all the years we spent together."
+msgstr ""
+"He was also a very private person and in reading Carol’s account of his "
+"life, we discovered many things about him that we did not know despite our "
+"close friendship and all the years we spent together."
+
+#. Context: This book is not simply a biography, but a body of work that
+#. integrates the facts of Bill’s life with Course teachings and the personal
+#. reflections of more than thirty friends in a way that creates a unique and
+#. meaningful experience for the reader. Bill was a man of opposites and
+#. contradictions who did not fall neatly into categories. He was also a very
+#. private person and in reading Carol’s account of his life, we discovered
+#. many things about him that we did not know despite our close friendship and
+#. all the years we spent together. That was a heart-warming experience for
+#. us. As those of us who were there in the beginning of ACIM history continue
+#. to age, there is a sense of urgency to put our experiences and insights on
+#. paper so that others may learn from them. We are grateful Carol has chosen
+#. to do so in regard to Bill’s life.
+#: paragraph:3,sentence:4
+msgid "That was a heart-warming experience for us."
+msgstr "That was a heart-warming experience for us."
+
+#. Context: This book is not simply a biography, but a body of work that
+#. integrates the facts of Bill’s life with Course teachings and the personal
+#. reflections of more than thirty friends in a way that creates a unique and
+#. meaningful experience for the reader. Bill was a man of opposites and
+#. contradictions who did not fall neatly into categories. He was also a very
+#. private person and in reading Carol’s account of his life, we discovered
+#. many things about him that we did not know despite our close friendship and
+#. all the years we spent together. That was a heart-warming experience for
+#. us. As those of us who were there in the beginning of ACIM history continue
+#. to age, there is a sense of urgency to put our experiences and insights on
+#. paper so that others may learn from them. We are grateful Carol has chosen
+#. to do so in regard to Bill’s life.
+#: paragraph:3,sentence:5
+msgid ""
+"As those of us who were there in the beginning of ACIM history continue to "
+"age, there is a sense of urgency to put our experiences and insights on "
+"paper so that others may learn from them."
+msgstr ""
+"As those of us who were there in the beginning of ACIM history continue to "
+"age, there is a sense of urgency to put our experiences and insights on "
+"paper so that others may learn from them."
+
+#. Context: This book is not simply a biography, but a body of work that
+#. integrates the facts of Bill’s life with Course teachings and the personal
+#. reflections of more than thirty friends in a way that creates a unique and
+#. meaningful experience for the reader. Bill was a man of opposites and
+#. contradictions who did not fall neatly into categories. He was also a very
+#. private person and in reading Carol’s account of his life, we discovered
+#. many things about him that we did not know despite our close friendship and
+#. all the years we spent together. That was a heart-warming experience for
+#. us. As those of us who were there in the beginning of ACIM history continue
+#. to age, there is a sense of urgency to put our experiences and insights on
+#. paper so that others may learn from them. We are grateful Carol has chosen
+#. to do so in regard to Bill’s life.
+#: paragraph:3,sentence:6
+msgid "We are grateful Carol has chosen to do so in regard to Bill’s life."
+msgstr "We are grateful Carol has chosen to do so in regard to Bill’s life."
+
+#. Context: After reading this book, we found it hard to imagine incorporating
+#. so many details about Bill into one document. Carol has accurately
+#. expressed the impressions and impact that Bill had on the many of us who
+#. loved and appreciated him so deeply. In many ways, it is a love story about
+#. Bill and his many friends, from comfortable close associates to casual
+#. acquaintances, whose insights and experiences with him are included
+#. throughout. It’s also a love story about Bill and the Course and, finally,
+#. about Bill and God.
+#: paragraph:4,sentence:1
+msgid ""
+"After reading this book, we found it hard to imagine incorporating so many "
+"details about Bill into one document."
+msgstr ""
+"After reading this book, we found it hard to imagine incorporating so many "
+"details about Bill into one document."
+
+#. Context: After reading this book, we found it hard to imagine incorporating
+#. so many details about Bill into one document. Carol has accurately
+#. expressed the impressions and impact that Bill had on the many of us who
+#. loved and appreciated him so deeply. In many ways, it is a love story about
+#. Bill and his many friends, from comfortable close associates to casual
+#. acquaintances, whose insights and experiences with him are included
+#. throughout. It’s also a love story about Bill and the Course and, finally,
+#. about Bill and God.
+#: paragraph:4,sentence:2
+msgid ""
+"Carol has accurately expressed the impressions and impact that Bill had on "
+"the many of us who loved and appreciated him so deeply."
+msgstr ""
+"Carol has accurately expressed the impressions and impact that Bill had on "
+"the many of us who loved and appreciated him so deeply."
+
+#. Context: After reading this book, we found it hard to imagine incorporating
+#. so many details about Bill into one document. Carol has accurately
+#. expressed the impressions and impact that Bill had on the many of us who
+#. loved and appreciated him so deeply. In many ways, it is a love story about
+#. Bill and his many friends, from comfortable close associates to casual
+#. acquaintances, whose insights and experiences with him are included
+#. throughout. It’s also a love story about Bill and the Course and, finally,
+#. about Bill and God.
+#: paragraph:4,sentence:3
+msgid ""
+"In many ways, it is a love story about Bill and his many friends, from "
+"comfortable close associates to casual acquaintances, whose insights and "
+"experiences with him are included throughout."
+msgstr ""
+"In many ways, it is a love story about Bill and his many friends, from "
+"comfortable close associates to casual acquaintances, whose insights and "
+"experiences with him are included throughout."
+
+#. Context: After reading this book, we found it hard to imagine incorporating
+#. so many details about Bill into one document. Carol has accurately
+#. expressed the impressions and impact that Bill had on the many of us who
+#. loved and appreciated him so deeply. In many ways, it is a love story about
+#. Bill and his many friends, from comfortable close associates to casual
+#. acquaintances, whose insights and experiences with him are included
+#. throughout. It’s also a love story about Bill and the Course and, finally,
+#. about Bill and God.
+#: paragraph:4,sentence:4
+msgid ""
+"It’s also a love story about Bill and the Course and, finally, about Bill "
+"and God."
+msgstr ""
+"It’s also a love story about Bill and the Course and, finally, about Bill "
+"and God."
+
+#. Context: The offering of this book about Bill’s transformation is a gift
+#. for those who choose peace of mind. Many of us feel a need to own our
+#. thoughts and attitudes, heal our split minds, and thereby heal the world we
+#. see. We take an important step in our journey when we become aware that
+#. it’s only our own thoughts that hurt us and offer forgiveness instead.
+#. Bill’s story is one of giant steps taken through willingness to forgive.
+#. Bill was a partner in the original transcription of A Course In Miracles
+#. and a true practitioner of its teachings. One of his favorite phrases was
+#. “celestial amnesia” and he suggested we all practice forgetting everything
+#. unloving about our past. His continual practice of forgiveness, his kind
+#. presence, and wonderful sense of humor all led to his ultimate release.
+#: paragraph:5,sentence:1
+msgid ""
+"The offering of this book about Bill’s transformation is a gift for those "
+"who choose peace of mind."
+msgstr ""
+"The offering of this book about Bill’s transformation is a gift for those "
+"who choose peace of mind."
+
+#. Context: The offering of this book about Bill’s transformation is a gift
+#. for those who choose peace of mind. Many of us feel a need to own our
+#. thoughts and attitudes, heal our split minds, and thereby heal the world we
+#. see. We take an important step in our journey when we become aware that
+#. it’s only our own thoughts that hurt us and offer forgiveness instead.
+#. Bill’s story is one of giant steps taken through willingness to forgive.
+#. Bill was a partner in the original transcription of A Course In Miracles
+#. and a true practitioner of its teachings. One of his favorite phrases was
+#. “celestial amnesia” and he suggested we all practice forgetting everything
+#. unloving about our past. His continual practice of forgiveness, his kind
+#. presence, and wonderful sense of humor all led to his ultimate release.
+#: paragraph:5,sentence:2
+msgid ""
+"Many of us feel a need to own our thoughts and attitudes, heal our split "
+"minds, and thereby heal the world we see."
+msgstr ""
+"Many of us feel a need to own our thoughts and attitudes, heal our split "
+"minds, and thereby heal the world we see."
+
+#. Context: The offering of this book about Bill’s transformation is a gift
+#. for those who choose peace of mind. Many of us feel a need to own our
+#. thoughts and attitudes, heal our split minds, and thereby heal the world we
+#. see. We take an important step in our journey when we become aware that
+#. it’s only our own thoughts that hurt us and offer forgiveness instead.
+#. Bill’s story is one of giant steps taken through willingness to forgive.
+#. Bill was a partner in the original transcription of A Course In Miracles
+#. and a true practitioner of its teachings. One of his favorite phrases was
+#. “celestial amnesia” and he suggested we all practice forgetting everything
+#. unloving about our past. His continual practice of forgiveness, his kind
+#. presence, and wonderful sense of humor all led to his ultimate release.
+#: paragraph:5,sentence:3
+msgid ""
+"We take an important step in our journey when we become aware that it’s only"
+" our own thoughts that hurt us and offer forgiveness instead."
+msgstr ""
+"We take an important step in our journey when we become aware that it’s only"
+" our own thoughts that hurt us and offer forgiveness instead."
+
+#. Context: The offering of this book about Bill’s transformation is a gift
+#. for those who choose peace of mind. Many of us feel a need to own our
+#. thoughts and attitudes, heal our split minds, and thereby heal the world we
+#. see. We take an important step in our journey when we become aware that
+#. it’s only our own thoughts that hurt us and offer forgiveness instead.
+#. Bill’s story is one of giant steps taken through willingness to forgive.
+#. Bill was a partner in the original transcription of A Course In Miracles
+#. and a true practitioner of its teachings. One of his favorite phrases was
+#. “celestial amnesia” and he suggested we all practice forgetting everything
+#. unloving about our past. His continual practice of forgiveness, his kind
+#. presence, and wonderful sense of humor all led to his ultimate release.
+#: paragraph:5,sentence:4
+msgid ""
+"Bill’s story is one of giant steps taken through willingness to forgive."
+msgstr ""
+"Bill’s story is one of giant steps taken through willingness to forgive."
+
+#. Context: The offering of this book about Bill’s transformation is a gift
+#. for those who choose peace of mind. Many of us feel a need to own our
+#. thoughts and attitudes, heal our split minds, and thereby heal the world we
+#. see. We take an important step in our journey when we become aware that
+#. it’s only our own thoughts that hurt us and offer forgiveness instead.
+#. Bill’s story is one of giant steps taken through willingness to forgive.
+#. Bill was a partner in the original transcription of A Course In Miracles
+#. and a true practitioner of its teachings. One of his favorite phrases was
+#. “celestial amnesia” and he suggested we all practice forgetting everything
+#. unloving about our past. His continual practice of forgiveness, his kind
+#. presence, and wonderful sense of humor all led to his ultimate release.
+#: paragraph:5,sentence:5
+msgid ""
+"Bill was a partner in the original transcription of A Course In Miracles and"
+" a true practitioner of its teachings."
+msgstr ""
+"Bill was a partner in the original transcription of A Course In Miracles and"
+" a true practitioner of its teachings."
+
+#. Context: The offering of this book about Bill’s transformation is a gift
+#. for those who choose peace of mind. Many of us feel a need to own our
+#. thoughts and attitudes, heal our split minds, and thereby heal the world we
+#. see. We take an important step in our journey when we become aware that
+#. it’s only our own thoughts that hurt us and offer forgiveness instead.
+#. Bill’s story is one of giant steps taken through willingness to forgive.
+#. Bill was a partner in the original transcription of A Course In Miracles
+#. and a true practitioner of its teachings. One of his favorite phrases was
+#. “celestial amnesia” and he suggested we all practice forgetting everything
+#. unloving about our past. His continual practice of forgiveness, his kind
+#. presence, and wonderful sense of humor all led to his ultimate release.
+#: paragraph:5,sentence:6
+msgid ""
+"One of his favorite phrases was “celestial amnesia” and he suggested we all "
+"practice forgetting everything unloving about our past."
+msgstr ""
+"One of his favorite phrases was “celestial amnesia” and he suggested we all "
+"practice forgetting everything unloving about our past."
+
+#. Context: The offering of this book about Bill’s transformation is a gift
+#. for those who choose peace of mind. Many of us feel a need to own our
+#. thoughts and attitudes, heal our split minds, and thereby heal the world we
+#. see. We take an important step in our journey when we become aware that
+#. it’s only our own thoughts that hurt us and offer forgiveness instead.
+#. Bill’s story is one of giant steps taken through willingness to forgive.
+#. Bill was a partner in the original transcription of A Course In Miracles
+#. and a true practitioner of its teachings. One of his favorite phrases was
+#. “celestial amnesia” and he suggested we all practice forgetting everything
+#. unloving about our past. His continual practice of forgiveness, his kind
+#. presence, and wonderful sense of humor all led to his ultimate release.
+#: paragraph:5,sentence:7
+msgid ""
+"His continual practice of forgiveness, his kind presence, and wonderful "
+"sense of humor all led to his ultimate release."
+msgstr ""
+"His continual practice of forgiveness, his kind presence, and wonderful "
+"sense of humor all led to his ultimate release."
+
+#. Context: Carol’s love for Bill and the Course shines deeply in every line
+#. she has written here. With this book, she brings a balanced perspective
+#. about his life so others can have a better sense of what motivated him. It
+#. is a window into his heart and soul, a gift of love she has created for us
+#. all. We feel certain that Bill is blessing her with his wit and smiles
+#. wherever she goes, with every Course workshop she teaches, and with every
+#. word she has written within this book. We are grateful that you, the
+#. reader, have chosen to share in this love as well.
+#: paragraph:6,sentence:1
+msgid ""
+"Carol’s love for Bill and the Course shines deeply in every line she has "
+"written here."
+msgstr ""
+"Carol’s love for Bill and the Course shines deeply in every line she has "
+"written here."
+
+#. Context: Carol’s love for Bill and the Course shines deeply in every line
+#. she has written here. With this book, she brings a balanced perspective
+#. about his life so others can have a better sense of what motivated him. It
+#. is a window into his heart and soul, a gift of love she has created for us
+#. all. We feel certain that Bill is blessing her with his wit and smiles
+#. wherever she goes, with every Course workshop she teaches, and with every
+#. word she has written within this book. We are grateful that you, the
+#. reader, have chosen to share in this love as well.
+#: paragraph:6,sentence:2
+msgid ""
+"With this book, she brings a balanced perspective about his life so others "
+"can have a better sense of what motivated him."
+msgstr ""
+"With this book, she brings a balanced perspective about his life so others "
+"can have a better sense of what motivated him."
+
+#. Context: Carol’s love for Bill and the Course shines deeply in every line
+#. she has written here. With this book, she brings a balanced perspective
+#. about his life so others can have a better sense of what motivated him. It
+#. is a window into his heart and soul, a gift of love she has created for us
+#. all. We feel certain that Bill is blessing her with his wit and smiles
+#. wherever she goes, with every Course workshop she teaches, and with every
+#. word she has written within this book. We are grateful that you, the
+#. reader, have chosen to share in this love as well.
+#: paragraph:6,sentence:3
+msgid ""
+"It is a window into his heart and soul, a gift of love she has created for "
+"us all."
+msgstr ""
+"It is a window into his heart and soul, a gift of love she has created for "
+"us all."
+
+#. Context: Carol’s love for Bill and the Course shines deeply in every line
+#. she has written here. With this book, she brings a balanced perspective
+#. about his life so others can have a better sense of what motivated him. It
+#. is a window into his heart and soul, a gift of love she has created for us
+#. all. We feel certain that Bill is blessing her with his wit and smiles
+#. wherever she goes, with every Course workshop she teaches, and with every
+#. word she has written within this book. We are grateful that you, the
+#. reader, have chosen to share in this love as well.
+#: paragraph:6,sentence:4
+msgid ""
+"We feel certain that Bill is blessing her with his wit and smiles wherever "
+"she goes, with every Course workshop she teaches, and with every word she "
+"has written within this book."
+msgstr ""
+"We feel certain that Bill is blessing her with his wit and smiles wherever "
+"she goes, with every Course workshop she teaches, and with every word she "
+"has written within this book."
+
+#. Context: Carol’s love for Bill and the Course shines deeply in every line
+#. she has written here. With this book, she brings a balanced perspective
+#. about his life so others can have a better sense of what motivated him. It
+#. is a window into his heart and soul, a gift of love she has created for us
+#. all. We feel certain that Bill is blessing her with his wit and smiles
+#. wherever she goes, with every Course workshop she teaches, and with every
+#. word she has written within this book. We are grateful that you, the
+#. reader, have chosen to share in this love as well.
+#: paragraph:6,sentence:5
+msgid ""
+"We are grateful that you, the reader, have chosen to share in this love as "
+"well."
+msgstr ""
+"We are grateful that you, the reader, have chosen to share in this love as "
+"well."
+
+#. Context: With boundless love and peace,
+#: paragraph:7,sentence:1
+msgid "With boundless love and peace,"
+msgstr "With boundless love and peace,"
+
+#. Context: Jerry Jampolsky, M.D. and Diane Cirincione, Ph.D.
+#: paragraph:8,sentence:1
+msgid "Jerry Jampolsky, M.D. and Diane Cirincione, Ph.D."
+msgstr "Jerry Jampolsky, M.D. and Diane Cirincione, Ph.D."
+
+#. Context: In a few short years all who knew Bill Thetford personally will
+#. have exited the world stage. It would be unconscionable for this first
+#. generation of A Course In Miracles students, those who were Bill’s friends,
+#. to leave without recording our collective witnessing of his
+#. transformation.[1] Humanity expends much time and treasure seeking any
+#. scrap of information about the teachers, philosophers, and avatars who have
+#. gone before, lighting the path for us throughout all cultures and ages.
+#. Bill was such a light.
+#: paragraph:9,sentence:1
+msgid ""
+"In a few short years all who knew Bill Thetford personally will have exited "
+"the world stage."
+msgstr ""
+"In a few short years all who knew Bill Thetford personally will have exited "
+"the world stage."
+
+#. Context: In a few short years all who knew Bill Thetford personally will
+#. have exited the world stage. It would be unconscionable for this first
+#. generation of A Course In Miracles students, those who were Bill’s friends,
+#. to leave without recording our collective witnessing of his
+#. transformation.[1] Humanity expends much time and treasure seeking any
+#. scrap of information about the teachers, philosophers, and avatars who have
+#. gone before, lighting the path for us throughout all cultures and ages.
+#. Bill was such a light.
+#: paragraph:9,sentence:2
+msgid ""
+"It would be unconscionable for this first generation of A Course In Miracles"
+" students, those who were Bill’s friends, to leave without recording our "
+"collective witnessing of his transformation.[1] Humanity expends much time "
+"and treasure seeking any scrap of information about the teachers, "
+"philosophers, and avatars who have gone before, lighting the path for us "
+"throughout all cultures and ages."
+msgstr ""
+"It would be unconscionable for this first generation of A Course In Miracles"
+" students, those who were Bill’s friends, to leave without recording our "
+"collective witnessing of his transformation.[1] Humanity expends much time "
+"and treasure seeking any scrap of information about the teachers, "
+"philosophers, and avatars who have gone before, lighting the path for us "
+"throughout all cultures and ages."
+
+#. Context: In a few short years all who knew Bill Thetford personally will
+#. have exited the world stage. It would be unconscionable for this first
+#. generation of A Course In Miracles students, those who were Bill’s friends,
+#. to leave without recording our collective witnessing of his
+#. transformation.[1] Humanity expends much time and treasure seeking any
+#. scrap of information about the teachers, philosophers, and avatars who have
+#. gone before, lighting the path for us throughout all cultures and ages.
+#. Bill was such a light.
+#: paragraph:9,sentence:3
+msgid "Bill was such a light."
+msgstr "Bill was such a light."
+
+#. Context: Drs. William Thetford and Helen Schucman were professors of
+#. medical psychology at Columbia University’s College of Physicians and
+#. Surgeons in New York, eminent in their field and known for their research
+#. into personality theory. The preface to A Course In Miracles states that
+#. the scribes’ names do not matter and, therefore, are not listed on the
+#. cover. True though that may be, as the Course continues to become more
+#. widely recognized for the life-changing curriculum it proposes, more people
+#. are interested in knowing about these two who considered themselves most
+#. unlikely candidates for the job.
+#: paragraph:10,sentence:1
+msgid "Drs."
+msgstr "Drs."
+
+#. Context: Drs. William Thetford and Helen Schucman were professors of
+#. medical psychology at Columbia University’s College of Physicians and
+#. Surgeons in New York, eminent in their field and known for their research
+#. into personality theory. The preface to A Course In Miracles states that
+#. the scribes’ names do not matter and, therefore, are not listed on the
+#. cover. True though that may be, as the Course continues to become more
+#. widely recognized for the life-changing curriculum it proposes, more people
+#. are interested in knowing about these two who considered themselves most
+#. unlikely candidates for the job.
+#: paragraph:10,sentence:2
+msgid ""
+"William Thetford and Helen Schucman were professors of medical psychology at"
+" Columbia University’s College of Physicians and Surgeons in New York, "
+"eminent in their field and known for their research into personality theory."
+msgstr ""
+"William Thetford and Helen Schucman were professors of medical psychology at"
+" Columbia University’s College of Physicians and Surgeons in New York, "
+"eminent in their field and known for their research into personality theory."
+
+#. Context: Drs. William Thetford and Helen Schucman were professors of
+#. medical psychology at Columbia University’s College of Physicians and
+#. Surgeons in New York, eminent in their field and known for their research
+#. into personality theory. The preface to A Course In Miracles states that
+#. the scribes’ names do not matter and, therefore, are not listed on the
+#. cover. True though that may be, as the Course continues to become more
+#. widely recognized for the life-changing curriculum it proposes, more people
+#. are interested in knowing about these two who considered themselves most
+#. unlikely candidates for the job.
+#: paragraph:10,sentence:3
+msgid ""
+"The preface to A Course In Miracles states that the scribes’ names do not "
+"matter and, therefore, are not listed on the cover."
+msgstr ""
+"The preface to A Course In Miracles states that the scribes’ names do not "
+"matter and, therefore, are not listed on the cover."
+
+#. Context: Drs. William Thetford and Helen Schucman were professors of
+#. medical psychology at Columbia University’s College of Physicians and
+#. Surgeons in New York, eminent in their field and known for their research
+#. into personality theory. The preface to A Course In Miracles states that
+#. the scribes’ names do not matter and, therefore, are not listed on the
+#. cover. True though that may be, as the Course continues to become more
+#. widely recognized for the life-changing curriculum it proposes, more people
+#. are interested in knowing about these two who considered themselves most
+#. unlikely candidates for the job.
+#: paragraph:10,sentence:4
+msgid ""
+"True though that may be, as the Course continues to become more widely "
+"recognized for the life-changing curriculum it proposes, more people are "
+"interested in knowing about these two who considered themselves most "
+"unlikely candidates for the job."
+msgstr ""
+"True though that may be, as the Course continues to become more widely "
+"recognized for the life-changing curriculum it proposes, more people are "
+"interested in knowing about these two who considered themselves most "
+"unlikely candidates for the job."
+
+#. Context: In beginning this project, I originally intended to simply write
+#. about my own personal memories and recollections of Bill, perhaps with
+#. input from my family and some friends in Denver who also knew and loved
+#. him. The writing project took on a life of its own, however, and grew to
+#. include recollections from a number of his close friends, as well as input
+#. from archival records. In time, even though we are never objective about
+#. anyone and see them through our own individual filters, a common view of
+#. Bill emerged—and what a picture!
+#: paragraph:11,sentence:1
+msgid ""
+"In beginning this project, I originally intended to simply write about my "
+"own personal memories and recollections of Bill, perhaps with input from my "
+"family and some friends in Denver who also knew and loved him."
+msgstr ""
+"In beginning this project, I originally intended to simply write about my "
+"own personal memories and recollections of Bill, perhaps with input from my "
+"family and some friends in Denver who also knew and loved him."
+
+#. Context: In beginning this project, I originally intended to simply write
+#. about my own personal memories and recollections of Bill, perhaps with
+#. input from my family and some friends in Denver who also knew and loved
+#. him. The writing project took on a life of its own, however, and grew to
+#. include recollections from a number of his close friends, as well as input
+#. from archival records. In time, even though we are never objective about
+#. anyone and see them through our own individual filters, a common view of
+#. Bill emerged—and what a picture!
+#: paragraph:11,sentence:2
+msgid ""
+"The writing project took on a life of its own, however, and grew to include "
+"recollections from a number of his close friends, as well as input from "
+"archival records."
+msgstr ""
+"The writing project took on a life of its own, however, and grew to include "
+"recollections from a number of his close friends, as well as input from "
+"archival records."
+
+#. Context: In beginning this project, I originally intended to simply write
+#. about my own personal memories and recollections of Bill, perhaps with
+#. input from my family and some friends in Denver who also knew and loved
+#. him. The writing project took on a life of its own, however, and grew to
+#. include recollections from a number of his close friends, as well as input
+#. from archival records. In time, even though we are never objective about
+#. anyone and see them through our own individual filters, a common view of
+#. Bill emerged—and what a picture!
+#: paragraph:11,sentence:3
+msgid ""
+"In time, even though we are never objective about anyone and see them "
+"through our own individual filters, a common view of Bill emerged—and what a"
+" picture!"
+msgstr ""
+"In time, even though we are never objective about anyone and see them "
+"through our own individual filters, a common view of Bill emerged—and what a"
+" picture!"
+
+#. Context: In some extant publications on ACIM and from information on the
+#. Internet—some incomplete or actually incorrect—Bill’s role often seems
+#. marginalized as the typist or as Helen’s helper. In most of these accounts,
+#. one does not begin to fathom Bill’s presence, his greatest contribution. As
+#. for A Course In Miracles, his gifts were twofold: as Helen’s unwavering
+#. partner and co-scribe and as its most dedicated and accomplished
+#. practitioner.
+#: paragraph:12,sentence:1
+msgid ""
+"In some extant publications on ACIM and from information on the "
+"Internet—some incomplete or actually incorrect—Bill’s role often seems "
+"marginalized as the typist or as Helen’s helper."
+msgstr ""
+"In some extant publications on ACIM and from information on the "
+"Internet—some incomplete or actually incorrect—Bill’s role often seems "
+"marginalized as the typist or as Helen’s helper."
+
+#. Context: In some extant publications on ACIM and from information on the
+#. Internet—some incomplete or actually incorrect—Bill’s role often seems
+#. marginalized as the typist or as Helen’s helper. In most of these accounts,
+#. one does not begin to fathom Bill’s presence, his greatest contribution. As
+#. for A Course In Miracles, his gifts were twofold: as Helen’s unwavering
+#. partner and co-scribe and as its most dedicated and accomplished
+#. practitioner.
+#: paragraph:12,sentence:2
+msgid ""
+"In most of these accounts, one does not begin to fathom Bill’s presence, his"
+" greatest contribution."
+msgstr ""
+"In most of these accounts, one does not begin to fathom Bill’s presence, his"
+" greatest contribution."
+
+#. Context: In some extant publications on ACIM and from information on the
+#. Internet—some incomplete or actually incorrect—Bill’s role often seems
+#. marginalized as the typist or as Helen’s helper. In most of these accounts,
+#. one does not begin to fathom Bill’s presence, his greatest contribution. As
+#. for A Course In Miracles, his gifts were twofold: as Helen’s unwavering
+#. partner and co-scribe and as its most dedicated and accomplished
+#. practitioner.
+#: paragraph:12,sentence:3
+msgid ""
+"As for A Course In Miracles, his gifts were twofold: as Helen’s unwavering "
+"partner and co-scribe and as its most dedicated and accomplished "
+"practitioner."
+msgstr ""
+"As for A Course In Miracles, his gifts were twofold: as Helen’s unwavering "
+"partner and co-scribe and as its most dedicated and accomplished "
+"practitioner."
+
+#. Context: The Course lays out a specific plan to liberate our happiness and
+#. peace of mind, and Bill’s commitment to it personified the process of
+#. forgiveness. For more than ten years, a number of people had the good
+#. fortune of watching a master teacher in the making, as Bill’s ego steadily
+#. dissolved and his gracious presence—the same presence that exists in all of
+#. us—became ever more radiant and unencumbered. My intention is to pay homage
+#. to Bill for the gifts he gave us, to provide a more complete portrayal of
+#. his life, and to show how his awakening process can illuminate our own.
+#: paragraph:13,sentence:1
+msgid ""
+"The Course lays out a specific plan to liberate our happiness and peace of "
+"mind, and Bill’s commitment to it personified the process of forgiveness."
+msgstr ""
+"The Course lays out a specific plan to liberate our happiness and peace of "
+"mind, and Bill’s commitment to it personified the process of forgiveness."
+
+#. Context: The Course lays out a specific plan to liberate our happiness and
+#. peace of mind, and Bill’s commitment to it personified the process of
+#. forgiveness. For more than ten years, a number of people had the good
+#. fortune of watching a master teacher in the making, as Bill’s ego steadily
+#. dissolved and his gracious presence—the same presence that exists in all of
+#. us—became ever more radiant and unencumbered. My intention is to pay homage
+#. to Bill for the gifts he gave us, to provide a more complete portrayal of
+#. his life, and to show how his awakening process can illuminate our own.
+#: paragraph:13,sentence:2
+msgid ""
+"For more than ten years, a number of people had the good fortune of watching"
+" a master teacher in the making, as Bill’s ego steadily dissolved and his "
+"gracious presence—the same presence that exists in all of us—became ever "
+"more radiant and unencumbered."
+msgstr ""
+"For more than ten years, a number of people had the good fortune of watching"
+" a master teacher in the making, as Bill’s ego steadily dissolved and his "
+"gracious presence—the same presence that exists in all of us—became ever "
+"more radiant and unencumbered."
+
+#. Context: The Course lays out a specific plan to liberate our happiness and
+#. peace of mind, and Bill’s commitment to it personified the process of
+#. forgiveness. For more than ten years, a number of people had the good
+#. fortune of watching a master teacher in the making, as Bill’s ego steadily
+#. dissolved and his gracious presence—the same presence that exists in all of
+#. us—became ever more radiant and unencumbered. My intention is to pay homage
+#. to Bill for the gifts he gave us, to provide a more complete portrayal of
+#. his life, and to show how his awakening process can illuminate our own.
+#: paragraph:13,sentence:3
+msgid ""
+"My intention is to pay homage to Bill for the gifts he gave us, to provide a"
+" more complete portrayal of his life, and to show how his awakening process "
+"can illuminate our own."
+msgstr ""
+"My intention is to pay homage to Bill for the gifts he gave us, to provide a"
+" more complete portrayal of his life, and to show how his awakening process "
+"can illuminate our own."
+
+#. Context: [1]A Course In Miracles is a self-study course in three parts: a
+#. text, a workbook, and a manual for teachers. Its basic hypothesis is that
+#. we are conditioned from birth to a limited way of perceiving and our
+#. “understanding” of life is a product of past conditioning. Practicing the
+#. workbook lessons undoes our negative, unhelpful, inaccurate view of people,
+#. situations, and events, resulting in a different perception of the world.
+#. As Course practice proceeds, the fearful ideas we have learned are
+#. systematically replaced with an alternative viewpoint—happier, more
+#. spiritual, and all-encompassing. Later lessons are designed to evoke a
+#. direct spiritual experience and greater love for self and others.
+#: paragraph:14,sentence:1
+msgid ""
+"[1]A Course In Miracles is a self-study course in three parts: a text, a "
+"workbook, and a manual for teachers."
+msgstr ""
+"[1]A Course In Miracles is a self-study course in three parts: a text, a "
+"workbook, and a manual for teachers."
+
+#. Context: [1]A Course In Miracles is a self-study course in three parts: a
+#. text, a workbook, and a manual for teachers. Its basic hypothesis is that
+#. we are conditioned from birth to a limited way of perceiving and our
+#. “understanding” of life is a product of past conditioning. Practicing the
+#. workbook lessons undoes our negative, unhelpful, inaccurate view of people,
+#. situations, and events, resulting in a different perception of the world.
+#. As Course practice proceeds, the fearful ideas we have learned are
+#. systematically replaced with an alternative viewpoint—happier, more
+#. spiritual, and all-encompassing. Later lessons are designed to evoke a
+#. direct spiritual experience and greater love for self and others.
+#: paragraph:14,sentence:2
+msgid ""
+"Its basic hypothesis is that we are conditioned from birth to a limited way "
+"of perceiving and our “understanding” of life is a product of past "
+"conditioning."
+msgstr ""
+"Its basic hypothesis is that we are conditioned from birth to a limited way "
+"of perceiving and our “understanding” of life is a product of past "
+"conditioning."
+
+#. Context: [1]A Course In Miracles is a self-study course in three parts: a
+#. text, a workbook, and a manual for teachers. Its basic hypothesis is that
+#. we are conditioned from birth to a limited way of perceiving and our
+#. “understanding” of life is a product of past conditioning. Practicing the
+#. workbook lessons undoes our negative, unhelpful, inaccurate view of people,
+#. situations, and events, resulting in a different perception of the world.
+#. As Course practice proceeds, the fearful ideas we have learned are
+#. systematically replaced with an alternative viewpoint—happier, more
+#. spiritual, and all-encompassing. Later lessons are designed to evoke a
+#. direct spiritual experience and greater love for self and others.
+#: paragraph:14,sentence:3
+msgid ""
+"Practicing the workbook lessons undoes our negative, unhelpful, inaccurate "
+"view of people, situations, and events, resulting in a different perception "
+"of the world."
+msgstr ""
+"Practicing the workbook lessons undoes our negative, unhelpful, inaccurate "
+"view of people, situations, and events, resulting in a different perception "
+"of the world."
+
+#. Context: [1]A Course In Miracles is a self-study course in three parts: a
+#. text, a workbook, and a manual for teachers. Its basic hypothesis is that
+#. we are conditioned from birth to a limited way of perceiving and our
+#. “understanding” of life is a product of past conditioning. Practicing the
+#. workbook lessons undoes our negative, unhelpful, inaccurate view of people,
+#. situations, and events, resulting in a different perception of the world.
+#. As Course practice proceeds, the fearful ideas we have learned are
+#. systematically replaced with an alternative viewpoint—happier, more
+#. spiritual, and all-encompassing. Later lessons are designed to evoke a
+#. direct spiritual experience and greater love for self and others.
+#: paragraph:14,sentence:4
+msgid ""
+"As Course practice proceeds, the fearful ideas we have learned are "
+"systematically replaced with an alternative viewpoint—happier, more "
+"spiritual, and all-encompassing."
+msgstr ""
+"As Course practice proceeds, the fearful ideas we have learned are "
+"systematically replaced with an alternative viewpoint—happier, more "
+"spiritual, and all-encompassing."
+
+#. Context: [1]A Course In Miracles is a self-study course in three parts: a
+#. text, a workbook, and a manual for teachers. Its basic hypothesis is that
+#. we are conditioned from birth to a limited way of perceiving and our
+#. “understanding” of life is a product of past conditioning. Practicing the
+#. workbook lessons undoes our negative, unhelpful, inaccurate view of people,
+#. situations, and events, resulting in a different perception of the world.
+#. As Course practice proceeds, the fearful ideas we have learned are
+#. systematically replaced with an alternative viewpoint—happier, more
+#. spiritual, and all-encompassing. Later lessons are designed to evoke a
+#. direct spiritual experience and greater love for self and others.
+#: paragraph:14,sentence:5
+msgid ""
+"Later lessons are designed to evoke a direct spiritual experience and "
+"greater love for self and others."
+msgstr ""
+"Later lessons are designed to evoke a direct spiritual experience and "
+"greater love for self and others."

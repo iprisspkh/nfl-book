@@ -1,0 +1,1669 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Context: Early on in California, a coterie of people began to collect
+#. around Bill, all part of a grounding network vital to his continued
+#. unfolding, while mutually facilitating the healing for all concerned. The
+#. initial support group, consisting of Judy and Bob Skutch and Jerry
+#. Jampolsky, was already in place when Bill left New York. With the morning
+#. prayer group, Frances and Roger joined the circle and, along with Jules,
+#. became central to his anchoring into the area. With careers in psychology
+#. and psychiatry, they functioned as colleagues but also became his protégés.
+#. Additional members of Bill’s support group, from different places and walks
+#. of life, showed up throughout his last ten years in precisely the proper
+#. order. Those closest to him were all ACIM students and formed a family of
+#. sorts; each provided different yet essential elements for his releasing,
+#. healing, comforting, and grounding. The foundation was being laid. Bill had
+#. made a commitment to practice the Course’s version of forgiveness and help
+#. to do so was coalescing. Of course, he had many wonderful friends,
+#. colleagues, and partners during his first fifty-five years, but his goals
+#. then had been more worldly and divided; he had not yet fully dedicated
+#. himself to a spiritual practice. Additionally, many other friends and
+#. acquaintances were part of his California life, important in various ways,
+#. and who undoubtedly contributed to his well-being. The Course clearly
+#. states that there are no accidents—even the briefest encounter is
+#. meaningful and holds the possibility of great healing if we so choose.
+#. Nevertheless, Bill, like everyone, was destined to spend more time with
+#. some than others.
+#: paragraph:1,sentence:1
+msgid ""
+"Early on in California, a coterie of people began to collect around Bill, "
+"all part of a grounding network vital to his continued unfolding, while "
+"mutually facilitating the healing for all concerned."
+msgstr ""
+"Early on in California, a coterie of people began to collect around Bill, "
+"all part of a grounding network vital to his continued unfolding, while "
+"mutually facilitating the healing for all concerned."
+
+#. Context: Early on in California, a coterie of people began to collect
+#. around Bill, all part of a grounding network vital to his continued
+#. unfolding, while mutually facilitating the healing for all concerned. The
+#. initial support group, consisting of Judy and Bob Skutch and Jerry
+#. Jampolsky, was already in place when Bill left New York. With the morning
+#. prayer group, Frances and Roger joined the circle and, along with Jules,
+#. became central to his anchoring into the area. With careers in psychology
+#. and psychiatry, they functioned as colleagues but also became his protégés.
+#. Additional members of Bill’s support group, from different places and walks
+#. of life, showed up throughout his last ten years in precisely the proper
+#. order. Those closest to him were all ACIM students and formed a family of
+#. sorts; each provided different yet essential elements for his releasing,
+#. healing, comforting, and grounding. The foundation was being laid. Bill had
+#. made a commitment to practice the Course’s version of forgiveness and help
+#. to do so was coalescing. Of course, he had many wonderful friends,
+#. colleagues, and partners during his first fifty-five years, but his goals
+#. then had been more worldly and divided; he had not yet fully dedicated
+#. himself to a spiritual practice. Additionally, many other friends and
+#. acquaintances were part of his California life, important in various ways,
+#. and who undoubtedly contributed to his well-being. The Course clearly
+#. states that there are no accidents—even the briefest encounter is
+#. meaningful and holds the possibility of great healing if we so choose.
+#. Nevertheless, Bill, like everyone, was destined to spend more time with
+#. some than others.
+#: paragraph:1,sentence:2
+msgid ""
+"The initial support group, consisting of Judy and Bob Skutch and Jerry "
+"Jampolsky, was already in place when Bill left New York."
+msgstr ""
+"The initial support group, consisting of Judy and Bob Skutch and Jerry "
+"Jampolsky, was already in place when Bill left New York."
+
+#. Context: Early on in California, a coterie of people began to collect
+#. around Bill, all part of a grounding network vital to his continued
+#. unfolding, while mutually facilitating the healing for all concerned. The
+#. initial support group, consisting of Judy and Bob Skutch and Jerry
+#. Jampolsky, was already in place when Bill left New York. With the morning
+#. prayer group, Frances and Roger joined the circle and, along with Jules,
+#. became central to his anchoring into the area. With careers in psychology
+#. and psychiatry, they functioned as colleagues but also became his protégés.
+#. Additional members of Bill’s support group, from different places and walks
+#. of life, showed up throughout his last ten years in precisely the proper
+#. order. Those closest to him were all ACIM students and formed a family of
+#. sorts; each provided different yet essential elements for his releasing,
+#. healing, comforting, and grounding. The foundation was being laid. Bill had
+#. made a commitment to practice the Course’s version of forgiveness and help
+#. to do so was coalescing. Of course, he had many wonderful friends,
+#. colleagues, and partners during his first fifty-five years, but his goals
+#. then had been more worldly and divided; he had not yet fully dedicated
+#. himself to a spiritual practice. Additionally, many other friends and
+#. acquaintances were part of his California life, important in various ways,
+#. and who undoubtedly contributed to his well-being. The Course clearly
+#. states that there are no accidents—even the briefest encounter is
+#. meaningful and holds the possibility of great healing if we so choose.
+#. Nevertheless, Bill, like everyone, was destined to spend more time with
+#. some than others.
+#: paragraph:1,sentence:3
+msgid ""
+"With the morning prayer group, Frances and Roger joined the circle and, "
+"along with Jules, became central to his anchoring into the area."
+msgstr ""
+"With the morning prayer group, Frances and Roger joined the circle and, "
+"along with Jules, became central to his anchoring into the area."
+
+#. Context: Early on in California, a coterie of people began to collect
+#. around Bill, all part of a grounding network vital to his continued
+#. unfolding, while mutually facilitating the healing for all concerned. The
+#. initial support group, consisting of Judy and Bob Skutch and Jerry
+#. Jampolsky, was already in place when Bill left New York. With the morning
+#. prayer group, Frances and Roger joined the circle and, along with Jules,
+#. became central to his anchoring into the area. With careers in psychology
+#. and psychiatry, they functioned as colleagues but also became his protégés.
+#. Additional members of Bill’s support group, from different places and walks
+#. of life, showed up throughout his last ten years in precisely the proper
+#. order. Those closest to him were all ACIM students and formed a family of
+#. sorts; each provided different yet essential elements for his releasing,
+#. healing, comforting, and grounding. The foundation was being laid. Bill had
+#. made a commitment to practice the Course’s version of forgiveness and help
+#. to do so was coalescing. Of course, he had many wonderful friends,
+#. colleagues, and partners during his first fifty-five years, but his goals
+#. then had been more worldly and divided; he had not yet fully dedicated
+#. himself to a spiritual practice. Additionally, many other friends and
+#. acquaintances were part of his California life, important in various ways,
+#. and who undoubtedly contributed to his well-being. The Course clearly
+#. states that there are no accidents—even the briefest encounter is
+#. meaningful and holds the possibility of great healing if we so choose.
+#. Nevertheless, Bill, like everyone, was destined to spend more time with
+#. some than others.
+#: paragraph:1,sentence:4
+msgid ""
+"With careers in psychology and psychiatry, they functioned as colleagues but"
+" also became his protégés."
+msgstr ""
+"With careers in psychology and psychiatry, they functioned as colleagues but"
+" also became his protégés."
+
+#. Context: Early on in California, a coterie of people began to collect
+#. around Bill, all part of a grounding network vital to his continued
+#. unfolding, while mutually facilitating the healing for all concerned. The
+#. initial support group, consisting of Judy and Bob Skutch and Jerry
+#. Jampolsky, was already in place when Bill left New York. With the morning
+#. prayer group, Frances and Roger joined the circle and, along with Jules,
+#. became central to his anchoring into the area. With careers in psychology
+#. and psychiatry, they functioned as colleagues but also became his protégés.
+#. Additional members of Bill’s support group, from different places and walks
+#. of life, showed up throughout his last ten years in precisely the proper
+#. order. Those closest to him were all ACIM students and formed a family of
+#. sorts; each provided different yet essential elements for his releasing,
+#. healing, comforting, and grounding. The foundation was being laid. Bill had
+#. made a commitment to practice the Course’s version of forgiveness and help
+#. to do so was coalescing. Of course, he had many wonderful friends,
+#. colleagues, and partners during his first fifty-five years, but his goals
+#. then had been more worldly and divided; he had not yet fully dedicated
+#. himself to a spiritual practice. Additionally, many other friends and
+#. acquaintances were part of his California life, important in various ways,
+#. and who undoubtedly contributed to his well-being. The Course clearly
+#. states that there are no accidents—even the briefest encounter is
+#. meaningful and holds the possibility of great healing if we so choose.
+#. Nevertheless, Bill, like everyone, was destined to spend more time with
+#. some than others.
+#: paragraph:1,sentence:5
+msgid ""
+"Additional members of Bill’s support group, from different places and walks "
+"of life, showed up throughout his last ten years in precisely the proper "
+"order."
+msgstr ""
+"Additional members of Bill’s support group, from different places and walks "
+"of life, showed up throughout his last ten years in precisely the proper "
+"order."
+
+#. Context: Early on in California, a coterie of people began to collect
+#. around Bill, all part of a grounding network vital to his continued
+#. unfolding, while mutually facilitating the healing for all concerned. The
+#. initial support group, consisting of Judy and Bob Skutch and Jerry
+#. Jampolsky, was already in place when Bill left New York. With the morning
+#. prayer group, Frances and Roger joined the circle and, along with Jules,
+#. became central to his anchoring into the area. With careers in psychology
+#. and psychiatry, they functioned as colleagues but also became his protégés.
+#. Additional members of Bill’s support group, from different places and walks
+#. of life, showed up throughout his last ten years in precisely the proper
+#. order. Those closest to him were all ACIM students and formed a family of
+#. sorts; each provided different yet essential elements for his releasing,
+#. healing, comforting, and grounding. The foundation was being laid. Bill had
+#. made a commitment to practice the Course’s version of forgiveness and help
+#. to do so was coalescing. Of course, he had many wonderful friends,
+#. colleagues, and partners during his first fifty-five years, but his goals
+#. then had been more worldly and divided; he had not yet fully dedicated
+#. himself to a spiritual practice. Additionally, many other friends and
+#. acquaintances were part of his California life, important in various ways,
+#. and who undoubtedly contributed to his well-being. The Course clearly
+#. states that there are no accidents—even the briefest encounter is
+#. meaningful and holds the possibility of great healing if we so choose.
+#. Nevertheless, Bill, like everyone, was destined to spend more time with
+#. some than others.
+#: paragraph:1,sentence:6
+msgid ""
+"Those closest to him were all ACIM students and formed a family of sorts; "
+"each provided different yet essential elements for his releasing, healing, "
+"comforting, and grounding."
+msgstr ""
+"Those closest to him were all ACIM students and formed a family of sorts; "
+"each provided different yet essential elements for his releasing, healing, "
+"comforting, and grounding."
+
+#. Context: Early on in California, a coterie of people began to collect
+#. around Bill, all part of a grounding network vital to his continued
+#. unfolding, while mutually facilitating the healing for all concerned. The
+#. initial support group, consisting of Judy and Bob Skutch and Jerry
+#. Jampolsky, was already in place when Bill left New York. With the morning
+#. prayer group, Frances and Roger joined the circle and, along with Jules,
+#. became central to his anchoring into the area. With careers in psychology
+#. and psychiatry, they functioned as colleagues but also became his protégés.
+#. Additional members of Bill’s support group, from different places and walks
+#. of life, showed up throughout his last ten years in precisely the proper
+#. order. Those closest to him were all ACIM students and formed a family of
+#. sorts; each provided different yet essential elements for his releasing,
+#. healing, comforting, and grounding. The foundation was being laid. Bill had
+#. made a commitment to practice the Course’s version of forgiveness and help
+#. to do so was coalescing. Of course, he had many wonderful friends,
+#. colleagues, and partners during his first fifty-five years, but his goals
+#. then had been more worldly and divided; he had not yet fully dedicated
+#. himself to a spiritual practice. Additionally, many other friends and
+#. acquaintances were part of his California life, important in various ways,
+#. and who undoubtedly contributed to his well-being. The Course clearly
+#. states that there are no accidents—even the briefest encounter is
+#. meaningful and holds the possibility of great healing if we so choose.
+#. Nevertheless, Bill, like everyone, was destined to spend more time with
+#. some than others.
+#: paragraph:1,sentence:7
+msgid "The foundation was being laid."
+msgstr "The foundation was being laid."
+
+#. Context: Early on in California, a coterie of people began to collect
+#. around Bill, all part of a grounding network vital to his continued
+#. unfolding, while mutually facilitating the healing for all concerned. The
+#. initial support group, consisting of Judy and Bob Skutch and Jerry
+#. Jampolsky, was already in place when Bill left New York. With the morning
+#. prayer group, Frances and Roger joined the circle and, along with Jules,
+#. became central to his anchoring into the area. With careers in psychology
+#. and psychiatry, they functioned as colleagues but also became his protégés.
+#. Additional members of Bill’s support group, from different places and walks
+#. of life, showed up throughout his last ten years in precisely the proper
+#. order. Those closest to him were all ACIM students and formed a family of
+#. sorts; each provided different yet essential elements for his releasing,
+#. healing, comforting, and grounding. The foundation was being laid. Bill had
+#. made a commitment to practice the Course’s version of forgiveness and help
+#. to do so was coalescing. Of course, he had many wonderful friends,
+#. colleagues, and partners during his first fifty-five years, but his goals
+#. then had been more worldly and divided; he had not yet fully dedicated
+#. himself to a spiritual practice. Additionally, many other friends and
+#. acquaintances were part of his California life, important in various ways,
+#. and who undoubtedly contributed to his well-being. The Course clearly
+#. states that there are no accidents—even the briefest encounter is
+#. meaningful and holds the possibility of great healing if we so choose.
+#. Nevertheless, Bill, like everyone, was destined to spend more time with
+#. some than others.
+#: paragraph:1,sentence:8
+msgid ""
+"Bill had made a commitment to practice the Course’s version of forgiveness "
+"and help to do so was coalescing."
+msgstr ""
+"Bill had made a commitment to practice the Course’s version of forgiveness "
+"and help to do so was coalescing."
+
+#. Context: Early on in California, a coterie of people began to collect
+#. around Bill, all part of a grounding network vital to his continued
+#. unfolding, while mutually facilitating the healing for all concerned. The
+#. initial support group, consisting of Judy and Bob Skutch and Jerry
+#. Jampolsky, was already in place when Bill left New York. With the morning
+#. prayer group, Frances and Roger joined the circle and, along with Jules,
+#. became central to his anchoring into the area. With careers in psychology
+#. and psychiatry, they functioned as colleagues but also became his protégés.
+#. Additional members of Bill’s support group, from different places and walks
+#. of life, showed up throughout his last ten years in precisely the proper
+#. order. Those closest to him were all ACIM students and formed a family of
+#. sorts; each provided different yet essential elements for his releasing,
+#. healing, comforting, and grounding. The foundation was being laid. Bill had
+#. made a commitment to practice the Course’s version of forgiveness and help
+#. to do so was coalescing. Of course, he had many wonderful friends,
+#. colleagues, and partners during his first fifty-five years, but his goals
+#. then had been more worldly and divided; he had not yet fully dedicated
+#. himself to a spiritual practice. Additionally, many other friends and
+#. acquaintances were part of his California life, important in various ways,
+#. and who undoubtedly contributed to his well-being. The Course clearly
+#. states that there are no accidents—even the briefest encounter is
+#. meaningful and holds the possibility of great healing if we so choose.
+#. Nevertheless, Bill, like everyone, was destined to spend more time with
+#. some than others.
+#: paragraph:1,sentence:9
+msgid ""
+"Of course, he had many wonderful friends, colleagues, and partners during "
+"his first fifty-five years, but his goals then had been more worldly and "
+"divided; he had not yet fully dedicated himself to a spiritual practice."
+msgstr ""
+"Of course, he had many wonderful friends, colleagues, and partners during "
+"his first fifty-five years, but his goals then had been more worldly and "
+"divided; he had not yet fully dedicated himself to a spiritual practice."
+
+#. Context: Early on in California, a coterie of people began to collect
+#. around Bill, all part of a grounding network vital to his continued
+#. unfolding, while mutually facilitating the healing for all concerned. The
+#. initial support group, consisting of Judy and Bob Skutch and Jerry
+#. Jampolsky, was already in place when Bill left New York. With the morning
+#. prayer group, Frances and Roger joined the circle and, along with Jules,
+#. became central to his anchoring into the area. With careers in psychology
+#. and psychiatry, they functioned as colleagues but also became his protégés.
+#. Additional members of Bill’s support group, from different places and walks
+#. of life, showed up throughout his last ten years in precisely the proper
+#. order. Those closest to him were all ACIM students and formed a family of
+#. sorts; each provided different yet essential elements for his releasing,
+#. healing, comforting, and grounding. The foundation was being laid. Bill had
+#. made a commitment to practice the Course’s version of forgiveness and help
+#. to do so was coalescing. Of course, he had many wonderful friends,
+#. colleagues, and partners during his first fifty-five years, but his goals
+#. then had been more worldly and divided; he had not yet fully dedicated
+#. himself to a spiritual practice. Additionally, many other friends and
+#. acquaintances were part of his California life, important in various ways,
+#. and who undoubtedly contributed to his well-being. The Course clearly
+#. states that there are no accidents—even the briefest encounter is
+#. meaningful and holds the possibility of great healing if we so choose.
+#. Nevertheless, Bill, like everyone, was destined to spend more time with
+#. some than others.
+#: paragraph:1,sentence:10
+msgid ""
+"Additionally, many other friends and acquaintances were part of his "
+"California life, important in various ways, and who undoubtedly contributed "
+"to his well-being."
+msgstr ""
+"Additionally, many other friends and acquaintances were part of his "
+"California life, important in various ways, and who undoubtedly contributed "
+"to his well-being."
+
+#. Context: Early on in California, a coterie of people began to collect
+#. around Bill, all part of a grounding network vital to his continued
+#. unfolding, while mutually facilitating the healing for all concerned. The
+#. initial support group, consisting of Judy and Bob Skutch and Jerry
+#. Jampolsky, was already in place when Bill left New York. With the morning
+#. prayer group, Frances and Roger joined the circle and, along with Jules,
+#. became central to his anchoring into the area. With careers in psychology
+#. and psychiatry, they functioned as colleagues but also became his protégés.
+#. Additional members of Bill’s support group, from different places and walks
+#. of life, showed up throughout his last ten years in precisely the proper
+#. order. Those closest to him were all ACIM students and formed a family of
+#. sorts; each provided different yet essential elements for his releasing,
+#. healing, comforting, and grounding. The foundation was being laid. Bill had
+#. made a commitment to practice the Course’s version of forgiveness and help
+#. to do so was coalescing. Of course, he had many wonderful friends,
+#. colleagues, and partners during his first fifty-five years, but his goals
+#. then had been more worldly and divided; he had not yet fully dedicated
+#. himself to a spiritual practice. Additionally, many other friends and
+#. acquaintances were part of his California life, important in various ways,
+#. and who undoubtedly contributed to his well-being. The Course clearly
+#. states that there are no accidents—even the briefest encounter is
+#. meaningful and holds the possibility of great healing if we so choose.
+#. Nevertheless, Bill, like everyone, was destined to spend more time with
+#. some than others.
+#: paragraph:1,sentence:11
+msgid ""
+"The Course clearly states that there are no accidents—even the briefest "
+"encounter is meaningful and holds the possibility of great healing if we so "
+"choose."
+msgstr ""
+"The Course clearly states that there are no accidents—even the briefest "
+"encounter is meaningful and holds the possibility of great healing if we so "
+"choose."
+
+#. Context: Early on in California, a coterie of people began to collect
+#. around Bill, all part of a grounding network vital to his continued
+#. unfolding, while mutually facilitating the healing for all concerned. The
+#. initial support group, consisting of Judy and Bob Skutch and Jerry
+#. Jampolsky, was already in place when Bill left New York. With the morning
+#. prayer group, Frances and Roger joined the circle and, along with Jules,
+#. became central to his anchoring into the area. With careers in psychology
+#. and psychiatry, they functioned as colleagues but also became his protégés.
+#. Additional members of Bill’s support group, from different places and walks
+#. of life, showed up throughout his last ten years in precisely the proper
+#. order. Those closest to him were all ACIM students and formed a family of
+#. sorts; each provided different yet essential elements for his releasing,
+#. healing, comforting, and grounding. The foundation was being laid. Bill had
+#. made a commitment to practice the Course’s version of forgiveness and help
+#. to do so was coalescing. Of course, he had many wonderful friends,
+#. colleagues, and partners during his first fifty-five years, but his goals
+#. then had been more worldly and divided; he had not yet fully dedicated
+#. himself to a spiritual practice. Additionally, many other friends and
+#. acquaintances were part of his California life, important in various ways,
+#. and who undoubtedly contributed to his well-being. The Course clearly
+#. states that there are no accidents—even the briefest encounter is
+#. meaningful and holds the possibility of great healing if we so choose.
+#. Nevertheless, Bill, like everyone, was destined to spend more time with
+#. some than others.
+#: paragraph:1,sentence:12
+msgid ""
+"Nevertheless, Bill, like everyone, was destined to spend more time with some"
+" than others."
+msgstr ""
+"Nevertheless, Bill, like everyone, was destined to spend more time with some"
+" than others."
+
+#. Context: In the channeled reading he gave Bill in 1980, LeRoy Zemke
+#. predicted that key people would be drawn into his life to provide energy
+#. for his transformation and that being open to allowing them in would bring
+#. healing. At the time of this reading, Bill had met some, but not all, of
+#. those persons with whom he would spend significant time during his last ten
+#. years.
+#: paragraph:2,sentence:1
+msgid ""
+"In the channeled reading he gave Bill in 1980, LeRoy Zemke predicted that "
+"key people would be drawn into his life to provide energy for his "
+"transformation and that being open to allowing them in would bring healing."
+msgstr ""
+"In the channeled reading he gave Bill in 1980, LeRoy Zemke predicted that "
+"key people would be drawn into his life to provide energy for his "
+"transformation and that being open to allowing them in would bring healing."
+
+#. Context: In the channeled reading he gave Bill in 1980, LeRoy Zemke
+#. predicted that key people would be drawn into his life to provide energy
+#. for his transformation and that being open to allowing them in would bring
+#. healing. At the time of this reading, Bill had met some, but not all, of
+#. those persons with whom he would spend significant time during his last ten
+#. years.
+#: paragraph:2,sentence:2
+msgid ""
+"At the time of this reading, Bill had met some, but not all, of those "
+"persons with whom he would spend significant time during his last ten years."
+msgstr ""
+"At the time of this reading, Bill had met some, but not all, of those "
+"persons with whom he would spend significant time during his last ten years."
+
+#. Context: Each of the persons you have mentioned [Bill had given him seven
+#. names] are parts of the pattern, are like keys in a pattern that will help
+#. you. There are many who will help you. What you must be willing to do is to
+#. allow them space in your life to assume some of the weight, some of the
+#. responsibility that is emerging. You, as you know, have an infinitely
+#. careful, painstaking quality about yourself. Whatever you attend to, you
+#. can very easily accomplish. . . . Now as these people appear, they have
+#. volunteered out of the love they bear for you and/or the larger essence of
+#. what has emerged, to dedicate a portion of their being to implementing that
+#. dimension. As you give them opportunity to assume the work, they will do
+#. it. And thus, what you can do involves a giving, both in the form of
+#. guidance and ideas that need to be set into motion, and secondly, the
+#. energy from your own being expressed as love.[9]
+#: paragraph:3,sentence:1
+msgid ""
+"Each of the persons you have mentioned [Bill had given him seven names] are "
+"parts of the pattern, are like keys in a pattern that will help you."
+msgstr ""
+"Each of the persons you have mentioned [Bill had given him seven names] are "
+"parts of the pattern, are like keys in a pattern that will help you."
+
+#. Context: Each of the persons you have mentioned [Bill had given him seven
+#. names] are parts of the pattern, are like keys in a pattern that will help
+#. you. There are many who will help you. What you must be willing to do is to
+#. allow them space in your life to assume some of the weight, some of the
+#. responsibility that is emerging. You, as you know, have an infinitely
+#. careful, painstaking quality about yourself. Whatever you attend to, you
+#. can very easily accomplish. . . . Now as these people appear, they have
+#. volunteered out of the love they bear for you and/or the larger essence of
+#. what has emerged, to dedicate a portion of their being to implementing that
+#. dimension. As you give them opportunity to assume the work, they will do
+#. it. And thus, what you can do involves a giving, both in the form of
+#. guidance and ideas that need to be set into motion, and secondly, the
+#. energy from your own being expressed as love.[9]
+#: paragraph:3,sentence:2
+msgid "There are many who will help you."
+msgstr "There are many who will help you."
+
+#. Context: Each of the persons you have mentioned [Bill had given him seven
+#. names] are parts of the pattern, are like keys in a pattern that will help
+#. you. There are many who will help you. What you must be willing to do is to
+#. allow them space in your life to assume some of the weight, some of the
+#. responsibility that is emerging. You, as you know, have an infinitely
+#. careful, painstaking quality about yourself. Whatever you attend to, you
+#. can very easily accomplish. . . . Now as these people appear, they have
+#. volunteered out of the love they bear for you and/or the larger essence of
+#. what has emerged, to dedicate a portion of their being to implementing that
+#. dimension. As you give them opportunity to assume the work, they will do
+#. it. And thus, what you can do involves a giving, both in the form of
+#. guidance and ideas that need to be set into motion, and secondly, the
+#. energy from your own being expressed as love.[9]
+#: paragraph:3,sentence:3
+msgid ""
+"What you must be willing to do is to allow them space in your life to assume"
+" some of the weight, some of the responsibility that is emerging."
+msgstr ""
+"What you must be willing to do is to allow them space in your life to assume"
+" some of the weight, some of the responsibility that is emerging."
+
+#. Context: Each of the persons you have mentioned [Bill had given him seven
+#. names] are parts of the pattern, are like keys in a pattern that will help
+#. you. There are many who will help you. What you must be willing to do is to
+#. allow them space in your life to assume some of the weight, some of the
+#. responsibility that is emerging. You, as you know, have an infinitely
+#. careful, painstaking quality about yourself. Whatever you attend to, you
+#. can very easily accomplish. . . . Now as these people appear, they have
+#. volunteered out of the love they bear for you and/or the larger essence of
+#. what has emerged, to dedicate a portion of their being to implementing that
+#. dimension. As you give them opportunity to assume the work, they will do
+#. it. And thus, what you can do involves a giving, both in the form of
+#. guidance and ideas that need to be set into motion, and secondly, the
+#. energy from your own being expressed as love.[9]
+#: paragraph:3,sentence:4
+msgid ""
+"You, as you know, have an infinitely careful, painstaking quality about "
+"yourself."
+msgstr ""
+"You, as you know, have an infinitely careful, painstaking quality about "
+"yourself."
+
+#. Context: Each of the persons you have mentioned [Bill had given him seven
+#. names] are parts of the pattern, are like keys in a pattern that will help
+#. you. There are many who will help you. What you must be willing to do is to
+#. allow them space in your life to assume some of the weight, some of the
+#. responsibility that is emerging. You, as you know, have an infinitely
+#. careful, painstaking quality about yourself. Whatever you attend to, you
+#. can very easily accomplish. . . . Now as these people appear, they have
+#. volunteered out of the love they bear for you and/or the larger essence of
+#. what has emerged, to dedicate a portion of their being to implementing that
+#. dimension. As you give them opportunity to assume the work, they will do
+#. it. And thus, what you can do involves a giving, both in the form of
+#. guidance and ideas that need to be set into motion, and secondly, the
+#. energy from your own being expressed as love.[9]
+#: paragraph:3,sentence:5
+msgid "Whatever you attend to, you can very easily accomplish. . . ."
+msgstr "Whatever you attend to, you can very easily accomplish. . . ."
+
+#. Context: Each of the persons you have mentioned [Bill had given him seven
+#. names] are parts of the pattern, are like keys in a pattern that will help
+#. you. There are many who will help you. What you must be willing to do is to
+#. allow them space in your life to assume some of the weight, some of the
+#. responsibility that is emerging. You, as you know, have an infinitely
+#. careful, painstaking quality about yourself. Whatever you attend to, you
+#. can very easily accomplish. . . . Now as these people appear, they have
+#. volunteered out of the love they bear for you and/or the larger essence of
+#. what has emerged, to dedicate a portion of their being to implementing that
+#. dimension. As you give them opportunity to assume the work, they will do
+#. it. And thus, what you can do involves a giving, both in the form of
+#. guidance and ideas that need to be set into motion, and secondly, the
+#. energy from your own being expressed as love.[9]
+#: paragraph:3,sentence:6
+msgid ""
+"Now as these people appear, they have volunteered out of the love they bear "
+"for you and/or the larger essence of what has emerged, to dedicate a portion"
+" of their being to implementing that dimension."
+msgstr ""
+"Now as these people appear, they have volunteered out of the love they bear "
+"for you and/or the larger essence of what has emerged, to dedicate a portion"
+" of their being to implementing that dimension."
+
+#. Context: Each of the persons you have mentioned [Bill had given him seven
+#. names] are parts of the pattern, are like keys in a pattern that will help
+#. you. There are many who will help you. What you must be willing to do is to
+#. allow them space in your life to assume some of the weight, some of the
+#. responsibility that is emerging. You, as you know, have an infinitely
+#. careful, painstaking quality about yourself. Whatever you attend to, you
+#. can very easily accomplish. . . . Now as these people appear, they have
+#. volunteered out of the love they bear for you and/or the larger essence of
+#. what has emerged, to dedicate a portion of their being to implementing that
+#. dimension. As you give them opportunity to assume the work, they will do
+#. it. And thus, what you can do involves a giving, both in the form of
+#. guidance and ideas that need to be set into motion, and secondly, the
+#. energy from your own being expressed as love.[9]
+#: paragraph:3,sentence:7
+msgid "As you give them opportunity to assume the work, they will do it."
+msgstr "As you give them opportunity to assume the work, they will do it."
+
+#. Context: Each of the persons you have mentioned [Bill had given him seven
+#. names] are parts of the pattern, are like keys in a pattern that will help
+#. you. There are many who will help you. What you must be willing to do is to
+#. allow them space in your life to assume some of the weight, some of the
+#. responsibility that is emerging. You, as you know, have an infinitely
+#. careful, painstaking quality about yourself. Whatever you attend to, you
+#. can very easily accomplish. . . . Now as these people appear, they have
+#. volunteered out of the love they bear for you and/or the larger essence of
+#. what has emerged, to dedicate a portion of their being to implementing that
+#. dimension. As you give them opportunity to assume the work, they will do
+#. it. And thus, what you can do involves a giving, both in the form of
+#. guidance and ideas that need to be set into motion, and secondly, the
+#. energy from your own being expressed as love.[9]
+#: paragraph:3,sentence:8
+msgid ""
+"And thus, what you can do involves a giving, both in the form of guidance "
+"and ideas that need to be set into motion, and secondly, the energy from "
+"your own being expressed as love.[9]"
+msgstr ""
+"And thus, what you can do involves a giving, both in the form of guidance "
+"and ideas that need to be set into motion, and secondly, the energy from "
+"your own being expressed as love.[9]"
+
+#. Context: As Bill spent focused time with some, and then moved on to the
+#. next person or group, release was occurring.
+#: paragraph:4,sentence:1
+msgid ""
+"As Bill spent focused time with some, and then moved on to the next person "
+"or group, release was occurring."
+msgstr ""
+"As Bill spent focused time with some, and then moved on to the next person "
+"or group, release was occurring."
+
+#. Context: Once you accept His plan as the one function that you would
+#. fulfill, there will be nothing else the Holy Spirit will not arrange for
+#. you without your effort. He will go before you making straight your path,
+#. and leaving in your way no stones to trip on, and no obstacles to bar your
+#. way. Nothing you need will be denied you. Not one seeming difficulty but
+#. will melt away before you reach it. You need take thought for nothing,
+#. careless of everything except the only purpose that you would fulfill. As
+#. that was given you, so will its fulfillment be.[10]
+#: paragraph:5,sentence:1
+msgid ""
+"Once you accept His plan as the one function that you would fulfill, there "
+"will be nothing else the Holy Spirit will not arrange for you without your "
+"effort."
+msgstr ""
+"Once you accept His plan as the one function that you would fulfill, there "
+"will be nothing else the Holy Spirit will not arrange for you without your "
+"effort."
+
+#. Context: Once you accept His plan as the one function that you would
+#. fulfill, there will be nothing else the Holy Spirit will not arrange for
+#. you without your effort. He will go before you making straight your path,
+#. and leaving in your way no stones to trip on, and no obstacles to bar your
+#. way. Nothing you need will be denied you. Not one seeming difficulty but
+#. will melt away before you reach it. You need take thought for nothing,
+#. careless of everything except the only purpose that you would fulfill. As
+#. that was given you, so will its fulfillment be.[10]
+#: paragraph:5,sentence:2
+msgid ""
+"He will go before you making straight your path, and leaving in your way no "
+"stones to trip on, and no obstacles to bar your way."
+msgstr ""
+"He will go before you making straight your path, and leaving in your way no "
+"stones to trip on, and no obstacles to bar your way."
+
+#. Context: Once you accept His plan as the one function that you would
+#. fulfill, there will be nothing else the Holy Spirit will not arrange for
+#. you without your effort. He will go before you making straight your path,
+#. and leaving in your way no stones to trip on, and no obstacles to bar your
+#. way. Nothing you need will be denied you. Not one seeming difficulty but
+#. will melt away before you reach it. You need take thought for nothing,
+#. careless of everything except the only purpose that you would fulfill. As
+#. that was given you, so will its fulfillment be.[10]
+#: paragraph:5,sentence:3
+msgid "Nothing you need will be denied you."
+msgstr "Nothing you need will be denied you."
+
+#. Context: Once you accept His plan as the one function that you would
+#. fulfill, there will be nothing else the Holy Spirit will not arrange for
+#. you without your effort. He will go before you making straight your path,
+#. and leaving in your way no stones to trip on, and no obstacles to bar your
+#. way. Nothing you need will be denied you. Not one seeming difficulty but
+#. will melt away before you reach it. You need take thought for nothing,
+#. careless of everything except the only purpose that you would fulfill. As
+#. that was given you, so will its fulfillment be.[10]
+#: paragraph:5,sentence:4
+msgid "Not one seeming difficulty but will melt away before you reach it."
+msgstr "Not one seeming difficulty but will melt away before you reach it."
+
+#. Context: Once you accept His plan as the one function that you would
+#. fulfill, there will be nothing else the Holy Spirit will not arrange for
+#. you without your effort. He will go before you making straight your path,
+#. and leaving in your way no stones to trip on, and no obstacles to bar your
+#. way. Nothing you need will be denied you. Not one seeming difficulty but
+#. will melt away before you reach it. You need take thought for nothing,
+#. careless of everything except the only purpose that you would fulfill. As
+#. that was given you, so will its fulfillment be.[10]
+#: paragraph:5,sentence:5
+msgid ""
+"You need take thought for nothing, careless of everything except the only "
+"purpose that you would fulfill."
+msgstr ""
+"You need take thought for nothing, careless of everything except the only "
+"purpose that you would fulfill."
+
+#. Context: Once you accept His plan as the one function that you would
+#. fulfill, there will be nothing else the Holy Spirit will not arrange for
+#. you without your effort. He will go before you making straight your path,
+#. and leaving in your way no stones to trip on, and no obstacles to bar your
+#. way. Nothing you need will be denied you. Not one seeming difficulty but
+#. will melt away before you reach it. You need take thought for nothing,
+#. careless of everything except the only purpose that you would fulfill. As
+#. that was given you, so will its fulfillment be.[10]
+#: paragraph:5,sentence:6
+msgid "As that was given you, so will its fulfillment be.[10]"
+msgstr "As that was given you, so will its fulfillment be.[10]"
+
+#. Context: Bill had accepted that plan and, as promised, help was always
+#. there when he needed it. Zemke also commented, less than two years after
+#. Bill’s move west, “The most important, perhaps, of all directions or
+#. aspects at present in your life is to ground the physical form, to allow
+#. yourself to connect with the earth and with the water, to experience a
+#. harmony with the basic elements within the world . . . and thus provide a
+#. more smooth transition for all the work unfolding.”[11]
+#: paragraph:6,sentence:1
+msgid ""
+"Bill had accepted that plan and, as promised, help was always there when he "
+"needed it."
+msgstr ""
+"Bill had accepted that plan and, as promised, help was always there when he "
+"needed it."
+
+#. Context: Bill had accepted that plan and, as promised, help was always
+#. there when he needed it. Zemke also commented, less than two years after
+#. Bill’s move west, “The most important, perhaps, of all directions or
+#. aspects at present in your life is to ground the physical form, to allow
+#. yourself to connect with the earth and with the water, to experience a
+#. harmony with the basic elements within the world . . . and thus provide a
+#. more smooth transition for all the work unfolding.”[11]
+#: paragraph:6,sentence:2
+msgid ""
+"Zemke also commented, less than two years after Bill’s move west, “The most "
+"important, perhaps, of all directions or aspects at present in your life is "
+"to ground the physical form, to allow yourself to connect with the earth and"
+" with the water, to experience a harmony with the basic elements within the "
+"world . . . and thus provide a more smooth transition for all the work "
+"unfolding.”[11]"
+msgstr ""
+"Zemke also commented, less than two years after Bill’s move west, “The most "
+"important, perhaps, of all directions or aspects at present in your life is "
+"to ground the physical form, to allow yourself to connect with the earth and"
+" with the water, to experience a harmony with the basic elements within the "
+"world . . . and thus provide a more smooth transition for all the work "
+"unfolding.”[11]"
+
+#. Context: Bill’s first priorities in Tiburon were to settle in, reestablish
+#. a sense of stability and security after decades of daily structure, and to
+#. meet concrete, worldly needs. Sufficient financial support and anchoring
+#. into normal everyday life required attention. Bill was skilled in many ways
+#. and adept at negotiating the labyrinth of academic power, but he did not
+#. operate comfortably in ordinary daily life. He needed routine and support
+#. to function effectively in this world, to keep his feet planted on the
+#. earth. For instance, Bill had contributed to his TIAA-CREF retirement fund
+#. while at Columbia, but had forgotten to apply for his benefits when he
+#. retired. When Pat Hopkins (who entered his life later) found out about this
+#. in 1984 through a conversation with Cal Hatcher, she helped him apply for
+#. his benefits, significantly increasing his monthly income. Despite chairing
+#. a department with a large staff and sizable budget, he was quite detached
+#. when it came to personal finances. Jack Luckett corroborates:
+#: paragraph:7,sentence:1
+msgid ""
+"Bill’s first priorities in Tiburon were to settle in, reestablish a sense of"
+" stability and security after decades of daily structure, and to meet "
+"concrete, worldly needs."
+msgstr ""
+"Bill’s first priorities in Tiburon were to settle in, reestablish a sense of"
+" stability and security after decades of daily structure, and to meet "
+"concrete, worldly needs."
+
+#. Context: Bill’s first priorities in Tiburon were to settle in, reestablish
+#. a sense of stability and security after decades of daily structure, and to
+#. meet concrete, worldly needs. Sufficient financial support and anchoring
+#. into normal everyday life required attention. Bill was skilled in many ways
+#. and adept at negotiating the labyrinth of academic power, but he did not
+#. operate comfortably in ordinary daily life. He needed routine and support
+#. to function effectively in this world, to keep his feet planted on the
+#. earth. For instance, Bill had contributed to his TIAA-CREF retirement fund
+#. while at Columbia, but had forgotten to apply for his benefits when he
+#. retired. When Pat Hopkins (who entered his life later) found out about this
+#. in 1984 through a conversation with Cal Hatcher, she helped him apply for
+#. his benefits, significantly increasing his monthly income. Despite chairing
+#. a department with a large staff and sizable budget, he was quite detached
+#. when it came to personal finances. Jack Luckett corroborates:
+#: paragraph:7,sentence:2
+msgid ""
+"Sufficient financial support and anchoring into normal everyday life "
+"required attention."
+msgstr ""
+"Sufficient financial support and anchoring into normal everyday life "
+"required attention."
+
+#. Context: Bill’s first priorities in Tiburon were to settle in, reestablish
+#. a sense of stability and security after decades of daily structure, and to
+#. meet concrete, worldly needs. Sufficient financial support and anchoring
+#. into normal everyday life required attention. Bill was skilled in many ways
+#. and adept at negotiating the labyrinth of academic power, but he did not
+#. operate comfortably in ordinary daily life. He needed routine and support
+#. to function effectively in this world, to keep his feet planted on the
+#. earth. For instance, Bill had contributed to his TIAA-CREF retirement fund
+#. while at Columbia, but had forgotten to apply for his benefits when he
+#. retired. When Pat Hopkins (who entered his life later) found out about this
+#. in 1984 through a conversation with Cal Hatcher, she helped him apply for
+#. his benefits, significantly increasing his monthly income. Despite chairing
+#. a department with a large staff and sizable budget, he was quite detached
+#. when it came to personal finances. Jack Luckett corroborates:
+#: paragraph:7,sentence:3
+msgid ""
+"Bill was skilled in many ways and adept at negotiating the labyrinth of "
+"academic power, but he did not operate comfortably in ordinary daily life."
+msgstr ""
+"Bill was skilled in many ways and adept at negotiating the labyrinth of "
+"academic power, but he did not operate comfortably in ordinary daily life."
+
+#. Context: Bill’s first priorities in Tiburon were to settle in, reestablish
+#. a sense of stability and security after decades of daily structure, and to
+#. meet concrete, worldly needs. Sufficient financial support and anchoring
+#. into normal everyday life required attention. Bill was skilled in many ways
+#. and adept at negotiating the labyrinth of academic power, but he did not
+#. operate comfortably in ordinary daily life. He needed routine and support
+#. to function effectively in this world, to keep his feet planted on the
+#. earth. For instance, Bill had contributed to his TIAA-CREF retirement fund
+#. while at Columbia, but had forgotten to apply for his benefits when he
+#. retired. When Pat Hopkins (who entered his life later) found out about this
+#. in 1984 through a conversation with Cal Hatcher, she helped him apply for
+#. his benefits, significantly increasing his monthly income. Despite chairing
+#. a department with a large staff and sizable budget, he was quite detached
+#. when it came to personal finances. Jack Luckett corroborates:
+#: paragraph:7,sentence:4
+msgid ""
+"He needed routine and support to function effectively in this world, to keep"
+" his feet planted on the earth."
+msgstr ""
+"He needed routine and support to function effectively in this world, to keep"
+" his feet planted on the earth."
+
+#. Context: Bill’s first priorities in Tiburon were to settle in, reestablish
+#. a sense of stability and security after decades of daily structure, and to
+#. meet concrete, worldly needs. Sufficient financial support and anchoring
+#. into normal everyday life required attention. Bill was skilled in many ways
+#. and adept at negotiating the labyrinth of academic power, but he did not
+#. operate comfortably in ordinary daily life. He needed routine and support
+#. to function effectively in this world, to keep his feet planted on the
+#. earth. For instance, Bill had contributed to his TIAA-CREF retirement fund
+#. while at Columbia, but had forgotten to apply for his benefits when he
+#. retired. When Pat Hopkins (who entered his life later) found out about this
+#. in 1984 through a conversation with Cal Hatcher, she helped him apply for
+#. his benefits, significantly increasing his monthly income. Despite chairing
+#. a department with a large staff and sizable budget, he was quite detached
+#. when it came to personal finances. Jack Luckett corroborates:
+#: paragraph:7,sentence:5
+msgid ""
+"For instance, Bill had contributed to his TIAA-CREF retirement fund while at"
+" Columbia, but had forgotten to apply for his benefits when he retired."
+msgstr ""
+"For instance, Bill had contributed to his TIAA-CREF retirement fund while at"
+" Columbia, but had forgotten to apply for his benefits when he retired."
+
+#. Context: Bill’s first priorities in Tiburon were to settle in, reestablish
+#. a sense of stability and security after decades of daily structure, and to
+#. meet concrete, worldly needs. Sufficient financial support and anchoring
+#. into normal everyday life required attention. Bill was skilled in many ways
+#. and adept at negotiating the labyrinth of academic power, but he did not
+#. operate comfortably in ordinary daily life. He needed routine and support
+#. to function effectively in this world, to keep his feet planted on the
+#. earth. For instance, Bill had contributed to his TIAA-CREF retirement fund
+#. while at Columbia, but had forgotten to apply for his benefits when he
+#. retired. When Pat Hopkins (who entered his life later) found out about this
+#. in 1984 through a conversation with Cal Hatcher, she helped him apply for
+#. his benefits, significantly increasing his monthly income. Despite chairing
+#. a department with a large staff and sizable budget, he was quite detached
+#. when it came to personal finances. Jack Luckett corroborates:
+#: paragraph:7,sentence:6
+msgid ""
+"When Pat Hopkins (who entered his life later) found out about this in 1984 "
+"through a conversation with Cal Hatcher, she helped him apply for his "
+"benefits, significantly increasing his monthly income."
+msgstr ""
+"When Pat Hopkins (who entered his life later) found out about this in 1984 "
+"through a conversation with Cal Hatcher, she helped him apply for his "
+"benefits, significantly increasing his monthly income."
+
+#. Context: Bill’s first priorities in Tiburon were to settle in, reestablish
+#. a sense of stability and security after decades of daily structure, and to
+#. meet concrete, worldly needs. Sufficient financial support and anchoring
+#. into normal everyday life required attention. Bill was skilled in many ways
+#. and adept at negotiating the labyrinth of academic power, but he did not
+#. operate comfortably in ordinary daily life. He needed routine and support
+#. to function effectively in this world, to keep his feet planted on the
+#. earth. For instance, Bill had contributed to his TIAA-CREF retirement fund
+#. while at Columbia, but had forgotten to apply for his benefits when he
+#. retired. When Pat Hopkins (who entered his life later) found out about this
+#. in 1984 through a conversation with Cal Hatcher, she helped him apply for
+#. his benefits, significantly increasing his monthly income. Despite chairing
+#. a department with a large staff and sizable budget, he was quite detached
+#. when it came to personal finances. Jack Luckett corroborates:
+#: paragraph:7,sentence:7
+msgid ""
+"Despite chairing a department with a large staff and sizable budget, he was "
+"quite detached when it came to personal finances. Jack Luckett corroborates:"
+msgstr ""
+"Despite chairing a department with a large staff and sizable budget, he was "
+"quite detached when it came to personal finances. Jack Luckett corroborates:"
+
+#. Context: First, he was brilliant in abstract thought and analysis. No
+#. question. He could go right to the center of an issue and understand it
+#. instantly. And the more abstract it was, the easier it was for him to see
+#. right into it. It’s why he was such a fantastic psychologist. But he was
+#. not well grounded in this world. Now that means relating to food, clothing,
+#. directions, appliances, electronic gear, politics, gardening, animals, and
+#. children. He did not have a clue about these things. He was not comfortable
+#. with and did not understand the governmental political process. He was a
+#. great faker. Because of this, he would establish routines in his life,
+#. probably because he’d been laughed at earlier. When he found something that
+#. worked, he would stick with it, make a routine of it. He told me that for
+#. fifteen years, he ate at the same restaurant with the same waitress at the
+#. same table, ate the same meal every night, except when he was asked out by
+#. others. I said, “Didn’t you ever want to go to a different restaurant?” and
+#. he answered that, no, he knew this place, knew where it was. Can you
+#. imagine that?
+#: paragraph:8,sentence:1
+msgid "First, he was brilliant in abstract thought and analysis. No question."
+msgstr ""
+"First, he was brilliant in abstract thought and analysis. No question."
+
+#. Context: First, he was brilliant in abstract thought and analysis. No
+#. question. He could go right to the center of an issue and understand it
+#. instantly. And the more abstract it was, the easier it was for him to see
+#. right into it. It’s why he was such a fantastic psychologist. But he was
+#. not well grounded in this world. Now that means relating to food, clothing,
+#. directions, appliances, electronic gear, politics, gardening, animals, and
+#. children. He did not have a clue about these things. He was not comfortable
+#. with and did not understand the governmental political process. He was a
+#. great faker. Because of this, he would establish routines in his life,
+#. probably because he’d been laughed at earlier. When he found something that
+#. worked, he would stick with it, make a routine of it. He told me that for
+#. fifteen years, he ate at the same restaurant with the same waitress at the
+#. same table, ate the same meal every night, except when he was asked out by
+#. others. I said, “Didn’t you ever want to go to a different restaurant?” and
+#. he answered that, no, he knew this place, knew where it was. Can you
+#. imagine that?
+#: paragraph:8,sentence:2
+msgid ""
+"He could go right to the center of an issue and understand it instantly."
+msgstr ""
+"He could go right to the center of an issue and understand it instantly."
+
+#. Context: First, he was brilliant in abstract thought and analysis. No
+#. question. He could go right to the center of an issue and understand it
+#. instantly. And the more abstract it was, the easier it was for him to see
+#. right into it. It’s why he was such a fantastic psychologist. But he was
+#. not well grounded in this world. Now that means relating to food, clothing,
+#. directions, appliances, electronic gear, politics, gardening, animals, and
+#. children. He did not have a clue about these things. He was not comfortable
+#. with and did not understand the governmental political process. He was a
+#. great faker. Because of this, he would establish routines in his life,
+#. probably because he’d been laughed at earlier. When he found something that
+#. worked, he would stick with it, make a routine of it. He told me that for
+#. fifteen years, he ate at the same restaurant with the same waitress at the
+#. same table, ate the same meal every night, except when he was asked out by
+#. others. I said, “Didn’t you ever want to go to a different restaurant?” and
+#. he answered that, no, he knew this place, knew where it was. Can you
+#. imagine that?
+#: paragraph:8,sentence:3
+msgid ""
+"And the more abstract it was, the easier it was for him to see right into "
+"it."
+msgstr ""
+"And the more abstract it was, the easier it was for him to see right into "
+"it."
+
+#. Context: First, he was brilliant in abstract thought and analysis. No
+#. question. He could go right to the center of an issue and understand it
+#. instantly. And the more abstract it was, the easier it was for him to see
+#. right into it. It’s why he was such a fantastic psychologist. But he was
+#. not well grounded in this world. Now that means relating to food, clothing,
+#. directions, appliances, electronic gear, politics, gardening, animals, and
+#. children. He did not have a clue about these things. He was not comfortable
+#. with and did not understand the governmental political process. He was a
+#. great faker. Because of this, he would establish routines in his life,
+#. probably because he’d been laughed at earlier. When he found something that
+#. worked, he would stick with it, make a routine of it. He told me that for
+#. fifteen years, he ate at the same restaurant with the same waitress at the
+#. same table, ate the same meal every night, except when he was asked out by
+#. others. I said, “Didn’t you ever want to go to a different restaurant?” and
+#. he answered that, no, he knew this place, knew where it was. Can you
+#. imagine that?
+#: paragraph:8,sentence:4
+msgid "It’s why he was such a fantastic psychologist."
+msgstr "It’s why he was such a fantastic psychologist."
+
+#. Context: First, he was brilliant in abstract thought and analysis. No
+#. question. He could go right to the center of an issue and understand it
+#. instantly. And the more abstract it was, the easier it was for him to see
+#. right into it. It’s why he was such a fantastic psychologist. But he was
+#. not well grounded in this world. Now that means relating to food, clothing,
+#. directions, appliances, electronic gear, politics, gardening, animals, and
+#. children. He did not have a clue about these things. He was not comfortable
+#. with and did not understand the governmental political process. He was a
+#. great faker. Because of this, he would establish routines in his life,
+#. probably because he’d been laughed at earlier. When he found something that
+#. worked, he would stick with it, make a routine of it. He told me that for
+#. fifteen years, he ate at the same restaurant with the same waitress at the
+#. same table, ate the same meal every night, except when he was asked out by
+#. others. I said, “Didn’t you ever want to go to a different restaurant?” and
+#. he answered that, no, he knew this place, knew where it was. Can you
+#. imagine that?
+#: paragraph:8,sentence:5
+msgid "But he was not well grounded in this world."
+msgstr "But he was not well grounded in this world."
+
+#. Context: First, he was brilliant in abstract thought and analysis. No
+#. question. He could go right to the center of an issue and understand it
+#. instantly. And the more abstract it was, the easier it was for him to see
+#. right into it. It’s why he was such a fantastic psychologist. But he was
+#. not well grounded in this world. Now that means relating to food, clothing,
+#. directions, appliances, electronic gear, politics, gardening, animals, and
+#. children. He did not have a clue about these things. He was not comfortable
+#. with and did not understand the governmental political process. He was a
+#. great faker. Because of this, he would establish routines in his life,
+#. probably because he’d been laughed at earlier. When he found something that
+#. worked, he would stick with it, make a routine of it. He told me that for
+#. fifteen years, he ate at the same restaurant with the same waitress at the
+#. same table, ate the same meal every night, except when he was asked out by
+#. others. I said, “Didn’t you ever want to go to a different restaurant?” and
+#. he answered that, no, he knew this place, knew where it was. Can you
+#. imagine that?
+#: paragraph:8,sentence:6
+msgid ""
+"Now that means relating to food, clothing, directions, appliances, "
+"electronic gear, politics, gardening, animals, and children."
+msgstr ""
+"Now that means relating to food, clothing, directions, appliances, "
+"electronic gear, politics, gardening, animals, and children."
+
+#. Context: First, he was brilliant in abstract thought and analysis. No
+#. question. He could go right to the center of an issue and understand it
+#. instantly. And the more abstract it was, the easier it was for him to see
+#. right into it. It’s why he was such a fantastic psychologist. But he was
+#. not well grounded in this world. Now that means relating to food, clothing,
+#. directions, appliances, electronic gear, politics, gardening, animals, and
+#. children. He did not have a clue about these things. He was not comfortable
+#. with and did not understand the governmental political process. He was a
+#. great faker. Because of this, he would establish routines in his life,
+#. probably because he’d been laughed at earlier. When he found something that
+#. worked, he would stick with it, make a routine of it. He told me that for
+#. fifteen years, he ate at the same restaurant with the same waitress at the
+#. same table, ate the same meal every night, except when he was asked out by
+#. others. I said, “Didn’t you ever want to go to a different restaurant?” and
+#. he answered that, no, he knew this place, knew where it was. Can you
+#. imagine that?
+#: paragraph:8,sentence:7
+msgid "He did not have a clue about these things."
+msgstr "He did not have a clue about these things."
+
+#. Context: First, he was brilliant in abstract thought and analysis. No
+#. question. He could go right to the center of an issue and understand it
+#. instantly. And the more abstract it was, the easier it was for him to see
+#. right into it. It’s why he was such a fantastic psychologist. But he was
+#. not well grounded in this world. Now that means relating to food, clothing,
+#. directions, appliances, electronic gear, politics, gardening, animals, and
+#. children. He did not have a clue about these things. He was not comfortable
+#. with and did not understand the governmental political process. He was a
+#. great faker. Because of this, he would establish routines in his life,
+#. probably because he’d been laughed at earlier. When he found something that
+#. worked, he would stick with it, make a routine of it. He told me that for
+#. fifteen years, he ate at the same restaurant with the same waitress at the
+#. same table, ate the same meal every night, except when he was asked out by
+#. others. I said, “Didn’t you ever want to go to a different restaurant?” and
+#. he answered that, no, he knew this place, knew where it was. Can you
+#. imagine that?
+#: paragraph:8,sentence:8
+msgid ""
+"He was not comfortable with and did not understand the governmental "
+"political process."
+msgstr ""
+"He was not comfortable with and did not understand the governmental "
+"political process."
+
+#. Context: First, he was brilliant in abstract thought and analysis. No
+#. question. He could go right to the center of an issue and understand it
+#. instantly. And the more abstract it was, the easier it was for him to see
+#. right into it. It’s why he was such a fantastic psychologist. But he was
+#. not well grounded in this world. Now that means relating to food, clothing,
+#. directions, appliances, electronic gear, politics, gardening, animals, and
+#. children. He did not have a clue about these things. He was not comfortable
+#. with and did not understand the governmental political process. He was a
+#. great faker. Because of this, he would establish routines in his life,
+#. probably because he’d been laughed at earlier. When he found something that
+#. worked, he would stick with it, make a routine of it. He told me that for
+#. fifteen years, he ate at the same restaurant with the same waitress at the
+#. same table, ate the same meal every night, except when he was asked out by
+#. others. I said, “Didn’t you ever want to go to a different restaurant?” and
+#. he answered that, no, he knew this place, knew where it was. Can you
+#. imagine that?
+#: paragraph:8,sentence:9
+msgid "He was a great faker."
+msgstr "He was a great faker."
+
+#. Context: First, he was brilliant in abstract thought and analysis. No
+#. question. He could go right to the center of an issue and understand it
+#. instantly. And the more abstract it was, the easier it was for him to see
+#. right into it. It’s why he was such a fantastic psychologist. But he was
+#. not well grounded in this world. Now that means relating to food, clothing,
+#. directions, appliances, electronic gear, politics, gardening, animals, and
+#. children. He did not have a clue about these things. He was not comfortable
+#. with and did not understand the governmental political process. He was a
+#. great faker. Because of this, he would establish routines in his life,
+#. probably because he’d been laughed at earlier. When he found something that
+#. worked, he would stick with it, make a routine of it. He told me that for
+#. fifteen years, he ate at the same restaurant with the same waitress at the
+#. same table, ate the same meal every night, except when he was asked out by
+#. others. I said, “Didn’t you ever want to go to a different restaurant?” and
+#. he answered that, no, he knew this place, knew where it was. Can you
+#. imagine that?
+#: paragraph:8,sentence:10
+msgid ""
+"Because of this, he would establish routines in his life, probably because "
+"he’d been laughed at earlier."
+msgstr ""
+"Because of this, he would establish routines in his life, probably because "
+"he’d been laughed at earlier."
+
+#. Context: First, he was brilliant in abstract thought and analysis. No
+#. question. He could go right to the center of an issue and understand it
+#. instantly. And the more abstract it was, the easier it was for him to see
+#. right into it. It’s why he was such a fantastic psychologist. But he was
+#. not well grounded in this world. Now that means relating to food, clothing,
+#. directions, appliances, electronic gear, politics, gardening, animals, and
+#. children. He did not have a clue about these things. He was not comfortable
+#. with and did not understand the governmental political process. He was a
+#. great faker. Because of this, he would establish routines in his life,
+#. probably because he’d been laughed at earlier. When he found something that
+#. worked, he would stick with it, make a routine of it. He told me that for
+#. fifteen years, he ate at the same restaurant with the same waitress at the
+#. same table, ate the same meal every night, except when he was asked out by
+#. others. I said, “Didn’t you ever want to go to a different restaurant?” and
+#. he answered that, no, he knew this place, knew where it was. Can you
+#. imagine that?
+#: paragraph:8,sentence:11
+msgid ""
+"When he found something that worked, he would stick with it, make a routine "
+"of it."
+msgstr ""
+"When he found something that worked, he would stick with it, make a routine "
+"of it."
+
+#. Context: First, he was brilliant in abstract thought and analysis. No
+#. question. He could go right to the center of an issue and understand it
+#. instantly. And the more abstract it was, the easier it was for him to see
+#. right into it. It’s why he was such a fantastic psychologist. But he was
+#. not well grounded in this world. Now that means relating to food, clothing,
+#. directions, appliances, electronic gear, politics, gardening, animals, and
+#. children. He did not have a clue about these things. He was not comfortable
+#. with and did not understand the governmental political process. He was a
+#. great faker. Because of this, he would establish routines in his life,
+#. probably because he’d been laughed at earlier. When he found something that
+#. worked, he would stick with it, make a routine of it. He told me that for
+#. fifteen years, he ate at the same restaurant with the same waitress at the
+#. same table, ate the same meal every night, except when he was asked out by
+#. others. I said, “Didn’t you ever want to go to a different restaurant?” and
+#. he answered that, no, he knew this place, knew where it was. Can you
+#. imagine that?
+#: paragraph:8,sentence:12
+msgid ""
+"He told me that for fifteen years, he ate at the same restaurant with the "
+"same waitress at the same table, ate the same meal every night, except when "
+"he was asked out by others."
+msgstr ""
+"He told me that for fifteen years, he ate at the same restaurant with the "
+"same waitress at the same table, ate the same meal every night, except when "
+"he was asked out by others."
+
+#. Context: First, he was brilliant in abstract thought and analysis. No
+#. question. He could go right to the center of an issue and understand it
+#. instantly. And the more abstract it was, the easier it was for him to see
+#. right into it. It’s why he was such a fantastic psychologist. But he was
+#. not well grounded in this world. Now that means relating to food, clothing,
+#. directions, appliances, electronic gear, politics, gardening, animals, and
+#. children. He did not have a clue about these things. He was not comfortable
+#. with and did not understand the governmental political process. He was a
+#. great faker. Because of this, he would establish routines in his life,
+#. probably because he’d been laughed at earlier. When he found something that
+#. worked, he would stick with it, make a routine of it. He told me that for
+#. fifteen years, he ate at the same restaurant with the same waitress at the
+#. same table, ate the same meal every night, except when he was asked out by
+#. others. I said, “Didn’t you ever want to go to a different restaurant?” and
+#. he answered that, no, he knew this place, knew where it was. Can you
+#. imagine that?
+#: paragraph:8,sentence:13
+msgid ""
+"I said, “Didn’t you ever want to go to a different restaurant?” and he "
+"answered that, no, he knew this place, knew where it was. Can you imagine "
+"that?"
+msgstr ""
+"I said, “Didn’t you ever want to go to a different restaurant?” and he "
+"answered that, no, he knew this place, knew where it was. Can you imagine "
+"that?"
+
+#. Context: Now Bill didn’t really understand food well. When he and Pat
+#. [Hopkins] got together as roommates, they agreed to share responsibilities
+#. in cleaning and preparing food. Well, Bill never prepared his own food so
+#. he was quite nonplussed. He found these frozen enchilada dinners that were
+#. good, so he solved the problem. He went down and bought one year’s supply
+#. of the same kind of enchilada dinner and put them in the freezer. Although
+#. that certainly seemed more than a little strange to Pat, to him this was a
+#. perfect solution. He would just have those dinners from then on; they were
+#. fine, they worked.[12]
+#: paragraph:9,sentence:1
+msgid "Now Bill didn’t really understand food well."
+msgstr "Now Bill didn’t really understand food well."
+
+#. Context: Now Bill didn’t really understand food well. When he and Pat
+#. [Hopkins] got together as roommates, they agreed to share responsibilities
+#. in cleaning and preparing food. Well, Bill never prepared his own food so
+#. he was quite nonplussed. He found these frozen enchilada dinners that were
+#. good, so he solved the problem. He went down and bought one year’s supply
+#. of the same kind of enchilada dinner and put them in the freezer. Although
+#. that certainly seemed more than a little strange to Pat, to him this was a
+#. perfect solution. He would just have those dinners from then on; they were
+#. fine, they worked.[12]
+#: paragraph:9,sentence:2
+msgid ""
+"When he and Pat [Hopkins] got together as roommates, they agreed to share "
+"responsibilities in cleaning and preparing food."
+msgstr ""
+"When he and Pat [Hopkins] got together as roommates, they agreed to share "
+"responsibilities in cleaning and preparing food."
+
+#. Context: Now Bill didn’t really understand food well. When he and Pat
+#. [Hopkins] got together as roommates, they agreed to share responsibilities
+#. in cleaning and preparing food. Well, Bill never prepared his own food so
+#. he was quite nonplussed. He found these frozen enchilada dinners that were
+#. good, so he solved the problem. He went down and bought one year’s supply
+#. of the same kind of enchilada dinner and put them in the freezer. Although
+#. that certainly seemed more than a little strange to Pat, to him this was a
+#. perfect solution. He would just have those dinners from then on; they were
+#. fine, they worked.[12]
+#: paragraph:9,sentence:3
+msgid "Well, Bill never prepared his own food so he was quite nonplussed."
+msgstr "Well, Bill never prepared his own food so he was quite nonplussed."
+
+#. Context: Now Bill didn’t really understand food well. When he and Pat
+#. [Hopkins] got together as roommates, they agreed to share responsibilities
+#. in cleaning and preparing food. Well, Bill never prepared his own food so
+#. he was quite nonplussed. He found these frozen enchilada dinners that were
+#. good, so he solved the problem. He went down and bought one year’s supply
+#. of the same kind of enchilada dinner and put them in the freezer. Although
+#. that certainly seemed more than a little strange to Pat, to him this was a
+#. perfect solution. He would just have those dinners from then on; they were
+#. fine, they worked.[12]
+#: paragraph:9,sentence:4
+msgid ""
+"He found these frozen enchilada dinners that were good, so he solved the "
+"problem."
+msgstr ""
+"He found these frozen enchilada dinners that were good, so he solved the "
+"problem."
+
+#. Context: Now Bill didn’t really understand food well. When he and Pat
+#. [Hopkins] got together as roommates, they agreed to share responsibilities
+#. in cleaning and preparing food. Well, Bill never prepared his own food so
+#. he was quite nonplussed. He found these frozen enchilada dinners that were
+#. good, so he solved the problem. He went down and bought one year’s supply
+#. of the same kind of enchilada dinner and put them in the freezer. Although
+#. that certainly seemed more than a little strange to Pat, to him this was a
+#. perfect solution. He would just have those dinners from then on; they were
+#. fine, they worked.[12]
+#: paragraph:9,sentence:5
+msgid ""
+"He went down and bought one year’s supply of the same kind of enchilada "
+"dinner and put them in the freezer."
+msgstr ""
+"He went down and bought one year’s supply of the same kind of enchilada "
+"dinner and put them in the freezer."
+
+#. Context: Now Bill didn’t really understand food well. When he and Pat
+#. [Hopkins] got together as roommates, they agreed to share responsibilities
+#. in cleaning and preparing food. Well, Bill never prepared his own food so
+#. he was quite nonplussed. He found these frozen enchilada dinners that were
+#. good, so he solved the problem. He went down and bought one year’s supply
+#. of the same kind of enchilada dinner and put them in the freezer. Although
+#. that certainly seemed more than a little strange to Pat, to him this was a
+#. perfect solution. He would just have those dinners from then on; they were
+#. fine, they worked.[12]
+#: paragraph:9,sentence:6
+msgid ""
+"Although that certainly seemed more than a little strange to Pat, to him "
+"this was a perfect solution."
+msgstr ""
+"Although that certainly seemed more than a little strange to Pat, to him "
+"this was a perfect solution."
+
+#. Context: Now Bill didn’t really understand food well. When he and Pat
+#. [Hopkins] got together as roommates, they agreed to share responsibilities
+#. in cleaning and preparing food. Well, Bill never prepared his own food so
+#. he was quite nonplussed. He found these frozen enchilada dinners that were
+#. good, so he solved the problem. He went down and bought one year’s supply
+#. of the same kind of enchilada dinner and put them in the freezer. Although
+#. that certainly seemed more than a little strange to Pat, to him this was a
+#. perfect solution. He would just have those dinners from then on; they were
+#. fine, they worked.[12]
+#: paragraph:9,sentence:7
+msgid ""
+"He would just have those dinners from then on; they were fine, they "
+"worked.[12]"
+msgstr ""
+"He would just have those dinners from then on; they were fine, they "
+"worked.[12]"
+
+#. Context: Bill’s New York acquaintances did say that he could cook one
+#. thing—omelets—and if you were invited over, you would have no doubt about
+#. the menu. That was the extent of his culinary skill. Because of his basic
+#. unfamiliarity with food preparation, he tended to approach it more like an
+#. anthropologist than a gourmet and regularly conducted unusual experiments
+#. with tastes and food combinations. For instance, years later, Bill and the
+#. Lucketts stopped one night at a Haagen Daz store for ice cream, and he
+#. ordered maple walnut combined with raspberry tofutti. He had no idea what
+#. combining these flavors would be like; this was a foreign world to him.
+#. Jack continued:
+#: paragraph:10,sentence:1
+msgid ""
+"Bill’s New York acquaintances did say that he could cook one "
+"thing—omelets—and if you were invited over, you would have no doubt about "
+"the menu."
+msgstr ""
+"Bill’s New York acquaintances did say that he could cook one "
+"thing—omelets—and if you were invited over, you would have no doubt about "
+"the menu."
+
+#. Context: Bill’s New York acquaintances did say that he could cook one
+#. thing—omelets—and if you were invited over, you would have no doubt about
+#. the menu. That was the extent of his culinary skill. Because of his basic
+#. unfamiliarity with food preparation, he tended to approach it more like an
+#. anthropologist than a gourmet and regularly conducted unusual experiments
+#. with tastes and food combinations. For instance, years later, Bill and the
+#. Lucketts stopped one night at a Haagen Daz store for ice cream, and he
+#. ordered maple walnut combined with raspberry tofutti. He had no idea what
+#. combining these flavors would be like; this was a foreign world to him.
+#. Jack continued:
+#: paragraph:10,sentence:2
+msgid "That was the extent of his culinary skill."
+msgstr "That was the extent of his culinary skill."
+
+#. Context: Bill’s New York acquaintances did say that he could cook one
+#. thing—omelets—and if you were invited over, you would have no doubt about
+#. the menu. That was the extent of his culinary skill. Because of his basic
+#. unfamiliarity with food preparation, he tended to approach it more like an
+#. anthropologist than a gourmet and regularly conducted unusual experiments
+#. with tastes and food combinations. For instance, years later, Bill and the
+#. Lucketts stopped one night at a Haagen Daz store for ice cream, and he
+#. ordered maple walnut combined with raspberry tofutti. He had no idea what
+#. combining these flavors would be like; this was a foreign world to him.
+#. Jack continued:
+#: paragraph:10,sentence:3
+msgid ""
+"Because of his basic unfamiliarity with food preparation, he tended to "
+"approach it more like an anthropologist than a gourmet and regularly "
+"conducted unusual experiments with tastes and food combinations."
+msgstr ""
+"Because of his basic unfamiliarity with food preparation, he tended to "
+"approach it more like an anthropologist than a gourmet and regularly "
+"conducted unusual experiments with tastes and food combinations."
+
+#. Context: Bill’s New York acquaintances did say that he could cook one
+#. thing—omelets—and if you were invited over, you would have no doubt about
+#. the menu. That was the extent of his culinary skill. Because of his basic
+#. unfamiliarity with food preparation, he tended to approach it more like an
+#. anthropologist than a gourmet and regularly conducted unusual experiments
+#. with tastes and food combinations. For instance, years later, Bill and the
+#. Lucketts stopped one night at a Haagen Daz store for ice cream, and he
+#. ordered maple walnut combined with raspberry tofutti. He had no idea what
+#. combining these flavors would be like; this was a foreign world to him.
+#. Jack continued:
+#: paragraph:10,sentence:4
+msgid ""
+"For instance, years later, Bill and the Lucketts stopped one night at a "
+"Haagen Daz store for ice cream, and he ordered maple walnut combined with "
+"raspberry tofutti."
+msgstr ""
+"For instance, years later, Bill and the Lucketts stopped one night at a "
+"Haagen Daz store for ice cream, and he ordered maple walnut combined with "
+"raspberry tofutti."
+
+#. Context: Bill’s New York acquaintances did say that he could cook one
+#. thing—omelets—and if you were invited over, you would have no doubt about
+#. the menu. That was the extent of his culinary skill. Because of his basic
+#. unfamiliarity with food preparation, he tended to approach it more like an
+#. anthropologist than a gourmet and regularly conducted unusual experiments
+#. with tastes and food combinations. For instance, years later, Bill and the
+#. Lucketts stopped one night at a Haagen Daz store for ice cream, and he
+#. ordered maple walnut combined with raspberry tofutti. He had no idea what
+#. combining these flavors would be like; this was a foreign world to him.
+#. Jack continued:
+#: paragraph:10,sentence:5
+msgid ""
+"He had no idea what combining these flavors would be like; this was a "
+"foreign world to him. Jack continued:"
+msgstr ""
+"He had no idea what combining these flavors would be like; this was a "
+"foreign world to him. Jack continued:"
+
+#. Context: As for clothing, he relied mostly on his gay male friends, and
+#. occasionally others, to help him with clothes. He had no sense of what he
+#. should buy. Usually he wore levis that hung down low on his hips with a
+#. pullover sweater. One time at one of the garden [ACIM] meetings in San
+#. Diego, a fellow took one look at Bill and exclaimed, “My dear, who is your
+#. tailor!”
+#: paragraph:11,sentence:1
+msgid ""
+"As for clothing, he relied mostly on his gay male friends, and occasionally "
+"others, to help him with clothes."
+msgstr ""
+"As for clothing, he relied mostly on his gay male friends, and occasionally "
+"others, to help him with clothes."
+
+#. Context: As for clothing, he relied mostly on his gay male friends, and
+#. occasionally others, to help him with clothes. He had no sense of what he
+#. should buy. Usually he wore levis that hung down low on his hips with a
+#. pullover sweater. One time at one of the garden [ACIM] meetings in San
+#. Diego, a fellow took one look at Bill and exclaimed, “My dear, who is your
+#. tailor!”
+#: paragraph:11,sentence:2
+msgid "He had no sense of what he should buy."
+msgstr "He had no sense of what he should buy."
+
+#. Context: As for clothing, he relied mostly on his gay male friends, and
+#. occasionally others, to help him with clothes. He had no sense of what he
+#. should buy. Usually he wore levis that hung down low on his hips with a
+#. pullover sweater. One time at one of the garden [ACIM] meetings in San
+#. Diego, a fellow took one look at Bill and exclaimed, “My dear, who is your
+#. tailor!”
+#: paragraph:11,sentence:3
+msgid ""
+"Usually he wore levis that hung down low on his hips with a pullover "
+"sweater."
+msgstr ""
+"Usually he wore levis that hung down low on his hips with a pullover "
+"sweater."
+
+#. Context: As for clothing, he relied mostly on his gay male friends, and
+#. occasionally others, to help him with clothes. He had no sense of what he
+#. should buy. Usually he wore levis that hung down low on his hips with a
+#. pullover sweater. One time at one of the garden [ACIM] meetings in San
+#. Diego, a fellow took one look at Bill and exclaimed, “My dear, who is your
+#. tailor!”
+#: paragraph:11,sentence:4
+msgid ""
+"One time at one of the garden [ACIM] meetings in San Diego, a fellow took "
+"one look at Bill and exclaimed, “My dear, who is your tailor!”"
+msgstr ""
+"One time at one of the garden [ACIM] meetings in San Diego, a fellow took "
+"one look at Bill and exclaimed, “My dear, who is your tailor!”"
+
+#. Context: Bill was spatially disoriented. He simply did not understand how
+#. to get from one place to another. He liked to go to a meeting that was
+#. south from where we lived in La Jolla. Everything to him was linear so I
+#. could tell him, “You go down this street until you come to the gas station
+#. and turn right; it’s like a line.” I gave him these landmarks and he was so
+#. proud the first time he drove it; it was a major accomplishment. I do know
+#. that if he’d ever gotten off that line, he’d have been in real trouble.[13]
+#: paragraph:12,sentence:1
+msgid "Bill was spatially disoriented."
+msgstr "Bill was spatially disoriented."
+
+#. Context: Bill was spatially disoriented. He simply did not understand how
+#. to get from one place to another. He liked to go to a meeting that was
+#. south from where we lived in La Jolla. Everything to him was linear so I
+#. could tell him, “You go down this street until you come to the gas station
+#. and turn right; it’s like a line.” I gave him these landmarks and he was so
+#. proud the first time he drove it; it was a major accomplishment. I do know
+#. that if he’d ever gotten off that line, he’d have been in real trouble.[13]
+#: paragraph:12,sentence:2
+msgid "He simply did not understand how to get from one place to another."
+msgstr "He simply did not understand how to get from one place to another."
+
+#. Context: Bill was spatially disoriented. He simply did not understand how
+#. to get from one place to another. He liked to go to a meeting that was
+#. south from where we lived in La Jolla. Everything to him was linear so I
+#. could tell him, “You go down this street until you come to the gas station
+#. and turn right; it’s like a line.” I gave him these landmarks and he was so
+#. proud the first time he drove it; it was a major accomplishment. I do know
+#. that if he’d ever gotten off that line, he’d have been in real trouble.[13]
+#: paragraph:12,sentence:3
+msgid ""
+"He liked to go to a meeting that was south from where we lived in La Jolla."
+msgstr ""
+"He liked to go to a meeting that was south from where we lived in La Jolla."
+
+#. Context: Bill was spatially disoriented. He simply did not understand how
+#. to get from one place to another. He liked to go to a meeting that was
+#. south from where we lived in La Jolla. Everything to him was linear so I
+#. could tell him, “You go down this street until you come to the gas station
+#. and turn right; it’s like a line.” I gave him these landmarks and he was so
+#. proud the first time he drove it; it was a major accomplishment. I do know
+#. that if he’d ever gotten off that line, he’d have been in real trouble.[13]
+#: paragraph:12,sentence:4
+msgid ""
+"Everything to him was linear so I could tell him, “You go down this street "
+"until you come to the gas station and turn right; it’s like a line.” I gave "
+"him these landmarks and he was so proud the first time he drove it; it was a"
+" major accomplishment."
+msgstr ""
+"Everything to him was linear so I could tell him, “You go down this street "
+"until you come to the gas station and turn right; it’s like a line.” I gave "
+"him these landmarks and he was so proud the first time he drove it; it was a"
+" major accomplishment."
+
+#. Context: Bill was spatially disoriented. He simply did not understand how
+#. to get from one place to another. He liked to go to a meeting that was
+#. south from where we lived in La Jolla. Everything to him was linear so I
+#. could tell him, “You go down this street until you come to the gas station
+#. and turn right; it’s like a line.” I gave him these landmarks and he was so
+#. proud the first time he drove it; it was a major accomplishment. I do know
+#. that if he’d ever gotten off that line, he’d have been in real trouble.[13]
+#: paragraph:12,sentence:5
+msgid ""
+"I do know that if he’d ever gotten off that line, he’d have been in real "
+"trouble.[13]"
+msgstr ""
+"I do know that if he’d ever gotten off that line, he’d have been in real "
+"trouble.[13]"
+
+#. Context: Bill took on another challenge when he left New York—to quit
+#. smoking. He was a nonstop smoker and quitting was not easy. However, he
+#. recognized the need to discontinue the habit, knowing it was preventing
+#. long-buried feelings from surfacing. In their stead, he carried cinnamon
+#. sticks and chewed on those when tempted to smoke. Bill commented one time
+#. that in the hectic New York days, he lived mostly on coffee, which he drank
+#. all day long, several packs of cigarettes, and butter pecan ice cream. It’s
+#. a wonder he lived as long as he did, especially with a heart damaged by
+#. rheumatic fever!
+#: paragraph:13,sentence:1
+msgid "Bill took on another challenge when he left New York—to quit smoking."
+msgstr "Bill took on another challenge when he left New York—to quit smoking."
+
+#. Context: Bill took on another challenge when he left New York—to quit
+#. smoking. He was a nonstop smoker and quitting was not easy. However, he
+#. recognized the need to discontinue the habit, knowing it was preventing
+#. long-buried feelings from surfacing. In their stead, he carried cinnamon
+#. sticks and chewed on those when tempted to smoke. Bill commented one time
+#. that in the hectic New York days, he lived mostly on coffee, which he drank
+#. all day long, several packs of cigarettes, and butter pecan ice cream. It’s
+#. a wonder he lived as long as he did, especially with a heart damaged by
+#. rheumatic fever!
+#: paragraph:13,sentence:2
+msgid "He was a nonstop smoker and quitting was not easy."
+msgstr "He was a nonstop smoker and quitting was not easy."
+
+#. Context: Bill took on another challenge when he left New York—to quit
+#. smoking. He was a nonstop smoker and quitting was not easy. However, he
+#. recognized the need to discontinue the habit, knowing it was preventing
+#. long-buried feelings from surfacing. In their stead, he carried cinnamon
+#. sticks and chewed on those when tempted to smoke. Bill commented one time
+#. that in the hectic New York days, he lived mostly on coffee, which he drank
+#. all day long, several packs of cigarettes, and butter pecan ice cream. It’s
+#. a wonder he lived as long as he did, especially with a heart damaged by
+#. rheumatic fever!
+#: paragraph:13,sentence:3
+msgid ""
+"However, he recognized the need to discontinue the habit, knowing it was "
+"preventing long-buried feelings from surfacing."
+msgstr ""
+"However, he recognized the need to discontinue the habit, knowing it was "
+"preventing long-buried feelings from surfacing."
+
+#. Context: Bill took on another challenge when he left New York—to quit
+#. smoking. He was a nonstop smoker and quitting was not easy. However, he
+#. recognized the need to discontinue the habit, knowing it was preventing
+#. long-buried feelings from surfacing. In their stead, he carried cinnamon
+#. sticks and chewed on those when tempted to smoke. Bill commented one time
+#. that in the hectic New York days, he lived mostly on coffee, which he drank
+#. all day long, several packs of cigarettes, and butter pecan ice cream. It’s
+#. a wonder he lived as long as he did, especially with a heart damaged by
+#. rheumatic fever!
+#: paragraph:13,sentence:4
+msgid ""
+"In their stead, he carried cinnamon sticks and chewed on those when tempted "
+"to smoke."
+msgstr ""
+"In their stead, he carried cinnamon sticks and chewed on those when tempted "
+"to smoke."
+
+#. Context: Bill took on another challenge when he left New York—to quit
+#. smoking. He was a nonstop smoker and quitting was not easy. However, he
+#. recognized the need to discontinue the habit, knowing it was preventing
+#. long-buried feelings from surfacing. In their stead, he carried cinnamon
+#. sticks and chewed on those when tempted to smoke. Bill commented one time
+#. that in the hectic New York days, he lived mostly on coffee, which he drank
+#. all day long, several packs of cigarettes, and butter pecan ice cream. It’s
+#. a wonder he lived as long as he did, especially with a heart damaged by
+#. rheumatic fever!
+#: paragraph:13,sentence:5
+msgid ""
+"Bill commented one time that in the hectic New York days, he lived mostly on"
+" coffee, which he drank all day long, several packs of cigarettes, and "
+"butter pecan ice cream."
+msgstr ""
+"Bill commented one time that in the hectic New York days, he lived mostly on"
+" coffee, which he drank all day long, several packs of cigarettes, and "
+"butter pecan ice cream."
+
+#. Context: Bill took on another challenge when he left New York—to quit
+#. smoking. He was a nonstop smoker and quitting was not easy. However, he
+#. recognized the need to discontinue the habit, knowing it was preventing
+#. long-buried feelings from surfacing. In their stead, he carried cinnamon
+#. sticks and chewed on those when tempted to smoke. Bill commented one time
+#. that in the hectic New York days, he lived mostly on coffee, which he drank
+#. all day long, several packs of cigarettes, and butter pecan ice cream. It’s
+#. a wonder he lived as long as he did, especially with a heart damaged by
+#. rheumatic fever!
+#: paragraph:13,sentence:6
+msgid ""
+"It’s a wonder he lived as long as he did, especially with a heart damaged by"
+" rheumatic fever!"
+msgstr ""
+"It’s a wonder he lived as long as he did, especially with a heart damaged by"
+" rheumatic fever!"
+
+#. Context: Judy, looking out for his best interests, instinctively knew that
+#. proceeds from the early sales of the Course would go to support Bill when
+#. he retired; his receiving a stipend seemed inevitable and obvious. On the
+#. other hand, Bill noted, “I didn’t expect the Course to be a source of
+#. financial support. We never thought of that at all. Yet eventually it did
+#. happen and it took me a long time even to be comfortable with the idea of
+#. living on funds from the Foundation for Inner Peace.”[14] Thus, with his
+#. stipend from the Foundation, his pension, investments in the stock market,
+#. and his capacity to “manifest as needed,” he always lived comfortably.
+#: paragraph:14,sentence:1
+msgid ""
+"Judy, looking out for his best interests, instinctively knew that proceeds "
+"from the early sales of the Course would go to support Bill when he retired;"
+" his receiving a stipend seemed inevitable and obvious."
+msgstr ""
+"Judy, looking out for his best interests, instinctively knew that proceeds "
+"from the early sales of the Course would go to support Bill when he retired;"
+" his receiving a stipend seemed inevitable and obvious."
+
+#. Context: Judy, looking out for his best interests, instinctively knew that
+#. proceeds from the early sales of the Course would go to support Bill when
+#. he retired; his receiving a stipend seemed inevitable and obvious. On the
+#. other hand, Bill noted, “I didn’t expect the Course to be a source of
+#. financial support. We never thought of that at all. Yet eventually it did
+#. happen and it took me a long time even to be comfortable with the idea of
+#. living on funds from the Foundation for Inner Peace.”[14] Thus, with his
+#. stipend from the Foundation, his pension, investments in the stock market,
+#. and his capacity to “manifest as needed,” he always lived comfortably.
+#: paragraph:14,sentence:2
+msgid ""
+"On the other hand, Bill noted, “I didn’t expect the Course to be a source of"
+" financial support."
+msgstr ""
+"On the other hand, Bill noted, “I didn’t expect the Course to be a source of"
+" financial support."
+
+#. Context: Judy, looking out for his best interests, instinctively knew that
+#. proceeds from the early sales of the Course would go to support Bill when
+#. he retired; his receiving a stipend seemed inevitable and obvious. On the
+#. other hand, Bill noted, “I didn’t expect the Course to be a source of
+#. financial support. We never thought of that at all. Yet eventually it did
+#. happen and it took me a long time even to be comfortable with the idea of
+#. living on funds from the Foundation for Inner Peace.”[14] Thus, with his
+#. stipend from the Foundation, his pension, investments in the stock market,
+#. and his capacity to “manifest as needed,” he always lived comfortably.
+#: paragraph:14,sentence:3
+msgid "We never thought of that at all."
+msgstr "We never thought of that at all."
+
+#. Context: Judy, looking out for his best interests, instinctively knew that
+#. proceeds from the early sales of the Course would go to support Bill when
+#. he retired; his receiving a stipend seemed inevitable and obvious. On the
+#. other hand, Bill noted, “I didn’t expect the Course to be a source of
+#. financial support. We never thought of that at all. Yet eventually it did
+#. happen and it took me a long time even to be comfortable with the idea of
+#. living on funds from the Foundation for Inner Peace.”[14] Thus, with his
+#. stipend from the Foundation, his pension, investments in the stock market,
+#. and his capacity to “manifest as needed,” he always lived comfortably.
+#: paragraph:14,sentence:4
+msgid ""
+"Yet eventually it did happen and it took me a long time even to be "
+"comfortable with the idea of living on funds from the Foundation for Inner "
+"Peace.”[14] Thus, with his stipend from the Foundation, his pension, "
+"investments in the stock market, and his capacity to “manifest as needed,” "
+"he always lived comfortably."
+msgstr ""
+"Yet eventually it did happen and it took me a long time even to be "
+"comfortable with the idea of living on funds from the Foundation for Inner "
+"Peace.”[14] Thus, with his stipend from the Foundation, his pension, "
+"investments in the stock market, and his capacity to “manifest as needed,” "
+"he always lived comfortably."

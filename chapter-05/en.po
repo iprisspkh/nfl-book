@@ -1,0 +1,2928 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Context: Many students of A Course In Miracles are familiar with the oft-
+#. quoted statement,
+#: paragraph:1,sentence:1
+msgid ""
+"Many students of A Course In Miracles are familiar with the oft-quoted "
+"statement,"
+msgstr ""
+"Many students of A Course In Miracles are familiar with the oft-quoted "
+"statement,"
+
+#. Context: Into eternity, where all is one, there crept a tiny, mad idea, at
+#. which the Son of God remembered not to laugh. In his forgetting did the
+#. thought become a serious idea, and possible of both accomplishment and real
+#. effects. Together, we can laugh them both away, and understand that time
+#. cannot intrude upon eternity. It is a joke to think that time can come to
+#. circumvent eternity, which means there is no time.[1]
+#: paragraph:2,sentence:1
+msgid ""
+"Into eternity, where all is one, there crept a tiny, mad idea, at which the "
+"Son of God remembered not to laugh."
+msgstr ""
+"Into eternity, where all is one, there crept a tiny, mad idea, at which the "
+"Son of God remembered not to laugh."
+
+#. Context: Into eternity, where all is one, there crept a tiny, mad idea, at
+#. which the Son of God remembered not to laugh. In his forgetting did the
+#. thought become a serious idea, and possible of both accomplishment and real
+#. effects. Together, we can laugh them both away, and understand that time
+#. cannot intrude upon eternity. It is a joke to think that time can come to
+#. circumvent eternity, which means there is no time.[1]
+#: paragraph:2,sentence:2
+msgid ""
+"In his forgetting did the thought become a serious idea, and possible of "
+"both accomplishment and real effects."
+msgstr ""
+"In his forgetting did the thought become a serious idea, and possible of "
+"both accomplishment and real effects."
+
+#. Context: Into eternity, where all is one, there crept a tiny, mad idea, at
+#. which the Son of God remembered not to laugh. In his forgetting did the
+#. thought become a serious idea, and possible of both accomplishment and real
+#. effects. Together, we can laugh them both away, and understand that time
+#. cannot intrude upon eternity. It is a joke to think that time can come to
+#. circumvent eternity, which means there is no time.[1]
+#: paragraph:2,sentence:3
+msgid ""
+"Together, we can laugh them both away, and understand that time cannot "
+"intrude upon eternity."
+msgstr ""
+"Together, we can laugh them both away, and understand that time cannot "
+"intrude upon eternity."
+
+#. Context: Into eternity, where all is one, there crept a tiny, mad idea, at
+#. which the Son of God remembered not to laugh. In his forgetting did the
+#. thought become a serious idea, and possible of both accomplishment and real
+#. effects. Together, we can laugh them both away, and understand that time
+#. cannot intrude upon eternity. It is a joke to think that time can come to
+#. circumvent eternity, which means there is no time.[1]
+#: paragraph:2,sentence:4
+msgid ""
+"It is a joke to think that time can come to circumvent eternity, which means"
+" there is no time.[1]"
+msgstr ""
+"It is a joke to think that time can come to circumvent eternity, which means"
+" there is no time.[1]"
+
+#. Context: If ever there was one who learned to joke about the absurdity of
+#. the human condition, it was Bill Thetford. He was graced with a superb
+#. sense of humor, delighting in the antics, large and small, of both himself
+#. and his fellow human beings. A prayer in the liturgy of the Episcopal
+#. Church begins, “Almighty God, unto whom all hearts are open, all desires
+#. known, and from whom no secrets are hid, . . .” Bill was a mortal version
+#. of that omniscience; for him his fellow man was deeply transparent, an open
+#. book—and often a comic book. His lighthearted touch was his hallmark as he
+#. saw the comedy in the ego’s serious postures. He laughed not at people,
+#. however, but at our treasured notions, beliefs, and practiced self-
+#. deceptions.
+#: paragraph:3,sentence:1
+msgid ""
+"If ever there was one who learned to joke about the absurdity of the human "
+"condition, it was Bill Thetford."
+msgstr ""
+"If ever there was one who learned to joke about the absurdity of the human "
+"condition, it was Bill Thetford."
+
+#. Context: If ever there was one who learned to joke about the absurdity of
+#. the human condition, it was Bill Thetford. He was graced with a superb
+#. sense of humor, delighting in the antics, large and small, of both himself
+#. and his fellow human beings. A prayer in the liturgy of the Episcopal
+#. Church begins, “Almighty God, unto whom all hearts are open, all desires
+#. known, and from whom no secrets are hid, . . .” Bill was a mortal version
+#. of that omniscience; for him his fellow man was deeply transparent, an open
+#. book—and often a comic book. His lighthearted touch was his hallmark as he
+#. saw the comedy in the ego’s serious postures. He laughed not at people,
+#. however, but at our treasured notions, beliefs, and practiced self-
+#. deceptions.
+#: paragraph:3,sentence:2
+msgid ""
+"He was graced with a superb sense of humor, delighting in the antics, large "
+"and small, of both himself and his fellow human beings."
+msgstr ""
+"He was graced with a superb sense of humor, delighting in the antics, large "
+"and small, of both himself and his fellow human beings."
+
+#. Context: If ever there was one who learned to joke about the absurdity of
+#. the human condition, it was Bill Thetford. He was graced with a superb
+#. sense of humor, delighting in the antics, large and small, of both himself
+#. and his fellow human beings. A prayer in the liturgy of the Episcopal
+#. Church begins, “Almighty God, unto whom all hearts are open, all desires
+#. known, and from whom no secrets are hid, . . .” Bill was a mortal version
+#. of that omniscience; for him his fellow man was deeply transparent, an open
+#. book—and often a comic book. His lighthearted touch was his hallmark as he
+#. saw the comedy in the ego’s serious postures. He laughed not at people,
+#. however, but at our treasured notions, beliefs, and practiced self-
+#. deceptions.
+#: paragraph:3,sentence:3
+msgid ""
+"A prayer in the liturgy of the Episcopal Church begins, “Almighty God, unto "
+"whom all hearts are open, all desires known, and from whom no secrets are "
+"hid, . . .” Bill was a mortal version of that omniscience; for him his "
+"fellow man was deeply transparent, an open book—and often a comic book."
+msgstr ""
+"A prayer in the liturgy of the Episcopal Church begins, “Almighty God, unto "
+"whom all hearts are open, all desires known, and from whom no secrets are "
+"hid, . . .” Bill was a mortal version of that omniscience; for him his "
+"fellow man was deeply transparent, an open book—and often a comic book."
+
+#. Context: If ever there was one who learned to joke about the absurdity of
+#. the human condition, it was Bill Thetford. He was graced with a superb
+#. sense of humor, delighting in the antics, large and small, of both himself
+#. and his fellow human beings. A prayer in the liturgy of the Episcopal
+#. Church begins, “Almighty God, unto whom all hearts are open, all desires
+#. known, and from whom no secrets are hid, . . .” Bill was a mortal version
+#. of that omniscience; for him his fellow man was deeply transparent, an open
+#. book—and often a comic book. His lighthearted touch was his hallmark as he
+#. saw the comedy in the ego’s serious postures. He laughed not at people,
+#. however, but at our treasured notions, beliefs, and practiced self-
+#. deceptions.
+#: paragraph:3,sentence:4
+msgid ""
+"His lighthearted touch was his hallmark as he saw the comedy in the ego’s "
+"serious postures."
+msgstr ""
+"His lighthearted touch was his hallmark as he saw the comedy in the ego’s "
+"serious postures."
+
+#. Context: If ever there was one who learned to joke about the absurdity of
+#. the human condition, it was Bill Thetford. He was graced with a superb
+#. sense of humor, delighting in the antics, large and small, of both himself
+#. and his fellow human beings. A prayer in the liturgy of the Episcopal
+#. Church begins, “Almighty God, unto whom all hearts are open, all desires
+#. known, and from whom no secrets are hid, . . .” Bill was a mortal version
+#. of that omniscience; for him his fellow man was deeply transparent, an open
+#. book—and often a comic book. His lighthearted touch was his hallmark as he
+#. saw the comedy in the ego’s serious postures. He laughed not at people,
+#. however, but at our treasured notions, beliefs, and practiced self-
+#. deceptions.
+#: paragraph:3,sentence:5
+msgid ""
+"He laughed not at people, however, but at our treasured notions, beliefs, "
+"and practiced self-deceptions."
+msgstr ""
+"He laughed not at people, however, but at our treasured notions, beliefs, "
+"and practiced self-deceptions."
+
+#. Context: He had his own issues, of course, times that seemed depressing or
+#. fraught with difficulty, but sooner or later, his emotional equilibrium
+#. would be restored, the twinkle returning to his eye as he told his
+#. hilarious stories. When we can laugh at the dramas, the formerly unhappy
+#. circumstances in our lives, we know they are healed. With a rigid,
+#. humorless approach to any aspect of our lives, we still have work to do.
+#. Bill’s droll sense of humor pervaded his life and is the single
+#. characteristic I believe he would most want remembered.
+#: paragraph:4,sentence:1
+msgid ""
+"He had his own issues, of course, times that seemed depressing or fraught "
+"with difficulty, but sooner or later, his emotional equilibrium would be "
+"restored, the twinkle returning to his eye as he told his hilarious stories."
+msgstr ""
+"He had his own issues, of course, times that seemed depressing or fraught "
+"with difficulty, but sooner or later, his emotional equilibrium would be "
+"restored, the twinkle returning to his eye as he told his hilarious stories."
+
+#. Context: He had his own issues, of course, times that seemed depressing or
+#. fraught with difficulty, but sooner or later, his emotional equilibrium
+#. would be restored, the twinkle returning to his eye as he told his
+#. hilarious stories. When we can laugh at the dramas, the formerly unhappy
+#. circumstances in our lives, we know they are healed. With a rigid,
+#. humorless approach to any aspect of our lives, we still have work to do.
+#. Bill’s droll sense of humor pervaded his life and is the single
+#. characteristic I believe he would most want remembered.
+#: paragraph:4,sentence:2
+msgid ""
+"When we can laugh at the dramas, the formerly unhappy circumstances in our "
+"lives, we know they are healed."
+msgstr ""
+"When we can laugh at the dramas, the formerly unhappy circumstances in our "
+"lives, we know they are healed."
+
+#. Context: He had his own issues, of course, times that seemed depressing or
+#. fraught with difficulty, but sooner or later, his emotional equilibrium
+#. would be restored, the twinkle returning to his eye as he told his
+#. hilarious stories. When we can laugh at the dramas, the formerly unhappy
+#. circumstances in our lives, we know they are healed. With a rigid,
+#. humorless approach to any aspect of our lives, we still have work to do.
+#. Bill’s droll sense of humor pervaded his life and is the single
+#. characteristic I believe he would most want remembered.
+#: paragraph:4,sentence:3
+msgid ""
+"With a rigid, humorless approach to any aspect of our lives, we still have "
+"work to do."
+msgstr ""
+"With a rigid, humorless approach to any aspect of our lives, we still have "
+"work to do."
+
+#. Context: He had his own issues, of course, times that seemed depressing or
+#. fraught with difficulty, but sooner or later, his emotional equilibrium
+#. would be restored, the twinkle returning to his eye as he told his
+#. hilarious stories. When we can laugh at the dramas, the formerly unhappy
+#. circumstances in our lives, we know they are healed. With a rigid,
+#. humorless approach to any aspect of our lives, we still have work to do.
+#. Bill’s droll sense of humor pervaded his life and is the single
+#. characteristic I believe he would most want remembered.
+#: paragraph:4,sentence:4
+msgid ""
+"Bill’s droll sense of humor pervaded his life and is the single "
+"characteristic I believe he would most want remembered."
+msgstr ""
+"Bill’s droll sense of humor pervaded his life and is the single "
+"characteristic I believe he would most want remembered."
+
+#. Context: While finishing the interviews for this book, Hugh Prather, best-
+#. selling author and one of Bill’s confidants, and I reminisced by phone
+#. about the gift he was to us, especially about how witty and funny he could
+#. be. One of Bill’s favorite early Course stories, told with kindhearted
+#. laughter, was about a gentleman who discovered his address in Manhattan and
+#. came knocking on his door. When Bill answered, the man earnestly announced
+#. that he was a new ACIM student and that the Holy Spirit told him to find
+#. Bill and ask him for $10,000. Without missing a beat, Bill responded that
+#. the Holy Spirit had already alerted him to this request and indicated he
+#. was not to give it to him. I can still see Bill’s delighted smile as he
+#. recounted such entertaining tales about humankind in general and Course-
+#. related drama in particular. He often said he thought he should write a
+#. book entitled A Course In Miracles Follies about the craziness that
+#. occurred while bringing this material into the world, as well as some of
+#. the strange ideas and misperceptions that have been perpetuated in its
+#. name. To his credit, he found these occurrences amusing rather than
+#. alarming, and we would all benefit from emulating his lighthearted
+#. approach.
+#: paragraph:5,sentence:1
+msgid ""
+"While finishing the interviews for this book, Hugh Prather, best-selling "
+"author and one of Bill’s confidants, and I reminisced by phone about the "
+"gift he was to us, especially about how witty and funny he could be."
+msgstr ""
+"While finishing the interviews for this book, Hugh Prather, best-selling "
+"author and one of Bill’s confidants, and I reminisced by phone about the "
+"gift he was to us, especially about how witty and funny he could be."
+
+#. Context: While finishing the interviews for this book, Hugh Prather, best-
+#. selling author and one of Bill’s confidants, and I reminisced by phone
+#. about the gift he was to us, especially about how witty and funny he could
+#. be. One of Bill’s favorite early Course stories, told with kindhearted
+#. laughter, was about a gentleman who discovered his address in Manhattan and
+#. came knocking on his door. When Bill answered, the man earnestly announced
+#. that he was a new ACIM student and that the Holy Spirit told him to find
+#. Bill and ask him for $10,000. Without missing a beat, Bill responded that
+#. the Holy Spirit had already alerted him to this request and indicated he
+#. was not to give it to him. I can still see Bill’s delighted smile as he
+#. recounted such entertaining tales about humankind in general and Course-
+#. related drama in particular. He often said he thought he should write a
+#. book entitled A Course In Miracles Follies about the craziness that
+#. occurred while bringing this material into the world, as well as some of
+#. the strange ideas and misperceptions that have been perpetuated in its
+#. name. To his credit, he found these occurrences amusing rather than
+#. alarming, and we would all benefit from emulating his lighthearted
+#. approach.
+#: paragraph:5,sentence:2
+msgid ""
+"One of Bill’s favorite early Course stories, told with kindhearted laughter,"
+" was about a gentleman who discovered his address in Manhattan and came "
+"knocking on his door."
+msgstr ""
+"One of Bill’s favorite early Course stories, told with kindhearted laughter,"
+" was about a gentleman who discovered his address in Manhattan and came "
+"knocking on his door."
+
+#. Context: While finishing the interviews for this book, Hugh Prather, best-
+#. selling author and one of Bill’s confidants, and I reminisced by phone
+#. about the gift he was to us, especially about how witty and funny he could
+#. be. One of Bill’s favorite early Course stories, told with kindhearted
+#. laughter, was about a gentleman who discovered his address in Manhattan and
+#. came knocking on his door. When Bill answered, the man earnestly announced
+#. that he was a new ACIM student and that the Holy Spirit told him to find
+#. Bill and ask him for $10,000. Without missing a beat, Bill responded that
+#. the Holy Spirit had already alerted him to this request and indicated he
+#. was not to give it to him. I can still see Bill’s delighted smile as he
+#. recounted such entertaining tales about humankind in general and Course-
+#. related drama in particular. He often said he thought he should write a
+#. book entitled A Course In Miracles Follies about the craziness that
+#. occurred while bringing this material into the world, as well as some of
+#. the strange ideas and misperceptions that have been perpetuated in its
+#. name. To his credit, he found these occurrences amusing rather than
+#. alarming, and we would all benefit from emulating his lighthearted
+#. approach.
+#: paragraph:5,sentence:3
+msgid ""
+"When Bill answered, the man earnestly announced that he was a new ACIM "
+"student and that the Holy Spirit told him to find Bill and ask him for "
+"$10,000."
+msgstr ""
+"When Bill answered, the man earnestly announced that he was a new ACIM "
+"student and that the Holy Spirit told him to find Bill and ask him for "
+"$10,000."
+
+#. Context: While finishing the interviews for this book, Hugh Prather, best-
+#. selling author and one of Bill’s confidants, and I reminisced by phone
+#. about the gift he was to us, especially about how witty and funny he could
+#. be. One of Bill’s favorite early Course stories, told with kindhearted
+#. laughter, was about a gentleman who discovered his address in Manhattan and
+#. came knocking on his door. When Bill answered, the man earnestly announced
+#. that he was a new ACIM student and that the Holy Spirit told him to find
+#. Bill and ask him for $10,000. Without missing a beat, Bill responded that
+#. the Holy Spirit had already alerted him to this request and indicated he
+#. was not to give it to him. I can still see Bill’s delighted smile as he
+#. recounted such entertaining tales about humankind in general and Course-
+#. related drama in particular. He often said he thought he should write a
+#. book entitled A Course In Miracles Follies about the craziness that
+#. occurred while bringing this material into the world, as well as some of
+#. the strange ideas and misperceptions that have been perpetuated in its
+#. name. To his credit, he found these occurrences amusing rather than
+#. alarming, and we would all benefit from emulating his lighthearted
+#. approach.
+#: paragraph:5,sentence:4
+msgid ""
+"Without missing a beat, Bill responded that the Holy Spirit had already "
+"alerted him to this request and indicated he was not to give it to him."
+msgstr ""
+"Without missing a beat, Bill responded that the Holy Spirit had already "
+"alerted him to this request and indicated he was not to give it to him."
+
+#. Context: While finishing the interviews for this book, Hugh Prather, best-
+#. selling author and one of Bill’s confidants, and I reminisced by phone
+#. about the gift he was to us, especially about how witty and funny he could
+#. be. One of Bill’s favorite early Course stories, told with kindhearted
+#. laughter, was about a gentleman who discovered his address in Manhattan and
+#. came knocking on his door. When Bill answered, the man earnestly announced
+#. that he was a new ACIM student and that the Holy Spirit told him to find
+#. Bill and ask him for $10,000. Without missing a beat, Bill responded that
+#. the Holy Spirit had already alerted him to this request and indicated he
+#. was not to give it to him. I can still see Bill’s delighted smile as he
+#. recounted such entertaining tales about humankind in general and Course-
+#. related drama in particular. He often said he thought he should write a
+#. book entitled A Course In Miracles Follies about the craziness that
+#. occurred while bringing this material into the world, as well as some of
+#. the strange ideas and misperceptions that have been perpetuated in its
+#. name. To his credit, he found these occurrences amusing rather than
+#. alarming, and we would all benefit from emulating his lighthearted
+#. approach.
+#: paragraph:5,sentence:5
+msgid ""
+"I can still see Bill’s delighted smile as he recounted such entertaining "
+"tales about humankind in general and Course-related drama in particular."
+msgstr ""
+"I can still see Bill’s delighted smile as he recounted such entertaining "
+"tales about humankind in general and Course-related drama in particular."
+
+#. Context: While finishing the interviews for this book, Hugh Prather, best-
+#. selling author and one of Bill’s confidants, and I reminisced by phone
+#. about the gift he was to us, especially about how witty and funny he could
+#. be. One of Bill’s favorite early Course stories, told with kindhearted
+#. laughter, was about a gentleman who discovered his address in Manhattan and
+#. came knocking on his door. When Bill answered, the man earnestly announced
+#. that he was a new ACIM student and that the Holy Spirit told him to find
+#. Bill and ask him for $10,000. Without missing a beat, Bill responded that
+#. the Holy Spirit had already alerted him to this request and indicated he
+#. was not to give it to him. I can still see Bill’s delighted smile as he
+#. recounted such entertaining tales about humankind in general and Course-
+#. related drama in particular. He often said he thought he should write a
+#. book entitled A Course In Miracles Follies about the craziness that
+#. occurred while bringing this material into the world, as well as some of
+#. the strange ideas and misperceptions that have been perpetuated in its
+#. name. To his credit, he found these occurrences amusing rather than
+#. alarming, and we would all benefit from emulating his lighthearted
+#. approach.
+#: paragraph:5,sentence:6
+msgid ""
+"He often said he thought he should write a book entitled A Course In "
+"Miracles Follies about the craziness that occurred while bringing this "
+"material into the world, as well as some of the strange ideas and "
+"misperceptions that have been perpetuated in its name."
+msgstr ""
+"He often said he thought he should write a book entitled A Course In "
+"Miracles Follies about the craziness that occurred while bringing this "
+"material into the world, as well as some of the strange ideas and "
+"misperceptions that have been perpetuated in its name."
+
+#. Context: While finishing the interviews for this book, Hugh Prather, best-
+#. selling author and one of Bill’s confidants, and I reminisced by phone
+#. about the gift he was to us, especially about how witty and funny he could
+#. be. One of Bill’s favorite early Course stories, told with kindhearted
+#. laughter, was about a gentleman who discovered his address in Manhattan and
+#. came knocking on his door. When Bill answered, the man earnestly announced
+#. that he was a new ACIM student and that the Holy Spirit told him to find
+#. Bill and ask him for $10,000. Without missing a beat, Bill responded that
+#. the Holy Spirit had already alerted him to this request and indicated he
+#. was not to give it to him. I can still see Bill’s delighted smile as he
+#. recounted such entertaining tales about humankind in general and Course-
+#. related drama in particular. He often said he thought he should write a
+#. book entitled A Course In Miracles Follies about the craziness that
+#. occurred while bringing this material into the world, as well as some of
+#. the strange ideas and misperceptions that have been perpetuated in its
+#. name. To his credit, he found these occurrences amusing rather than
+#. alarming, and we would all benefit from emulating his lighthearted
+#. approach.
+#: paragraph:5,sentence:7
+msgid ""
+"To his credit, he found these occurrences amusing rather than alarming, and "
+"we would all benefit from emulating his lighthearted approach."
+msgstr ""
+"To his credit, he found these occurrences amusing rather than alarming, and "
+"we would all benefit from emulating his lighthearted approach."
+
+#. Context: Why write a book about Bill now, years after publication of the
+#. Course in 1975 and his death in 1988? Helen was asked a similar question:
+#. Why had she heard her “Voice” from 1965 onward and not at some other time?
+#. Her answer applies both to ACIM and now to Bill’s biography:
+#: paragraph:6,sentence:1
+msgid ""
+"Why write a book about Bill now, years after publication of the Course in "
+"1975 and his death in 1988?"
+msgstr ""
+"Why write a book about Bill now, years after publication of the Course in "
+"1975 and his death in 1988?"
+
+#. Context: Why write a book about Bill now, years after publication of the
+#. Course in 1975 and his death in 1988? Helen was asked a similar question:
+#. Why had she heard her “Voice” from 1965 onward and not at some other time?
+#. Her answer applies both to ACIM and now to Bill’s biography:
+#: paragraph:6,sentence:2
+msgid ""
+"Helen was asked a similar question: Why had she heard her “Voice” from 1965 "
+"onward and not at some other time?"
+msgstr ""
+"Helen was asked a similar question: Why had she heard her “Voice” from 1965 "
+"onward and not at some other time?"
+
+#. Context: Why write a book about Bill now, years after publication of the
+#. Course in 1975 and his death in 1988? Helen was asked a similar question:
+#. Why had she heard her “Voice” from 1965 onward and not at some other time?
+#. Her answer applies both to ACIM and now to Bill’s biography:
+#: paragraph:6,sentence:3
+msgid "Her answer applies both to ACIM and now to Bill’s biography:"
+msgstr "Her answer applies both to ACIM and now to Bill’s biography:"
+
+#. Context: I was given a sort of mental “explanation” . . . in the form of a
+#. series of related thoughts that crossed my mind in rapid succession and
+#. made a reasonably coherent whole. According to this “information,” the
+#. world situation was worsening at an alarming pace. People all over the
+#. world were being called on to help, and were making their individual
+#. contributions as part of an overall, prearranged plan. I had apparently
+#. agreed to take down a course in miracles as it would be given me. The Voice
+#. was fulfilling its part in the agreement, as I would fulfill mine. I would
+#. be using abilities I had developed very long ago, and which I was not
+#. really ready to use again. Because of the acute emergency, however, the
+#. usual slow, evolutionary process of spiritual development was being
+#. bypassed in what might be described as a “celestial speed-up.” I could
+#. sense the urgency that lay behind this “explanation,” whatever I might
+#. think about its content. The feeling was conveyed to me that time was
+#. running out.[2]
+#: paragraph:7,sentence:1
+msgid ""
+"I was given a sort of mental “explanation” . . . in the form of a series of "
+"related thoughts that crossed my mind in rapid succession and made a "
+"reasonably coherent whole."
+msgstr ""
+"I was given a sort of mental “explanation” . . . in the form of a series of "
+"related thoughts that crossed my mind in rapid succession and made a "
+"reasonably coherent whole."
+
+#. Context: I was given a sort of mental “explanation” . . . in the form of a
+#. series of related thoughts that crossed my mind in rapid succession and
+#. made a reasonably coherent whole. According to this “information,” the
+#. world situation was worsening at an alarming pace. People all over the
+#. world were being called on to help, and were making their individual
+#. contributions as part of an overall, prearranged plan. I had apparently
+#. agreed to take down a course in miracles as it would be given me. The Voice
+#. was fulfilling its part in the agreement, as I would fulfill mine. I would
+#. be using abilities I had developed very long ago, and which I was not
+#. really ready to use again. Because of the acute emergency, however, the
+#. usual slow, evolutionary process of spiritual development was being
+#. bypassed in what might be described as a “celestial speed-up.” I could
+#. sense the urgency that lay behind this “explanation,” whatever I might
+#. think about its content. The feeling was conveyed to me that time was
+#. running out.[2]
+#: paragraph:7,sentence:2
+msgid ""
+"According to this “information,” the world situation was worsening at an "
+"alarming pace."
+msgstr ""
+"According to this “information,” the world situation was worsening at an "
+"alarming pace."
+
+#. Context: I was given a sort of mental “explanation” . . . in the form of a
+#. series of related thoughts that crossed my mind in rapid succession and
+#. made a reasonably coherent whole. According to this “information,” the
+#. world situation was worsening at an alarming pace. People all over the
+#. world were being called on to help, and were making their individual
+#. contributions as part of an overall, prearranged plan. I had apparently
+#. agreed to take down a course in miracles as it would be given me. The Voice
+#. was fulfilling its part in the agreement, as I would fulfill mine. I would
+#. be using abilities I had developed very long ago, and which I was not
+#. really ready to use again. Because of the acute emergency, however, the
+#. usual slow, evolutionary process of spiritual development was being
+#. bypassed in what might be described as a “celestial speed-up.” I could
+#. sense the urgency that lay behind this “explanation,” whatever I might
+#. think about its content. The feeling was conveyed to me that time was
+#. running out.[2]
+#: paragraph:7,sentence:3
+msgid ""
+"People all over the world were being called on to help, and were making "
+"their individual contributions as part of an overall, prearranged plan."
+msgstr ""
+"People all over the world were being called on to help, and were making "
+"their individual contributions as part of an overall, prearranged plan."
+
+#. Context: I was given a sort of mental “explanation” . . . in the form of a
+#. series of related thoughts that crossed my mind in rapid succession and
+#. made a reasonably coherent whole. According to this “information,” the
+#. world situation was worsening at an alarming pace. People all over the
+#. world were being called on to help, and were making their individual
+#. contributions as part of an overall, prearranged plan. I had apparently
+#. agreed to take down a course in miracles as it would be given me. The Voice
+#. was fulfilling its part in the agreement, as I would fulfill mine. I would
+#. be using abilities I had developed very long ago, and which I was not
+#. really ready to use again. Because of the acute emergency, however, the
+#. usual slow, evolutionary process of spiritual development was being
+#. bypassed in what might be described as a “celestial speed-up.” I could
+#. sense the urgency that lay behind this “explanation,” whatever I might
+#. think about its content. The feeling was conveyed to me that time was
+#. running out.[2]
+#: paragraph:7,sentence:4
+msgid ""
+"I had apparently agreed to take down a course in miracles as it would be "
+"given me."
+msgstr ""
+"I had apparently agreed to take down a course in miracles as it would be "
+"given me."
+
+#. Context: I was given a sort of mental “explanation” . . . in the form of a
+#. series of related thoughts that crossed my mind in rapid succession and
+#. made a reasonably coherent whole. According to this “information,” the
+#. world situation was worsening at an alarming pace. People all over the
+#. world were being called on to help, and were making their individual
+#. contributions as part of an overall, prearranged plan. I had apparently
+#. agreed to take down a course in miracles as it would be given me. The Voice
+#. was fulfilling its part in the agreement, as I would fulfill mine. I would
+#. be using abilities I had developed very long ago, and which I was not
+#. really ready to use again. Because of the acute emergency, however, the
+#. usual slow, evolutionary process of spiritual development was being
+#. bypassed in what might be described as a “celestial speed-up.” I could
+#. sense the urgency that lay behind this “explanation,” whatever I might
+#. think about its content. The feeling was conveyed to me that time was
+#. running out.[2]
+#: paragraph:7,sentence:5
+msgid ""
+"The Voice was fulfilling its part in the agreement, as I would fulfill mine."
+msgstr ""
+"The Voice was fulfilling its part in the agreement, as I would fulfill mine."
+
+#. Context: I was given a sort of mental “explanation” . . . in the form of a
+#. series of related thoughts that crossed my mind in rapid succession and
+#. made a reasonably coherent whole. According to this “information,” the
+#. world situation was worsening at an alarming pace. People all over the
+#. world were being called on to help, and were making their individual
+#. contributions as part of an overall, prearranged plan. I had apparently
+#. agreed to take down a course in miracles as it would be given me. The Voice
+#. was fulfilling its part in the agreement, as I would fulfill mine. I would
+#. be using abilities I had developed very long ago, and which I was not
+#. really ready to use again. Because of the acute emergency, however, the
+#. usual slow, evolutionary process of spiritual development was being
+#. bypassed in what might be described as a “celestial speed-up.” I could
+#. sense the urgency that lay behind this “explanation,” whatever I might
+#. think about its content. The feeling was conveyed to me that time was
+#. running out.[2]
+#: paragraph:7,sentence:6
+msgid ""
+"I would be using abilities I had developed very long ago, and which I was "
+"not really ready to use again."
+msgstr ""
+"I would be using abilities I had developed very long ago, and which I was "
+"not really ready to use again."
+
+#. Context: I was given a sort of mental “explanation” . . . in the form of a
+#. series of related thoughts that crossed my mind in rapid succession and
+#. made a reasonably coherent whole. According to this “information,” the
+#. world situation was worsening at an alarming pace. People all over the
+#. world were being called on to help, and were making their individual
+#. contributions as part of an overall, prearranged plan. I had apparently
+#. agreed to take down a course in miracles as it would be given me. The Voice
+#. was fulfilling its part in the agreement, as I would fulfill mine. I would
+#. be using abilities I had developed very long ago, and which I was not
+#. really ready to use again. Because of the acute emergency, however, the
+#. usual slow, evolutionary process of spiritual development was being
+#. bypassed in what might be described as a “celestial speed-up.” I could
+#. sense the urgency that lay behind this “explanation,” whatever I might
+#. think about its content. The feeling was conveyed to me that time was
+#. running out.[2]
+#: paragraph:7,sentence:7
+msgid ""
+"Because of the acute emergency, however, the usual slow, evolutionary "
+"process of spiritual development was being bypassed in what might be "
+"described as a “celestial speed-up.” I could sense the urgency that lay "
+"behind this “explanation,” whatever I might think about its content."
+msgstr ""
+"Because of the acute emergency, however, the usual slow, evolutionary "
+"process of spiritual development was being bypassed in what might be "
+"described as a “celestial speed-up.” I could sense the urgency that lay "
+"behind this “explanation,” whatever I might think about its content."
+
+#. Context: I was given a sort of mental “explanation” . . . in the form of a
+#. series of related thoughts that crossed my mind in rapid succession and
+#. made a reasonably coherent whole. According to this “information,” the
+#. world situation was worsening at an alarming pace. People all over the
+#. world were being called on to help, and were making their individual
+#. contributions as part of an overall, prearranged plan. I had apparently
+#. agreed to take down a course in miracles as it would be given me. The Voice
+#. was fulfilling its part in the agreement, as I would fulfill mine. I would
+#. be using abilities I had developed very long ago, and which I was not
+#. really ready to use again. Because of the acute emergency, however, the
+#. usual slow, evolutionary process of spiritual development was being
+#. bypassed in what might be described as a “celestial speed-up.” I could
+#. sense the urgency that lay behind this “explanation,” whatever I might
+#. think about its content. The feeling was conveyed to me that time was
+#. running out.[2]
+#: paragraph:7,sentence:8
+msgid "The feeling was conveyed to me that time was running out.[2]"
+msgstr "The feeling was conveyed to me that time was running out.[2]"
+
+#. Context: I remember that phrase, “celestial speed-up,” from my earliest
+#. conversations with Bill; it seemed odd but accurate. Now, thirty years
+#. later, it is even more so. Our world appears to be increasingly less
+#. stable, more complex, the years moving by at an accelerated pace. William
+#. (Whit) Whitson, introduced later in this chronology, writes, “Unknowingly,
+#. Bill and Helen had forewarned and forearmed America for what Helen believed
+#. was the coming social and metaphysical crisis.”[3] Now that crisis seems to
+#. be upon us. A Course In Miracles reminds us that we are completely confused
+#. about what is valuable and what is not. Our values are upside down and
+#. backwards, and we put precious and powerful attention on what doesn’t
+#. matter, steadily ignoring what does. We believe our actions and their
+#. influence are of great importance, but thoughts are our own private
+#. business and, being invisible and silent, do not count for much. Hence we
+#. set great store on the externals of our lives—our careers, material
+#. possessions, the face we present to the world—while being oblivious to our
+#. internal processes. With this in mind, we begin Bill’s story with
+#. highlights of his external life: early history, the jobs he held, his
+#. overriding interests—those areas that were compelling and fascinating for
+#. him. These will serve as the framework for becoming better acquainted with
+#. his interior life—his choices, struggles, gifts, and most of all, his
+#. loving presence. We shall observe the process as Bill steadily moves
+#. forward in releasing his ego—“the block to the awareness of Love’s
+#. presence”—just as we must do if we want to be joyous, free, safe, and
+#. abundantly cared for.[4]
+#: paragraph:8,sentence:1
+msgid ""
+"I remember that phrase, “celestial speed-up,” from my earliest conversations"
+" with Bill; it seemed odd but accurate."
+msgstr ""
+"I remember that phrase, “celestial speed-up,” from my earliest conversations"
+" with Bill; it seemed odd but accurate."
+
+#. Context: I remember that phrase, “celestial speed-up,” from my earliest
+#. conversations with Bill; it seemed odd but accurate. Now, thirty years
+#. later, it is even more so. Our world appears to be increasingly less
+#. stable, more complex, the years moving by at an accelerated pace. William
+#. (Whit) Whitson, introduced later in this chronology, writes, “Unknowingly,
+#. Bill and Helen had forewarned and forearmed America for what Helen believed
+#. was the coming social and metaphysical crisis.”[3] Now that crisis seems to
+#. be upon us. A Course In Miracles reminds us that we are completely confused
+#. about what is valuable and what is not. Our values are upside down and
+#. backwards, and we put precious and powerful attention on what doesn’t
+#. matter, steadily ignoring what does. We believe our actions and their
+#. influence are of great importance, but thoughts are our own private
+#. business and, being invisible and silent, do not count for much. Hence we
+#. set great store on the externals of our lives—our careers, material
+#. possessions, the face we present to the world—while being oblivious to our
+#. internal processes. With this in mind, we begin Bill’s story with
+#. highlights of his external life: early history, the jobs he held, his
+#. overriding interests—those areas that were compelling and fascinating for
+#. him. These will serve as the framework for becoming better acquainted with
+#. his interior life—his choices, struggles, gifts, and most of all, his
+#. loving presence. We shall observe the process as Bill steadily moves
+#. forward in releasing his ego—“the block to the awareness of Love’s
+#. presence”—just as we must do if we want to be joyous, free, safe, and
+#. abundantly cared for.[4]
+#: paragraph:8,sentence:2
+msgid "Now, thirty years later, it is even more so."
+msgstr "Now, thirty years later, it is even more so."
+
+#. Context: I remember that phrase, “celestial speed-up,” from my earliest
+#. conversations with Bill; it seemed odd but accurate. Now, thirty years
+#. later, it is even more so. Our world appears to be increasingly less
+#. stable, more complex, the years moving by at an accelerated pace. William
+#. (Whit) Whitson, introduced later in this chronology, writes, “Unknowingly,
+#. Bill and Helen had forewarned and forearmed America for what Helen believed
+#. was the coming social and metaphysical crisis.”[3] Now that crisis seems to
+#. be upon us. A Course In Miracles reminds us that we are completely confused
+#. about what is valuable and what is not. Our values are upside down and
+#. backwards, and we put precious and powerful attention on what doesn’t
+#. matter, steadily ignoring what does. We believe our actions and their
+#. influence are of great importance, but thoughts are our own private
+#. business and, being invisible and silent, do not count for much. Hence we
+#. set great store on the externals of our lives—our careers, material
+#. possessions, the face we present to the world—while being oblivious to our
+#. internal processes. With this in mind, we begin Bill’s story with
+#. highlights of his external life: early history, the jobs he held, his
+#. overriding interests—those areas that were compelling and fascinating for
+#. him. These will serve as the framework for becoming better acquainted with
+#. his interior life—his choices, struggles, gifts, and most of all, his
+#. loving presence. We shall observe the process as Bill steadily moves
+#. forward in releasing his ego—“the block to the awareness of Love’s
+#. presence”—just as we must do if we want to be joyous, free, safe, and
+#. abundantly cared for.[4]
+#: paragraph:8,sentence:3
+msgid ""
+"Our world appears to be increasingly less stable, more complex, the years "
+"moving by at an accelerated pace."
+msgstr ""
+"Our world appears to be increasingly less stable, more complex, the years "
+"moving by at an accelerated pace."
+
+#. Context: I remember that phrase, “celestial speed-up,” from my earliest
+#. conversations with Bill; it seemed odd but accurate. Now, thirty years
+#. later, it is even more so. Our world appears to be increasingly less
+#. stable, more complex, the years moving by at an accelerated pace. William
+#. (Whit) Whitson, introduced later in this chronology, writes, “Unknowingly,
+#. Bill and Helen had forewarned and forearmed America for what Helen believed
+#. was the coming social and metaphysical crisis.”[3] Now that crisis seems to
+#. be upon us. A Course In Miracles reminds us that we are completely confused
+#. about what is valuable and what is not. Our values are upside down and
+#. backwards, and we put precious and powerful attention on what doesn’t
+#. matter, steadily ignoring what does. We believe our actions and their
+#. influence are of great importance, but thoughts are our own private
+#. business and, being invisible and silent, do not count for much. Hence we
+#. set great store on the externals of our lives—our careers, material
+#. possessions, the face we present to the world—while being oblivious to our
+#. internal processes. With this in mind, we begin Bill’s story with
+#. highlights of his external life: early history, the jobs he held, his
+#. overriding interests—those areas that were compelling and fascinating for
+#. him. These will serve as the framework for becoming better acquainted with
+#. his interior life—his choices, struggles, gifts, and most of all, his
+#. loving presence. We shall observe the process as Bill steadily moves
+#. forward in releasing his ego—“the block to the awareness of Love’s
+#. presence”—just as we must do if we want to be joyous, free, safe, and
+#. abundantly cared for.[4]
+#: paragraph:8,sentence:4
+msgid ""
+"William (Whit) Whitson, introduced later in this chronology, writes, "
+"“Unknowingly, Bill and Helen had forewarned and forearmed America for what "
+"Helen believed was the coming social and metaphysical crisis.”[3] Now that "
+"crisis seems to be upon us."
+msgstr ""
+"William (Whit) Whitson, introduced later in this chronology, writes, "
+"“Unknowingly, Bill and Helen had forewarned and forearmed America for what "
+"Helen believed was the coming social and metaphysical crisis.”[3] Now that "
+"crisis seems to be upon us."
+
+#. Context: I remember that phrase, “celestial speed-up,” from my earliest
+#. conversations with Bill; it seemed odd but accurate. Now, thirty years
+#. later, it is even more so. Our world appears to be increasingly less
+#. stable, more complex, the years moving by at an accelerated pace. William
+#. (Whit) Whitson, introduced later in this chronology, writes, “Unknowingly,
+#. Bill and Helen had forewarned and forearmed America for what Helen believed
+#. was the coming social and metaphysical crisis.”[3] Now that crisis seems to
+#. be upon us. A Course In Miracles reminds us that we are completely confused
+#. about what is valuable and what is not. Our values are upside down and
+#. backwards, and we put precious and powerful attention on what doesn’t
+#. matter, steadily ignoring what does. We believe our actions and their
+#. influence are of great importance, but thoughts are our own private
+#. business and, being invisible and silent, do not count for much. Hence we
+#. set great store on the externals of our lives—our careers, material
+#. possessions, the face we present to the world—while being oblivious to our
+#. internal processes. With this in mind, we begin Bill’s story with
+#. highlights of his external life: early history, the jobs he held, his
+#. overriding interests—those areas that were compelling and fascinating for
+#. him. These will serve as the framework for becoming better acquainted with
+#. his interior life—his choices, struggles, gifts, and most of all, his
+#. loving presence. We shall observe the process as Bill steadily moves
+#. forward in releasing his ego—“the block to the awareness of Love’s
+#. presence”—just as we must do if we want to be joyous, free, safe, and
+#. abundantly cared for.[4]
+#: paragraph:8,sentence:5
+msgid ""
+"A Course In Miracles reminds us that we are completely confused about what "
+"is valuable and what is not."
+msgstr ""
+"A Course In Miracles reminds us that we are completely confused about what "
+"is valuable and what is not."
+
+#. Context: I remember that phrase, “celestial speed-up,” from my earliest
+#. conversations with Bill; it seemed odd but accurate. Now, thirty years
+#. later, it is even more so. Our world appears to be increasingly less
+#. stable, more complex, the years moving by at an accelerated pace. William
+#. (Whit) Whitson, introduced later in this chronology, writes, “Unknowingly,
+#. Bill and Helen had forewarned and forearmed America for what Helen believed
+#. was the coming social and metaphysical crisis.”[3] Now that crisis seems to
+#. be upon us. A Course In Miracles reminds us that we are completely confused
+#. about what is valuable and what is not. Our values are upside down and
+#. backwards, and we put precious and powerful attention on what doesn’t
+#. matter, steadily ignoring what does. We believe our actions and their
+#. influence are of great importance, but thoughts are our own private
+#. business and, being invisible and silent, do not count for much. Hence we
+#. set great store on the externals of our lives—our careers, material
+#. possessions, the face we present to the world—while being oblivious to our
+#. internal processes. With this in mind, we begin Bill’s story with
+#. highlights of his external life: early history, the jobs he held, his
+#. overriding interests—those areas that were compelling and fascinating for
+#. him. These will serve as the framework for becoming better acquainted with
+#. his interior life—his choices, struggles, gifts, and most of all, his
+#. loving presence. We shall observe the process as Bill steadily moves
+#. forward in releasing his ego—“the block to the awareness of Love’s
+#. presence”—just as we must do if we want to be joyous, free, safe, and
+#. abundantly cared for.[4]
+#: paragraph:8,sentence:6
+msgid ""
+"Our values are upside down and backwards, and we put precious and powerful "
+"attention on what doesn’t matter, steadily ignoring what does."
+msgstr ""
+"Our values are upside down and backwards, and we put precious and powerful "
+"attention on what doesn’t matter, steadily ignoring what does."
+
+#. Context: I remember that phrase, “celestial speed-up,” from my earliest
+#. conversations with Bill; it seemed odd but accurate. Now, thirty years
+#. later, it is even more so. Our world appears to be increasingly less
+#. stable, more complex, the years moving by at an accelerated pace. William
+#. (Whit) Whitson, introduced later in this chronology, writes, “Unknowingly,
+#. Bill and Helen had forewarned and forearmed America for what Helen believed
+#. was the coming social and metaphysical crisis.”[3] Now that crisis seems to
+#. be upon us. A Course In Miracles reminds us that we are completely confused
+#. about what is valuable and what is not. Our values are upside down and
+#. backwards, and we put precious and powerful attention on what doesn’t
+#. matter, steadily ignoring what does. We believe our actions and their
+#. influence are of great importance, but thoughts are our own private
+#. business and, being invisible and silent, do not count for much. Hence we
+#. set great store on the externals of our lives—our careers, material
+#. possessions, the face we present to the world—while being oblivious to our
+#. internal processes. With this in mind, we begin Bill’s story with
+#. highlights of his external life: early history, the jobs he held, his
+#. overriding interests—those areas that were compelling and fascinating for
+#. him. These will serve as the framework for becoming better acquainted with
+#. his interior life—his choices, struggles, gifts, and most of all, his
+#. loving presence. We shall observe the process as Bill steadily moves
+#. forward in releasing his ego—“the block to the awareness of Love’s
+#. presence”—just as we must do if we want to be joyous, free, safe, and
+#. abundantly cared for.[4]
+#: paragraph:8,sentence:7
+msgid ""
+"We believe our actions and their influence are of great importance, but "
+"thoughts are our own private business and, being invisible and silent, do "
+"not count for much."
+msgstr ""
+"We believe our actions and their influence are of great importance, but "
+"thoughts are our own private business and, being invisible and silent, do "
+"not count for much."
+
+#. Context: I remember that phrase, “celestial speed-up,” from my earliest
+#. conversations with Bill; it seemed odd but accurate. Now, thirty years
+#. later, it is even more so. Our world appears to be increasingly less
+#. stable, more complex, the years moving by at an accelerated pace. William
+#. (Whit) Whitson, introduced later in this chronology, writes, “Unknowingly,
+#. Bill and Helen had forewarned and forearmed America for what Helen believed
+#. was the coming social and metaphysical crisis.”[3] Now that crisis seems to
+#. be upon us. A Course In Miracles reminds us that we are completely confused
+#. about what is valuable and what is not. Our values are upside down and
+#. backwards, and we put precious and powerful attention on what doesn’t
+#. matter, steadily ignoring what does. We believe our actions and their
+#. influence are of great importance, but thoughts are our own private
+#. business and, being invisible and silent, do not count for much. Hence we
+#. set great store on the externals of our lives—our careers, material
+#. possessions, the face we present to the world—while being oblivious to our
+#. internal processes. With this in mind, we begin Bill’s story with
+#. highlights of his external life: early history, the jobs he held, his
+#. overriding interests—those areas that were compelling and fascinating for
+#. him. These will serve as the framework for becoming better acquainted with
+#. his interior life—his choices, struggles, gifts, and most of all, his
+#. loving presence. We shall observe the process as Bill steadily moves
+#. forward in releasing his ego—“the block to the awareness of Love’s
+#. presence”—just as we must do if we want to be joyous, free, safe, and
+#. abundantly cared for.[4]
+#: paragraph:8,sentence:8
+msgid ""
+"Hence we set great store on the externals of our lives—our careers, material"
+" possessions, the face we present to the world—while being oblivious to our "
+"internal processes."
+msgstr ""
+"Hence we set great store on the externals of our lives—our careers, material"
+" possessions, the face we present to the world—while being oblivious to our "
+"internal processes."
+
+#. Context: I remember that phrase, “celestial speed-up,” from my earliest
+#. conversations with Bill; it seemed odd but accurate. Now, thirty years
+#. later, it is even more so. Our world appears to be increasingly less
+#. stable, more complex, the years moving by at an accelerated pace. William
+#. (Whit) Whitson, introduced later in this chronology, writes, “Unknowingly,
+#. Bill and Helen had forewarned and forearmed America for what Helen believed
+#. was the coming social and metaphysical crisis.”[3] Now that crisis seems to
+#. be upon us. A Course In Miracles reminds us that we are completely confused
+#. about what is valuable and what is not. Our values are upside down and
+#. backwards, and we put precious and powerful attention on what doesn’t
+#. matter, steadily ignoring what does. We believe our actions and their
+#. influence are of great importance, but thoughts are our own private
+#. business and, being invisible and silent, do not count for much. Hence we
+#. set great store on the externals of our lives—our careers, material
+#. possessions, the face we present to the world—while being oblivious to our
+#. internal processes. With this in mind, we begin Bill’s story with
+#. highlights of his external life: early history, the jobs he held, his
+#. overriding interests—those areas that were compelling and fascinating for
+#. him. These will serve as the framework for becoming better acquainted with
+#. his interior life—his choices, struggles, gifts, and most of all, his
+#. loving presence. We shall observe the process as Bill steadily moves
+#. forward in releasing his ego—“the block to the awareness of Love’s
+#. presence”—just as we must do if we want to be joyous, free, safe, and
+#. abundantly cared for.[4]
+#: paragraph:8,sentence:9
+msgid ""
+"With this in mind, we begin Bill’s story with highlights of his external "
+"life: early history, the jobs he held, his overriding interests—those areas "
+"that were compelling and fascinating for him."
+msgstr ""
+"With this in mind, we begin Bill’s story with highlights of his external "
+"life: early history, the jobs he held, his overriding interests—those areas "
+"that were compelling and fascinating for him."
+
+#. Context: I remember that phrase, “celestial speed-up,” from my earliest
+#. conversations with Bill; it seemed odd but accurate. Now, thirty years
+#. later, it is even more so. Our world appears to be increasingly less
+#. stable, more complex, the years moving by at an accelerated pace. William
+#. (Whit) Whitson, introduced later in this chronology, writes, “Unknowingly,
+#. Bill and Helen had forewarned and forearmed America for what Helen believed
+#. was the coming social and metaphysical crisis.”[3] Now that crisis seems to
+#. be upon us. A Course In Miracles reminds us that we are completely confused
+#. about what is valuable and what is not. Our values are upside down and
+#. backwards, and we put precious and powerful attention on what doesn’t
+#. matter, steadily ignoring what does. We believe our actions and their
+#. influence are of great importance, but thoughts are our own private
+#. business and, being invisible and silent, do not count for much. Hence we
+#. set great store on the externals of our lives—our careers, material
+#. possessions, the face we present to the world—while being oblivious to our
+#. internal processes. With this in mind, we begin Bill’s story with
+#. highlights of his external life: early history, the jobs he held, his
+#. overriding interests—those areas that were compelling and fascinating for
+#. him. These will serve as the framework for becoming better acquainted with
+#. his interior life—his choices, struggles, gifts, and most of all, his
+#. loving presence. We shall observe the process as Bill steadily moves
+#. forward in releasing his ego—“the block to the awareness of Love’s
+#. presence”—just as we must do if we want to be joyous, free, safe, and
+#. abundantly cared for.[4]
+#: paragraph:8,sentence:10
+msgid ""
+"These will serve as the framework for becoming better acquainted with his "
+"interior life—his choices, struggles, gifts, and most of all, his loving "
+"presence."
+msgstr ""
+"These will serve as the framework for becoming better acquainted with his "
+"interior life—his choices, struggles, gifts, and most of all, his loving "
+"presence."
+
+#. Context: I remember that phrase, “celestial speed-up,” from my earliest
+#. conversations with Bill; it seemed odd but accurate. Now, thirty years
+#. later, it is even more so. Our world appears to be increasingly less
+#. stable, more complex, the years moving by at an accelerated pace. William
+#. (Whit) Whitson, introduced later in this chronology, writes, “Unknowingly,
+#. Bill and Helen had forewarned and forearmed America for what Helen believed
+#. was the coming social and metaphysical crisis.”[3] Now that crisis seems to
+#. be upon us. A Course In Miracles reminds us that we are completely confused
+#. about what is valuable and what is not. Our values are upside down and
+#. backwards, and we put precious and powerful attention on what doesn’t
+#. matter, steadily ignoring what does. We believe our actions and their
+#. influence are of great importance, but thoughts are our own private
+#. business and, being invisible and silent, do not count for much. Hence we
+#. set great store on the externals of our lives—our careers, material
+#. possessions, the face we present to the world—while being oblivious to our
+#. internal processes. With this in mind, we begin Bill’s story with
+#. highlights of his external life: early history, the jobs he held, his
+#. overriding interests—those areas that were compelling and fascinating for
+#. him. These will serve as the framework for becoming better acquainted with
+#. his interior life—his choices, struggles, gifts, and most of all, his
+#. loving presence. We shall observe the process as Bill steadily moves
+#. forward in releasing his ego—“the block to the awareness of Love’s
+#. presence”—just as we must do if we want to be joyous, free, safe, and
+#. abundantly cared for.[4]
+#: paragraph:8,sentence:11
+msgid ""
+"We shall observe the process as Bill steadily moves forward in releasing his"
+" ego—“the block to the awareness of Love’s presence”—just as we must do if "
+"we want to be joyous, free, safe, and abundantly cared for.[4]"
+msgstr ""
+"We shall observe the process as Bill steadily moves forward in releasing his"
+" ego—“the block to the awareness of Love’s presence”—just as we must do if "
+"we want to be joyous, free, safe, and abundantly cared for.[4]"
+
+#. Context: Lest one think Bill’s life was easier or more charmed than others
+#. and that living the Course was inherently less challenging for him, his
+#. early years come alive via excerpts from an essay entitled “I Live Again,”
+#. which he wrote as an English assignment when he was fifteen years old. Of
+#. his parents, John Randolph and Edna Mae Thetford, he wrote:
+#: paragraph:9,sentence:1
+msgid ""
+"Lest one think Bill’s life was easier or more charmed than others and that "
+"living the Course was inherently less challenging for him, his early years "
+"come alive via excerpts from an essay entitled “I Live Again,” which he "
+"wrote as an English assignment when he was fifteen years old."
+msgstr ""
+"Lest one think Bill’s life was easier or more charmed than others and that "
+"living the Course was inherently less challenging for him, his early years "
+"come alive via excerpts from an essay entitled “I Live Again,” which he "
+"wrote as an English assignment when he was fifteen years old."
+
+#. Context: Lest one think Bill’s life was easier or more charmed than others
+#. and that living the Course was inherently less challenging for him, his
+#. early years come alive via excerpts from an essay entitled “I Live Again,”
+#. which he wrote as an English assignment when he was fifteen years old. Of
+#. his parents, John Randolph and Edna Mae Thetford, he wrote:
+#: paragraph:9,sentence:2
+msgid "Of his parents, John Randolph and Edna Mae Thetford, he wrote:"
+msgstr "Of his parents, John Randolph and Edna Mae Thetford, he wrote:"
+
+#. Context: Then began an early married life of hard work and sacrifice and of
+#. the rearing of three children. John, Jr., the first child, died in infancy
+#. after seven days’ struggle for life. A curly haired, beautiful baby girl,
+#. Patricia Ann, next entered our busy household three years later. . . . On a
+#. bleak April morning [in Chicago, IL] in 1923, . . . the author of this
+#. chronicle first saw the light of day. . . . When I look back upon what a
+#. strong-tempered little vixen I was, always getting into scrapes, I realize
+#. how much extra trouble my behavior caused her [his mother].
+#: paragraph:10,sentence:1
+msgid ""
+"Then began an early married life of hard work and sacrifice and of the "
+"rearing of three children."
+msgstr ""
+"Then began an early married life of hard work and sacrifice and of the "
+"rearing of three children."
+
+#. Context: Then began an early married life of hard work and sacrifice and of
+#. the rearing of three children. John, Jr., the first child, died in infancy
+#. after seven days’ struggle for life. A curly haired, beautiful baby girl,
+#. Patricia Ann, next entered our busy household three years later. . . . On a
+#. bleak April morning [in Chicago, IL] in 1923, . . . the author of this
+#. chronicle first saw the light of day. . . . When I look back upon what a
+#. strong-tempered little vixen I was, always getting into scrapes, I realize
+#. how much extra trouble my behavior caused her [his mother].
+#: paragraph:10,sentence:2
+msgid ""
+"John, Jr., the first child, died in infancy after seven days’ struggle for "
+"life."
+msgstr ""
+"John, Jr., the first child, died in infancy after seven days’ struggle for "
+"life."
+
+#. Context: Then began an early married life of hard work and sacrifice and of
+#. the rearing of three children. John, Jr., the first child, died in infancy
+#. after seven days’ struggle for life. A curly haired, beautiful baby girl,
+#. Patricia Ann, next entered our busy household three years later. . . . On a
+#. bleak April morning [in Chicago, IL] in 1923, . . . the author of this
+#. chronicle first saw the light of day. . . . When I look back upon what a
+#. strong-tempered little vixen I was, always getting into scrapes, I realize
+#. how much extra trouble my behavior caused her [his mother].
+#: paragraph:10,sentence:3
+msgid ""
+"A curly haired, beautiful baby girl, Patricia Ann, next entered our busy "
+"household three years later. . . ."
+msgstr ""
+"A curly haired, beautiful baby girl, Patricia Ann, next entered our busy "
+"household three years later. . . ."
+
+#. Context: Then began an early married life of hard work and sacrifice and of
+#. the rearing of three children. John, Jr., the first child, died in infancy
+#. after seven days’ struggle for life. A curly haired, beautiful baby girl,
+#. Patricia Ann, next entered our busy household three years later. . . . On a
+#. bleak April morning [in Chicago, IL] in 1923, . . . the author of this
+#. chronicle first saw the light of day. . . . When I look back upon what a
+#. strong-tempered little vixen I was, always getting into scrapes, I realize
+#. how much extra trouble my behavior caused her [his mother].
+#: paragraph:10,sentence:4
+msgid ""
+"On a bleak April morning [in Chicago, IL] in 1923, . . . the author of this "
+"chronicle first saw the light of day. . . ."
+msgstr ""
+"On a bleak April morning [in Chicago, IL] in 1923, . . . the author of this "
+"chronicle first saw the light of day. . . ."
+
+#. Context: Then began an early married life of hard work and sacrifice and of
+#. the rearing of three children. John, Jr., the first child, died in infancy
+#. after seven days’ struggle for life. A curly haired, beautiful baby girl,
+#. Patricia Ann, next entered our busy household three years later. . . . On a
+#. bleak April morning [in Chicago, IL] in 1923, . . . the author of this
+#. chronicle first saw the light of day. . . . When I look back upon what a
+#. strong-tempered little vixen I was, always getting into scrapes, I realize
+#. how much extra trouble my behavior caused her [his mother].
+#: paragraph:10,sentence:5
+msgid ""
+"When I look back upon what a strong-tempered little vixen I was, always "
+"getting into scrapes, I realize how much extra trouble my behavior caused "
+"her [his mother]."
+msgstr ""
+"When I look back upon what a strong-tempered little vixen I was, always "
+"getting into scrapes, I realize how much extra trouble my behavior caused "
+"her [his mother]."
+
+#. Context: Patricia was the big dominating force of my early life—outside of
+#. Mother. The sun rose and set upon Patsy Ann. I was her constant shadow and
+#. continual worshipper. A fostering of an unmanly interest in dolls and tea
+#. parties and other effeminate things was the result of my close association
+#. with Patsy and her girl friends. In fact, my fascination for the opposite
+#. sex has never deserted me.
+#: paragraph:11,sentence:1
+msgid ""
+"Patricia was the big dominating force of my early life—outside of Mother."
+msgstr ""
+"Patricia was the big dominating force of my early life—outside of Mother."
+
+#. Context: Patricia was the big dominating force of my early life—outside of
+#. Mother. The sun rose and set upon Patsy Ann. I was her constant shadow and
+#. continual worshipper. A fostering of an unmanly interest in dolls and tea
+#. parties and other effeminate things was the result of my close association
+#. with Patsy and her girl friends. In fact, my fascination for the opposite
+#. sex has never deserted me.
+#: paragraph:11,sentence:2
+msgid "The sun rose and set upon Patsy Ann."
+msgstr "The sun rose and set upon Patsy Ann."
+
+#. Context: Patricia was the big dominating force of my early life—outside of
+#. Mother. The sun rose and set upon Patsy Ann. I was her constant shadow and
+#. continual worshipper. A fostering of an unmanly interest in dolls and tea
+#. parties and other effeminate things was the result of my close association
+#. with Patsy and her girl friends. In fact, my fascination for the opposite
+#. sex has never deserted me.
+#: paragraph:11,sentence:3
+msgid "I was her constant shadow and continual worshipper."
+msgstr "I was her constant shadow and continual worshipper."
+
+#. Context: Patricia was the big dominating force of my early life—outside of
+#. Mother. The sun rose and set upon Patsy Ann. I was her constant shadow and
+#. continual worshipper. A fostering of an unmanly interest in dolls and tea
+#. parties and other effeminate things was the result of my close association
+#. with Patsy and her girl friends. In fact, my fascination for the opposite
+#. sex has never deserted me.
+#: paragraph:11,sentence:4
+msgid ""
+"A fostering of an unmanly interest in dolls and tea parties and other "
+"effeminate things was the result of my close association with Patsy and her "
+"girl friends."
+msgstr ""
+"A fostering of an unmanly interest in dolls and tea parties and other "
+"effeminate things was the result of my close association with Patsy and her "
+"girl friends."
+
+#. Context: Patricia was the big dominating force of my early life—outside of
+#. Mother. The sun rose and set upon Patsy Ann. I was her constant shadow and
+#. continual worshipper. A fostering of an unmanly interest in dolls and tea
+#. parties and other effeminate things was the result of my close association
+#. with Patsy and her girl friends. In fact, my fascination for the opposite
+#. sex has never deserted me.
+#: paragraph:11,sentence:5
+msgid "In fact, my fascination for the opposite sex has never deserted me."
+msgstr "In fact, my fascination for the opposite sex has never deserted me."
+
+#. Context: In May of 1930, when I was seven years old, my beloved sister was
+#. stricken with a fatal infection of the throat. Three weeks later she passed
+#. away leaving our family dazed with grief, hardly believing that death could
+#. strike one so young and vibrantly alive. Even now, after eight years have
+#. elapsed, it scarcely seems possible that the playmate of my youth can be
+#. gone. . . .
+#: paragraph:12,sentence:1
+msgid ""
+"In May of 1930, when I was seven years old, my beloved sister was stricken "
+"with a fatal infection of the throat."
+msgstr ""
+"In May of 1930, when I was seven years old, my beloved sister was stricken "
+"with a fatal infection of the throat."
+
+#. Context: In May of 1930, when I was seven years old, my beloved sister was
+#. stricken with a fatal infection of the throat. Three weeks later she passed
+#. away leaving our family dazed with grief, hardly believing that death could
+#. strike one so young and vibrantly alive. Even now, after eight years have
+#. elapsed, it scarcely seems possible that the playmate of my youth can be
+#. gone. . . .
+#: paragraph:12,sentence:2
+msgid ""
+"Three weeks later she passed away leaving our family dazed with grief, "
+"hardly believing that death could strike one so young and vibrantly alive."
+msgstr ""
+"Three weeks later she passed away leaving our family dazed with grief, "
+"hardly believing that death could strike one so young and vibrantly alive."
+
+#. Context: In May of 1930, when I was seven years old, my beloved sister was
+#. stricken with a fatal infection of the throat. Three weeks later she passed
+#. away leaving our family dazed with grief, hardly believing that death could
+#. strike one so young and vibrantly alive. Even now, after eight years have
+#. elapsed, it scarcely seems possible that the playmate of my youth can be
+#. gone. . . .
+#: paragraph:12,sentence:3
+msgid ""
+"Even now, after eight years have elapsed, it scarcely seems possible that "
+"the playmate of my youth can be gone. . . ."
+msgstr ""
+"Even now, after eight years have elapsed, it scarcely seems possible that "
+"the playmate of my youth can be gone. . . ."
+
+#. Context: The following December after having been quarantined for three
+#. weeks with scarlet fever, I arose one morning, only to find my body wracked
+#. with rheumatic pains and fever. This led within a few days, to a serious
+#. heart ailment. For three whole months I was unable to raise my head off the
+#. pillow. During these long months of fighting to live, Mother was my nurse,
+#. playmate and teacher. . . . Considering my illness as only a temporary
+#. thing, I soon began to plan as to how I would spend my days in the outdoors
+#. playing baseball and other games and sports, until I overheard a telephone
+#. conversation in which Mother, in whispers, remarked that I would not be
+#. able to get out of bed for at least another year and a half.[5]
+#: paragraph:13,sentence:1
+msgid ""
+"The following December after having been quarantined for three weeks with "
+"scarlet fever, I arose one morning, only to find my body wracked with "
+"rheumatic pains and fever."
+msgstr ""
+"The following December after having been quarantined for three weeks with "
+"scarlet fever, I arose one morning, only to find my body wracked with "
+"rheumatic pains and fever."
+
+#. Context: The following December after having been quarantined for three
+#. weeks with scarlet fever, I arose one morning, only to find my body wracked
+#. with rheumatic pains and fever. This led within a few days, to a serious
+#. heart ailment. For three whole months I was unable to raise my head off the
+#. pillow. During these long months of fighting to live, Mother was my nurse,
+#. playmate and teacher. . . . Considering my illness as only a temporary
+#. thing, I soon began to plan as to how I would spend my days in the outdoors
+#. playing baseball and other games and sports, until I overheard a telephone
+#. conversation in which Mother, in whispers, remarked that I would not be
+#. able to get out of bed for at least another year and a half.[5]
+#: paragraph:13,sentence:2
+msgid "This led within a few days, to a serious heart ailment."
+msgstr "This led within a few days, to a serious heart ailment."
+
+#. Context: The following December after having been quarantined for three
+#. weeks with scarlet fever, I arose one morning, only to find my body wracked
+#. with rheumatic pains and fever. This led within a few days, to a serious
+#. heart ailment. For three whole months I was unable to raise my head off the
+#. pillow. During these long months of fighting to live, Mother was my nurse,
+#. playmate and teacher. . . . Considering my illness as only a temporary
+#. thing, I soon began to plan as to how I would spend my days in the outdoors
+#. playing baseball and other games and sports, until I overheard a telephone
+#. conversation in which Mother, in whispers, remarked that I would not be
+#. able to get out of bed for at least another year and a half.[5]
+#: paragraph:13,sentence:3
+msgid "For three whole months I was unable to raise my head off the pillow."
+msgstr "For three whole months I was unable to raise my head off the pillow."
+
+#. Context: The following December after having been quarantined for three
+#. weeks with scarlet fever, I arose one morning, only to find my body wracked
+#. with rheumatic pains and fever. This led within a few days, to a serious
+#. heart ailment. For three whole months I was unable to raise my head off the
+#. pillow. During these long months of fighting to live, Mother was my nurse,
+#. playmate and teacher. . . . Considering my illness as only a temporary
+#. thing, I soon began to plan as to how I would spend my days in the outdoors
+#. playing baseball and other games and sports, until I overheard a telephone
+#. conversation in which Mother, in whispers, remarked that I would not be
+#. able to get out of bed for at least another year and a half.[5]
+#: paragraph:13,sentence:4
+msgid ""
+"During these long months of fighting to live, Mother was my nurse, playmate "
+"and teacher. . . ."
+msgstr ""
+"During these long months of fighting to live, Mother was my nurse, playmate "
+"and teacher. . . ."
+
+#. Context: The following December after having been quarantined for three
+#. weeks with scarlet fever, I arose one morning, only to find my body wracked
+#. with rheumatic pains and fever. This led within a few days, to a serious
+#. heart ailment. For three whole months I was unable to raise my head off the
+#. pillow. During these long months of fighting to live, Mother was my nurse,
+#. playmate and teacher. . . . Considering my illness as only a temporary
+#. thing, I soon began to plan as to how I would spend my days in the outdoors
+#. playing baseball and other games and sports, until I overheard a telephone
+#. conversation in which Mother, in whispers, remarked that I would not be
+#. able to get out of bed for at least another year and a half.[5]
+#: paragraph:13,sentence:5
+msgid ""
+"Considering my illness as only a temporary thing, I soon began to plan as to"
+" how I would spend my days in the outdoors playing baseball and other games "
+"and sports, until I overheard a telephone conversation in which Mother, in "
+"whispers, remarked that I would not be able to get out of bed for at least "
+"another year and a half.[5]"
+msgstr ""
+"Considering my illness as only a temporary thing, I soon began to plan as to"
+" how I would spend my days in the outdoors playing baseball and other games "
+"and sports, until I overheard a telephone conversation in which Mother, in "
+"whispers, remarked that I would not be able to get out of bed for at least "
+"another year and a half.[5]"
+
+#. Context: Bill and sister Patricia
+#: paragraph:14,sentence:1
+msgid "Bill and sister Patricia"
+msgstr "Bill and sister Patricia"
+
+#. Context: Bill told me he was devastated by that conversation and made a
+#. determined choice to live, despite the doctor’s gloomy prognosis, rather
+#. than have his parents suffer the loss of all three of their children. Early
+#. on, he seemed aware that he had a choice in the matter—quite a challenge
+#. for a seven-year-old and revealing of his heightened awareness. In
+#. retrospect, Bill recognized that his serious illness, commencing six months
+#. after his sister’s passing, was not a coincidence. Those who work with
+#. grieving families observe that siblings of children who die often feel
+#. guilty that they remain after the brother or sister has gone. Or they worry
+#. over the effect of the death on their parents’ stability, and thus on their
+#. own welfare, and/or try diligently to deny the loss in their young lives. A
+#. Course In Miracles is unequivocal about the role that guilt, fear, and
+#. anger play in projecting the dis-ease or dis-harmony within our minds onto
+#. the physical body and the role forgiveness plays in restoring both mind and
+#. body to health. Hundreds of pages address this topic in no uncertain terms.
+#. “Sickness is a decision. It is not a thing that happens to you, quite
+#. unsought, which makes you weak and brings you suffering. It is a choice you
+#. make, a plan you lay, when for an instant truth arises in your own deluded
+#. mind, and all your world appears to totter and prepare to fall. Now are you
+#. sick, that truth may go away and threaten your establishments no more.”[6]
+#: paragraph:15,sentence:1
+msgid ""
+"Bill told me he was devastated by that conversation and made a determined "
+"choice to live, despite the doctor’s gloomy prognosis, rather than have his "
+"parents suffer the loss of all three of their children."
+msgstr ""
+"Bill told me he was devastated by that conversation and made a determined "
+"choice to live, despite the doctor’s gloomy prognosis, rather than have his "
+"parents suffer the loss of all three of their children."
+
+#. Context: Bill told me he was devastated by that conversation and made a
+#. determined choice to live, despite the doctor’s gloomy prognosis, rather
+#. than have his parents suffer the loss of all three of their children. Early
+#. on, he seemed aware that he had a choice in the matter—quite a challenge
+#. for a seven-year-old and revealing of his heightened awareness. In
+#. retrospect, Bill recognized that his serious illness, commencing six months
+#. after his sister’s passing, was not a coincidence. Those who work with
+#. grieving families observe that siblings of children who die often feel
+#. guilty that they remain after the brother or sister has gone. Or they worry
+#. over the effect of the death on their parents’ stability, and thus on their
+#. own welfare, and/or try diligently to deny the loss in their young lives. A
+#. Course In Miracles is unequivocal about the role that guilt, fear, and
+#. anger play in projecting the dis-ease or dis-harmony within our minds onto
+#. the physical body and the role forgiveness plays in restoring both mind and
+#. body to health. Hundreds of pages address this topic in no uncertain terms.
+#. “Sickness is a decision. It is not a thing that happens to you, quite
+#. unsought, which makes you weak and brings you suffering. It is a choice you
+#. make, a plan you lay, when for an instant truth arises in your own deluded
+#. mind, and all your world appears to totter and prepare to fall. Now are you
+#. sick, that truth may go away and threaten your establishments no more.”[6]
+#: paragraph:15,sentence:2
+msgid ""
+"Early on, he seemed aware that he had a choice in the matter—quite a "
+"challenge for a seven-year-old and revealing of his heightened awareness."
+msgstr ""
+"Early on, he seemed aware that he had a choice in the matter—quite a "
+"challenge for a seven-year-old and revealing of his heightened awareness."
+
+#. Context: Bill told me he was devastated by that conversation and made a
+#. determined choice to live, despite the doctor’s gloomy prognosis, rather
+#. than have his parents suffer the loss of all three of their children. Early
+#. on, he seemed aware that he had a choice in the matter—quite a challenge
+#. for a seven-year-old and revealing of his heightened awareness. In
+#. retrospect, Bill recognized that his serious illness, commencing six months
+#. after his sister’s passing, was not a coincidence. Those who work with
+#. grieving families observe that siblings of children who die often feel
+#. guilty that they remain after the brother or sister has gone. Or they worry
+#. over the effect of the death on their parents’ stability, and thus on their
+#. own welfare, and/or try diligently to deny the loss in their young lives. A
+#. Course In Miracles is unequivocal about the role that guilt, fear, and
+#. anger play in projecting the dis-ease or dis-harmony within our minds onto
+#. the physical body and the role forgiveness plays in restoring both mind and
+#. body to health. Hundreds of pages address this topic in no uncertain terms.
+#. “Sickness is a decision. It is not a thing that happens to you, quite
+#. unsought, which makes you weak and brings you suffering. It is a choice you
+#. make, a plan you lay, when for an instant truth arises in your own deluded
+#. mind, and all your world appears to totter and prepare to fall. Now are you
+#. sick, that truth may go away and threaten your establishments no more.”[6]
+#: paragraph:15,sentence:3
+msgid ""
+"In retrospect, Bill recognized that his serious illness, commencing six "
+"months after his sister’s passing, was not a coincidence."
+msgstr ""
+"In retrospect, Bill recognized that his serious illness, commencing six "
+"months after his sister’s passing, was not a coincidence."
+
+#. Context: Bill told me he was devastated by that conversation and made a
+#. determined choice to live, despite the doctor’s gloomy prognosis, rather
+#. than have his parents suffer the loss of all three of their children. Early
+#. on, he seemed aware that he had a choice in the matter—quite a challenge
+#. for a seven-year-old and revealing of his heightened awareness. In
+#. retrospect, Bill recognized that his serious illness, commencing six months
+#. after his sister’s passing, was not a coincidence. Those who work with
+#. grieving families observe that siblings of children who die often feel
+#. guilty that they remain after the brother or sister has gone. Or they worry
+#. over the effect of the death on their parents’ stability, and thus on their
+#. own welfare, and/or try diligently to deny the loss in their young lives. A
+#. Course In Miracles is unequivocal about the role that guilt, fear, and
+#. anger play in projecting the dis-ease or dis-harmony within our minds onto
+#. the physical body and the role forgiveness plays in restoring both mind and
+#. body to health. Hundreds of pages address this topic in no uncertain terms.
+#. “Sickness is a decision. It is not a thing that happens to you, quite
+#. unsought, which makes you weak and brings you suffering. It is a choice you
+#. make, a plan you lay, when for an instant truth arises in your own deluded
+#. mind, and all your world appears to totter and prepare to fall. Now are you
+#. sick, that truth may go away and threaten your establishments no more.”[6]
+#: paragraph:15,sentence:4
+msgid ""
+"Those who work with grieving families observe that siblings of children who "
+"die often feel guilty that they remain after the brother or sister has gone."
+msgstr ""
+"Those who work with grieving families observe that siblings of children who "
+"die often feel guilty that they remain after the brother or sister has gone."
+
+#. Context: Bill told me he was devastated by that conversation and made a
+#. determined choice to live, despite the doctor’s gloomy prognosis, rather
+#. than have his parents suffer the loss of all three of their children. Early
+#. on, he seemed aware that he had a choice in the matter—quite a challenge
+#. for a seven-year-old and revealing of his heightened awareness. In
+#. retrospect, Bill recognized that his serious illness, commencing six months
+#. after his sister’s passing, was not a coincidence. Those who work with
+#. grieving families observe that siblings of children who die often feel
+#. guilty that they remain after the brother or sister has gone. Or they worry
+#. over the effect of the death on their parents’ stability, and thus on their
+#. own welfare, and/or try diligently to deny the loss in their young lives. A
+#. Course In Miracles is unequivocal about the role that guilt, fear, and
+#. anger play in projecting the dis-ease or dis-harmony within our minds onto
+#. the physical body and the role forgiveness plays in restoring both mind and
+#. body to health. Hundreds of pages address this topic in no uncertain terms.
+#. “Sickness is a decision. It is not a thing that happens to you, quite
+#. unsought, which makes you weak and brings you suffering. It is a choice you
+#. make, a plan you lay, when for an instant truth arises in your own deluded
+#. mind, and all your world appears to totter and prepare to fall. Now are you
+#. sick, that truth may go away and threaten your establishments no more.”[6]
+#: paragraph:15,sentence:5
+msgid ""
+"Or they worry over the effect of the death on their parents’ stability, and "
+"thus on their own welfare, and/or try diligently to deny the loss in their "
+"young lives."
+msgstr ""
+"Or they worry over the effect of the death on their parents’ stability, and "
+"thus on their own welfare, and/or try diligently to deny the loss in their "
+"young lives."
+
+#. Context: Bill told me he was devastated by that conversation and made a
+#. determined choice to live, despite the doctor’s gloomy prognosis, rather
+#. than have his parents suffer the loss of all three of their children. Early
+#. on, he seemed aware that he had a choice in the matter—quite a challenge
+#. for a seven-year-old and revealing of his heightened awareness. In
+#. retrospect, Bill recognized that his serious illness, commencing six months
+#. after his sister’s passing, was not a coincidence. Those who work with
+#. grieving families observe that siblings of children who die often feel
+#. guilty that they remain after the brother or sister has gone. Or they worry
+#. over the effect of the death on their parents’ stability, and thus on their
+#. own welfare, and/or try diligently to deny the loss in their young lives. A
+#. Course In Miracles is unequivocal about the role that guilt, fear, and
+#. anger play in projecting the dis-ease or dis-harmony within our minds onto
+#. the physical body and the role forgiveness plays in restoring both mind and
+#. body to health. Hundreds of pages address this topic in no uncertain terms.
+#. “Sickness is a decision. It is not a thing that happens to you, quite
+#. unsought, which makes you weak and brings you suffering. It is a choice you
+#. make, a plan you lay, when for an instant truth arises in your own deluded
+#. mind, and all your world appears to totter and prepare to fall. Now are you
+#. sick, that truth may go away and threaten your establishments no more.”[6]
+#: paragraph:15,sentence:6
+msgid ""
+"A Course In Miracles is unequivocal about the role that guilt, fear, and "
+"anger play in projecting the dis-ease or dis-harmony within our minds onto "
+"the physical body and the role forgiveness plays in restoring both mind and "
+"body to health."
+msgstr ""
+"A Course In Miracles is unequivocal about the role that guilt, fear, and "
+"anger play in projecting the dis-ease or dis-harmony within our minds onto "
+"the physical body and the role forgiveness plays in restoring both mind and "
+"body to health."
+
+#. Context: Bill told me he was devastated by that conversation and made a
+#. determined choice to live, despite the doctor’s gloomy prognosis, rather
+#. than have his parents suffer the loss of all three of their children. Early
+#. on, he seemed aware that he had a choice in the matter—quite a challenge
+#. for a seven-year-old and revealing of his heightened awareness. In
+#. retrospect, Bill recognized that his serious illness, commencing six months
+#. after his sister’s passing, was not a coincidence. Those who work with
+#. grieving families observe that siblings of children who die often feel
+#. guilty that they remain after the brother or sister has gone. Or they worry
+#. over the effect of the death on their parents’ stability, and thus on their
+#. own welfare, and/or try diligently to deny the loss in their young lives. A
+#. Course In Miracles is unequivocal about the role that guilt, fear, and
+#. anger play in projecting the dis-ease or dis-harmony within our minds onto
+#. the physical body and the role forgiveness plays in restoring both mind and
+#. body to health. Hundreds of pages address this topic in no uncertain terms.
+#. “Sickness is a decision. It is not a thing that happens to you, quite
+#. unsought, which makes you weak and brings you suffering. It is a choice you
+#. make, a plan you lay, when for an instant truth arises in your own deluded
+#. mind, and all your world appears to totter and prepare to fall. Now are you
+#. sick, that truth may go away and threaten your establishments no more.”[6]
+#: paragraph:15,sentence:7
+msgid ""
+"Hundreds of pages address this topic in no uncertain terms. “Sickness is a "
+"decision."
+msgstr ""
+"Hundreds of pages address this topic in no uncertain terms. “Sickness is a "
+"decision."
+
+#. Context: Bill told me he was devastated by that conversation and made a
+#. determined choice to live, despite the doctor’s gloomy prognosis, rather
+#. than have his parents suffer the loss of all three of their children. Early
+#. on, he seemed aware that he had a choice in the matter—quite a challenge
+#. for a seven-year-old and revealing of his heightened awareness. In
+#. retrospect, Bill recognized that his serious illness, commencing six months
+#. after his sister’s passing, was not a coincidence. Those who work with
+#. grieving families observe that siblings of children who die often feel
+#. guilty that they remain after the brother or sister has gone. Or they worry
+#. over the effect of the death on their parents’ stability, and thus on their
+#. own welfare, and/or try diligently to deny the loss in their young lives. A
+#. Course In Miracles is unequivocal about the role that guilt, fear, and
+#. anger play in projecting the dis-ease or dis-harmony within our minds onto
+#. the physical body and the role forgiveness plays in restoring both mind and
+#. body to health. Hundreds of pages address this topic in no uncertain terms.
+#. “Sickness is a decision. It is not a thing that happens to you, quite
+#. unsought, which makes you weak and brings you suffering. It is a choice you
+#. make, a plan you lay, when for an instant truth arises in your own deluded
+#. mind, and all your world appears to totter and prepare to fall. Now are you
+#. sick, that truth may go away and threaten your establishments no more.”[6]
+#: paragraph:15,sentence:8
+msgid ""
+"It is not a thing that happens to you, quite unsought, which makes you weak "
+"and brings you suffering."
+msgstr ""
+"It is not a thing that happens to you, quite unsought, which makes you weak "
+"and brings you suffering."
+
+#. Context: Bill told me he was devastated by that conversation and made a
+#. determined choice to live, despite the doctor’s gloomy prognosis, rather
+#. than have his parents suffer the loss of all three of their children. Early
+#. on, he seemed aware that he had a choice in the matter—quite a challenge
+#. for a seven-year-old and revealing of his heightened awareness. In
+#. retrospect, Bill recognized that his serious illness, commencing six months
+#. after his sister’s passing, was not a coincidence. Those who work with
+#. grieving families observe that siblings of children who die often feel
+#. guilty that they remain after the brother or sister has gone. Or they worry
+#. over the effect of the death on their parents’ stability, and thus on their
+#. own welfare, and/or try diligently to deny the loss in their young lives. A
+#. Course In Miracles is unequivocal about the role that guilt, fear, and
+#. anger play in projecting the dis-ease or dis-harmony within our minds onto
+#. the physical body and the role forgiveness plays in restoring both mind and
+#. body to health. Hundreds of pages address this topic in no uncertain terms.
+#. “Sickness is a decision. It is not a thing that happens to you, quite
+#. unsought, which makes you weak and brings you suffering. It is a choice you
+#. make, a plan you lay, when for an instant truth arises in your own deluded
+#. mind, and all your world appears to totter and prepare to fall. Now are you
+#. sick, that truth may go away and threaten your establishments no more.”[6]
+#: paragraph:15,sentence:9
+msgid ""
+"It is a choice you make, a plan you lay, when for an instant truth arises in"
+" your own deluded mind, and all your world appears to totter and prepare to "
+"fall."
+msgstr ""
+"It is a choice you make, a plan you lay, when for an instant truth arises in"
+" your own deluded mind, and all your world appears to totter and prepare to "
+"fall."
+
+#. Context: Bill told me he was devastated by that conversation and made a
+#. determined choice to live, despite the doctor’s gloomy prognosis, rather
+#. than have his parents suffer the loss of all three of their children. Early
+#. on, he seemed aware that he had a choice in the matter—quite a challenge
+#. for a seven-year-old and revealing of his heightened awareness. In
+#. retrospect, Bill recognized that his serious illness, commencing six months
+#. after his sister’s passing, was not a coincidence. Those who work with
+#. grieving families observe that siblings of children who die often feel
+#. guilty that they remain after the brother or sister has gone. Or they worry
+#. over the effect of the death on their parents’ stability, and thus on their
+#. own welfare, and/or try diligently to deny the loss in their young lives. A
+#. Course In Miracles is unequivocal about the role that guilt, fear, and
+#. anger play in projecting the dis-ease or dis-harmony within our minds onto
+#. the physical body and the role forgiveness plays in restoring both mind and
+#. body to health. Hundreds of pages address this topic in no uncertain terms.
+#. “Sickness is a decision. It is not a thing that happens to you, quite
+#. unsought, which makes you weak and brings you suffering. It is a choice you
+#. make, a plan you lay, when for an instant truth arises in your own deluded
+#. mind, and all your world appears to totter and prepare to fall. Now are you
+#. sick, that truth may go away and threaten your establishments no more.”[6]
+#: paragraph:15,sentence:10
+msgid ""
+"Now are you sick, that truth may go away and threaten your establishments no"
+" more.”[6]"
+msgstr ""
+"Now are you sick, that truth may go away and threaten your establishments no"
+" more.”[6]"
+
+#. Context: In his essay, Bill continues:
+#: paragraph:16,sentence:1
+msgid "In his essay, Bill continues:"
+msgstr "In his essay, Bill continues:"
+
+#. Context: The world all of a sudden caved in upon me. It was unbelievable
+#. that I must lie flat on my back, imprisoned by four walls, for that seeming
+#. eternity. Gradually, however, I became accustomed to the thought and soon
+#. it held no terror for me. Constant reading and the kindness of our family
+#. friends made the days fly but too quickly. . . . Despite relapses, when I
+#. hovered near death’s door, I continued to progress, until after two and a
+#. half years of shut-in convalescence, I took my first step outside. My first
+#. glimpse of the brilliant blue of the sky, after months of seclusion, caused
+#. me to emit a gasp of wonderment. At the time I thought it was the most
+#. beautiful sight I had ever seen. I was very unsteady on my feet, and in
+#. fact, I had to learn anew how to walk. . . . My rediscovery of the world is
+#. the most thrilling and vivid of all my recollections. Being out of
+#. circulation had made me very shy and I found it extremely difficult to mix
+#. with people.[7]
+#: paragraph:17,sentence:1
+msgid "The world all of a sudden caved in upon me."
+msgstr "The world all of a sudden caved in upon me."
+
+#. Context: The world all of a sudden caved in upon me. It was unbelievable
+#. that I must lie flat on my back, imprisoned by four walls, for that seeming
+#. eternity. Gradually, however, I became accustomed to the thought and soon
+#. it held no terror for me. Constant reading and the kindness of our family
+#. friends made the days fly but too quickly. . . . Despite relapses, when I
+#. hovered near death’s door, I continued to progress, until after two and a
+#. half years of shut-in convalescence, I took my first step outside. My first
+#. glimpse of the brilliant blue of the sky, after months of seclusion, caused
+#. me to emit a gasp of wonderment. At the time I thought it was the most
+#. beautiful sight I had ever seen. I was very unsteady on my feet, and in
+#. fact, I had to learn anew how to walk. . . . My rediscovery of the world is
+#. the most thrilling and vivid of all my recollections. Being out of
+#. circulation had made me very shy and I found it extremely difficult to mix
+#. with people.[7]
+#: paragraph:17,sentence:2
+msgid ""
+"It was unbelievable that I must lie flat on my back, imprisoned by four "
+"walls, for that seeming eternity."
+msgstr ""
+"It was unbelievable that I must lie flat on my back, imprisoned by four "
+"walls, for that seeming eternity."
+
+#. Context: The world all of a sudden caved in upon me. It was unbelievable
+#. that I must lie flat on my back, imprisoned by four walls, for that seeming
+#. eternity. Gradually, however, I became accustomed to the thought and soon
+#. it held no terror for me. Constant reading and the kindness of our family
+#. friends made the days fly but too quickly. . . . Despite relapses, when I
+#. hovered near death’s door, I continued to progress, until after two and a
+#. half years of shut-in convalescence, I took my first step outside. My first
+#. glimpse of the brilliant blue of the sky, after months of seclusion, caused
+#. me to emit a gasp of wonderment. At the time I thought it was the most
+#. beautiful sight I had ever seen. I was very unsteady on my feet, and in
+#. fact, I had to learn anew how to walk. . . . My rediscovery of the world is
+#. the most thrilling and vivid of all my recollections. Being out of
+#. circulation had made me very shy and I found it extremely difficult to mix
+#. with people.[7]
+#: paragraph:17,sentence:3
+msgid ""
+"Gradually, however, I became accustomed to the thought and soon it held no "
+"terror for me."
+msgstr ""
+"Gradually, however, I became accustomed to the thought and soon it held no "
+"terror for me."
+
+#. Context: The world all of a sudden caved in upon me. It was unbelievable
+#. that I must lie flat on my back, imprisoned by four walls, for that seeming
+#. eternity. Gradually, however, I became accustomed to the thought and soon
+#. it held no terror for me. Constant reading and the kindness of our family
+#. friends made the days fly but too quickly. . . . Despite relapses, when I
+#. hovered near death’s door, I continued to progress, until after two and a
+#. half years of shut-in convalescence, I took my first step outside. My first
+#. glimpse of the brilliant blue of the sky, after months of seclusion, caused
+#. me to emit a gasp of wonderment. At the time I thought it was the most
+#. beautiful sight I had ever seen. I was very unsteady on my feet, and in
+#. fact, I had to learn anew how to walk. . . . My rediscovery of the world is
+#. the most thrilling and vivid of all my recollections. Being out of
+#. circulation had made me very shy and I found it extremely difficult to mix
+#. with people.[7]
+#: paragraph:17,sentence:4
+msgid ""
+"Constant reading and the kindness of our family friends made the days fly "
+"but too quickly. . . ."
+msgstr ""
+"Constant reading and the kindness of our family friends made the days fly "
+"but too quickly. . . ."
+
+#. Context: The world all of a sudden caved in upon me. It was unbelievable
+#. that I must lie flat on my back, imprisoned by four walls, for that seeming
+#. eternity. Gradually, however, I became accustomed to the thought and soon
+#. it held no terror for me. Constant reading and the kindness of our family
+#. friends made the days fly but too quickly. . . . Despite relapses, when I
+#. hovered near death’s door, I continued to progress, until after two and a
+#. half years of shut-in convalescence, I took my first step outside. My first
+#. glimpse of the brilliant blue of the sky, after months of seclusion, caused
+#. me to emit a gasp of wonderment. At the time I thought it was the most
+#. beautiful sight I had ever seen. I was very unsteady on my feet, and in
+#. fact, I had to learn anew how to walk. . . . My rediscovery of the world is
+#. the most thrilling and vivid of all my recollections. Being out of
+#. circulation had made me very shy and I found it extremely difficult to mix
+#. with people.[7]
+#: paragraph:17,sentence:5
+msgid ""
+"Despite relapses, when I hovered near death’s door, I continued to progress,"
+" until after two and a half years of shut-in convalescence, I took my first "
+"step outside."
+msgstr ""
+"Despite relapses, when I hovered near death’s door, I continued to progress,"
+" until after two and a half years of shut-in convalescence, I took my first "
+"step outside."
+
+#. Context: The world all of a sudden caved in upon me. It was unbelievable
+#. that I must lie flat on my back, imprisoned by four walls, for that seeming
+#. eternity. Gradually, however, I became accustomed to the thought and soon
+#. it held no terror for me. Constant reading and the kindness of our family
+#. friends made the days fly but too quickly. . . . Despite relapses, when I
+#. hovered near death’s door, I continued to progress, until after two and a
+#. half years of shut-in convalescence, I took my first step outside. My first
+#. glimpse of the brilliant blue of the sky, after months of seclusion, caused
+#. me to emit a gasp of wonderment. At the time I thought it was the most
+#. beautiful sight I had ever seen. I was very unsteady on my feet, and in
+#. fact, I had to learn anew how to walk. . . . My rediscovery of the world is
+#. the most thrilling and vivid of all my recollections. Being out of
+#. circulation had made me very shy and I found it extremely difficult to mix
+#. with people.[7]
+#: paragraph:17,sentence:6
+msgid ""
+"My first glimpse of the brilliant blue of the sky, after months of "
+"seclusion, caused me to emit a gasp of wonderment."
+msgstr ""
+"My first glimpse of the brilliant blue of the sky, after months of "
+"seclusion, caused me to emit a gasp of wonderment."
+
+#. Context: The world all of a sudden caved in upon me. It was unbelievable
+#. that I must lie flat on my back, imprisoned by four walls, for that seeming
+#. eternity. Gradually, however, I became accustomed to the thought and soon
+#. it held no terror for me. Constant reading and the kindness of our family
+#. friends made the days fly but too quickly. . . . Despite relapses, when I
+#. hovered near death’s door, I continued to progress, until after two and a
+#. half years of shut-in convalescence, I took my first step outside. My first
+#. glimpse of the brilliant blue of the sky, after months of seclusion, caused
+#. me to emit a gasp of wonderment. At the time I thought it was the most
+#. beautiful sight I had ever seen. I was very unsteady on my feet, and in
+#. fact, I had to learn anew how to walk. . . . My rediscovery of the world is
+#. the most thrilling and vivid of all my recollections. Being out of
+#. circulation had made me very shy and I found it extremely difficult to mix
+#. with people.[7]
+#: paragraph:17,sentence:7
+msgid "At the time I thought it was the most beautiful sight I had ever seen."
+msgstr ""
+"At the time I thought it was the most beautiful sight I had ever seen."
+
+#. Context: The world all of a sudden caved in upon me. It was unbelievable
+#. that I must lie flat on my back, imprisoned by four walls, for that seeming
+#. eternity. Gradually, however, I became accustomed to the thought and soon
+#. it held no terror for me. Constant reading and the kindness of our family
+#. friends made the days fly but too quickly. . . . Despite relapses, when I
+#. hovered near death’s door, I continued to progress, until after two and a
+#. half years of shut-in convalescence, I took my first step outside. My first
+#. glimpse of the brilliant blue of the sky, after months of seclusion, caused
+#. me to emit a gasp of wonderment. At the time I thought it was the most
+#. beautiful sight I had ever seen. I was very unsteady on my feet, and in
+#. fact, I had to learn anew how to walk. . . . My rediscovery of the world is
+#. the most thrilling and vivid of all my recollections. Being out of
+#. circulation had made me very shy and I found it extremely difficult to mix
+#. with people.[7]
+#: paragraph:17,sentence:8
+msgid ""
+"I was very unsteady on my feet, and in fact, I had to learn anew how to "
+"walk. . . ."
+msgstr ""
+"I was very unsteady on my feet, and in fact, I had to learn anew how to "
+"walk. . . ."
+
+#. Context: The world all of a sudden caved in upon me. It was unbelievable
+#. that I must lie flat on my back, imprisoned by four walls, for that seeming
+#. eternity. Gradually, however, I became accustomed to the thought and soon
+#. it held no terror for me. Constant reading and the kindness of our family
+#. friends made the days fly but too quickly. . . . Despite relapses, when I
+#. hovered near death’s door, I continued to progress, until after two and a
+#. half years of shut-in convalescence, I took my first step outside. My first
+#. glimpse of the brilliant blue of the sky, after months of seclusion, caused
+#. me to emit a gasp of wonderment. At the time I thought it was the most
+#. beautiful sight I had ever seen. I was very unsteady on my feet, and in
+#. fact, I had to learn anew how to walk. . . . My rediscovery of the world is
+#. the most thrilling and vivid of all my recollections. Being out of
+#. circulation had made me very shy and I found it extremely difficult to mix
+#. with people.[7]
+#: paragraph:17,sentence:9
+msgid ""
+"My rediscovery of the world is the most thrilling and vivid of all my "
+"recollections."
+msgstr ""
+"My rediscovery of the world is the most thrilling and vivid of all my "
+"recollections."
+
+#. Context: The world all of a sudden caved in upon me. It was unbelievable
+#. that I must lie flat on my back, imprisoned by four walls, for that seeming
+#. eternity. Gradually, however, I became accustomed to the thought and soon
+#. it held no terror for me. Constant reading and the kindness of our family
+#. friends made the days fly but too quickly. . . . Despite relapses, when I
+#. hovered near death’s door, I continued to progress, until after two and a
+#. half years of shut-in convalescence, I took my first step outside. My first
+#. glimpse of the brilliant blue of the sky, after months of seclusion, caused
+#. me to emit a gasp of wonderment. At the time I thought it was the most
+#. beautiful sight I had ever seen. I was very unsteady on my feet, and in
+#. fact, I had to learn anew how to walk. . . . My rediscovery of the world is
+#. the most thrilling and vivid of all my recollections. Being out of
+#. circulation had made me very shy and I found it extremely difficult to mix
+#. with people.[7]
+#: paragraph:17,sentence:10
+msgid ""
+"Being out of circulation had made me very shy and I found it extremely "
+"difficult to mix with people.[7]"
+msgstr ""
+"Being out of circulation had made me very shy and I found it extremely "
+"difficult to mix with people.[7]"
+
+#. Context: From the beginning, Bill was innately at home in the world of the
+#. abstract, and for him this inner world was real, vivid, and as satisfying
+#. as if he were physically engaged. He credits “reading and family friends”
+#. as causing the time to fly, but that observation is incomplete. He doesn’t
+#. mention his rich inner life, taking that for granted and very likely
+#. assuming, as we all do in our earlier years, that everyone processes life
+#. as we do and that our own approach to circumstances is the norm. That is
+#. hardly the case. He wrote this essay before he knew about personality types
+#. or had yet realized that not everyone has such readily available intuitive
+#. ability. His being socialized to be alone was actually in keeping with his
+#. basic tendencies. People today, particularly those with more outgoing
+#. temperaments, might find such confinement unimaginable considering there
+#. were no TVs, video games, or cell phones for distraction.
+#: paragraph:18,sentence:1
+msgid ""
+"From the beginning, Bill was innately at home in the world of the abstract, "
+"and for him this inner world was real, vivid, and as satisfying as if he "
+"were physically engaged."
+msgstr ""
+"From the beginning, Bill was innately at home in the world of the abstract, "
+"and for him this inner world was real, vivid, and as satisfying as if he "
+"were physically engaged."
+
+#. Context: From the beginning, Bill was innately at home in the world of the
+#. abstract, and for him this inner world was real, vivid, and as satisfying
+#. as if he were physically engaged. He credits “reading and family friends”
+#. as causing the time to fly, but that observation is incomplete. He doesn’t
+#. mention his rich inner life, taking that for granted and very likely
+#. assuming, as we all do in our earlier years, that everyone processes life
+#. as we do and that our own approach to circumstances is the norm. That is
+#. hardly the case. He wrote this essay before he knew about personality types
+#. or had yet realized that not everyone has such readily available intuitive
+#. ability. His being socialized to be alone was actually in keeping with his
+#. basic tendencies. People today, particularly those with more outgoing
+#. temperaments, might find such confinement unimaginable considering there
+#. were no TVs, video games, or cell phones for distraction.
+#: paragraph:18,sentence:2
+msgid ""
+"He credits “reading and family friends” as causing the time to fly, but that"
+" observation is incomplete."
+msgstr ""
+"He credits “reading and family friends” as causing the time to fly, but that"
+" observation is incomplete."
+
+#. Context: From the beginning, Bill was innately at home in the world of the
+#. abstract, and for him this inner world was real, vivid, and as satisfying
+#. as if he were physically engaged. He credits “reading and family friends”
+#. as causing the time to fly, but that observation is incomplete. He doesn’t
+#. mention his rich inner life, taking that for granted and very likely
+#. assuming, as we all do in our earlier years, that everyone processes life
+#. as we do and that our own approach to circumstances is the norm. That is
+#. hardly the case. He wrote this essay before he knew about personality types
+#. or had yet realized that not everyone has such readily available intuitive
+#. ability. His being socialized to be alone was actually in keeping with his
+#. basic tendencies. People today, particularly those with more outgoing
+#. temperaments, might find such confinement unimaginable considering there
+#. were no TVs, video games, or cell phones for distraction.
+#: paragraph:18,sentence:3
+msgid ""
+"He doesn’t mention his rich inner life, taking that for granted and very "
+"likely assuming, as we all do in our earlier years, that everyone processes "
+"life as we do and that our own approach to circumstances is the norm."
+msgstr ""
+"He doesn’t mention his rich inner life, taking that for granted and very "
+"likely assuming, as we all do in our earlier years, that everyone processes "
+"life as we do and that our own approach to circumstances is the norm."
+
+#. Context: From the beginning, Bill was innately at home in the world of the
+#. abstract, and for him this inner world was real, vivid, and as satisfying
+#. as if he were physically engaged. He credits “reading and family friends”
+#. as causing the time to fly, but that observation is incomplete. He doesn’t
+#. mention his rich inner life, taking that for granted and very likely
+#. assuming, as we all do in our earlier years, that everyone processes life
+#. as we do and that our own approach to circumstances is the norm. That is
+#. hardly the case. He wrote this essay before he knew about personality types
+#. or had yet realized that not everyone has such readily available intuitive
+#. ability. His being socialized to be alone was actually in keeping with his
+#. basic tendencies. People today, particularly those with more outgoing
+#. temperaments, might find such confinement unimaginable considering there
+#. were no TVs, video games, or cell phones for distraction.
+#: paragraph:18,sentence:4
+msgid "That is hardly the case."
+msgstr "That is hardly the case."
+
+#. Context: From the beginning, Bill was innately at home in the world of the
+#. abstract, and for him this inner world was real, vivid, and as satisfying
+#. as if he were physically engaged. He credits “reading and family friends”
+#. as causing the time to fly, but that observation is incomplete. He doesn’t
+#. mention his rich inner life, taking that for granted and very likely
+#. assuming, as we all do in our earlier years, that everyone processes life
+#. as we do and that our own approach to circumstances is the norm. That is
+#. hardly the case. He wrote this essay before he knew about personality types
+#. or had yet realized that not everyone has such readily available intuitive
+#. ability. His being socialized to be alone was actually in keeping with his
+#. basic tendencies. People today, particularly those with more outgoing
+#. temperaments, might find such confinement unimaginable considering there
+#. were no TVs, video games, or cell phones for distraction.
+#: paragraph:18,sentence:5
+msgid ""
+"He wrote this essay before he knew about personality types or had yet "
+"realized that not everyone has such readily available intuitive ability."
+msgstr ""
+"He wrote this essay before he knew about personality types or had yet "
+"realized that not everyone has such readily available intuitive ability."
+
+#. Context: From the beginning, Bill was innately at home in the world of the
+#. abstract, and for him this inner world was real, vivid, and as satisfying
+#. as if he were physically engaged. He credits “reading and family friends”
+#. as causing the time to fly, but that observation is incomplete. He doesn’t
+#. mention his rich inner life, taking that for granted and very likely
+#. assuming, as we all do in our earlier years, that everyone processes life
+#. as we do and that our own approach to circumstances is the norm. That is
+#. hardly the case. He wrote this essay before he knew about personality types
+#. or had yet realized that not everyone has such readily available intuitive
+#. ability. His being socialized to be alone was actually in keeping with his
+#. basic tendencies. People today, particularly those with more outgoing
+#. temperaments, might find such confinement unimaginable considering there
+#. were no TVs, video games, or cell phones for distraction.
+#: paragraph:18,sentence:6
+msgid ""
+"His being socialized to be alone was actually in keeping with his basic "
+"tendencies."
+msgstr ""
+"His being socialized to be alone was actually in keeping with his basic "
+"tendencies."
+
+#. Context: From the beginning, Bill was innately at home in the world of the
+#. abstract, and for him this inner world was real, vivid, and as satisfying
+#. as if he were physically engaged. He credits “reading and family friends”
+#. as causing the time to fly, but that observation is incomplete. He doesn’t
+#. mention his rich inner life, taking that for granted and very likely
+#. assuming, as we all do in our earlier years, that everyone processes life
+#. as we do and that our own approach to circumstances is the norm. That is
+#. hardly the case. He wrote this essay before he knew about personality types
+#. or had yet realized that not everyone has such readily available intuitive
+#. ability. His being socialized to be alone was actually in keeping with his
+#. basic tendencies. People today, particularly those with more outgoing
+#. temperaments, might find such confinement unimaginable considering there
+#. were no TVs, video games, or cell phones for distraction.
+#: paragraph:18,sentence:7
+msgid ""
+"People today, particularly those with more outgoing temperaments, might find"
+" such confinement unimaginable considering there were no TVs, video games, "
+"or cell phones for distraction."
+msgstr ""
+"People today, particularly those with more outgoing temperaments, might find"
+" such confinement unimaginable considering there were no TVs, video games, "
+"or cell phones for distraction."
+
+#. Context: It also seems, from our vantage point, that Bill learned the art
+#. of surrender at an early age. His long, solitary stay in bed, with its
+#. enforced introspection, facilitated a capacity for acceptance that would
+#. have great transfer value to other dimensions of his unfolding life. Just
+#. as Helen noted that the urgency of the times required her to practice the
+#. art of “inner dictation” sooner than a more leisurely pace of spiritual
+#. evolution might allow, it seems that Bill’s nascent spiritual development
+#. was also accelerated. His years of quiet seclusion were like being in a
+#. monastery, where he could examine such thoughts as “Who am I?” or “What is
+#. life’s purpose?” Catherine Prescott, a friend he met many years later,
+#. remembers, “Bill described himself as being very slow in reaction time, . .
+#. . in his childhood there was always so much time that he would savor each
+#. moment; he didn’t have to rush. So that if one little thing happened, he
+#. was always slowing time down to make the moment last. I think part of his
+#. wisdom was the ability to hesitate and ponder what was going on.”[8]
+#: paragraph:19,sentence:1
+msgid ""
+"It also seems, from our vantage point, that Bill learned the art of "
+"surrender at an early age."
+msgstr ""
+"It also seems, from our vantage point, that Bill learned the art of "
+"surrender at an early age."
+
+#. Context: It also seems, from our vantage point, that Bill learned the art
+#. of surrender at an early age. His long, solitary stay in bed, with its
+#. enforced introspection, facilitated a capacity for acceptance that would
+#. have great transfer value to other dimensions of his unfolding life. Just
+#. as Helen noted that the urgency of the times required her to practice the
+#. art of “inner dictation” sooner than a more leisurely pace of spiritual
+#. evolution might allow, it seems that Bill’s nascent spiritual development
+#. was also accelerated. His years of quiet seclusion were like being in a
+#. monastery, where he could examine such thoughts as “Who am I?” or “What is
+#. life’s purpose?” Catherine Prescott, a friend he met many years later,
+#. remembers, “Bill described himself as being very slow in reaction time, . .
+#. . in his childhood there was always so much time that he would savor each
+#. moment; he didn’t have to rush. So that if one little thing happened, he
+#. was always slowing time down to make the moment last. I think part of his
+#. wisdom was the ability to hesitate and ponder what was going on.”[8]
+#: paragraph:19,sentence:2
+msgid ""
+"His long, solitary stay in bed, with its enforced introspection, facilitated"
+" a capacity for acceptance that would have great transfer value to other "
+"dimensions of his unfolding life."
+msgstr ""
+"His long, solitary stay in bed, with its enforced introspection, facilitated"
+" a capacity for acceptance that would have great transfer value to other "
+"dimensions of his unfolding life."
+
+#. Context: It also seems, from our vantage point, that Bill learned the art
+#. of surrender at an early age. His long, solitary stay in bed, with its
+#. enforced introspection, facilitated a capacity for acceptance that would
+#. have great transfer value to other dimensions of his unfolding life. Just
+#. as Helen noted that the urgency of the times required her to practice the
+#. art of “inner dictation” sooner than a more leisurely pace of spiritual
+#. evolution might allow, it seems that Bill’s nascent spiritual development
+#. was also accelerated. His years of quiet seclusion were like being in a
+#. monastery, where he could examine such thoughts as “Who am I?” or “What is
+#. life’s purpose?” Catherine Prescott, a friend he met many years later,
+#. remembers, “Bill described himself as being very slow in reaction time, . .
+#. . in his childhood there was always so much time that he would savor each
+#. moment; he didn’t have to rush. So that if one little thing happened, he
+#. was always slowing time down to make the moment last. I think part of his
+#. wisdom was the ability to hesitate and ponder what was going on.”[8]
+#: paragraph:19,sentence:3
+msgid ""
+"Just as Helen noted that the urgency of the times required her to practice "
+"the art of “inner dictation” sooner than a more leisurely pace of spiritual "
+"evolution might allow, it seems that Bill’s nascent spiritual development "
+"was also accelerated."
+msgstr ""
+"Just as Helen noted that the urgency of the times required her to practice "
+"the art of “inner dictation” sooner than a more leisurely pace of spiritual "
+"evolution might allow, it seems that Bill’s nascent spiritual development "
+"was also accelerated."
+
+#. Context: It also seems, from our vantage point, that Bill learned the art
+#. of surrender at an early age. His long, solitary stay in bed, with its
+#. enforced introspection, facilitated a capacity for acceptance that would
+#. have great transfer value to other dimensions of his unfolding life. Just
+#. as Helen noted that the urgency of the times required her to practice the
+#. art of “inner dictation” sooner than a more leisurely pace of spiritual
+#. evolution might allow, it seems that Bill’s nascent spiritual development
+#. was also accelerated. His years of quiet seclusion were like being in a
+#. monastery, where he could examine such thoughts as “Who am I?” or “What is
+#. life’s purpose?” Catherine Prescott, a friend he met many years later,
+#. remembers, “Bill described himself as being very slow in reaction time, . .
+#. . in his childhood there was always so much time that he would savor each
+#. moment; he didn’t have to rush. So that if one little thing happened, he
+#. was always slowing time down to make the moment last. I think part of his
+#. wisdom was the ability to hesitate and ponder what was going on.”[8]
+#: paragraph:19,sentence:4
+msgid ""
+"His years of quiet seclusion were like being in a monastery, where he could "
+"examine such thoughts as “Who am I?” or “What is life’s purpose?” Catherine "
+"Prescott, a friend he met many years later, remembers, “Bill described "
+"himself as being very slow in reaction time, . . . in his childhood there "
+"was always so much time that he would savor each moment; he didn’t have to "
+"rush."
+msgstr ""
+"His years of quiet seclusion were like being in a monastery, where he could "
+"examine such thoughts as “Who am I?” or “What is life’s purpose?” Catherine "
+"Prescott, a friend he met many years later, remembers, “Bill described "
+"himself as being very slow in reaction time, . . . in his childhood there "
+"was always so much time that he would savor each moment; he didn’t have to "
+"rush."
+
+#. Context: It also seems, from our vantage point, that Bill learned the art
+#. of surrender at an early age. His long, solitary stay in bed, with its
+#. enforced introspection, facilitated a capacity for acceptance that would
+#. have great transfer value to other dimensions of his unfolding life. Just
+#. as Helen noted that the urgency of the times required her to practice the
+#. art of “inner dictation” sooner than a more leisurely pace of spiritual
+#. evolution might allow, it seems that Bill’s nascent spiritual development
+#. was also accelerated. His years of quiet seclusion were like being in a
+#. monastery, where he could examine such thoughts as “Who am I?” or “What is
+#. life’s purpose?” Catherine Prescott, a friend he met many years later,
+#. remembers, “Bill described himself as being very slow in reaction time, . .
+#. . in his childhood there was always so much time that he would savor each
+#. moment; he didn’t have to rush. So that if one little thing happened, he
+#. was always slowing time down to make the moment last. I think part of his
+#. wisdom was the ability to hesitate and ponder what was going on.”[8]
+#: paragraph:19,sentence:5
+msgid ""
+"So that if one little thing happened, he was always slowing time down to "
+"make the moment last."
+msgstr ""
+"So that if one little thing happened, he was always slowing time down to "
+"make the moment last."
+
+#. Context: It also seems, from our vantage point, that Bill learned the art
+#. of surrender at an early age. His long, solitary stay in bed, with its
+#. enforced introspection, facilitated a capacity for acceptance that would
+#. have great transfer value to other dimensions of his unfolding life. Just
+#. as Helen noted that the urgency of the times required her to practice the
+#. art of “inner dictation” sooner than a more leisurely pace of spiritual
+#. evolution might allow, it seems that Bill’s nascent spiritual development
+#. was also accelerated. His years of quiet seclusion were like being in a
+#. monastery, where he could examine such thoughts as “Who am I?” or “What is
+#. life’s purpose?” Catherine Prescott, a friend he met many years later,
+#. remembers, “Bill described himself as being very slow in reaction time, . .
+#. . in his childhood there was always so much time that he would savor each
+#. moment; he didn’t have to rush. So that if one little thing happened, he
+#. was always slowing time down to make the moment last. I think part of his
+#. wisdom was the ability to hesitate and ponder what was going on.”[8]
+#: paragraph:19,sentence:6
+msgid ""
+"I think part of his wisdom was the ability to hesitate and ponder what was "
+"going on.”[8]"
+msgstr ""
+"I think part of his wisdom was the ability to hesitate and ponder what was "
+"going on.”[8]"
+
+#. Context: After a three-year absence from school, during which his mother
+#. tutored him, Bill was placed in a school for children who were crippled or
+#. had cardiac problems. His continued poor health caused him to miss from six
+#. weeks to two months of classes each semester. Despite these prolonged
+#. absences, however, he completed grammar school (through the eighth grade)
+#. in three years.
+#: paragraph:20,sentence:1
+msgid ""
+"After a three-year absence from school, during which his mother tutored him,"
+" Bill was placed in a school for children who were crippled or had cardiac "
+"problems."
+msgstr ""
+"After a three-year absence from school, during which his mother tutored him,"
+" Bill was placed in a school for children who were crippled or had cardiac "
+"problems."
+
+#. Context: After a three-year absence from school, during which his mother
+#. tutored him, Bill was placed in a school for children who were crippled or
+#. had cardiac problems. His continued poor health caused him to miss from six
+#. weeks to two months of classes each semester. Despite these prolonged
+#. absences, however, he completed grammar school (through the eighth grade)
+#. in three years.
+#: paragraph:20,sentence:2
+msgid ""
+"His continued poor health caused him to miss from six weeks to two months of"
+" classes each semester."
+msgstr ""
+"His continued poor health caused him to miss from six weeks to two months of"
+" classes each semester."
+
+#. Context: After a three-year absence from school, during which his mother
+#. tutored him, Bill was placed in a school for children who were crippled or
+#. had cardiac problems. His continued poor health caused him to miss from six
+#. weeks to two months of classes each semester. Despite these prolonged
+#. absences, however, he completed grammar school (through the eighth grade)
+#. in three years.
+#: paragraph:20,sentence:3
+msgid ""
+"Despite these prolonged absences, however, he completed grammar school "
+"(through the eighth grade) in three years."
+msgstr ""
+"Despite these prolonged absences, however, he completed grammar school "
+"(through the eighth grade) in three years."
+
+#. Context: Like every other child, Bill simply wanted to be normal. His early
+#. years had certainly been atypical, and once returned to school, he was
+#. moved into classes, then taken out and reinstalled elsewhere as his
+#. teachers tried to balance his extraordinary intellectual ability and,
+#. through lack of exposure, his underdeveloped social skills. With all the
+#. shifting around, he still ended up entering high school at age twelve. He
+#. did what he could to fit in, attempting to compensate for being sick and
+#. missing three years of school. He was innately gifted and intellectually
+#. far ahead of his age group from the constant reading during his recovery
+#. period.
+#: paragraph:21,sentence:1
+msgid "Like every other child, Bill simply wanted to be normal."
+msgstr "Like every other child, Bill simply wanted to be normal."
+
+#. Context: Like every other child, Bill simply wanted to be normal. His early
+#. years had certainly been atypical, and once returned to school, he was
+#. moved into classes, then taken out and reinstalled elsewhere as his
+#. teachers tried to balance his extraordinary intellectual ability and,
+#. through lack of exposure, his underdeveloped social skills. With all the
+#. shifting around, he still ended up entering high school at age twelve. He
+#. did what he could to fit in, attempting to compensate for being sick and
+#. missing three years of school. He was innately gifted and intellectually
+#. far ahead of his age group from the constant reading during his recovery
+#. period.
+#: paragraph:21,sentence:2
+msgid ""
+"His early years had certainly been atypical, and once returned to school, he"
+" was moved into classes, then taken out and reinstalled elsewhere as his "
+"teachers tried to balance his extraordinary intellectual ability and, "
+"through lack of exposure, his underdeveloped social skills."
+msgstr ""
+"His early years had certainly been atypical, and once returned to school, he"
+" was moved into classes, then taken out and reinstalled elsewhere as his "
+"teachers tried to balance his extraordinary intellectual ability and, "
+"through lack of exposure, his underdeveloped social skills."
+
+#. Context: Like every other child, Bill simply wanted to be normal. His early
+#. years had certainly been atypical, and once returned to school, he was
+#. moved into classes, then taken out and reinstalled elsewhere as his
+#. teachers tried to balance his extraordinary intellectual ability and,
+#. through lack of exposure, his underdeveloped social skills. With all the
+#. shifting around, he still ended up entering high school at age twelve. He
+#. did what he could to fit in, attempting to compensate for being sick and
+#. missing three years of school. He was innately gifted and intellectually
+#. far ahead of his age group from the constant reading during his recovery
+#. period.
+#: paragraph:21,sentence:3
+msgid ""
+"With all the shifting around, he still ended up entering high school at age "
+"twelve."
+msgstr ""
+"With all the shifting around, he still ended up entering high school at age "
+"twelve."
+
+#. Context: Like every other child, Bill simply wanted to be normal. His early
+#. years had certainly been atypical, and once returned to school, he was
+#. moved into classes, then taken out and reinstalled elsewhere as his
+#. teachers tried to balance his extraordinary intellectual ability and,
+#. through lack of exposure, his underdeveloped social skills. With all the
+#. shifting around, he still ended up entering high school at age twelve. He
+#. did what he could to fit in, attempting to compensate for being sick and
+#. missing three years of school. He was innately gifted and intellectually
+#. far ahead of his age group from the constant reading during his recovery
+#. period.
+#: paragraph:21,sentence:4
+msgid ""
+"He did what he could to fit in, attempting to compensate for being sick and "
+"missing three years of school."
+msgstr ""
+"He did what he could to fit in, attempting to compensate for being sick and "
+"missing three years of school."
+
+#. Context: Like every other child, Bill simply wanted to be normal. His early
+#. years had certainly been atypical, and once returned to school, he was
+#. moved into classes, then taken out and reinstalled elsewhere as his
+#. teachers tried to balance his extraordinary intellectual ability and,
+#. through lack of exposure, his underdeveloped social skills. With all the
+#. shifting around, he still ended up entering high school at age twelve. He
+#. did what he could to fit in, attempting to compensate for being sick and
+#. missing three years of school. He was innately gifted and intellectually
+#. far ahead of his age group from the constant reading during his recovery
+#. period.
+#: paragraph:21,sentence:5
+msgid ""
+"He was innately gifted and intellectually far ahead of his age group from "
+"the constant reading during his recovery period."
+msgstr ""
+"He was innately gifted and intellectually far ahead of his age group from "
+"the constant reading during his recovery period."
+
+#. Context: Bill was also gifted in terms of music and theater. Classical
+#. music, especially Mozart, which he would discover during his college days,
+#. provided an important refuge and immense delight for him throughout his
+#. life. During his high school years, as his health returned, Bill took voice
+#. and piano lessons, for which he was a natural. In his school essay, he
+#. noted: “While I never expect to be a finished pianist, nor a second Nelson
+#. Eddy, I find music a soothing as well as stimulating recreation. Bill [his
+#. best friend at the time] and I have had a lot of fun appearing in amateur
+#. shows and neighborhood musicals. This summer I sang my first church solo at
+#. the Chicago Lawn Congregational Church, which church I attend regularly.”
+#. Commenting on his current school, Lindblom High, he said:
+#: paragraph:22,sentence:1
+msgid "Bill was also gifted in terms of music and theater."
+msgstr "Bill was also gifted in terms of music and theater."
+
+#. Context: Bill was also gifted in terms of music and theater. Classical
+#. music, especially Mozart, which he would discover during his college days,
+#. provided an important refuge and immense delight for him throughout his
+#. life. During his high school years, as his health returned, Bill took voice
+#. and piano lessons, for which he was a natural. In his school essay, he
+#. noted: “While I never expect to be a finished pianist, nor a second Nelson
+#. Eddy, I find music a soothing as well as stimulating recreation. Bill [his
+#. best friend at the time] and I have had a lot of fun appearing in amateur
+#. shows and neighborhood musicals. This summer I sang my first church solo at
+#. the Chicago Lawn Congregational Church, which church I attend regularly.”
+#. Commenting on his current school, Lindblom High, he said:
+#: paragraph:22,sentence:2
+msgid ""
+"Classical music, especially Mozart, which he would discover during his "
+"college days, provided an important refuge and immense delight for him "
+"throughout his life."
+msgstr ""
+"Classical music, especially Mozart, which he would discover during his "
+"college days, provided an important refuge and immense delight for him "
+"throughout his life."
+
+#. Context: Bill was also gifted in terms of music and theater. Classical
+#. music, especially Mozart, which he would discover during his college days,
+#. provided an important refuge and immense delight for him throughout his
+#. life. During his high school years, as his health returned, Bill took voice
+#. and piano lessons, for which he was a natural. In his school essay, he
+#. noted: “While I never expect to be a finished pianist, nor a second Nelson
+#. Eddy, I find music a soothing as well as stimulating recreation. Bill [his
+#. best friend at the time] and I have had a lot of fun appearing in amateur
+#. shows and neighborhood musicals. This summer I sang my first church solo at
+#. the Chicago Lawn Congregational Church, which church I attend regularly.”
+#. Commenting on his current school, Lindblom High, he said:
+#: paragraph:22,sentence:3
+msgid ""
+"During his high school years, as his health returned, Bill took voice and "
+"piano lessons, for which he was a natural."
+msgstr ""
+"During his high school years, as his health returned, Bill took voice and "
+"piano lessons, for which he was a natural."
+
+#. Context: Bill was also gifted in terms of music and theater. Classical
+#. music, especially Mozart, which he would discover during his college days,
+#. provided an important refuge and immense delight for him throughout his
+#. life. During his high school years, as his health returned, Bill took voice
+#. and piano lessons, for which he was a natural. In his school essay, he
+#. noted: “While I never expect to be a finished pianist, nor a second Nelson
+#. Eddy, I find music a soothing as well as stimulating recreation. Bill [his
+#. best friend at the time] and I have had a lot of fun appearing in amateur
+#. shows and neighborhood musicals. This summer I sang my first church solo at
+#. the Chicago Lawn Congregational Church, which church I attend regularly.”
+#. Commenting on his current school, Lindblom High, he said:
+#: paragraph:22,sentence:4
+msgid ""
+"In his school essay, he noted: “While I never expect to be a finished "
+"pianist, nor a second Nelson Eddy, I find music a soothing as well as "
+"stimulating recreation."
+msgstr ""
+"In his school essay, he noted: “While I never expect to be a finished "
+"pianist, nor a second Nelson Eddy, I find music a soothing as well as "
+"stimulating recreation."
+
+#. Context: Bill was also gifted in terms of music and theater. Classical
+#. music, especially Mozart, which he would discover during his college days,
+#. provided an important refuge and immense delight for him throughout his
+#. life. During his high school years, as his health returned, Bill took voice
+#. and piano lessons, for which he was a natural. In his school essay, he
+#. noted: “While I never expect to be a finished pianist, nor a second Nelson
+#. Eddy, I find music a soothing as well as stimulating recreation. Bill [his
+#. best friend at the time] and I have had a lot of fun appearing in amateur
+#. shows and neighborhood musicals. This summer I sang my first church solo at
+#. the Chicago Lawn Congregational Church, which church I attend regularly.”
+#. Commenting on his current school, Lindblom High, he said:
+#: paragraph:22,sentence:5
+msgid ""
+"Bill [his best friend at the time] and I have had a lot of fun appearing in "
+"amateur shows and neighborhood musicals."
+msgstr ""
+"Bill [his best friend at the time] and I have had a lot of fun appearing in "
+"amateur shows and neighborhood musicals."
+
+#. Context: Bill was also gifted in terms of music and theater. Classical
+#. music, especially Mozart, which he would discover during his college days,
+#. provided an important refuge and immense delight for him throughout his
+#. life. During his high school years, as his health returned, Bill took voice
+#. and piano lessons, for which he was a natural. In his school essay, he
+#. noted: “While I never expect to be a finished pianist, nor a second Nelson
+#. Eddy, I find music a soothing as well as stimulating recreation. Bill [his
+#. best friend at the time] and I have had a lot of fun appearing in amateur
+#. shows and neighborhood musicals. This summer I sang my first church solo at
+#. the Chicago Lawn Congregational Church, which church I attend regularly.”
+#. Commenting on his current school, Lindblom High, he said:
+#: paragraph:22,sentence:6
+msgid ""
+"This summer I sang my first church solo at the Chicago Lawn Congregational "
+"Church, which church I attend regularly.” Commenting on his current school, "
+"Lindblom High, he said:"
+msgstr ""
+"This summer I sang my first church solo at the Chicago Lawn Congregational "
+"Church, which church I attend regularly.” Commenting on his current school, "
+"Lindblom High, he said:"
+
+#. Context: It is here I have really found myself, in its numerous activities.
+#. The A Cappella choir is my first love, even though Mr. Taylor makes me sing
+#. tenor when I have a naturally bass voice. Participating in boys’ clubs, the
+#. Music Club, Camera Club and the Eagle have broadened my social experiences
+#. and have helped me to overcome an innate timidity. . . . Realizing that I
+#. will never be able to do strenuous physical work, I wish to obtain a good
+#. educational foundation, with the possibility of becoming a teacher.[9]
+#: paragraph:23,sentence:1
+msgid "It is here I have really found myself, in its numerous activities."
+msgstr "It is here I have really found myself, in its numerous activities."
+
+#. Context: It is here I have really found myself, in its numerous activities.
+#. The A Cappella choir is my first love, even though Mr. Taylor makes me sing
+#. tenor when I have a naturally bass voice. Participating in boys’ clubs, the
+#. Music Club, Camera Club and the Eagle have broadened my social experiences
+#. and have helped me to overcome an innate timidity. . . . Realizing that I
+#. will never be able to do strenuous physical work, I wish to obtain a good
+#. educational foundation, with the possibility of becoming a teacher.[9]
+#: paragraph:23,sentence:2
+msgid ""
+"The A Cappella choir is my first love, even though Mr. Taylor makes me sing "
+"tenor when I have a naturally bass voice."
+msgstr ""
+"The A Cappella choir is my first love, even though Mr. Taylor makes me sing "
+"tenor when I have a naturally bass voice."
+
+#. Context: It is here I have really found myself, in its numerous activities.
+#. The A Cappella choir is my first love, even though Mr. Taylor makes me sing
+#. tenor when I have a naturally bass voice. Participating in boys’ clubs, the
+#. Music Club, Camera Club and the Eagle have broadened my social experiences
+#. and have helped me to overcome an innate timidity. . . . Realizing that I
+#. will never be able to do strenuous physical work, I wish to obtain a good
+#. educational foundation, with the possibility of becoming a teacher.[9]
+#: paragraph:23,sentence:3
+msgid ""
+"Participating in boys’ clubs, the Music Club, Camera Club and the Eagle have"
+" broadened my social experiences and have helped me to overcome an innate "
+"timidity. . . ."
+msgstr ""
+"Participating in boys’ clubs, the Music Club, Camera Club and the Eagle have"
+" broadened my social experiences and have helped me to overcome an innate "
+"timidity. . . ."
+
+#. Context: It is here I have really found myself, in its numerous activities.
+#. The A Cappella choir is my first love, even though Mr. Taylor makes me sing
+#. tenor when I have a naturally bass voice. Participating in boys’ clubs, the
+#. Music Club, Camera Club and the Eagle have broadened my social experiences
+#. and have helped me to overcome an innate timidity. . . . Realizing that I
+#. will never be able to do strenuous physical work, I wish to obtain a good
+#. educational foundation, with the possibility of becoming a teacher.[9]
+#: paragraph:23,sentence:4
+msgid ""
+"Realizing that I will never be able to do strenuous physical work, I wish to"
+" obtain a good educational foundation, with the possibility of becoming a "
+"teacher.[9]"
+msgstr ""
+"Realizing that I will never be able to do strenuous physical work, I wish to"
+" obtain a good educational foundation, with the possibility of becoming a "
+"teacher.[9]"
+
+#. Context: He did become a teacher, although he rather famously proclaimed
+#. during his college years that the one thing he would never become was a
+#. professor, as he insisted he had nothing to profess. And wouldn’t you know,
+#. almost every position he held thereafter involved a professorship as part
+#. of the job description. Never say “never”!
+#: paragraph:24,sentence:1
+msgid ""
+"He did become a teacher, although he rather famously proclaimed during his "
+"college years that the one thing he would never become was a professor, as "
+"he insisted he had nothing to profess."
+msgstr ""
+"He did become a teacher, although he rather famously proclaimed during his "
+"college years that the one thing he would never become was a professor, as "
+"he insisted he had nothing to profess."
+
+#. Context: He did become a teacher, although he rather famously proclaimed
+#. during his college years that the one thing he would never become was a
+#. professor, as he insisted he had nothing to profess. And wouldn’t you know,
+#. almost every position he held thereafter involved a professorship as part
+#. of the job description. Never say “never”!
+#: paragraph:24,sentence:2
+msgid ""
+"And wouldn’t you know, almost every position he held thereafter involved a "
+"professorship as part of the job description. Never say “never”!"
+msgstr ""
+"And wouldn’t you know, almost every position he held thereafter involved a "
+"professorship as part of the job description. Never say “never”!"
+
+#. Context: After graduating from high school in 1940, where he was among the
+#. top ten students in a class of about one thousand, Bill entered DePauw
+#. University in Greencastle, Indiana, on a full scholarship. As part of his
+#. continuing quest for normalcy and for companionship in this first
+#. experience living away from home, Bill joined a fraternity. He had no idea
+#. what he was getting into, believing this would be a support system of some
+#. kind. Having known Bill well, I cannot imagine him amid the noise and
+#. uproar of a fraternity house after long periods of near isolation, but
+#. somehow he managed. He indicated it was a difficult challenge for him, with
+#. his strong need for privacy and his genuine interest in scholarship. It was
+#. hardly the support system he had naively envisioned.
+#: paragraph:25,sentence:1
+msgid ""
+"After graduating from high school in 1940, where he was among the top ten "
+"students in a class of about one thousand, Bill entered DePauw University in"
+" Greencastle, Indiana, on a full scholarship."
+msgstr ""
+"After graduating from high school in 1940, where he was among the top ten "
+"students in a class of about one thousand, Bill entered DePauw University in"
+" Greencastle, Indiana, on a full scholarship."
+
+#. Context: After graduating from high school in 1940, where he was among the
+#. top ten students in a class of about one thousand, Bill entered DePauw
+#. University in Greencastle, Indiana, on a full scholarship. As part of his
+#. continuing quest for normalcy and for companionship in this first
+#. experience living away from home, Bill joined a fraternity. He had no idea
+#. what he was getting into, believing this would be a support system of some
+#. kind. Having known Bill well, I cannot imagine him amid the noise and
+#. uproar of a fraternity house after long periods of near isolation, but
+#. somehow he managed. He indicated it was a difficult challenge for him, with
+#. his strong need for privacy and his genuine interest in scholarship. It was
+#. hardly the support system he had naively envisioned.
+#: paragraph:25,sentence:2
+msgid ""
+"As part of his continuing quest for normalcy and for companionship in this "
+"first experience living away from home, Bill joined a fraternity."
+msgstr ""
+"As part of his continuing quest for normalcy and for companionship in this "
+"first experience living away from home, Bill joined a fraternity."
+
+#. Context: After graduating from high school in 1940, where he was among the
+#. top ten students in a class of about one thousand, Bill entered DePauw
+#. University in Greencastle, Indiana, on a full scholarship. As part of his
+#. continuing quest for normalcy and for companionship in this first
+#. experience living away from home, Bill joined a fraternity. He had no idea
+#. what he was getting into, believing this would be a support system of some
+#. kind. Having known Bill well, I cannot imagine him amid the noise and
+#. uproar of a fraternity house after long periods of near isolation, but
+#. somehow he managed. He indicated it was a difficult challenge for him, with
+#. his strong need for privacy and his genuine interest in scholarship. It was
+#. hardly the support system he had naively envisioned.
+#: paragraph:25,sentence:3
+msgid ""
+"He had no idea what he was getting into, believing this would be a support "
+"system of some kind."
+msgstr ""
+"He had no idea what he was getting into, believing this would be a support "
+"system of some kind."
+
+#. Context: After graduating from high school in 1940, where he was among the
+#. top ten students in a class of about one thousand, Bill entered DePauw
+#. University in Greencastle, Indiana, on a full scholarship. As part of his
+#. continuing quest for normalcy and for companionship in this first
+#. experience living away from home, Bill joined a fraternity. He had no idea
+#. what he was getting into, believing this would be a support system of some
+#. kind. Having known Bill well, I cannot imagine him amid the noise and
+#. uproar of a fraternity house after long periods of near isolation, but
+#. somehow he managed. He indicated it was a difficult challenge for him, with
+#. his strong need for privacy and his genuine interest in scholarship. It was
+#. hardly the support system he had naively envisioned.
+#: paragraph:25,sentence:4
+msgid ""
+"Having known Bill well, I cannot imagine him amid the noise and uproar of a "
+"fraternity house after long periods of near isolation, but somehow he "
+"managed."
+msgstr ""
+"Having known Bill well, I cannot imagine him amid the noise and uproar of a "
+"fraternity house after long periods of near isolation, but somehow he "
+"managed."
+
+#. Context: After graduating from high school in 1940, where he was among the
+#. top ten students in a class of about one thousand, Bill entered DePauw
+#. University in Greencastle, Indiana, on a full scholarship. As part of his
+#. continuing quest for normalcy and for companionship in this first
+#. experience living away from home, Bill joined a fraternity. He had no idea
+#. what he was getting into, believing this would be a support system of some
+#. kind. Having known Bill well, I cannot imagine him amid the noise and
+#. uproar of a fraternity house after long periods of near isolation, but
+#. somehow he managed. He indicated it was a difficult challenge for him, with
+#. his strong need for privacy and his genuine interest in scholarship. It was
+#. hardly the support system he had naively envisioned.
+#: paragraph:25,sentence:5
+msgid ""
+"He indicated it was a difficult challenge for him, with his strong need for "
+"privacy and his genuine interest in scholarship."
+msgstr ""
+"He indicated it was a difficult challenge for him, with his strong need for "
+"privacy and his genuine interest in scholarship."
+
+#. Context: After graduating from high school in 1940, where he was among the
+#. top ten students in a class of about one thousand, Bill entered DePauw
+#. University in Greencastle, Indiana, on a full scholarship. As part of his
+#. continuing quest for normalcy and for companionship in this first
+#. experience living away from home, Bill joined a fraternity. He had no idea
+#. what he was getting into, believing this would be a support system of some
+#. kind. Having known Bill well, I cannot imagine him amid the noise and
+#. uproar of a fraternity house after long periods of near isolation, but
+#. somehow he managed. He indicated it was a difficult challenge for him, with
+#. his strong need for privacy and his genuine interest in scholarship. It was
+#. hardly the support system he had naively envisioned.
+#: paragraph:25,sentence:6
+msgid "It was hardly the support system he had naively envisioned."
+msgstr "It was hardly the support system he had naively envisioned."
+
+#. Context: During high school Bill had reconnected with a kindergarten
+#. friend, Jo, whom he had lost track of during the intervening years of his
+#. illness. Simply good friends in high school (she was “going steady” with
+#. someone else then), their relationship evolved into something more after
+#. graduation. She was his only acknowledged girl friend, according to all
+#. available information. Their parents knew each other and the two young
+#. people were definitely considered an “item.” At Thanksgiving in 1943 he
+#. gave her his fraternity pin, in those days considered almost the same as an
+#. engagement ring. Jo remembers:
+#: paragraph:26,sentence:1
+msgid ""
+"During high school Bill had reconnected with a kindergarten friend, Jo, whom"
+" he had lost track of during the intervening years of his illness."
+msgstr ""
+"During high school Bill had reconnected with a kindergarten friend, Jo, whom"
+" he had lost track of during the intervening years of his illness."
+
+#. Context: During high school Bill had reconnected with a kindergarten
+#. friend, Jo, whom he had lost track of during the intervening years of his
+#. illness. Simply good friends in high school (she was “going steady” with
+#. someone else then), their relationship evolved into something more after
+#. graduation. She was his only acknowledged girl friend, according to all
+#. available information. Their parents knew each other and the two young
+#. people were definitely considered an “item.” At Thanksgiving in 1943 he
+#. gave her his fraternity pin, in those days considered almost the same as an
+#. engagement ring. Jo remembers:
+#: paragraph:26,sentence:2
+msgid ""
+"Simply good friends in high school (she was “going steady” with someone else"
+" then), their relationship evolved into something more after graduation."
+msgstr ""
+"Simply good friends in high school (she was “going steady” with someone else"
+" then), their relationship evolved into something more after graduation."
+
+#. Context: During high school Bill had reconnected with a kindergarten
+#. friend, Jo, whom he had lost track of during the intervening years of his
+#. illness. Simply good friends in high school (she was “going steady” with
+#. someone else then), their relationship evolved into something more after
+#. graduation. She was his only acknowledged girl friend, according to all
+#. available information. Their parents knew each other and the two young
+#. people were definitely considered an “item.” At Thanksgiving in 1943 he
+#. gave her his fraternity pin, in those days considered almost the same as an
+#. engagement ring. Jo remembers:
+#: paragraph:26,sentence:3
+msgid ""
+"She was his only acknowledged girl friend, according to all available "
+"information."
+msgstr ""
+"She was his only acknowledged girl friend, according to all available "
+"information."
+
+#. Context: During high school Bill had reconnected with a kindergarten
+#. friend, Jo, whom he had lost track of during the intervening years of his
+#. illness. Simply good friends in high school (she was “going steady” with
+#. someone else then), their relationship evolved into something more after
+#. graduation. She was his only acknowledged girl friend, according to all
+#. available information. Their parents knew each other and the two young
+#. people were definitely considered an “item.” At Thanksgiving in 1943 he
+#. gave her his fraternity pin, in those days considered almost the same as an
+#. engagement ring. Jo remembers:
+#: paragraph:26,sentence:4
+msgid ""
+"Their parents knew each other and the two young people were definitely "
+"considered an “item.” At Thanksgiving in 1943 he gave her his fraternity "
+"pin, in those days considered almost the same as an engagement ring. Jo "
+"remembers:"
+msgstr ""
+"Their parents knew each other and the two young people were definitely "
+"considered an “item.” At Thanksgiving in 1943 he gave her his fraternity "
+"pin, in those days considered almost the same as an engagement ring. Jo "
+"remembers:"
+
+#. Context: I kept saying, “Bill, why? Why do you want me to take your
+#. fraternity pin?” thinking that he would say, “I love you. I want to marry
+#. you.” But he didn’t. He just said, “Because I want you to wear it more than
+#. anyone else in the world.” He just kept insisting I take it.
+#: paragraph:27,sentence:1
+msgid "I kept saying, “Bill, why?"
+msgstr "I kept saying, “Bill, why?"
+
+#. Context: I kept saying, “Bill, why? Why do you want me to take your
+#. fraternity pin?” thinking that he would say, “I love you. I want to marry
+#. you.” But he didn’t. He just said, “Because I want you to wear it more than
+#. anyone else in the world.” He just kept insisting I take it.
+#: paragraph:27,sentence:2
+msgid ""
+"Why do you want me to take your fraternity pin?” thinking that he would say,"
+" “I love you."
+msgstr ""
+"Why do you want me to take your fraternity pin?” thinking that he would say,"
+" “I love you."
+
+#. Context: I kept saying, “Bill, why? Why do you want me to take your
+#. fraternity pin?” thinking that he would say, “I love you. I want to marry
+#. you.” But he didn’t. He just said, “Because I want you to wear it more than
+#. anyone else in the world.” He just kept insisting I take it.
+#: paragraph:27,sentence:3
+msgid "I want to marry you.” But he didn’t."
+msgstr "I want to marry you.” But he didn’t."
+
+#. Context: I kept saying, “Bill, why? Why do you want me to take your
+#. fraternity pin?” thinking that he would say, “I love you. I want to marry
+#. you.” But he didn’t. He just said, “Because I want you to wear it more than
+#. anyone else in the world.” He just kept insisting I take it.
+#: paragraph:27,sentence:4
+msgid ""
+"He just said, “Because I want you to wear it more than anyone else in the "
+"world.” He just kept insisting I take it."
+msgstr ""
+"He just said, “Because I want you to wear it more than anyone else in the "
+"world.” He just kept insisting I take it."
+
+#. Context: Yet I wasn’t swept off my feet. He was also still my good
+#. kindergarten buddy. Anyway, I thought that if he wants me to wear it, I
+#. guess I’ll wear it, although I felt kind of awkward. I went back to the
+#. sorority house where I was staying as their guest. That night the girls
+#. came and got me, and brought me out to the front of the house about
+#. midnight. The Lambda Chi guys, with Bill right in the foreground, serenaded
+#. me. . . . I felt a bit guilty about it all, because all the girls were
+#. congratulating me and I just couldn’t tell them that it didn’t mean what
+#. they thought it meant.[10]
+#: paragraph:28,sentence:1
+msgid "Yet I wasn’t swept off my feet."
+msgstr "Yet I wasn’t swept off my feet."
+
+#. Context: Yet I wasn’t swept off my feet. He was also still my good
+#. kindergarten buddy. Anyway, I thought that if he wants me to wear it, I
+#. guess I’ll wear it, although I felt kind of awkward. I went back to the
+#. sorority house where I was staying as their guest. That night the girls
+#. came and got me, and brought me out to the front of the house about
+#. midnight. The Lambda Chi guys, with Bill right in the foreground, serenaded
+#. me. . . . I felt a bit guilty about it all, because all the girls were
+#. congratulating me and I just couldn’t tell them that it didn’t mean what
+#. they thought it meant.[10]
+#: paragraph:28,sentence:2
+msgid "He was also still my good kindergarten buddy."
+msgstr "He was also still my good kindergarten buddy."
+
+#. Context: Yet I wasn’t swept off my feet. He was also still my good
+#. kindergarten buddy. Anyway, I thought that if he wants me to wear it, I
+#. guess I’ll wear it, although I felt kind of awkward. I went back to the
+#. sorority house where I was staying as their guest. That night the girls
+#. came and got me, and brought me out to the front of the house about
+#. midnight. The Lambda Chi guys, with Bill right in the foreground, serenaded
+#. me. . . . I felt a bit guilty about it all, because all the girls were
+#. congratulating me and I just couldn’t tell them that it didn’t mean what
+#. they thought it meant.[10]
+#: paragraph:28,sentence:3
+msgid ""
+"Anyway, I thought that if he wants me to wear it, I guess I’ll wear it, "
+"although I felt kind of awkward."
+msgstr ""
+"Anyway, I thought that if he wants me to wear it, I guess I’ll wear it, "
+"although I felt kind of awkward."
+
+#. Context: Yet I wasn’t swept off my feet. He was also still my good
+#. kindergarten buddy. Anyway, I thought that if he wants me to wear it, I
+#. guess I’ll wear it, although I felt kind of awkward. I went back to the
+#. sorority house where I was staying as their guest. That night the girls
+#. came and got me, and brought me out to the front of the house about
+#. midnight. The Lambda Chi guys, with Bill right in the foreground, serenaded
+#. me. . . . I felt a bit guilty about it all, because all the girls were
+#. congratulating me and I just couldn’t tell them that it didn’t mean what
+#. they thought it meant.[10]
+#: paragraph:28,sentence:4
+msgid "I went back to the sorority house where I was staying as their guest."
+msgstr "I went back to the sorority house where I was staying as their guest."
+
+#. Context: Yet I wasn’t swept off my feet. He was also still my good
+#. kindergarten buddy. Anyway, I thought that if he wants me to wear it, I
+#. guess I’ll wear it, although I felt kind of awkward. I went back to the
+#. sorority house where I was staying as their guest. That night the girls
+#. came and got me, and brought me out to the front of the house about
+#. midnight. The Lambda Chi guys, with Bill right in the foreground, serenaded
+#. me. . . . I felt a bit guilty about it all, because all the girls were
+#. congratulating me and I just couldn’t tell them that it didn’t mean what
+#. they thought it meant.[10]
+#: paragraph:28,sentence:5
+msgid ""
+"That night the girls came and got me, and brought me out to the front of the"
+" house about midnight."
+msgstr ""
+"That night the girls came and got me, and brought me out to the front of the"
+" house about midnight."
+
+#. Context: Yet I wasn’t swept off my feet. He was also still my good
+#. kindergarten buddy. Anyway, I thought that if he wants me to wear it, I
+#. guess I’ll wear it, although I felt kind of awkward. I went back to the
+#. sorority house where I was staying as their guest. That night the girls
+#. came and got me, and brought me out to the front of the house about
+#. midnight. The Lambda Chi guys, with Bill right in the foreground, serenaded
+#. me. . . . I felt a bit guilty about it all, because all the girls were
+#. congratulating me and I just couldn’t tell them that it didn’t mean what
+#. they thought it meant.[10]
+#: paragraph:28,sentence:6
+msgid ""
+"The Lambda Chi guys, with Bill right in the foreground, serenaded me. . . ."
+msgstr ""
+"The Lambda Chi guys, with Bill right in the foreground, serenaded me. . . ."
+
+#. Context: Yet I wasn’t swept off my feet. He was also still my good
+#. kindergarten buddy. Anyway, I thought that if he wants me to wear it, I
+#. guess I’ll wear it, although I felt kind of awkward. I went back to the
+#. sorority house where I was staying as their guest. That night the girls
+#. came and got me, and brought me out to the front of the house about
+#. midnight. The Lambda Chi guys, with Bill right in the foreground, serenaded
+#. me. . . . I felt a bit guilty about it all, because all the girls were
+#. congratulating me and I just couldn’t tell them that it didn’t mean what
+#. they thought it meant.[10]
+#: paragraph:28,sentence:7
+msgid ""
+"I felt a bit guilty about it all, because all the girls were congratulating "
+"me and I just couldn’t tell them that it didn’t mean what they thought it "
+"meant.[10]"
+msgstr ""
+"I felt a bit guilty about it all, because all the girls were congratulating "
+"me and I just couldn’t tell them that it didn’t mean what they thought it "
+"meant.[10]"
+
+#. Context: They went together, as a long-distance romance (he was at DePauw
+#. until his graduation in February 1944), for the next year, and in the fall
+#. of 1944, Jo left for the University of California at Berkeley. As she
+#. prepared to board the train, Bill gave her an orchid corsage and she
+#. questioned him about the fraternity pin. He remained vague and would make
+#. no other commitment than, “Please wear my fraternity pin.” After a week at
+#. Berkeley, Jo was swept off her feet by a young marine whom she ultimately
+#. married. She finally wrote to Bill of her new love and returned his pin in
+#. the spring of 1945; Jo heard no more from him until the late 1970s.
+#: paragraph:29,sentence:1
+msgid ""
+"They went together, as a long-distance romance (he was at DePauw until his "
+"graduation in February 1944), for the next year, and in the fall of 1944, Jo"
+" left for the University of California at Berkeley."
+msgstr ""
+"They went together, as a long-distance romance (he was at DePauw until his "
+"graduation in February 1944), for the next year, and in the fall of 1944, Jo"
+" left for the University of California at Berkeley."
+
+#. Context: They went together, as a long-distance romance (he was at DePauw
+#. until his graduation in February 1944), for the next year, and in the fall
+#. of 1944, Jo left for the University of California at Berkeley. As she
+#. prepared to board the train, Bill gave her an orchid corsage and she
+#. questioned him about the fraternity pin. He remained vague and would make
+#. no other commitment than, “Please wear my fraternity pin.” After a week at
+#. Berkeley, Jo was swept off her feet by a young marine whom she ultimately
+#. married. She finally wrote to Bill of her new love and returned his pin in
+#. the spring of 1945; Jo heard no more from him until the late 1970s.
+#: paragraph:29,sentence:2
+msgid ""
+"As she prepared to board the train, Bill gave her an orchid corsage and she "
+"questioned him about the fraternity pin."
+msgstr ""
+"As she prepared to board the train, Bill gave her an orchid corsage and she "
+"questioned him about the fraternity pin."
+
+#. Context: They went together, as a long-distance romance (he was at DePauw
+#. until his graduation in February 1944), for the next year, and in the fall
+#. of 1944, Jo left for the University of California at Berkeley. As she
+#. prepared to board the train, Bill gave her an orchid corsage and she
+#. questioned him about the fraternity pin. He remained vague and would make
+#. no other commitment than, “Please wear my fraternity pin.” After a week at
+#. Berkeley, Jo was swept off her feet by a young marine whom she ultimately
+#. married. She finally wrote to Bill of her new love and returned his pin in
+#. the spring of 1945; Jo heard no more from him until the late 1970s.
+#: paragraph:29,sentence:3
+msgid ""
+"He remained vague and would make no other commitment than, “Please wear my "
+"fraternity pin.” After a week at Berkeley, Jo was swept off her feet by a "
+"young marine whom she ultimately married."
+msgstr ""
+"He remained vague and would make no other commitment than, “Please wear my "
+"fraternity pin.” After a week at Berkeley, Jo was swept off her feet by a "
+"young marine whom she ultimately married."
+
+#. Context: They went together, as a long-distance romance (he was at DePauw
+#. until his graduation in February 1944), for the next year, and in the fall
+#. of 1944, Jo left for the University of California at Berkeley. As she
+#. prepared to board the train, Bill gave her an orchid corsage and she
+#. questioned him about the fraternity pin. He remained vague and would make
+#. no other commitment than, “Please wear my fraternity pin.” After a week at
+#. Berkeley, Jo was swept off her feet by a young marine whom she ultimately
+#. married. She finally wrote to Bill of her new love and returned his pin in
+#. the spring of 1945; Jo heard no more from him until the late 1970s.
+#: paragraph:29,sentence:4
+msgid ""
+"She finally wrote to Bill of her new love and returned his pin in the spring"
+" of 1945; Jo heard no more from him until the late 1970s."
+msgstr ""
+"She finally wrote to Bill of her new love and returned his pin in the spring"
+" of 1945; Jo heard no more from him until the late 1970s."
+
+#. Context: From our current perspective, we can only imagine Bill’s
+#. situation. His girlfriend was out of his life; he had been suspecting his
+#. latent homosexuality but being open about it was taboo at that time. A gay
+#. lifestyle was so unsupported in American society that he could not accept
+#. it totally within himself. It’s possible, however, that living in a
+#. fraternity house in close quarters with many young men, he allowed himself
+#. to be more honest privately about his inclinations, an honesty that had
+#. been too difficult before.
+#: paragraph:30,sentence:1
+msgid "From our current perspective, we can only imagine Bill’s situation."
+msgstr "From our current perspective, we can only imagine Bill’s situation."
+
+#. Context: From our current perspective, we can only imagine Bill’s
+#. situation. His girlfriend was out of his life; he had been suspecting his
+#. latent homosexuality but being open about it was taboo at that time. A gay
+#. lifestyle was so unsupported in American society that he could not accept
+#. it totally within himself. It’s possible, however, that living in a
+#. fraternity house in close quarters with many young men, he allowed himself
+#. to be more honest privately about his inclinations, an honesty that had
+#. been too difficult before.
+#: paragraph:30,sentence:2
+msgid ""
+"His girlfriend was out of his life; he had been suspecting his latent "
+"homosexuality but being open about it was taboo at that time."
+msgstr ""
+"His girlfriend was out of his life; he had been suspecting his latent "
+"homosexuality but being open about it was taboo at that time."
+
+#. Context: From our current perspective, we can only imagine Bill’s
+#. situation. His girlfriend was out of his life; he had been suspecting his
+#. latent homosexuality but being open about it was taboo at that time. A gay
+#. lifestyle was so unsupported in American society that he could not accept
+#. it totally within himself. It’s possible, however, that living in a
+#. fraternity house in close quarters with many young men, he allowed himself
+#. to be more honest privately about his inclinations, an honesty that had
+#. been too difficult before.
+#: paragraph:30,sentence:3
+msgid ""
+"A gay lifestyle was so unsupported in American society that he could not "
+"accept it totally within himself."
+msgstr ""
+"A gay lifestyle was so unsupported in American society that he could not "
+"accept it totally within himself."
+
+#. Context: From our current perspective, we can only imagine Bill’s
+#. situation. His girlfriend was out of his life; he had been suspecting his
+#. latent homosexuality but being open about it was taboo at that time. A gay
+#. lifestyle was so unsupported in American society that he could not accept
+#. it totally within himself. It’s possible, however, that living in a
+#. fraternity house in close quarters with many young men, he allowed himself
+#. to be more honest privately about his inclinations, an honesty that had
+#. been too difficult before.
+#: paragraph:30,sentence:4
+msgid ""
+"It’s possible, however, that living in a fraternity house in close quarters "
+"with many young men, he allowed himself to be more honest privately about "
+"his inclinations, an honesty that had been too difficult before."
+msgstr ""
+"It’s possible, however, that living in a fraternity house in close quarters "
+"with many young men, he allowed himself to be more honest privately about "
+"his inclinations, an honesty that had been too difficult before."

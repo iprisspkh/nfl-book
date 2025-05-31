@@ -1,0 +1,241 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Context: Never Forget To Laugh
+#: paragraph:1,sentence:1
+msgid "Never Forget To Laugh"
+msgstr "Never Forget To Laugh"
+
+#. Context: Personal Recollections of Bill Thetford, Co-scribe of
+#: paragraph:2,sentence:1
+msgid "Personal Recollections of Bill Thetford, Co-scribe of"
+msgstr "Personal Recollections of Bill Thetford, Co-scribe of"
+
+#. Context: Copyright © 2009 by Carol Howe
+#: paragraph:3,sentence:1
+msgid "Copyright © 2009 by Carol Howe"
+msgstr "Copyright © 2009 by Carol Howe"
+
+#. Context: All rights reserved. This book may not be reproduced in whole or
+#. in part, stored in a retrieval system, or transmitted in any form or by any
+#. means—electronic, mechanical, or other, including photocopying or
+#. recording, for public or private use—without written permission from the
+#. author.
+#: paragraph:4,sentence:1
+msgid "All rights reserved."
+msgstr "All rights reserved."
+
+#. Context: All rights reserved. This book may not be reproduced in whole or
+#. in part, stored in a retrieval system, or transmitted in any form or by any
+#. means—electronic, mechanical, or other, including photocopying or
+#. recording, for public or private use—without written permission from the
+#. author.
+#: paragraph:4,sentence:2
+msgid ""
+"This book may not be reproduced in whole or in part, stored in a retrieval "
+"system, or transmitted in any form or by any means—electronic, mechanical, "
+"or other, including photocopying or recording, for public or private "
+"use—without written permission from the author."
+msgstr ""
+"This book may not be reproduced in whole or in part, stored in a retrieval "
+"system, or transmitted in any form or by any means—electronic, mechanical, "
+"or other, including photocopying or recording, for public or private "
+"use—without written permission from the author."
+
+#. Context: ISBN: 978-1-889642-21-5
+#: paragraph:5,sentence:1
+msgid "ISBN: 978-1-889642-21-5"
+msgstr "ISBN: 978-1-889642-21-5"
+
+#. Context: Grateful acknowledgment is made to the following for permission to
+#. use copyrighted material:
+#: paragraph:6,sentence:1
+msgid ""
+"Grateful acknowledgment is made to the following for permission to use "
+"copyrighted material:"
+msgstr ""
+"Grateful acknowledgment is made to the following for permission to use "
+"copyrighted material:"
+
+#. Context: Robert Skutch, for excerpts from Journey Without Distance: The
+#. Story Behind A Course In Miracles by Robert Skutch, copyright ©1984.
+#: paragraph:7,sentence:1
+msgid ""
+"Robert Skutch, for excerpts from Journey Without Distance: The Story Behind "
+"A Course In Miracles by Robert Skutch, copyright ©1984."
+msgstr ""
+"Robert Skutch, for excerpts from Journey Without Distance: The Story Behind "
+"A Course In Miracles by Robert Skutch, copyright ©1984."
+
+#. Context: Prometheus Nemesis Books, for excerpts from Please Understand Me,
+#. II by David Keirsey, copyright © 1998.
+#: paragraph:8,sentence:1
+msgid ""
+"Prometheus Nemesis Books, for excerpts from Please Understand Me, II by "
+"David Keirsey, copyright © 1998."
+msgstr ""
+"Prometheus Nemesis Books, for excerpts from Please Understand Me, II by "
+"David Keirsey, copyright © 1998."
+
+#. Context: Neale Vahle, for excerpts from A Course In Miracles: The Lives of
+#. Helen Schucman & William Thetford by Neal Vahle, copyright © 2009.
+#: paragraph:9,sentence:1
+msgid ""
+"Neale Vahle, for excerpts from A Course In Miracles: The Lives of Helen "
+"Schucman & William Thetford by Neal Vahle, copyright © 2009."
+msgstr ""
+"Neale Vahle, for excerpts from A Course In Miracles: The Lives of Helen "
+"Schucman & William Thetford by Neal Vahle, copyright © 2009."
+
+#. Context: The Gangaji Foundation, for excerpt from You Are That by Gangaji,
+#. copyright © 2007.
+#: paragraph:10,sentence:1
+msgid ""
+"The Gangaji Foundation, for excerpt from You Are That by Gangaji, copyright "
+"© 2007."
+msgstr ""
+"The Gangaji Foundation, for excerpt from You Are That by Gangaji, copyright "
+"© 2007."
+
+#. Context: James Bolen, for excerpt from “Interview: Judith R. Skutch,” New
+#. Realities, April 1977, copyright © 1977.
+#: paragraph:11,sentence:1
+msgid "James Bolen, for excerpt from “Interview: Judith R."
+msgstr "James Bolen, for excerpt from “Interview: Judith R."
+
+#. Context: James Bolen, for excerpt from “Interview: Judith R. Skutch,” New
+#. Realities, April 1977, copyright © 1977.
+#: paragraph:11,sentence:2
+msgid "Skutch,” New Realities, April 1977, copyright © 1977."
+msgstr "Skutch,” New Realities, April 1977, copyright © 1977."
+
+#. Context: James Bolen, for excerpts from “Interview: William N. Thetford,
+#. Ph.D.,” New Realities, September 1984, copyright © 1984.
+#: paragraph:12,sentence:1
+msgid "James Bolen, for excerpts from “Interview: William N."
+msgstr "James Bolen, for excerpts from “Interview: William N."
+
+#. Context: James Bolen, for excerpts from “Interview: William N. Thetford,
+#. Ph.D.,” New Realities, September 1984, copyright © 1984.
+#: paragraph:12,sentence:2
+msgid "Thetford, Ph.D.,” New Realities, September 1984, copyright © 1984."
+msgstr "Thetford, Ph.D.,” New Realities, September 1984, copyright © 1984."
+
+#. Context: All page references to A Course In Miracles are from the Third
+#. Edition published by the Foundation for Inner Peace, Mill Valley, CA, 2007.
+#. A new archival website created by the Foundation for Inner Peace and the
+#. Foundation for A Course In Miracles is under construction. It will contain
+#. articles, pictures, videos, interviews, and other ACIM memorabilia not
+#. heretofore available to the public. The interviews and some excerpts from
+#. the biographies referenced in this book will be included.
+#: paragraph:13,sentence:1
+msgid ""
+"All page references to A Course In Miracles are from the Third Edition "
+"published by the Foundation for Inner Peace, Mill Valley, CA, 2007."
+msgstr ""
+"All page references to A Course In Miracles are from the Third Edition "
+"published by the Foundation for Inner Peace, Mill Valley, CA, 2007."
+
+#. Context: All page references to A Course In Miracles are from the Third
+#. Edition published by the Foundation for Inner Peace, Mill Valley, CA, 2007.
+#. A new archival website created by the Foundation for Inner Peace and the
+#. Foundation for A Course In Miracles is under construction. It will contain
+#. articles, pictures, videos, interviews, and other ACIM memorabilia not
+#. heretofore available to the public. The interviews and some excerpts from
+#. the biographies referenced in this book will be included.
+#: paragraph:13,sentence:2
+msgid ""
+"A new archival website created by the Foundation for Inner Peace and the "
+"Foundation for A Course In Miracles is under construction."
+msgstr ""
+"A new archival website created by the Foundation for Inner Peace and the "
+"Foundation for A Course In Miracles is under construction."
+
+#. Context: All page references to A Course In Miracles are from the Third
+#. Edition published by the Foundation for Inner Peace, Mill Valley, CA, 2007.
+#. A new archival website created by the Foundation for Inner Peace and the
+#. Foundation for A Course In Miracles is under construction. It will contain
+#. articles, pictures, videos, interviews, and other ACIM memorabilia not
+#. heretofore available to the public. The interviews and some excerpts from
+#. the biographies referenced in this book will be included.
+#: paragraph:13,sentence:3
+msgid ""
+"It will contain articles, pictures, videos, interviews, and other ACIM "
+"memorabilia not heretofore available to the public."
+msgstr ""
+"It will contain articles, pictures, videos, interviews, and other ACIM "
+"memorabilia not heretofore available to the public."
+
+#. Context: All page references to A Course In Miracles are from the Third
+#. Edition published by the Foundation for Inner Peace, Mill Valley, CA, 2007.
+#. A new archival website created by the Foundation for Inner Peace and the
+#. Foundation for A Course In Miracles is under construction. It will contain
+#. articles, pictures, videos, interviews, and other ACIM memorabilia not
+#. heretofore available to the public. The interviews and some excerpts from
+#. the biographies referenced in this book will be included.
+#: paragraph:13,sentence:4
+msgid ""
+"The interviews and some excerpts from the biographies referenced in this "
+"book will be included."
+msgstr ""
+"The interviews and some excerpts from the biographies referenced in this "
+"book will be included."
+
+#. Context: Cover design by Kathryn Van Aernum
+#: paragraph:14,sentence:1
+msgid "Cover design by Kathryn Van Aernum"
+msgstr "Cover design by Kathryn Van Aernum"
+
+#. Context: Text design and layout by Cathy Sanders
+#: paragraph:15,sentence:1
+msgid "Text design and layout by Cathy Sanders"
+msgstr "Text design and layout by Cathy Sanders"
+
+#. Context: Printed in United States of America
+#: paragraph:16,sentence:1
+msgid "Printed in United States of America"
+msgstr "Printed in United States of America"
+
+#. Context: Also by Carol M. Howe
+#: paragraph:17,sentence:1
+msgid "Also by Carol M. Howe"
+msgstr "Also by Carol M. Howe"
+
+#. Context: Healing the Hurt Behind Addictionsand Compulsive Behaviors
+#: paragraph:18,sentence:1
+msgid "Healing the Hurt Behind Addictionsand Compulsive Behaviors"
+msgstr "Healing the Hurt Behind Addictionsand Compulsive Behaviors"
+
+#. Context: (English and Russian)
+#: paragraph:19,sentence:1
+msgid "(English and Russian)"
+msgstr "(English and Russian)"
+
+#. Context: Homeward To An Open Door;Exploring Major Principles of A Course In
+#. Miracles
+#: paragraph:20,sentence:1
+msgid ""
+"Homeward To An Open Door;Exploring Major Principles of A Course In Miracles"
+msgstr ""
+"Homeward To An Open Door;Exploring Major Principles of A Course In Miracles"
+
+#. Context: Emergency Procedures for RegainingPeace of Mind
+#: paragraph:21,sentence:1
+msgid "Emergency Procedures for RegainingPeace of Mind"
+msgstr "Emergency Procedures for RegainingPeace of Mind"
+
+#. Context: (English and Spanish)
+#: paragraph:22,sentence:1
+msgid "(English and Spanish)"
+msgstr "(English and Spanish)"
+
+#. Context: Children As Teachers of Peace
+#: paragraph:23,sentence:1
+msgid "Children As Teachers of Peace"
+msgstr "Children As Teachers of Peace"

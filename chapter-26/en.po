@@ -1,0 +1,2604 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Context: In 1982, as Bill recovered from his near-fatal heart episode, his
+#. friendship with Pat Hopkins continued to deepen. Pat remembers from that
+#. time, “Sometimes I would join him and Jules for dinner and our conversation
+#. would continue through the evening hours. It was obvious that our
+#. friendship was becoming more intimate, but it did not feel like falling-in-
+#. love romance. Rather, it was more a recognition of something I do not know
+#. how to describe, something that gave us both comfort and a deep sense of
+#. kinship.”[1]
+#: paragraph:1,sentence:1
+msgid ""
+"In 1982, as Bill recovered from his near-fatal heart episode, his friendship"
+" with Pat Hopkins continued to deepen."
+msgstr ""
+"In 1982, as Bill recovered from his near-fatal heart episode, his friendship"
+" with Pat Hopkins continued to deepen."
+
+#. Context: In 1982, as Bill recovered from his near-fatal heart episode, his
+#. friendship with Pat Hopkins continued to deepen. Pat remembers from that
+#. time, “Sometimes I would join him and Jules for dinner and our conversation
+#. would continue through the evening hours. It was obvious that our
+#. friendship was becoming more intimate, but it did not feel like falling-in-
+#. love romance. Rather, it was more a recognition of something I do not know
+#. how to describe, something that gave us both comfort and a deep sense of
+#. kinship.”[1]
+#: paragraph:1,sentence:2
+msgid ""
+"Pat remembers from that time, “Sometimes I would join him and Jules for "
+"dinner and our conversation would continue through the evening hours."
+msgstr ""
+"Pat remembers from that time, “Sometimes I would join him and Jules for "
+"dinner and our conversation would continue through the evening hours."
+
+#. Context: In 1982, as Bill recovered from his near-fatal heart episode, his
+#. friendship with Pat Hopkins continued to deepen. Pat remembers from that
+#. time, “Sometimes I would join him and Jules for dinner and our conversation
+#. would continue through the evening hours. It was obvious that our
+#. friendship was becoming more intimate, but it did not feel like falling-in-
+#. love romance. Rather, it was more a recognition of something I do not know
+#. how to describe, something that gave us both comfort and a deep sense of
+#. kinship.”[1]
+#: paragraph:1,sentence:3
+msgid ""
+"It was obvious that our friendship was becoming more intimate, but it did "
+"not feel like falling-in-love romance."
+msgstr ""
+"It was obvious that our friendship was becoming more intimate, but it did "
+"not feel like falling-in-love romance."
+
+#. Context: In 1982, as Bill recovered from his near-fatal heart episode, his
+#. friendship with Pat Hopkins continued to deepen. Pat remembers from that
+#. time, “Sometimes I would join him and Jules for dinner and our conversation
+#. would continue through the evening hours. It was obvious that our
+#. friendship was becoming more intimate, but it did not feel like falling-in-
+#. love romance. Rather, it was more a recognition of something I do not know
+#. how to describe, something that gave us both comfort and a deep sense of
+#. kinship.”[1]
+#: paragraph:1,sentence:4
+msgid ""
+"Rather, it was more a recognition of something I do not know how to "
+"describe, something that gave us both comfort and a deep sense of "
+"kinship.”[1]"
+msgstr ""
+"Rather, it was more a recognition of something I do not know how to "
+"describe, something that gave us both comfort and a deep sense of "
+"kinship.”[1]"
+
+#. Context: I find it fascinating that so many people referred to that feeling
+#. with Bill; they variously likened it to a sense of kinship, being part of a
+#. family, an indescribable connection, recognizing an old friend or even
+#. one’s self, or a feeling of coming Home—nothing words can accurately
+#. convey. Incidentally, it’s reassuring to know that no matter who you’re
+#. with, the feeling of “being included in the family” increases as you
+#. practice forgiveness.
+#: paragraph:2,sentence:1
+msgid ""
+"I find it fascinating that so many people referred to that feeling with "
+"Bill; they variously likened it to a sense of kinship, being part of a "
+"family, an indescribable connection, recognizing an old friend or even one’s"
+" self, or a feeling of coming Home—nothing words can accurately convey."
+msgstr ""
+"I find it fascinating that so many people referred to that feeling with "
+"Bill; they variously likened it to a sense of kinship, being part of a "
+"family, an indescribable connection, recognizing an old friend or even one’s"
+" self, or a feeling of coming Home—nothing words can accurately convey."
+
+#. Context: I find it fascinating that so many people referred to that feeling
+#. with Bill; they variously likened it to a sense of kinship, being part of a
+#. family, an indescribable connection, recognizing an old friend or even
+#. one’s self, or a feeling of coming Home—nothing words can accurately
+#. convey. Incidentally, it’s reassuring to know that no matter who you’re
+#. with, the feeling of “being included in the family” increases as you
+#. practice forgiveness.
+#: paragraph:2,sentence:2
+msgid ""
+"Incidentally, it’s reassuring to know that no matter who you’re with, the "
+"feeling of “being included in the family” increases as you practice "
+"forgiveness."
+msgstr ""
+"Incidentally, it’s reassuring to know that no matter who you’re with, the "
+"feeling of “being included in the family” increases as you practice "
+"forgiveness."
+
+#. Context: In late spring, Bill suggested they become housemates. Pat had a
+#. long daily commute to Tiburon from Santa Rosa, her home at the time, and
+#. Bill recognized his need for companionship, so for both practical and
+#. emotional reasons it seemed a perfect fit. From a broader perspective, it
+#. was also a perfect opportunity for both of them to continue to acknowledge
+#. some unfinished issues and to choose to let them go. The Course is crystal
+#. clear that the purpose of all relationships is our healing, whether we ever
+#. come to that awareness or not, and this one was no exception.
+#: paragraph:3,sentence:1
+msgid "In late spring, Bill suggested they become housemates."
+msgstr "In late spring, Bill suggested they become housemates."
+
+#. Context: In late spring, Bill suggested they become housemates. Pat had a
+#. long daily commute to Tiburon from Santa Rosa, her home at the time, and
+#. Bill recognized his need for companionship, so for both practical and
+#. emotional reasons it seemed a perfect fit. From a broader perspective, it
+#. was also a perfect opportunity for both of them to continue to acknowledge
+#. some unfinished issues and to choose to let them go. The Course is crystal
+#. clear that the purpose of all relationships is our healing, whether we ever
+#. come to that awareness or not, and this one was no exception.
+#: paragraph:3,sentence:2
+msgid ""
+"Pat had a long daily commute to Tiburon from Santa Rosa, her home at the "
+"time, and Bill recognized his need for companionship, so for both practical "
+"and emotional reasons it seemed a perfect fit."
+msgstr ""
+"Pat had a long daily commute to Tiburon from Santa Rosa, her home at the "
+"time, and Bill recognized his need for companionship, so for both practical "
+"and emotional reasons it seemed a perfect fit."
+
+#. Context: In late spring, Bill suggested they become housemates. Pat had a
+#. long daily commute to Tiburon from Santa Rosa, her home at the time, and
+#. Bill recognized his need for companionship, so for both practical and
+#. emotional reasons it seemed a perfect fit. From a broader perspective, it
+#. was also a perfect opportunity for both of them to continue to acknowledge
+#. some unfinished issues and to choose to let them go. The Course is crystal
+#. clear that the purpose of all relationships is our healing, whether we ever
+#. come to that awareness or not, and this one was no exception.
+#: paragraph:3,sentence:3
+msgid ""
+"From a broader perspective, it was also a perfect opportunity for both of "
+"them to continue to acknowledge some unfinished issues and to choose to let "
+"them go."
+msgstr ""
+"From a broader perspective, it was also a perfect opportunity for both of "
+"them to continue to acknowledge some unfinished issues and to choose to let "
+"them go."
+
+#. Context: In late spring, Bill suggested they become housemates. Pat had a
+#. long daily commute to Tiburon from Santa Rosa, her home at the time, and
+#. Bill recognized his need for companionship, so for both practical and
+#. emotional reasons it seemed a perfect fit. From a broader perspective, it
+#. was also a perfect opportunity for both of them to continue to acknowledge
+#. some unfinished issues and to choose to let them go. The Course is crystal
+#. clear that the purpose of all relationships is our healing, whether we ever
+#. come to that awareness or not, and this one was no exception.
+#: paragraph:3,sentence:4
+msgid ""
+"The Course is crystal clear that the purpose of all relationships is our "
+"healing, whether we ever come to that awareness or not, and this one was no "
+"exception."
+msgstr ""
+"The Course is crystal clear that the purpose of all relationships is our "
+"healing, whether we ever come to that awareness or not, and this one was no "
+"exception."
+
+#. Context: Pat and Bill had much in common. They both loved classical
+#. music—Mozart for Bill and a more balanced repertoire for Pat—and it was the
+#. centerpiece of their respective lives, second in importance only to their
+#. spiritual practice. Both were also very bright, intellectually gifted, and
+#. loved reading and discussing what they read, including much mystical and
+#. spiritual literature. They also shared a common sense of the absurd and had
+#. many a good laugh over the local “soap operas” within their community. As a
+#. primary focus from 1982–1985, Bill, Pat, and Jerry spent a great deal of
+#. time together writing Good-bye to Guilt, attending the daily 9 a.m.
+#. meetings, interacting with their friends whose common bond was the Course,
+#. and attending to the business of the Center for Attitudinal Healing. All
+#. three were on its board of directors. During times when not serving on the
+#. board, Pat was a consultant to the center and later a temporary acting
+#. director. She also helped Jerry establish an ancillary organization, the
+#. Foundation for Spiritual Alternatives, so as she said, she was the “ham in
+#. the Bill/Jerry sandwich.”
+#: paragraph:4,sentence:1
+msgid "Pat and Bill had much in common."
+msgstr "Pat and Bill had much in common."
+
+#. Context: Pat and Bill had much in common. They both loved classical
+#. music—Mozart for Bill and a more balanced repertoire for Pat—and it was the
+#. centerpiece of their respective lives, second in importance only to their
+#. spiritual practice. Both were also very bright, intellectually gifted, and
+#. loved reading and discussing what they read, including much mystical and
+#. spiritual literature. They also shared a common sense of the absurd and had
+#. many a good laugh over the local “soap operas” within their community. As a
+#. primary focus from 1982–1985, Bill, Pat, and Jerry spent a great deal of
+#. time together writing Good-bye to Guilt, attending the daily 9 a.m.
+#. meetings, interacting with their friends whose common bond was the Course,
+#. and attending to the business of the Center for Attitudinal Healing. All
+#. three were on its board of directors. During times when not serving on the
+#. board, Pat was a consultant to the center and later a temporary acting
+#. director. She also helped Jerry establish an ancillary organization, the
+#. Foundation for Spiritual Alternatives, so as she said, she was the “ham in
+#. the Bill/Jerry sandwich.”
+#: paragraph:4,sentence:2
+msgid ""
+"They both loved classical music—Mozart for Bill and a more balanced "
+"repertoire for Pat—and it was the centerpiece of their respective lives, "
+"second in importance only to their spiritual practice."
+msgstr ""
+"They both loved classical music—Mozart for Bill and a more balanced "
+"repertoire for Pat—and it was the centerpiece of their respective lives, "
+"second in importance only to their spiritual practice."
+
+#. Context: Pat and Bill had much in common. They both loved classical
+#. music—Mozart for Bill and a more balanced repertoire for Pat—and it was the
+#. centerpiece of their respective lives, second in importance only to their
+#. spiritual practice. Both were also very bright, intellectually gifted, and
+#. loved reading and discussing what they read, including much mystical and
+#. spiritual literature. They also shared a common sense of the absurd and had
+#. many a good laugh over the local “soap operas” within their community. As a
+#. primary focus from 1982–1985, Bill, Pat, and Jerry spent a great deal of
+#. time together writing Good-bye to Guilt, attending the daily 9 a.m.
+#. meetings, interacting with their friends whose common bond was the Course,
+#. and attending to the business of the Center for Attitudinal Healing. All
+#. three were on its board of directors. During times when not serving on the
+#. board, Pat was a consultant to the center and later a temporary acting
+#. director. She also helped Jerry establish an ancillary organization, the
+#. Foundation for Spiritual Alternatives, so as she said, she was the “ham in
+#. the Bill/Jerry sandwich.”
+#: paragraph:4,sentence:3
+msgid ""
+"Both were also very bright, intellectually gifted, and loved reading and "
+"discussing what they read, including much mystical and spiritual literature."
+msgstr ""
+"Both were also very bright, intellectually gifted, and loved reading and "
+"discussing what they read, including much mystical and spiritual literature."
+
+#. Context: Pat and Bill had much in common. They both loved classical
+#. music—Mozart for Bill and a more balanced repertoire for Pat—and it was the
+#. centerpiece of their respective lives, second in importance only to their
+#. spiritual practice. Both were also very bright, intellectually gifted, and
+#. loved reading and discussing what they read, including much mystical and
+#. spiritual literature. They also shared a common sense of the absurd and had
+#. many a good laugh over the local “soap operas” within their community. As a
+#. primary focus from 1982–1985, Bill, Pat, and Jerry spent a great deal of
+#. time together writing Good-bye to Guilt, attending the daily 9 a.m.
+#. meetings, interacting with their friends whose common bond was the Course,
+#. and attending to the business of the Center for Attitudinal Healing. All
+#. three were on its board of directors. During times when not serving on the
+#. board, Pat was a consultant to the center and later a temporary acting
+#. director. She also helped Jerry establish an ancillary organization, the
+#. Foundation for Spiritual Alternatives, so as she said, she was the “ham in
+#. the Bill/Jerry sandwich.”
+#: paragraph:4,sentence:4
+msgid ""
+"They also shared a common sense of the absurd and had many a good laugh over"
+" the local “soap operas” within their community."
+msgstr ""
+"They also shared a common sense of the absurd and had many a good laugh over"
+" the local “soap operas” within their community."
+
+#. Context: Pat and Bill had much in common. They both loved classical
+#. music—Mozart for Bill and a more balanced repertoire for Pat—and it was the
+#. centerpiece of their respective lives, second in importance only to their
+#. spiritual practice. Both were also very bright, intellectually gifted, and
+#. loved reading and discussing what they read, including much mystical and
+#. spiritual literature. They also shared a common sense of the absurd and had
+#. many a good laugh over the local “soap operas” within their community. As a
+#. primary focus from 1982–1985, Bill, Pat, and Jerry spent a great deal of
+#. time together writing Good-bye to Guilt, attending the daily 9 a.m.
+#. meetings, interacting with their friends whose common bond was the Course,
+#. and attending to the business of the Center for Attitudinal Healing. All
+#. three were on its board of directors. During times when not serving on the
+#. board, Pat was a consultant to the center and later a temporary acting
+#. director. She also helped Jerry establish an ancillary organization, the
+#. Foundation for Spiritual Alternatives, so as she said, she was the “ham in
+#. the Bill/Jerry sandwich.”
+#: paragraph:4,sentence:5
+msgid ""
+"As a primary focus from 1982–1985, Bill, Pat, and Jerry spent a great deal "
+"of time together writing Good-bye to Guilt, attending the daily 9 a.m. "
+"meetings, interacting with their friends whose common bond was the Course, "
+"and attending to the business of the Center for Attitudinal Healing."
+msgstr ""
+"As a primary focus from 1982–1985, Bill, Pat, and Jerry spent a great deal "
+"of time together writing Good-bye to Guilt, attending the daily 9 a.m. "
+"meetings, interacting with their friends whose common bond was the Course, "
+"and attending to the business of the Center for Attitudinal Healing."
+
+#. Context: Pat and Bill had much in common. They both loved classical
+#. music—Mozart for Bill and a more balanced repertoire for Pat—and it was the
+#. centerpiece of their respective lives, second in importance only to their
+#. spiritual practice. Both were also very bright, intellectually gifted, and
+#. loved reading and discussing what they read, including much mystical and
+#. spiritual literature. They also shared a common sense of the absurd and had
+#. many a good laugh over the local “soap operas” within their community. As a
+#. primary focus from 1982–1985, Bill, Pat, and Jerry spent a great deal of
+#. time together writing Good-bye to Guilt, attending the daily 9 a.m.
+#. meetings, interacting with their friends whose common bond was the Course,
+#. and attending to the business of the Center for Attitudinal Healing. All
+#. three were on its board of directors. During times when not serving on the
+#. board, Pat was a consultant to the center and later a temporary acting
+#. director. She also helped Jerry establish an ancillary organization, the
+#. Foundation for Spiritual Alternatives, so as she said, she was the “ham in
+#. the Bill/Jerry sandwich.”
+#: paragraph:4,sentence:6
+msgid "All three were on its board of directors."
+msgstr "All three were on its board of directors."
+
+#. Context: Pat and Bill had much in common. They both loved classical
+#. music—Mozart for Bill and a more balanced repertoire for Pat—and it was the
+#. centerpiece of their respective lives, second in importance only to their
+#. spiritual practice. Both were also very bright, intellectually gifted, and
+#. loved reading and discussing what they read, including much mystical and
+#. spiritual literature. They also shared a common sense of the absurd and had
+#. many a good laugh over the local “soap operas” within their community. As a
+#. primary focus from 1982–1985, Bill, Pat, and Jerry spent a great deal of
+#. time together writing Good-bye to Guilt, attending the daily 9 a.m.
+#. meetings, interacting with their friends whose common bond was the Course,
+#. and attending to the business of the Center for Attitudinal Healing. All
+#. three were on its board of directors. During times when not serving on the
+#. board, Pat was a consultant to the center and later a temporary acting
+#. director. She also helped Jerry establish an ancillary organization, the
+#. Foundation for Spiritual Alternatives, so as she said, she was the “ham in
+#. the Bill/Jerry sandwich.”
+#: paragraph:4,sentence:7
+msgid ""
+"During times when not serving on the board, Pat was a consultant to the "
+"center and later a temporary acting director."
+msgstr ""
+"During times when not serving on the board, Pat was a consultant to the "
+"center and later a temporary acting director."
+
+#. Context: Pat and Bill had much in common. They both loved classical
+#. music—Mozart for Bill and a more balanced repertoire for Pat—and it was the
+#. centerpiece of their respective lives, second in importance only to their
+#. spiritual practice. Both were also very bright, intellectually gifted, and
+#. loved reading and discussing what they read, including much mystical and
+#. spiritual literature. They also shared a common sense of the absurd and had
+#. many a good laugh over the local “soap operas” within their community. As a
+#. primary focus from 1982–1985, Bill, Pat, and Jerry spent a great deal of
+#. time together writing Good-bye to Guilt, attending the daily 9 a.m.
+#. meetings, interacting with their friends whose common bond was the Course,
+#. and attending to the business of the Center for Attitudinal Healing. All
+#. three were on its board of directors. During times when not serving on the
+#. board, Pat was a consultant to the center and later a temporary acting
+#. director. She also helped Jerry establish an ancillary organization, the
+#. Foundation for Spiritual Alternatives, so as she said, she was the “ham in
+#. the Bill/Jerry sandwich.”
+#: paragraph:4,sentence:8
+msgid ""
+"She also helped Jerry establish an ancillary organization, the Foundation "
+"for Spiritual Alternatives, so as she said, she was the “ham in the "
+"Bill/Jerry sandwich.”"
+msgstr ""
+"She also helped Jerry establish an ancillary organization, the Foundation "
+"for Spiritual Alternatives, so as she said, she was the “ham in the "
+"Bill/Jerry sandwich.”"
+
+#. Context: In preparation for moving in together, Bill had opened a box of
+#. memorabilia and, with some resistance, looked through it.
+#: paragraph:5,sentence:1
+msgid ""
+"In preparation for moving in together, Bill had opened a box of memorabilia "
+"and, with some resistance, looked through it."
+msgstr ""
+"In preparation for moving in together, Bill had opened a box of memorabilia "
+"and, with some resistance, looked through it."
+
+#. Context: I found samples of absolutely everything, like reprints of old
+#. papers going back over thirty years and a report I had written when I was
+#. studying brainwashing. . . . I also found a certificate that the War
+#. Department presented to me for my work on the atomic bomb, as well as some
+#. scattered personal notes from the Course that Helen and I had taken out.
+#. There were also some old birthday cards that Helen had written and pictures
+#. of both my parents. It was a review of “This Is Your Life” going back to
+#. the middle 1940s, all jammed in a box. I found my reaction very strange. I
+#. was sad and obviously had resistance to looking. I threw out a lot of it in
+#. preparation for the move. So in cleaning house, I reviewed all the madness
+#. that one accumulates. . . . House cleaning is good, but I have the feeling
+#. that there is something that I don’t want to look at or something is
+#. missing.[2]
+#: paragraph:6,sentence:1
+msgid ""
+"I found samples of absolutely everything, like reprints of old papers going "
+"back over thirty years and a report I had written when I was studying "
+"brainwashing. . . ."
+msgstr ""
+"I found samples of absolutely everything, like reprints of old papers going "
+"back over thirty years and a report I had written when I was studying "
+"brainwashing. . . ."
+
+#. Context: I found samples of absolutely everything, like reprints of old
+#. papers going back over thirty years and a report I had written when I was
+#. studying brainwashing. . . . I also found a certificate that the War
+#. Department presented to me for my work on the atomic bomb, as well as some
+#. scattered personal notes from the Course that Helen and I had taken out.
+#. There were also some old birthday cards that Helen had written and pictures
+#. of both my parents. It was a review of “This Is Your Life” going back to
+#. the middle 1940s, all jammed in a box. I found my reaction very strange. I
+#. was sad and obviously had resistance to looking. I threw out a lot of it in
+#. preparation for the move. So in cleaning house, I reviewed all the madness
+#. that one accumulates. . . . House cleaning is good, but I have the feeling
+#. that there is something that I don’t want to look at or something is
+#. missing.[2]
+#: paragraph:6,sentence:2
+msgid ""
+"I also found a certificate that the War Department presented to me for my "
+"work on the atomic bomb, as well as some scattered personal notes from the "
+"Course that Helen and I had taken out."
+msgstr ""
+"I also found a certificate that the War Department presented to me for my "
+"work on the atomic bomb, as well as some scattered personal notes from the "
+"Course that Helen and I had taken out."
+
+#. Context: I found samples of absolutely everything, like reprints of old
+#. papers going back over thirty years and a report I had written when I was
+#. studying brainwashing. . . . I also found a certificate that the War
+#. Department presented to me for my work on the atomic bomb, as well as some
+#. scattered personal notes from the Course that Helen and I had taken out.
+#. There were also some old birthday cards that Helen had written and pictures
+#. of both my parents. It was a review of “This Is Your Life” going back to
+#. the middle 1940s, all jammed in a box. I found my reaction very strange. I
+#. was sad and obviously had resistance to looking. I threw out a lot of it in
+#. preparation for the move. So in cleaning house, I reviewed all the madness
+#. that one accumulates. . . . House cleaning is good, but I have the feeling
+#. that there is something that I don’t want to look at or something is
+#. missing.[2]
+#: paragraph:6,sentence:3
+msgid ""
+"There were also some old birthday cards that Helen had written and pictures "
+"of both my parents."
+msgstr ""
+"There were also some old birthday cards that Helen had written and pictures "
+"of both my parents."
+
+#. Context: I found samples of absolutely everything, like reprints of old
+#. papers going back over thirty years and a report I had written when I was
+#. studying brainwashing. . . . I also found a certificate that the War
+#. Department presented to me for my work on the atomic bomb, as well as some
+#. scattered personal notes from the Course that Helen and I had taken out.
+#. There were also some old birthday cards that Helen had written and pictures
+#. of both my parents. It was a review of “This Is Your Life” going back to
+#. the middle 1940s, all jammed in a box. I found my reaction very strange. I
+#. was sad and obviously had resistance to looking. I threw out a lot of it in
+#. preparation for the move. So in cleaning house, I reviewed all the madness
+#. that one accumulates. . . . House cleaning is good, but I have the feeling
+#. that there is something that I don’t want to look at or something is
+#. missing.[2]
+#: paragraph:6,sentence:4
+msgid ""
+"It was a review of “This Is Your Life” going back to the middle 1940s, all "
+"jammed in a box."
+msgstr ""
+"It was a review of “This Is Your Life” going back to the middle 1940s, all "
+"jammed in a box."
+
+#. Context: I found samples of absolutely everything, like reprints of old
+#. papers going back over thirty years and a report I had written when I was
+#. studying brainwashing. . . . I also found a certificate that the War
+#. Department presented to me for my work on the atomic bomb, as well as some
+#. scattered personal notes from the Course that Helen and I had taken out.
+#. There were also some old birthday cards that Helen had written and pictures
+#. of both my parents. It was a review of “This Is Your Life” going back to
+#. the middle 1940s, all jammed in a box. I found my reaction very strange. I
+#. was sad and obviously had resistance to looking. I threw out a lot of it in
+#. preparation for the move. So in cleaning house, I reviewed all the madness
+#. that one accumulates. . . . House cleaning is good, but I have the feeling
+#. that there is something that I don’t want to look at or something is
+#. missing.[2]
+#: paragraph:6,sentence:5
+msgid "I found my reaction very strange."
+msgstr "I found my reaction very strange."
+
+#. Context: I found samples of absolutely everything, like reprints of old
+#. papers going back over thirty years and a report I had written when I was
+#. studying brainwashing. . . . I also found a certificate that the War
+#. Department presented to me for my work on the atomic bomb, as well as some
+#. scattered personal notes from the Course that Helen and I had taken out.
+#. There were also some old birthday cards that Helen had written and pictures
+#. of both my parents. It was a review of “This Is Your Life” going back to
+#. the middle 1940s, all jammed in a box. I found my reaction very strange. I
+#. was sad and obviously had resistance to looking. I threw out a lot of it in
+#. preparation for the move. So in cleaning house, I reviewed all the madness
+#. that one accumulates. . . . House cleaning is good, but I have the feeling
+#. that there is something that I don’t want to look at or something is
+#. missing.[2]
+#: paragraph:6,sentence:6
+msgid "I was sad and obviously had resistance to looking."
+msgstr "I was sad and obviously had resistance to looking."
+
+#. Context: I found samples of absolutely everything, like reprints of old
+#. papers going back over thirty years and a report I had written when I was
+#. studying brainwashing. . . . I also found a certificate that the War
+#. Department presented to me for my work on the atomic bomb, as well as some
+#. scattered personal notes from the Course that Helen and I had taken out.
+#. There were also some old birthday cards that Helen had written and pictures
+#. of both my parents. It was a review of “This Is Your Life” going back to
+#. the middle 1940s, all jammed in a box. I found my reaction very strange. I
+#. was sad and obviously had resistance to looking. I threw out a lot of it in
+#. preparation for the move. So in cleaning house, I reviewed all the madness
+#. that one accumulates. . . . House cleaning is good, but I have the feeling
+#. that there is something that I don’t want to look at or something is
+#. missing.[2]
+#: paragraph:6,sentence:7
+msgid "I threw out a lot of it in preparation for the move."
+msgstr "I threw out a lot of it in preparation for the move."
+
+#. Context: I found samples of absolutely everything, like reprints of old
+#. papers going back over thirty years and a report I had written when I was
+#. studying brainwashing. . . . I also found a certificate that the War
+#. Department presented to me for my work on the atomic bomb, as well as some
+#. scattered personal notes from the Course that Helen and I had taken out.
+#. There were also some old birthday cards that Helen had written and pictures
+#. of both my parents. It was a review of “This Is Your Life” going back to
+#. the middle 1940s, all jammed in a box. I found my reaction very strange. I
+#. was sad and obviously had resistance to looking. I threw out a lot of it in
+#. preparation for the move. So in cleaning house, I reviewed all the madness
+#. that one accumulates. . . . House cleaning is good, but I have the feeling
+#. that there is something that I don’t want to look at or something is
+#. missing.[2]
+#: paragraph:6,sentence:8
+msgid ""
+"So in cleaning house, I reviewed all the madness that one accumulates. . . ."
+msgstr ""
+"So in cleaning house, I reviewed all the madness that one accumulates. . . ."
+
+#. Context: I found samples of absolutely everything, like reprints of old
+#. papers going back over thirty years and a report I had written when I was
+#. studying brainwashing. . . . I also found a certificate that the War
+#. Department presented to me for my work on the atomic bomb, as well as some
+#. scattered personal notes from the Course that Helen and I had taken out.
+#. There were also some old birthday cards that Helen had written and pictures
+#. of both my parents. It was a review of “This Is Your Life” going back to
+#. the middle 1940s, all jammed in a box. I found my reaction very strange. I
+#. was sad and obviously had resistance to looking. I threw out a lot of it in
+#. preparation for the move. So in cleaning house, I reviewed all the madness
+#. that one accumulates. . . . House cleaning is good, but I have the feeling
+#. that there is something that I don’t want to look at or something is
+#. missing.[2]
+#: paragraph:6,sentence:9
+msgid ""
+"House cleaning is good, but I have the feeling that there is something that "
+"I don’t want to look at or something is missing.[2]"
+msgstr ""
+"House cleaning is good, but I have the feeling that there is something that "
+"I don’t want to look at or something is missing.[2]"
+
+#. Context: In his relationship with Pat, Bill would continue that
+#. housecleaning, moving yet another step toward his liberation. Despite all
+#. they had in common and their great admiration for one another, Pat
+#. indicated that “nevertheless, living together did not always go smoothly
+#. for us” and that their time together was “the best of times and the worst
+#. of times, to quote Dickens.”[3] This is exactly what one might expect from
+#. a relationship so important to their mutual growth. I’ve always thought we
+#. learn our lessons with our closest friends, who agree at some level to be
+#. the mirror to our own fears, though at the time it can feel decidedly
+#. unfriendly. The people we live with provide the setup for deep and
+#. essential work, if we choose. Bill followed his own unique path to waking
+#. up as he built and maintained various relationships throughout his life
+#. that delivered exactly what he was willing to deal with at any given
+#. moment. The introduction to the Course text says, “Free will does not mean
+#. that you can establish the curriculum. It means only that you can elect
+#. what you want to take at a given time.”[4] We do have to unlearn our fear
+#. and guilt. We can drag our feet or dedicate ourselves in a cooperative
+#. manner to discovering those beliefs masking as truths. Clearly, Bill and
+#. Pat’s relationship had the same purpose: mutual healing, regardless of
+#. whatever reasons or needs seemed to draw them together. Bob Howe recalled,
+#. “I remember sitting down there in his condominium when Pat was living with
+#. him and they were arguing about which way the toilet paper should be on the
+#. holder. And the paper towels. Each one had their own inner secrecy and you
+#. kinda knew they had their own thoughts, their own way of doing what they
+#. wanted to do, and how they wanted to do it.”[5] They were perfect
+#. companions for the work at hand, and their time together was an essential
+#. part of his curriculum (and hers), a releasing, clearing, and burning away
+#. of old grievances and outworn beliefs. Regarding that curriculum, Pat
+#. reminisces:
+#: paragraph:7,sentence:1
+msgid ""
+"In his relationship with Pat, Bill would continue that housecleaning, moving"
+" yet another step toward his liberation."
+msgstr ""
+"In his relationship with Pat, Bill would continue that housecleaning, moving"
+" yet another step toward his liberation."
+
+#. Context: In his relationship with Pat, Bill would continue that
+#. housecleaning, moving yet another step toward his liberation. Despite all
+#. they had in common and their great admiration for one another, Pat
+#. indicated that “nevertheless, living together did not always go smoothly
+#. for us” and that their time together was “the best of times and the worst
+#. of times, to quote Dickens.”[3] This is exactly what one might expect from
+#. a relationship so important to their mutual growth. I’ve always thought we
+#. learn our lessons with our closest friends, who agree at some level to be
+#. the mirror to our own fears, though at the time it can feel decidedly
+#. unfriendly. The people we live with provide the setup for deep and
+#. essential work, if we choose. Bill followed his own unique path to waking
+#. up as he built and maintained various relationships throughout his life
+#. that delivered exactly what he was willing to deal with at any given
+#. moment. The introduction to the Course text says, “Free will does not mean
+#. that you can establish the curriculum. It means only that you can elect
+#. what you want to take at a given time.”[4] We do have to unlearn our fear
+#. and guilt. We can drag our feet or dedicate ourselves in a cooperative
+#. manner to discovering those beliefs masking as truths. Clearly, Bill and
+#. Pat’s relationship had the same purpose: mutual healing, regardless of
+#. whatever reasons or needs seemed to draw them together. Bob Howe recalled,
+#. “I remember sitting down there in his condominium when Pat was living with
+#. him and they were arguing about which way the toilet paper should be on the
+#. holder. And the paper towels. Each one had their own inner secrecy and you
+#. kinda knew they had their own thoughts, their own way of doing what they
+#. wanted to do, and how they wanted to do it.”[5] They were perfect
+#. companions for the work at hand, and their time together was an essential
+#. part of his curriculum (and hers), a releasing, clearing, and burning away
+#. of old grievances and outworn beliefs. Regarding that curriculum, Pat
+#. reminisces:
+#: paragraph:7,sentence:2
+msgid ""
+"Despite all they had in common and their great admiration for one another, "
+"Pat indicated that “nevertheless, living together did not always go smoothly"
+" for us” and that their time together was “the best of times and the worst "
+"of times, to quote Dickens.”[3] This is exactly what one might expect from a"
+" relationship so important to their mutual growth."
+msgstr ""
+"Despite all they had in common and their great admiration for one another, "
+"Pat indicated that “nevertheless, living together did not always go smoothly"
+" for us” and that their time together was “the best of times and the worst "
+"of times, to quote Dickens.”[3] This is exactly what one might expect from a"
+" relationship so important to their mutual growth."
+
+#. Context: In his relationship with Pat, Bill would continue that
+#. housecleaning, moving yet another step toward his liberation. Despite all
+#. they had in common and their great admiration for one another, Pat
+#. indicated that “nevertheless, living together did not always go smoothly
+#. for us” and that their time together was “the best of times and the worst
+#. of times, to quote Dickens.”[3] This is exactly what one might expect from
+#. a relationship so important to their mutual growth. I’ve always thought we
+#. learn our lessons with our closest friends, who agree at some level to be
+#. the mirror to our own fears, though at the time it can feel decidedly
+#. unfriendly. The people we live with provide the setup for deep and
+#. essential work, if we choose. Bill followed his own unique path to waking
+#. up as he built and maintained various relationships throughout his life
+#. that delivered exactly what he was willing to deal with at any given
+#. moment. The introduction to the Course text says, “Free will does not mean
+#. that you can establish the curriculum. It means only that you can elect
+#. what you want to take at a given time.”[4] We do have to unlearn our fear
+#. and guilt. We can drag our feet or dedicate ourselves in a cooperative
+#. manner to discovering those beliefs masking as truths. Clearly, Bill and
+#. Pat’s relationship had the same purpose: mutual healing, regardless of
+#. whatever reasons or needs seemed to draw them together. Bob Howe recalled,
+#. “I remember sitting down there in his condominium when Pat was living with
+#. him and they were arguing about which way the toilet paper should be on the
+#. holder. And the paper towels. Each one had their own inner secrecy and you
+#. kinda knew they had their own thoughts, their own way of doing what they
+#. wanted to do, and how they wanted to do it.”[5] They were perfect
+#. companions for the work at hand, and their time together was an essential
+#. part of his curriculum (and hers), a releasing, clearing, and burning away
+#. of old grievances and outworn beliefs. Regarding that curriculum, Pat
+#. reminisces:
+#: paragraph:7,sentence:3
+msgid ""
+"I’ve always thought we learn our lessons with our closest friends, who agree"
+" at some level to be the mirror to our own fears, though at the time it can "
+"feel decidedly unfriendly."
+msgstr ""
+"I’ve always thought we learn our lessons with our closest friends, who agree"
+" at some level to be the mirror to our own fears, though at the time it can "
+"feel decidedly unfriendly."
+
+#. Context: In his relationship with Pat, Bill would continue that
+#. housecleaning, moving yet another step toward his liberation. Despite all
+#. they had in common and their great admiration for one another, Pat
+#. indicated that “nevertheless, living together did not always go smoothly
+#. for us” and that their time together was “the best of times and the worst
+#. of times, to quote Dickens.”[3] This is exactly what one might expect from
+#. a relationship so important to their mutual growth. I’ve always thought we
+#. learn our lessons with our closest friends, who agree at some level to be
+#. the mirror to our own fears, though at the time it can feel decidedly
+#. unfriendly. The people we live with provide the setup for deep and
+#. essential work, if we choose. Bill followed his own unique path to waking
+#. up as he built and maintained various relationships throughout his life
+#. that delivered exactly what he was willing to deal with at any given
+#. moment. The introduction to the Course text says, “Free will does not mean
+#. that you can establish the curriculum. It means only that you can elect
+#. what you want to take at a given time.”[4] We do have to unlearn our fear
+#. and guilt. We can drag our feet or dedicate ourselves in a cooperative
+#. manner to discovering those beliefs masking as truths. Clearly, Bill and
+#. Pat’s relationship had the same purpose: mutual healing, regardless of
+#. whatever reasons or needs seemed to draw them together. Bob Howe recalled,
+#. “I remember sitting down there in his condominium when Pat was living with
+#. him and they were arguing about which way the toilet paper should be on the
+#. holder. And the paper towels. Each one had their own inner secrecy and you
+#. kinda knew they had their own thoughts, their own way of doing what they
+#. wanted to do, and how they wanted to do it.”[5] They were perfect
+#. companions for the work at hand, and their time together was an essential
+#. part of his curriculum (and hers), a releasing, clearing, and burning away
+#. of old grievances and outworn beliefs. Regarding that curriculum, Pat
+#. reminisces:
+#: paragraph:7,sentence:4
+msgid ""
+"The people we live with provide the setup for deep and essential work, if we"
+" choose."
+msgstr ""
+"The people we live with provide the setup for deep and essential work, if we"
+" choose."
+
+#. Context: In his relationship with Pat, Bill would continue that
+#. housecleaning, moving yet another step toward his liberation. Despite all
+#. they had in common and their great admiration for one another, Pat
+#. indicated that “nevertheless, living together did not always go smoothly
+#. for us” and that their time together was “the best of times and the worst
+#. of times, to quote Dickens.”[3] This is exactly what one might expect from
+#. a relationship so important to their mutual growth. I’ve always thought we
+#. learn our lessons with our closest friends, who agree at some level to be
+#. the mirror to our own fears, though at the time it can feel decidedly
+#. unfriendly. The people we live with provide the setup for deep and
+#. essential work, if we choose. Bill followed his own unique path to waking
+#. up as he built and maintained various relationships throughout his life
+#. that delivered exactly what he was willing to deal with at any given
+#. moment. The introduction to the Course text says, “Free will does not mean
+#. that you can establish the curriculum. It means only that you can elect
+#. what you want to take at a given time.”[4] We do have to unlearn our fear
+#. and guilt. We can drag our feet or dedicate ourselves in a cooperative
+#. manner to discovering those beliefs masking as truths. Clearly, Bill and
+#. Pat’s relationship had the same purpose: mutual healing, regardless of
+#. whatever reasons or needs seemed to draw them together. Bob Howe recalled,
+#. “I remember sitting down there in his condominium when Pat was living with
+#. him and they were arguing about which way the toilet paper should be on the
+#. holder. And the paper towels. Each one had their own inner secrecy and you
+#. kinda knew they had their own thoughts, their own way of doing what they
+#. wanted to do, and how they wanted to do it.”[5] They were perfect
+#. companions for the work at hand, and their time together was an essential
+#. part of his curriculum (and hers), a releasing, clearing, and burning away
+#. of old grievances and outworn beliefs. Regarding that curriculum, Pat
+#. reminisces:
+#: paragraph:7,sentence:5
+msgid ""
+"Bill followed his own unique path to waking up as he built and maintained "
+"various relationships throughout his life that delivered exactly what he was"
+" willing to deal with at any given moment."
+msgstr ""
+"Bill followed his own unique path to waking up as he built and maintained "
+"various relationships throughout his life that delivered exactly what he was"
+" willing to deal with at any given moment."
+
+#. Context: In his relationship with Pat, Bill would continue that
+#. housecleaning, moving yet another step toward his liberation. Despite all
+#. they had in common and their great admiration for one another, Pat
+#. indicated that “nevertheless, living together did not always go smoothly
+#. for us” and that their time together was “the best of times and the worst
+#. of times, to quote Dickens.”[3] This is exactly what one might expect from
+#. a relationship so important to their mutual growth. I’ve always thought we
+#. learn our lessons with our closest friends, who agree at some level to be
+#. the mirror to our own fears, though at the time it can feel decidedly
+#. unfriendly. The people we live with provide the setup for deep and
+#. essential work, if we choose. Bill followed his own unique path to waking
+#. up as he built and maintained various relationships throughout his life
+#. that delivered exactly what he was willing to deal with at any given
+#. moment. The introduction to the Course text says, “Free will does not mean
+#. that you can establish the curriculum. It means only that you can elect
+#. what you want to take at a given time.”[4] We do have to unlearn our fear
+#. and guilt. We can drag our feet or dedicate ourselves in a cooperative
+#. manner to discovering those beliefs masking as truths. Clearly, Bill and
+#. Pat’s relationship had the same purpose: mutual healing, regardless of
+#. whatever reasons or needs seemed to draw them together. Bob Howe recalled,
+#. “I remember sitting down there in his condominium when Pat was living with
+#. him and they were arguing about which way the toilet paper should be on the
+#. holder. And the paper towels. Each one had their own inner secrecy and you
+#. kinda knew they had their own thoughts, their own way of doing what they
+#. wanted to do, and how they wanted to do it.”[5] They were perfect
+#. companions for the work at hand, and their time together was an essential
+#. part of his curriculum (and hers), a releasing, clearing, and burning away
+#. of old grievances and outworn beliefs. Regarding that curriculum, Pat
+#. reminisces:
+#: paragraph:7,sentence:6
+msgid ""
+"The introduction to the Course text says, “Free will does not mean that you "
+"can establish the curriculum."
+msgstr ""
+"The introduction to the Course text says, “Free will does not mean that you "
+"can establish the curriculum."
+
+#. Context: In his relationship with Pat, Bill would continue that
+#. housecleaning, moving yet another step toward his liberation. Despite all
+#. they had in common and their great admiration for one another, Pat
+#. indicated that “nevertheless, living together did not always go smoothly
+#. for us” and that their time together was “the best of times and the worst
+#. of times, to quote Dickens.”[3] This is exactly what one might expect from
+#. a relationship so important to their mutual growth. I’ve always thought we
+#. learn our lessons with our closest friends, who agree at some level to be
+#. the mirror to our own fears, though at the time it can feel decidedly
+#. unfriendly. The people we live with provide the setup for deep and
+#. essential work, if we choose. Bill followed his own unique path to waking
+#. up as he built and maintained various relationships throughout his life
+#. that delivered exactly what he was willing to deal with at any given
+#. moment. The introduction to the Course text says, “Free will does not mean
+#. that you can establish the curriculum. It means only that you can elect
+#. what you want to take at a given time.”[4] We do have to unlearn our fear
+#. and guilt. We can drag our feet or dedicate ourselves in a cooperative
+#. manner to discovering those beliefs masking as truths. Clearly, Bill and
+#. Pat’s relationship had the same purpose: mutual healing, regardless of
+#. whatever reasons or needs seemed to draw them together. Bob Howe recalled,
+#. “I remember sitting down there in his condominium when Pat was living with
+#. him and they were arguing about which way the toilet paper should be on the
+#. holder. And the paper towels. Each one had their own inner secrecy and you
+#. kinda knew they had their own thoughts, their own way of doing what they
+#. wanted to do, and how they wanted to do it.”[5] They were perfect
+#. companions for the work at hand, and their time together was an essential
+#. part of his curriculum (and hers), a releasing, clearing, and burning away
+#. of old grievances and outworn beliefs. Regarding that curriculum, Pat
+#. reminisces:
+#: paragraph:7,sentence:7
+msgid ""
+"It means only that you can elect what you want to take at a given time.”[4] "
+"We do have to unlearn our fear and guilt."
+msgstr ""
+"It means only that you can elect what you want to take at a given time.”[4] "
+"We do have to unlearn our fear and guilt."
+
+#. Context: In his relationship with Pat, Bill would continue that
+#. housecleaning, moving yet another step toward his liberation. Despite all
+#. they had in common and their great admiration for one another, Pat
+#. indicated that “nevertheless, living together did not always go smoothly
+#. for us” and that their time together was “the best of times and the worst
+#. of times, to quote Dickens.”[3] This is exactly what one might expect from
+#. a relationship so important to their mutual growth. I’ve always thought we
+#. learn our lessons with our closest friends, who agree at some level to be
+#. the mirror to our own fears, though at the time it can feel decidedly
+#. unfriendly. The people we live with provide the setup for deep and
+#. essential work, if we choose. Bill followed his own unique path to waking
+#. up as he built and maintained various relationships throughout his life
+#. that delivered exactly what he was willing to deal with at any given
+#. moment. The introduction to the Course text says, “Free will does not mean
+#. that you can establish the curriculum. It means only that you can elect
+#. what you want to take at a given time.”[4] We do have to unlearn our fear
+#. and guilt. We can drag our feet or dedicate ourselves in a cooperative
+#. manner to discovering those beliefs masking as truths. Clearly, Bill and
+#. Pat’s relationship had the same purpose: mutual healing, regardless of
+#. whatever reasons or needs seemed to draw them together. Bob Howe recalled,
+#. “I remember sitting down there in his condominium when Pat was living with
+#. him and they were arguing about which way the toilet paper should be on the
+#. holder. And the paper towels. Each one had their own inner secrecy and you
+#. kinda knew they had their own thoughts, their own way of doing what they
+#. wanted to do, and how they wanted to do it.”[5] They were perfect
+#. companions for the work at hand, and their time together was an essential
+#. part of his curriculum (and hers), a releasing, clearing, and burning away
+#. of old grievances and outworn beliefs. Regarding that curriculum, Pat
+#. reminisces:
+#: paragraph:7,sentence:8
+msgid ""
+"We can drag our feet or dedicate ourselves in a cooperative manner to "
+"discovering those beliefs masking as truths."
+msgstr ""
+"We can drag our feet or dedicate ourselves in a cooperative manner to "
+"discovering those beliefs masking as truths."
+
+#. Context: In his relationship with Pat, Bill would continue that
+#. housecleaning, moving yet another step toward his liberation. Despite all
+#. they had in common and their great admiration for one another, Pat
+#. indicated that “nevertheless, living together did not always go smoothly
+#. for us” and that their time together was “the best of times and the worst
+#. of times, to quote Dickens.”[3] This is exactly what one might expect from
+#. a relationship so important to their mutual growth. I’ve always thought we
+#. learn our lessons with our closest friends, who agree at some level to be
+#. the mirror to our own fears, though at the time it can feel decidedly
+#. unfriendly. The people we live with provide the setup for deep and
+#. essential work, if we choose. Bill followed his own unique path to waking
+#. up as he built and maintained various relationships throughout his life
+#. that delivered exactly what he was willing to deal with at any given
+#. moment. The introduction to the Course text says, “Free will does not mean
+#. that you can establish the curriculum. It means only that you can elect
+#. what you want to take at a given time.”[4] We do have to unlearn our fear
+#. and guilt. We can drag our feet or dedicate ourselves in a cooperative
+#. manner to discovering those beliefs masking as truths. Clearly, Bill and
+#. Pat’s relationship had the same purpose: mutual healing, regardless of
+#. whatever reasons or needs seemed to draw them together. Bob Howe recalled,
+#. “I remember sitting down there in his condominium when Pat was living with
+#. him and they were arguing about which way the toilet paper should be on the
+#. holder. And the paper towels. Each one had their own inner secrecy and you
+#. kinda knew they had their own thoughts, their own way of doing what they
+#. wanted to do, and how they wanted to do it.”[5] They were perfect
+#. companions for the work at hand, and their time together was an essential
+#. part of his curriculum (and hers), a releasing, clearing, and burning away
+#. of old grievances and outworn beliefs. Regarding that curriculum, Pat
+#. reminisces:
+#: paragraph:7,sentence:9
+msgid ""
+"Clearly, Bill and Pat’s relationship had the same purpose: mutual healing, "
+"regardless of whatever reasons or needs seemed to draw them together."
+msgstr ""
+"Clearly, Bill and Pat’s relationship had the same purpose: mutual healing, "
+"regardless of whatever reasons or needs seemed to draw them together."
+
+#. Context: In his relationship with Pat, Bill would continue that
+#. housecleaning, moving yet another step toward his liberation. Despite all
+#. they had in common and their great admiration for one another, Pat
+#. indicated that “nevertheless, living together did not always go smoothly
+#. for us” and that their time together was “the best of times and the worst
+#. of times, to quote Dickens.”[3] This is exactly what one might expect from
+#. a relationship so important to their mutual growth. I’ve always thought we
+#. learn our lessons with our closest friends, who agree at some level to be
+#. the mirror to our own fears, though at the time it can feel decidedly
+#. unfriendly. The people we live with provide the setup for deep and
+#. essential work, if we choose. Bill followed his own unique path to waking
+#. up as he built and maintained various relationships throughout his life
+#. that delivered exactly what he was willing to deal with at any given
+#. moment. The introduction to the Course text says, “Free will does not mean
+#. that you can establish the curriculum. It means only that you can elect
+#. what you want to take at a given time.”[4] We do have to unlearn our fear
+#. and guilt. We can drag our feet or dedicate ourselves in a cooperative
+#. manner to discovering those beliefs masking as truths. Clearly, Bill and
+#. Pat’s relationship had the same purpose: mutual healing, regardless of
+#. whatever reasons or needs seemed to draw them together. Bob Howe recalled,
+#. “I remember sitting down there in his condominium when Pat was living with
+#. him and they were arguing about which way the toilet paper should be on the
+#. holder. And the paper towels. Each one had their own inner secrecy and you
+#. kinda knew they had their own thoughts, their own way of doing what they
+#. wanted to do, and how they wanted to do it.”[5] They were perfect
+#. companions for the work at hand, and their time together was an essential
+#. part of his curriculum (and hers), a releasing, clearing, and burning away
+#. of old grievances and outworn beliefs. Regarding that curriculum, Pat
+#. reminisces:
+#: paragraph:7,sentence:10
+msgid ""
+"Bob Howe recalled, “I remember sitting down there in his condominium when "
+"Pat was living with him and they were arguing about which way the toilet "
+"paper should be on the holder. And the paper towels."
+msgstr ""
+"Bob Howe recalled, “I remember sitting down there in his condominium when "
+"Pat was living with him and they were arguing about which way the toilet "
+"paper should be on the holder. And the paper towels."
+
+#. Context: In his relationship with Pat, Bill would continue that
+#. housecleaning, moving yet another step toward his liberation. Despite all
+#. they had in common and their great admiration for one another, Pat
+#. indicated that “nevertheless, living together did not always go smoothly
+#. for us” and that their time together was “the best of times and the worst
+#. of times, to quote Dickens.”[3] This is exactly what one might expect from
+#. a relationship so important to their mutual growth. I’ve always thought we
+#. learn our lessons with our closest friends, who agree at some level to be
+#. the mirror to our own fears, though at the time it can feel decidedly
+#. unfriendly. The people we live with provide the setup for deep and
+#. essential work, if we choose. Bill followed his own unique path to waking
+#. up as he built and maintained various relationships throughout his life
+#. that delivered exactly what he was willing to deal with at any given
+#. moment. The introduction to the Course text says, “Free will does not mean
+#. that you can establish the curriculum. It means only that you can elect
+#. what you want to take at a given time.”[4] We do have to unlearn our fear
+#. and guilt. We can drag our feet or dedicate ourselves in a cooperative
+#. manner to discovering those beliefs masking as truths. Clearly, Bill and
+#. Pat’s relationship had the same purpose: mutual healing, regardless of
+#. whatever reasons or needs seemed to draw them together. Bob Howe recalled,
+#. “I remember sitting down there in his condominium when Pat was living with
+#. him and they were arguing about which way the toilet paper should be on the
+#. holder. And the paper towels. Each one had their own inner secrecy and you
+#. kinda knew they had their own thoughts, their own way of doing what they
+#. wanted to do, and how they wanted to do it.”[5] They were perfect
+#. companions for the work at hand, and their time together was an essential
+#. part of his curriculum (and hers), a releasing, clearing, and burning away
+#. of old grievances and outworn beliefs. Regarding that curriculum, Pat
+#. reminisces:
+#: paragraph:7,sentence:11
+msgid ""
+"Each one had their own inner secrecy and you kinda knew they had their own "
+"thoughts, their own way of doing what they wanted to do, and how they wanted"
+" to do it.”[5] They were perfect companions for the work at hand, and their "
+"time together was an essential part of his curriculum (and hers), a "
+"releasing, clearing, and burning away of old grievances and outworn beliefs."
+msgstr ""
+"Each one had their own inner secrecy and you kinda knew they had their own "
+"thoughts, their own way of doing what they wanted to do, and how they wanted"
+" to do it.”[5] They were perfect companions for the work at hand, and their "
+"time together was an essential part of his curriculum (and hers), a "
+"releasing, clearing, and burning away of old grievances and outworn beliefs."
+
+#. Context: In his relationship with Pat, Bill would continue that
+#. housecleaning, moving yet another step toward his liberation. Despite all
+#. they had in common and their great admiration for one another, Pat
+#. indicated that “nevertheless, living together did not always go smoothly
+#. for us” and that their time together was “the best of times and the worst
+#. of times, to quote Dickens.”[3] This is exactly what one might expect from
+#. a relationship so important to their mutual growth. I’ve always thought we
+#. learn our lessons with our closest friends, who agree at some level to be
+#. the mirror to our own fears, though at the time it can feel decidedly
+#. unfriendly. The people we live with provide the setup for deep and
+#. essential work, if we choose. Bill followed his own unique path to waking
+#. up as he built and maintained various relationships throughout his life
+#. that delivered exactly what he was willing to deal with at any given
+#. moment. The introduction to the Course text says, “Free will does not mean
+#. that you can establish the curriculum. It means only that you can elect
+#. what you want to take at a given time.”[4] We do have to unlearn our fear
+#. and guilt. We can drag our feet or dedicate ourselves in a cooperative
+#. manner to discovering those beliefs masking as truths. Clearly, Bill and
+#. Pat’s relationship had the same purpose: mutual healing, regardless of
+#. whatever reasons or needs seemed to draw them together. Bob Howe recalled,
+#. “I remember sitting down there in his condominium when Pat was living with
+#. him and they were arguing about which way the toilet paper should be on the
+#. holder. And the paper towels. Each one had their own inner secrecy and you
+#. kinda knew they had their own thoughts, their own way of doing what they
+#. wanted to do, and how they wanted to do it.”[5] They were perfect
+#. companions for the work at hand, and their time together was an essential
+#. part of his curriculum (and hers), a releasing, clearing, and burning away
+#. of old grievances and outworn beliefs. Regarding that curriculum, Pat
+#. reminisces:
+#: paragraph:7,sentence:12
+msgid "Regarding that curriculum, Pat reminisces:"
+msgstr "Regarding that curriculum, Pat reminisces:"
+
+#. Context: As the surviving co-scribe of the Course, I believe Bill felt an
+#. enormous responsibility, I would almost call it a burden, to be both
+#. modest, which was his nature, and to do everything he could to live and
+#. exemplify it. I still feel that Bill felt very strongly that he was holding
+#. the iconic, the symbolic, essence of the Course after Helen died. While he
+#. did extraordinarily well with not being inflated by those projections, I
+#. think he still felt them. At times, I felt this cost him enormously in
+#. terms of his own personal life; he was very divided between a fulfilled
+#. personal life and what he felt he needed to be for the Course, putting
+#. certain constraints on our relationship, as well.
+#: paragraph:8,sentence:1
+msgid ""
+"As the surviving co-scribe of the Course, I believe Bill felt an enormous "
+"responsibility, I would almost call it a burden, to be both modest, which "
+"was his nature, and to do everything he could to live and exemplify it."
+msgstr ""
+"As the surviving co-scribe of the Course, I believe Bill felt an enormous "
+"responsibility, I would almost call it a burden, to be both modest, which "
+"was his nature, and to do everything he could to live and exemplify it."
+
+#. Context: As the surviving co-scribe of the Course, I believe Bill felt an
+#. enormous responsibility, I would almost call it a burden, to be both
+#. modest, which was his nature, and to do everything he could to live and
+#. exemplify it. I still feel that Bill felt very strongly that he was holding
+#. the iconic, the symbolic, essence of the Course after Helen died. While he
+#. did extraordinarily well with not being inflated by those projections, I
+#. think he still felt them. At times, I felt this cost him enormously in
+#. terms of his own personal life; he was very divided between a fulfilled
+#. personal life and what he felt he needed to be for the Course, putting
+#. certain constraints on our relationship, as well.
+#: paragraph:8,sentence:2
+msgid ""
+"I still feel that Bill felt very strongly that he was holding the iconic, "
+"the symbolic, essence of the Course after Helen died."
+msgstr ""
+"I still feel that Bill felt very strongly that he was holding the iconic, "
+"the symbolic, essence of the Course after Helen died."
+
+#. Context: As the surviving co-scribe of the Course, I believe Bill felt an
+#. enormous responsibility, I would almost call it a burden, to be both
+#. modest, which was his nature, and to do everything he could to live and
+#. exemplify it. I still feel that Bill felt very strongly that he was holding
+#. the iconic, the symbolic, essence of the Course after Helen died. While he
+#. did extraordinarily well with not being inflated by those projections, I
+#. think he still felt them. At times, I felt this cost him enormously in
+#. terms of his own personal life; he was very divided between a fulfilled
+#. personal life and what he felt he needed to be for the Course, putting
+#. certain constraints on our relationship, as well.
+#: paragraph:8,sentence:3
+msgid ""
+"While he did extraordinarily well with not being inflated by those "
+"projections, I think he still felt them."
+msgstr ""
+"While he did extraordinarily well with not being inflated by those "
+"projections, I think he still felt them."
+
+#. Context: As the surviving co-scribe of the Course, I believe Bill felt an
+#. enormous responsibility, I would almost call it a burden, to be both
+#. modest, which was his nature, and to do everything he could to live and
+#. exemplify it. I still feel that Bill felt very strongly that he was holding
+#. the iconic, the symbolic, essence of the Course after Helen died. While he
+#. did extraordinarily well with not being inflated by those projections, I
+#. think he still felt them. At times, I felt this cost him enormously in
+#. terms of his own personal life; he was very divided between a fulfilled
+#. personal life and what he felt he needed to be for the Course, putting
+#. certain constraints on our relationship, as well.
+#: paragraph:8,sentence:4
+msgid ""
+"At times, I felt this cost him enormously in terms of his own personal life;"
+" he was very divided between a fulfilled personal life and what he felt he "
+"needed to be for the Course, putting certain constraints on our "
+"relationship, as well."
+msgstr ""
+"At times, I felt this cost him enormously in terms of his own personal life;"
+" he was very divided between a fulfilled personal life and what he felt he "
+"needed to be for the Course, putting certain constraints on our "
+"relationship, as well."
+
+#. Context: It is hard to know, however, whether this sense of constraint I
+#. felt came solely from Bill’s desire not to compromise the Course in any
+#. way, or from the guardedness he felt compelled to maintain most of his life
+#. about his homosexuality.[6]
+#: paragraph:9,sentence:1
+msgid ""
+"It is hard to know, however, whether this sense of constraint I felt came "
+"solely from Bill’s desire not to compromise the Course in any way, or from "
+"the guardedness he felt compelled to maintain most of his life about his "
+"homosexuality.[6]"
+msgstr ""
+"It is hard to know, however, whether this sense of constraint I felt came "
+"solely from Bill’s desire not to compromise the Course in any way, or from "
+"the guardedness he felt compelled to maintain most of his life about his "
+"homosexuality.[6]"
+
+#. Context: I believe that beyond guardedness about being gay and resistance
+#. to the iconic role he felt he should fill, Bill simply had an internal
+#. sense of constraint from birth. Jaison Kayn picked up on that when he
+#. visited Pat and Bill shortly after they had moved in together:
+#: paragraph:10,sentence:1
+msgid ""
+"I believe that beyond guardedness about being gay and resistance to the "
+"iconic role he felt he should fill, Bill simply had an internal sense of "
+"constraint from birth."
+msgstr ""
+"I believe that beyond guardedness about being gay and resistance to the "
+"iconic role he felt he should fill, Bill simply had an internal sense of "
+"constraint from birth."
+
+#. Context: I believe that beyond guardedness about being gay and resistance
+#. to the iconic role he felt he should fill, Bill simply had an internal
+#. sense of constraint from birth. Jaison Kayn picked up on that when he
+#. visited Pat and Bill shortly after they had moved in together:
+#: paragraph:10,sentence:2
+msgid ""
+"Jaison Kayn picked up on that when he visited Pat and Bill shortly after "
+"they had moved in together:"
+msgstr ""
+"Jaison Kayn picked up on that when he visited Pat and Bill shortly after "
+"they had moved in together:"
+
+#. Context: The only time I ever saw Bill a little nonplussed was when I went
+#. to see them just after they started living together. Pat and Bill were
+#. standing in the kitchen of his apartment and I was close by in the adjacent
+#. dining nook. All of a sudden the room was filled with soft rose-pink
+#. energy. I saw it everywhere and felt it inside myself, as well. It was
+#. astounding! Fortunately, I had had an experience of this just the week
+#. before and knew what it meant. It was the presence of love urging us to
+#. open to expansion. Before I could stop myself, I felt the energy move me
+#. into the room and open my mouth. I started telling Bill to trust getting
+#. closer to Pat, which for me was—well, I never say things like that. I could
+#. feel this sweet rose-energy presence saying to them, “You have something
+#. important to do together.” Bill was clearly nervous and upset. I think he
+#. felt inadequate and overwhelmed, but I could tell that he knew he was being
+#. given a gift he could trust. It was about their hearts joining. It was
+#. clear that their hearts were on the verge of joining into some remarkable
+#. commitment that neither of them had experienced before. I don’t know if he
+#. saw the energy, too, but I certainly felt it and Pat seemed grateful
+#. because she knew. Her heart was ready to give him whatever she possibly
+#. could. For Bill, it was like asking a person to step off the curb blindly,
+#. knowing that rush-hour traffic was about to begin, yet also knowing the
+#. danger he felt was his own fear and that he would somehow be okay.[7]
+#: paragraph:11,sentence:1
+msgid ""
+"The only time I ever saw Bill a little nonplussed was when I went to see "
+"them just after they started living together."
+msgstr ""
+"The only time I ever saw Bill a little nonplussed was when I went to see "
+"them just after they started living together."
+
+#. Context: The only time I ever saw Bill a little nonplussed was when I went
+#. to see them just after they started living together. Pat and Bill were
+#. standing in the kitchen of his apartment and I was close by in the adjacent
+#. dining nook. All of a sudden the room was filled with soft rose-pink
+#. energy. I saw it everywhere and felt it inside myself, as well. It was
+#. astounding! Fortunately, I had had an experience of this just the week
+#. before and knew what it meant. It was the presence of love urging us to
+#. open to expansion. Before I could stop myself, I felt the energy move me
+#. into the room and open my mouth. I started telling Bill to trust getting
+#. closer to Pat, which for me was—well, I never say things like that. I could
+#. feel this sweet rose-energy presence saying to them, “You have something
+#. important to do together.” Bill was clearly nervous and upset. I think he
+#. felt inadequate and overwhelmed, but I could tell that he knew he was being
+#. given a gift he could trust. It was about their hearts joining. It was
+#. clear that their hearts were on the verge of joining into some remarkable
+#. commitment that neither of them had experienced before. I don’t know if he
+#. saw the energy, too, but I certainly felt it and Pat seemed grateful
+#. because she knew. Her heart was ready to give him whatever she possibly
+#. could. For Bill, it was like asking a person to step off the curb blindly,
+#. knowing that rush-hour traffic was about to begin, yet also knowing the
+#. danger he felt was his own fear and that he would somehow be okay.[7]
+#: paragraph:11,sentence:2
+msgid ""
+"Pat and Bill were standing in the kitchen of his apartment and I was close "
+"by in the adjacent dining nook."
+msgstr ""
+"Pat and Bill were standing in the kitchen of his apartment and I was close "
+"by in the adjacent dining nook."
+
+#. Context: The only time I ever saw Bill a little nonplussed was when I went
+#. to see them just after they started living together. Pat and Bill were
+#. standing in the kitchen of his apartment and I was close by in the adjacent
+#. dining nook. All of a sudden the room was filled with soft rose-pink
+#. energy. I saw it everywhere and felt it inside myself, as well. It was
+#. astounding! Fortunately, I had had an experience of this just the week
+#. before and knew what it meant. It was the presence of love urging us to
+#. open to expansion. Before I could stop myself, I felt the energy move me
+#. into the room and open my mouth. I started telling Bill to trust getting
+#. closer to Pat, which for me was—well, I never say things like that. I could
+#. feel this sweet rose-energy presence saying to them, “You have something
+#. important to do together.” Bill was clearly nervous and upset. I think he
+#. felt inadequate and overwhelmed, but I could tell that he knew he was being
+#. given a gift he could trust. It was about their hearts joining. It was
+#. clear that their hearts were on the verge of joining into some remarkable
+#. commitment that neither of them had experienced before. I don’t know if he
+#. saw the energy, too, but I certainly felt it and Pat seemed grateful
+#. because she knew. Her heart was ready to give him whatever she possibly
+#. could. For Bill, it was like asking a person to step off the curb blindly,
+#. knowing that rush-hour traffic was about to begin, yet also knowing the
+#. danger he felt was his own fear and that he would somehow be okay.[7]
+#: paragraph:11,sentence:3
+msgid "All of a sudden the room was filled with soft rose-pink energy."
+msgstr "All of a sudden the room was filled with soft rose-pink energy."
+
+#. Context: The only time I ever saw Bill a little nonplussed was when I went
+#. to see them just after they started living together. Pat and Bill were
+#. standing in the kitchen of his apartment and I was close by in the adjacent
+#. dining nook. All of a sudden the room was filled with soft rose-pink
+#. energy. I saw it everywhere and felt it inside myself, as well. It was
+#. astounding! Fortunately, I had had an experience of this just the week
+#. before and knew what it meant. It was the presence of love urging us to
+#. open to expansion. Before I could stop myself, I felt the energy move me
+#. into the room and open my mouth. I started telling Bill to trust getting
+#. closer to Pat, which for me was—well, I never say things like that. I could
+#. feel this sweet rose-energy presence saying to them, “You have something
+#. important to do together.” Bill was clearly nervous and upset. I think he
+#. felt inadequate and overwhelmed, but I could tell that he knew he was being
+#. given a gift he could trust. It was about their hearts joining. It was
+#. clear that their hearts were on the verge of joining into some remarkable
+#. commitment that neither of them had experienced before. I don’t know if he
+#. saw the energy, too, but I certainly felt it and Pat seemed grateful
+#. because she knew. Her heart was ready to give him whatever she possibly
+#. could. For Bill, it was like asking a person to step off the curb blindly,
+#. knowing that rush-hour traffic was about to begin, yet also knowing the
+#. danger he felt was his own fear and that he would somehow be okay.[7]
+#: paragraph:11,sentence:4
+msgid ""
+"I saw it everywhere and felt it inside myself, as well. It was astounding!"
+msgstr ""
+"I saw it everywhere and felt it inside myself, as well. It was astounding!"
+
+#. Context: The only time I ever saw Bill a little nonplussed was when I went
+#. to see them just after they started living together. Pat and Bill were
+#. standing in the kitchen of his apartment and I was close by in the adjacent
+#. dining nook. All of a sudden the room was filled with soft rose-pink
+#. energy. I saw it everywhere and felt it inside myself, as well. It was
+#. astounding! Fortunately, I had had an experience of this just the week
+#. before and knew what it meant. It was the presence of love urging us to
+#. open to expansion. Before I could stop myself, I felt the energy move me
+#. into the room and open my mouth. I started telling Bill to trust getting
+#. closer to Pat, which for me was—well, I never say things like that. I could
+#. feel this sweet rose-energy presence saying to them, “You have something
+#. important to do together.” Bill was clearly nervous and upset. I think he
+#. felt inadequate and overwhelmed, but I could tell that he knew he was being
+#. given a gift he could trust. It was about their hearts joining. It was
+#. clear that their hearts were on the verge of joining into some remarkable
+#. commitment that neither of them had experienced before. I don’t know if he
+#. saw the energy, too, but I certainly felt it and Pat seemed grateful
+#. because she knew. Her heart was ready to give him whatever she possibly
+#. could. For Bill, it was like asking a person to step off the curb blindly,
+#. knowing that rush-hour traffic was about to begin, yet also knowing the
+#. danger he felt was his own fear and that he would somehow be okay.[7]
+#: paragraph:11,sentence:5
+msgid ""
+"Fortunately, I had had an experience of this just the week before and knew "
+"what it meant."
+msgstr ""
+"Fortunately, I had had an experience of this just the week before and knew "
+"what it meant."
+
+#. Context: The only time I ever saw Bill a little nonplussed was when I went
+#. to see them just after they started living together. Pat and Bill were
+#. standing in the kitchen of his apartment and I was close by in the adjacent
+#. dining nook. All of a sudden the room was filled with soft rose-pink
+#. energy. I saw it everywhere and felt it inside myself, as well. It was
+#. astounding! Fortunately, I had had an experience of this just the week
+#. before and knew what it meant. It was the presence of love urging us to
+#. open to expansion. Before I could stop myself, I felt the energy move me
+#. into the room and open my mouth. I started telling Bill to trust getting
+#. closer to Pat, which for me was—well, I never say things like that. I could
+#. feel this sweet rose-energy presence saying to them, “You have something
+#. important to do together.” Bill was clearly nervous and upset. I think he
+#. felt inadequate and overwhelmed, but I could tell that he knew he was being
+#. given a gift he could trust. It was about their hearts joining. It was
+#. clear that their hearts were on the verge of joining into some remarkable
+#. commitment that neither of them had experienced before. I don’t know if he
+#. saw the energy, too, but I certainly felt it and Pat seemed grateful
+#. because she knew. Her heart was ready to give him whatever she possibly
+#. could. For Bill, it was like asking a person to step off the curb blindly,
+#. knowing that rush-hour traffic was about to begin, yet also knowing the
+#. danger he felt was his own fear and that he would somehow be okay.[7]
+#: paragraph:11,sentence:6
+msgid "It was the presence of love urging us to open to expansion."
+msgstr "It was the presence of love urging us to open to expansion."
+
+#. Context: The only time I ever saw Bill a little nonplussed was when I went
+#. to see them just after they started living together. Pat and Bill were
+#. standing in the kitchen of his apartment and I was close by in the adjacent
+#. dining nook. All of a sudden the room was filled with soft rose-pink
+#. energy. I saw it everywhere and felt it inside myself, as well. It was
+#. astounding! Fortunately, I had had an experience of this just the week
+#. before and knew what it meant. It was the presence of love urging us to
+#. open to expansion. Before I could stop myself, I felt the energy move me
+#. into the room and open my mouth. I started telling Bill to trust getting
+#. closer to Pat, which for me was—well, I never say things like that. I could
+#. feel this sweet rose-energy presence saying to them, “You have something
+#. important to do together.” Bill was clearly nervous and upset. I think he
+#. felt inadequate and overwhelmed, but I could tell that he knew he was being
+#. given a gift he could trust. It was about their hearts joining. It was
+#. clear that their hearts were on the verge of joining into some remarkable
+#. commitment that neither of them had experienced before. I don’t know if he
+#. saw the energy, too, but I certainly felt it and Pat seemed grateful
+#. because she knew. Her heart was ready to give him whatever she possibly
+#. could. For Bill, it was like asking a person to step off the curb blindly,
+#. knowing that rush-hour traffic was about to begin, yet also knowing the
+#. danger he felt was his own fear and that he would somehow be okay.[7]
+#: paragraph:11,sentence:7
+msgid ""
+"Before I could stop myself, I felt the energy move me into the room and open"
+" my mouth."
+msgstr ""
+"Before I could stop myself, I felt the energy move me into the room and open"
+" my mouth."
+
+#. Context: The only time I ever saw Bill a little nonplussed was when I went
+#. to see them just after they started living together. Pat and Bill were
+#. standing in the kitchen of his apartment and I was close by in the adjacent
+#. dining nook. All of a sudden the room was filled with soft rose-pink
+#. energy. I saw it everywhere and felt it inside myself, as well. It was
+#. astounding! Fortunately, I had had an experience of this just the week
+#. before and knew what it meant. It was the presence of love urging us to
+#. open to expansion. Before I could stop myself, I felt the energy move me
+#. into the room and open my mouth. I started telling Bill to trust getting
+#. closer to Pat, which for me was—well, I never say things like that. I could
+#. feel this sweet rose-energy presence saying to them, “You have something
+#. important to do together.” Bill was clearly nervous and upset. I think he
+#. felt inadequate and overwhelmed, but I could tell that he knew he was being
+#. given a gift he could trust. It was about their hearts joining. It was
+#. clear that their hearts were on the verge of joining into some remarkable
+#. commitment that neither of them had experienced before. I don’t know if he
+#. saw the energy, too, but I certainly felt it and Pat seemed grateful
+#. because she knew. Her heart was ready to give him whatever she possibly
+#. could. For Bill, it was like asking a person to step off the curb blindly,
+#. knowing that rush-hour traffic was about to begin, yet also knowing the
+#. danger he felt was his own fear and that he would somehow be okay.[7]
+#: paragraph:11,sentence:8
+msgid ""
+"I started telling Bill to trust getting closer to Pat, which for me "
+"was—well, I never say things like that."
+msgstr ""
+"I started telling Bill to trust getting closer to Pat, which for me "
+"was—well, I never say things like that."
+
+#. Context: The only time I ever saw Bill a little nonplussed was when I went
+#. to see them just after they started living together. Pat and Bill were
+#. standing in the kitchen of his apartment and I was close by in the adjacent
+#. dining nook. All of a sudden the room was filled with soft rose-pink
+#. energy. I saw it everywhere and felt it inside myself, as well. It was
+#. astounding! Fortunately, I had had an experience of this just the week
+#. before and knew what it meant. It was the presence of love urging us to
+#. open to expansion. Before I could stop myself, I felt the energy move me
+#. into the room and open my mouth. I started telling Bill to trust getting
+#. closer to Pat, which for me was—well, I never say things like that. I could
+#. feel this sweet rose-energy presence saying to them, “You have something
+#. important to do together.” Bill was clearly nervous and upset. I think he
+#. felt inadequate and overwhelmed, but I could tell that he knew he was being
+#. given a gift he could trust. It was about their hearts joining. It was
+#. clear that their hearts were on the verge of joining into some remarkable
+#. commitment that neither of them had experienced before. I don’t know if he
+#. saw the energy, too, but I certainly felt it and Pat seemed grateful
+#. because she knew. Her heart was ready to give him whatever she possibly
+#. could. For Bill, it was like asking a person to step off the curb blindly,
+#. knowing that rush-hour traffic was about to begin, yet also knowing the
+#. danger he felt was his own fear and that he would somehow be okay.[7]
+#: paragraph:11,sentence:9
+msgid ""
+"I could feel this sweet rose-energy presence saying to them, “You have "
+"something important to do together.” Bill was clearly nervous and upset."
+msgstr ""
+"I could feel this sweet rose-energy presence saying to them, “You have "
+"something important to do together.” Bill was clearly nervous and upset."
+
+#. Context: The only time I ever saw Bill a little nonplussed was when I went
+#. to see them just after they started living together. Pat and Bill were
+#. standing in the kitchen of his apartment and I was close by in the adjacent
+#. dining nook. All of a sudden the room was filled with soft rose-pink
+#. energy. I saw it everywhere and felt it inside myself, as well. It was
+#. astounding! Fortunately, I had had an experience of this just the week
+#. before and knew what it meant. It was the presence of love urging us to
+#. open to expansion. Before I could stop myself, I felt the energy move me
+#. into the room and open my mouth. I started telling Bill to trust getting
+#. closer to Pat, which for me was—well, I never say things like that. I could
+#. feel this sweet rose-energy presence saying to them, “You have something
+#. important to do together.” Bill was clearly nervous and upset. I think he
+#. felt inadequate and overwhelmed, but I could tell that he knew he was being
+#. given a gift he could trust. It was about their hearts joining. It was
+#. clear that their hearts were on the verge of joining into some remarkable
+#. commitment that neither of them had experienced before. I don’t know if he
+#. saw the energy, too, but I certainly felt it and Pat seemed grateful
+#. because she knew. Her heart was ready to give him whatever she possibly
+#. could. For Bill, it was like asking a person to step off the curb blindly,
+#. knowing that rush-hour traffic was about to begin, yet also knowing the
+#. danger he felt was his own fear and that he would somehow be okay.[7]
+#: paragraph:11,sentence:10
+msgid ""
+"I think he felt inadequate and overwhelmed, but I could tell that he knew he"
+" was being given a gift he could trust."
+msgstr ""
+"I think he felt inadequate and overwhelmed, but I could tell that he knew he"
+" was being given a gift he could trust."
+
+#. Context: The only time I ever saw Bill a little nonplussed was when I went
+#. to see them just after they started living together. Pat and Bill were
+#. standing in the kitchen of his apartment and I was close by in the adjacent
+#. dining nook. All of a sudden the room was filled with soft rose-pink
+#. energy. I saw it everywhere and felt it inside myself, as well. It was
+#. astounding! Fortunately, I had had an experience of this just the week
+#. before and knew what it meant. It was the presence of love urging us to
+#. open to expansion. Before I could stop myself, I felt the energy move me
+#. into the room and open my mouth. I started telling Bill to trust getting
+#. closer to Pat, which for me was—well, I never say things like that. I could
+#. feel this sweet rose-energy presence saying to them, “You have something
+#. important to do together.” Bill was clearly nervous and upset. I think he
+#. felt inadequate and overwhelmed, but I could tell that he knew he was being
+#. given a gift he could trust. It was about their hearts joining. It was
+#. clear that their hearts were on the verge of joining into some remarkable
+#. commitment that neither of them had experienced before. I don’t know if he
+#. saw the energy, too, but I certainly felt it and Pat seemed grateful
+#. because she knew. Her heart was ready to give him whatever she possibly
+#. could. For Bill, it was like asking a person to step off the curb blindly,
+#. knowing that rush-hour traffic was about to begin, yet also knowing the
+#. danger he felt was his own fear and that he would somehow be okay.[7]
+#: paragraph:11,sentence:11
+msgid "It was about their hearts joining."
+msgstr "It was about their hearts joining."
+
+#. Context: The only time I ever saw Bill a little nonplussed was when I went
+#. to see them just after they started living together. Pat and Bill were
+#. standing in the kitchen of his apartment and I was close by in the adjacent
+#. dining nook. All of a sudden the room was filled with soft rose-pink
+#. energy. I saw it everywhere and felt it inside myself, as well. It was
+#. astounding! Fortunately, I had had an experience of this just the week
+#. before and knew what it meant. It was the presence of love urging us to
+#. open to expansion. Before I could stop myself, I felt the energy move me
+#. into the room and open my mouth. I started telling Bill to trust getting
+#. closer to Pat, which for me was—well, I never say things like that. I could
+#. feel this sweet rose-energy presence saying to them, “You have something
+#. important to do together.” Bill was clearly nervous and upset. I think he
+#. felt inadequate and overwhelmed, but I could tell that he knew he was being
+#. given a gift he could trust. It was about their hearts joining. It was
+#. clear that their hearts were on the verge of joining into some remarkable
+#. commitment that neither of them had experienced before. I don’t know if he
+#. saw the energy, too, but I certainly felt it and Pat seemed grateful
+#. because she knew. Her heart was ready to give him whatever she possibly
+#. could. For Bill, it was like asking a person to step off the curb blindly,
+#. knowing that rush-hour traffic was about to begin, yet also knowing the
+#. danger he felt was his own fear and that he would somehow be okay.[7]
+#: paragraph:11,sentence:12
+msgid ""
+"It was clear that their hearts were on the verge of joining into some "
+"remarkable commitment that neither of them had experienced before."
+msgstr ""
+"It was clear that their hearts were on the verge of joining into some "
+"remarkable commitment that neither of them had experienced before."
+
+#. Context: The only time I ever saw Bill a little nonplussed was when I went
+#. to see them just after they started living together. Pat and Bill were
+#. standing in the kitchen of his apartment and I was close by in the adjacent
+#. dining nook. All of a sudden the room was filled with soft rose-pink
+#. energy. I saw it everywhere and felt it inside myself, as well. It was
+#. astounding! Fortunately, I had had an experience of this just the week
+#. before and knew what it meant. It was the presence of love urging us to
+#. open to expansion. Before I could stop myself, I felt the energy move me
+#. into the room and open my mouth. I started telling Bill to trust getting
+#. closer to Pat, which for me was—well, I never say things like that. I could
+#. feel this sweet rose-energy presence saying to them, “You have something
+#. important to do together.” Bill was clearly nervous and upset. I think he
+#. felt inadequate and overwhelmed, but I could tell that he knew he was being
+#. given a gift he could trust. It was about their hearts joining. It was
+#. clear that their hearts were on the verge of joining into some remarkable
+#. commitment that neither of them had experienced before. I don’t know if he
+#. saw the energy, too, but I certainly felt it and Pat seemed grateful
+#. because she knew. Her heart was ready to give him whatever she possibly
+#. could. For Bill, it was like asking a person to step off the curb blindly,
+#. knowing that rush-hour traffic was about to begin, yet also knowing the
+#. danger he felt was his own fear and that he would somehow be okay.[7]
+#: paragraph:11,sentence:13
+msgid ""
+"I don’t know if he saw the energy, too, but I certainly felt it and Pat "
+"seemed grateful because she knew."
+msgstr ""
+"I don’t know if he saw the energy, too, but I certainly felt it and Pat "
+"seemed grateful because she knew."
+
+#. Context: The only time I ever saw Bill a little nonplussed was when I went
+#. to see them just after they started living together. Pat and Bill were
+#. standing in the kitchen of his apartment and I was close by in the adjacent
+#. dining nook. All of a sudden the room was filled with soft rose-pink
+#. energy. I saw it everywhere and felt it inside myself, as well. It was
+#. astounding! Fortunately, I had had an experience of this just the week
+#. before and knew what it meant. It was the presence of love urging us to
+#. open to expansion. Before I could stop myself, I felt the energy move me
+#. into the room and open my mouth. I started telling Bill to trust getting
+#. closer to Pat, which for me was—well, I never say things like that. I could
+#. feel this sweet rose-energy presence saying to them, “You have something
+#. important to do together.” Bill was clearly nervous and upset. I think he
+#. felt inadequate and overwhelmed, but I could tell that he knew he was being
+#. given a gift he could trust. It was about their hearts joining. It was
+#. clear that their hearts were on the verge of joining into some remarkable
+#. commitment that neither of them had experienced before. I don’t know if he
+#. saw the energy, too, but I certainly felt it and Pat seemed grateful
+#. because she knew. Her heart was ready to give him whatever she possibly
+#. could. For Bill, it was like asking a person to step off the curb blindly,
+#. knowing that rush-hour traffic was about to begin, yet also knowing the
+#. danger he felt was his own fear and that he would somehow be okay.[7]
+#: paragraph:11,sentence:14
+msgid "Her heart was ready to give him whatever she possibly could."
+msgstr "Her heart was ready to give him whatever she possibly could."
+
+#. Context: The only time I ever saw Bill a little nonplussed was when I went
+#. to see them just after they started living together. Pat and Bill were
+#. standing in the kitchen of his apartment and I was close by in the adjacent
+#. dining nook. All of a sudden the room was filled with soft rose-pink
+#. energy. I saw it everywhere and felt it inside myself, as well. It was
+#. astounding! Fortunately, I had had an experience of this just the week
+#. before and knew what it meant. It was the presence of love urging us to
+#. open to expansion. Before I could stop myself, I felt the energy move me
+#. into the room and open my mouth. I started telling Bill to trust getting
+#. closer to Pat, which for me was—well, I never say things like that. I could
+#. feel this sweet rose-energy presence saying to them, “You have something
+#. important to do together.” Bill was clearly nervous and upset. I think he
+#. felt inadequate and overwhelmed, but I could tell that he knew he was being
+#. given a gift he could trust. It was about their hearts joining. It was
+#. clear that their hearts were on the verge of joining into some remarkable
+#. commitment that neither of them had experienced before. I don’t know if he
+#. saw the energy, too, but I certainly felt it and Pat seemed grateful
+#. because she knew. Her heart was ready to give him whatever she possibly
+#. could. For Bill, it was like asking a person to step off the curb blindly,
+#. knowing that rush-hour traffic was about to begin, yet also knowing the
+#. danger he felt was his own fear and that he would somehow be okay.[7]
+#: paragraph:11,sentence:15
+msgid ""
+"For Bill, it was like asking a person to step off the curb blindly, knowing "
+"that rush-hour traffic was about to begin, yet also knowing the danger he "
+"felt was his own fear and that he would somehow be okay.[7]"
+msgstr ""
+"For Bill, it was like asking a person to step off the curb blindly, knowing "
+"that rush-hour traffic was about to begin, yet also knowing the danger he "
+"felt was his own fear and that he would somehow be okay.[7]"
+
+#. Context: Robert Rosenthal speaks for many in seeing their relationship as
+#. imperative to Bill’s stepping forward.
+#: paragraph:12,sentence:1
+msgid ""
+"Robert Rosenthal speaks for many in seeing their relationship as imperative "
+"to Bill’s stepping forward."
+msgstr ""
+"Robert Rosenthal speaks for many in seeing their relationship as imperative "
+"to Bill’s stepping forward."
+
+#. Context: I think when Pat Hopkins moved in with him, that was Bill’s
+#. attempt, at a deep psychological and even psycho-spiritual level, to move
+#. through his grief. And maybe not just the grief from Helen, though that was
+#. the most significant, but a deeper, lifetimes-long grief. . . .
+#: paragraph:13,sentence:1
+msgid ""
+"I think when Pat Hopkins moved in with him, that was Bill’s attempt, at a "
+"deep psychological and even psycho-spiritual level, to move through his "
+"grief."
+msgstr ""
+"I think when Pat Hopkins moved in with him, that was Bill’s attempt, at a "
+"deep psychological and even psycho-spiritual level, to move through his "
+"grief."
+
+#. Context: I think when Pat Hopkins moved in with him, that was Bill’s
+#. attempt, at a deep psychological and even psycho-spiritual level, to move
+#. through his grief. And maybe not just the grief from Helen, though that was
+#. the most significant, but a deeper, lifetimes-long grief. . . .
+#: paragraph:13,sentence:2
+msgid ""
+"And maybe not just the grief from Helen, though that was the most "
+"significant, but a deeper, lifetimes-long grief. . . ."
+msgstr ""
+"And maybe not just the grief from Helen, though that was the most "
+"significant, but a deeper, lifetimes-long grief. . . ."
+
+#. Context: I think that he and Pat had an old connection, that they had
+#. agreed to come together at that time so she could help him get through his
+#. fear and grief. Bill was the happiest I had ever seen him with Pat, at
+#. least in the beginning. I believe their relationship allowed him to move
+#. beyond his unfulfilled expectations about Helen.[8]
+#: paragraph:14,sentence:1
+msgid ""
+"I think that he and Pat had an old connection, that they had agreed to come "
+"together at that time so she could help him get through his fear and grief."
+msgstr ""
+"I think that he and Pat had an old connection, that they had agreed to come "
+"together at that time so she could help him get through his fear and grief."
+
+#. Context: I think that he and Pat had an old connection, that they had
+#. agreed to come together at that time so she could help him get through his
+#. fear and grief. Bill was the happiest I had ever seen him with Pat, at
+#. least in the beginning. I believe their relationship allowed him to move
+#. beyond his unfulfilled expectations about Helen.[8]
+#: paragraph:14,sentence:2
+msgid ""
+"Bill was the happiest I had ever seen him with Pat, at least in the "
+"beginning."
+msgstr ""
+"Bill was the happiest I had ever seen him with Pat, at least in the "
+"beginning."
+
+#. Context: I think that he and Pat had an old connection, that they had
+#. agreed to come together at that time so she could help him get through his
+#. fear and grief. Bill was the happiest I had ever seen him with Pat, at
+#. least in the beginning. I believe their relationship allowed him to move
+#. beyond his unfulfilled expectations about Helen.[8]
+#: paragraph:14,sentence:3
+msgid ""
+"I believe their relationship allowed him to move beyond his unfulfilled "
+"expectations about Helen.[8]"
+msgstr ""
+"I believe their relationship allowed him to move beyond his unfulfilled "
+"expectations about Helen.[8]"
+
+#. Context: As an interesting aspect of Bill’s multitasking talents, or
+#. perhaps of his “don’t fence me in” proclivity, Bill established new,
+#. significant relationships and maintained others while he and Pat lived
+#. together. About the time Bill and Pat were becoming better acquainted, he
+#. met Carlagaye Olson. They became close friends and their Thursday “play-
+#. days” with Jules were noted earlier in terms of the healing Bill often
+#. seemed to precipitate. Bill and Carlagaye occasionally got together on
+#. weekends, when her husband Steve also joined them. When Catherine Prescott
+#. moved to town in 1984, she and Bill also became very close. At first, he
+#. saw her regularly in her professional therapeutic role, but that ultimately
+#. morphed into a more personal relationship, as well. Bill’s other meaningful
+#. relationships created a win/win situation, as Pat also cherished having her
+#. own space.
+#: paragraph:15,sentence:1
+msgid ""
+"As an interesting aspect of Bill’s multitasking talents, or perhaps of his "
+"“don’t fence me in” proclivity, Bill established new, significant "
+"relationships and maintained others while he and Pat lived together."
+msgstr ""
+"As an interesting aspect of Bill’s multitasking talents, or perhaps of his "
+"“don’t fence me in” proclivity, Bill established new, significant "
+"relationships and maintained others while he and Pat lived together."
+
+#. Context: As an interesting aspect of Bill’s multitasking talents, or
+#. perhaps of his “don’t fence me in” proclivity, Bill established new,
+#. significant relationships and maintained others while he and Pat lived
+#. together. About the time Bill and Pat were becoming better acquainted, he
+#. met Carlagaye Olson. They became close friends and their Thursday “play-
+#. days” with Jules were noted earlier in terms of the healing Bill often
+#. seemed to precipitate. Bill and Carlagaye occasionally got together on
+#. weekends, when her husband Steve also joined them. When Catherine Prescott
+#. moved to town in 1984, she and Bill also became very close. At first, he
+#. saw her regularly in her professional therapeutic role, but that ultimately
+#. morphed into a more personal relationship, as well. Bill’s other meaningful
+#. relationships created a win/win situation, as Pat also cherished having her
+#. own space.
+#: paragraph:15,sentence:2
+msgid ""
+"About the time Bill and Pat were becoming better acquainted, he met "
+"Carlagaye Olson."
+msgstr ""
+"About the time Bill and Pat were becoming better acquainted, he met "
+"Carlagaye Olson."
+
+#. Context: As an interesting aspect of Bill’s multitasking talents, or
+#. perhaps of his “don’t fence me in” proclivity, Bill established new,
+#. significant relationships and maintained others while he and Pat lived
+#. together. About the time Bill and Pat were becoming better acquainted, he
+#. met Carlagaye Olson. They became close friends and their Thursday “play-
+#. days” with Jules were noted earlier in terms of the healing Bill often
+#. seemed to precipitate. Bill and Carlagaye occasionally got together on
+#. weekends, when her husband Steve also joined them. When Catherine Prescott
+#. moved to town in 1984, she and Bill also became very close. At first, he
+#. saw her regularly in her professional therapeutic role, but that ultimately
+#. morphed into a more personal relationship, as well. Bill’s other meaningful
+#. relationships created a win/win situation, as Pat also cherished having her
+#. own space.
+#: paragraph:15,sentence:3
+msgid ""
+"They became close friends and their Thursday “play-days” with Jules were "
+"noted earlier in terms of the healing Bill often seemed to precipitate."
+msgstr ""
+"They became close friends and their Thursday “play-days” with Jules were "
+"noted earlier in terms of the healing Bill often seemed to precipitate."
+
+#. Context: As an interesting aspect of Bill’s multitasking talents, or
+#. perhaps of his “don’t fence me in” proclivity, Bill established new,
+#. significant relationships and maintained others while he and Pat lived
+#. together. About the time Bill and Pat were becoming better acquainted, he
+#. met Carlagaye Olson. They became close friends and their Thursday “play-
+#. days” with Jules were noted earlier in terms of the healing Bill often
+#. seemed to precipitate. Bill and Carlagaye occasionally got together on
+#. weekends, when her husband Steve also joined them. When Catherine Prescott
+#. moved to town in 1984, she and Bill also became very close. At first, he
+#. saw her regularly in her professional therapeutic role, but that ultimately
+#. morphed into a more personal relationship, as well. Bill’s other meaningful
+#. relationships created a win/win situation, as Pat also cherished having her
+#. own space.
+#: paragraph:15,sentence:4
+msgid ""
+"Bill and Carlagaye occasionally got together on weekends, when her husband "
+"Steve also joined them."
+msgstr ""
+"Bill and Carlagaye occasionally got together on weekends, when her husband "
+"Steve also joined them."
+
+#. Context: As an interesting aspect of Bill’s multitasking talents, or
+#. perhaps of his “don’t fence me in” proclivity, Bill established new,
+#. significant relationships and maintained others while he and Pat lived
+#. together. About the time Bill and Pat were becoming better acquainted, he
+#. met Carlagaye Olson. They became close friends and their Thursday “play-
+#. days” with Jules were noted earlier in terms of the healing Bill often
+#. seemed to precipitate. Bill and Carlagaye occasionally got together on
+#. weekends, when her husband Steve also joined them. When Catherine Prescott
+#. moved to town in 1984, she and Bill also became very close. At first, he
+#. saw her regularly in her professional therapeutic role, but that ultimately
+#. morphed into a more personal relationship, as well. Bill’s other meaningful
+#. relationships created a win/win situation, as Pat also cherished having her
+#. own space.
+#: paragraph:15,sentence:5
+msgid ""
+"When Catherine Prescott moved to town in 1984, she and Bill also became very"
+" close."
+msgstr ""
+"When Catherine Prescott moved to town in 1984, she and Bill also became very"
+" close."
+
+#. Context: As an interesting aspect of Bill’s multitasking talents, or
+#. perhaps of his “don’t fence me in” proclivity, Bill established new,
+#. significant relationships and maintained others while he and Pat lived
+#. together. About the time Bill and Pat were becoming better acquainted, he
+#. met Carlagaye Olson. They became close friends and their Thursday “play-
+#. days” with Jules were noted earlier in terms of the healing Bill often
+#. seemed to precipitate. Bill and Carlagaye occasionally got together on
+#. weekends, when her husband Steve also joined them. When Catherine Prescott
+#. moved to town in 1984, she and Bill also became very close. At first, he
+#. saw her regularly in her professional therapeutic role, but that ultimately
+#. morphed into a more personal relationship, as well. Bill’s other meaningful
+#. relationships created a win/win situation, as Pat also cherished having her
+#. own space.
+#: paragraph:15,sentence:6
+msgid ""
+"At first, he saw her regularly in her professional therapeutic role, but "
+"that ultimately morphed into a more personal relationship, as well."
+msgstr ""
+"At first, he saw her regularly in her professional therapeutic role, but "
+"that ultimately morphed into a more personal relationship, as well."
+
+#. Context: As an interesting aspect of Bill’s multitasking talents, or
+#. perhaps of his “don’t fence me in” proclivity, Bill established new,
+#. significant relationships and maintained others while he and Pat lived
+#. together. About the time Bill and Pat were becoming better acquainted, he
+#. met Carlagaye Olson. They became close friends and their Thursday “play-
+#. days” with Jules were noted earlier in terms of the healing Bill often
+#. seemed to precipitate. Bill and Carlagaye occasionally got together on
+#. weekends, when her husband Steve also joined them. When Catherine Prescott
+#. moved to town in 1984, she and Bill also became very close. At first, he
+#. saw her regularly in her professional therapeutic role, but that ultimately
+#. morphed into a more personal relationship, as well. Bill’s other meaningful
+#. relationships created a win/win situation, as Pat also cherished having her
+#. own space.
+#: paragraph:15,sentence:7
+msgid ""
+"Bill’s other meaningful relationships created a win/win situation, as Pat "
+"also cherished having her own space."
+msgstr ""
+"Bill’s other meaningful relationships created a win/win situation, as Pat "
+"also cherished having her own space."
+
+#. Context: Those of us from out of town also maintained our friendships with
+#. Bill. He and I got together on my visits to Tiburon as well as periodically
+#. talking on the phone. His original core group in Tiburon remained central
+#. to his life in California, and his capacity to genuinely care for many
+#. individuals at the same time was very deep and remained to the end of his
+#. life. Bill could be with a person, in love, rather than being “in love”
+#. with a person, and each relationship seemed to foster another important
+#. aspect of his self-discovery.
+#: paragraph:16,sentence:1
+msgid ""
+"Those of us from out of town also maintained our friendships with Bill."
+msgstr ""
+"Those of us from out of town also maintained our friendships with Bill."
+
+#. Context: Those of us from out of town also maintained our friendships with
+#. Bill. He and I got together on my visits to Tiburon as well as periodically
+#. talking on the phone. His original core group in Tiburon remained central
+#. to his life in California, and his capacity to genuinely care for many
+#. individuals at the same time was very deep and remained to the end of his
+#. life. Bill could be with a person, in love, rather than being “in love”
+#. with a person, and each relationship seemed to foster another important
+#. aspect of his self-discovery.
+#: paragraph:16,sentence:2
+msgid ""
+"He and I got together on my visits to Tiburon as well as periodically "
+"talking on the phone."
+msgstr ""
+"He and I got together on my visits to Tiburon as well as periodically "
+"talking on the phone."
+
+#. Context: Those of us from out of town also maintained our friendships with
+#. Bill. He and I got together on my visits to Tiburon as well as periodically
+#. talking on the phone. His original core group in Tiburon remained central
+#. to his life in California, and his capacity to genuinely care for many
+#. individuals at the same time was very deep and remained to the end of his
+#. life. Bill could be with a person, in love, rather than being “in love”
+#. with a person, and each relationship seemed to foster another important
+#. aspect of his self-discovery.
+#: paragraph:16,sentence:3
+msgid ""
+"His original core group in Tiburon remained central to his life in "
+"California, and his capacity to genuinely care for many individuals at the "
+"same time was very deep and remained to the end of his life."
+msgstr ""
+"His original core group in Tiburon remained central to his life in "
+"California, and his capacity to genuinely care for many individuals at the "
+"same time was very deep and remained to the end of his life."
+
+#. Context: Those of us from out of town also maintained our friendships with
+#. Bill. He and I got together on my visits to Tiburon as well as periodically
+#. talking on the phone. His original core group in Tiburon remained central
+#. to his life in California, and his capacity to genuinely care for many
+#. individuals at the same time was very deep and remained to the end of his
+#. life. Bill could be with a person, in love, rather than being “in love”
+#. with a person, and each relationship seemed to foster another important
+#. aspect of his self-discovery.
+#: paragraph:16,sentence:4
+msgid ""
+"Bill could be with a person, in love, rather than being “in love” with a "
+"person, and each relationship seemed to foster another important aspect of "
+"his self-discovery."
+msgstr ""
+"Bill could be with a person, in love, rather than being “in love” with a "
+"person, and each relationship seemed to foster another important aspect of "
+"his self-discovery."
+
+#. Context: As Pat and Bill began their fourth year sharing an apartment, both
+#. were often gone. In 1985, Pat started traveling to do research for the book
+#. she co-authored with Sherry Anderson, The Feminine Face of God, and
+#. ultimately moved into her own apartment in January 1986.[9] Bill was
+#. spending perhaps a third of his time in La Jolla, visiting there from
+#. 1982–1986 on an increasingly regular basis. Several months after they moved
+#. in together, Bill and Pat had gone to La Jolla, and after that Bill made
+#. extended visits, sometimes with Pat and sometimes alone. They had
+#. discovered a quiet, well-run motel, and either he or they stayed in the
+#. same room on each trip. He loved the greater ease of the southern
+#. California lifestyle and established a pattern of going there for at least
+#. three weeks, then returning to Tiburon. After several weeks, he started to
+#. feel a bit lonely and less energized, so he would head back south. He
+#. talked about vacillating between Tiburon and La Jolla, or more humorously,
+#. teetering away from Tiburon and leaning toward La Jolla. Clearly, something
+#. was drawing him there. It would be the last venue for his healing,
+#. representing a major breakthrough—an outward sign of another significant
+#. step in his evolution.
+#: paragraph:17,sentence:1
+msgid ""
+"As Pat and Bill began their fourth year sharing an apartment, both were "
+"often gone."
+msgstr ""
+"As Pat and Bill began their fourth year sharing an apartment, both were "
+"often gone."
+
+#. Context: As Pat and Bill began their fourth year sharing an apartment, both
+#. were often gone. In 1985, Pat started traveling to do research for the book
+#. she co-authored with Sherry Anderson, The Feminine Face of God, and
+#. ultimately moved into her own apartment in January 1986.[9] Bill was
+#. spending perhaps a third of his time in La Jolla, visiting there from
+#. 1982–1986 on an increasingly regular basis. Several months after they moved
+#. in together, Bill and Pat had gone to La Jolla, and after that Bill made
+#. extended visits, sometimes with Pat and sometimes alone. They had
+#. discovered a quiet, well-run motel, and either he or they stayed in the
+#. same room on each trip. He loved the greater ease of the southern
+#. California lifestyle and established a pattern of going there for at least
+#. three weeks, then returning to Tiburon. After several weeks, he started to
+#. feel a bit lonely and less energized, so he would head back south. He
+#. talked about vacillating between Tiburon and La Jolla, or more humorously,
+#. teetering away from Tiburon and leaning toward La Jolla. Clearly, something
+#. was drawing him there. It would be the last venue for his healing,
+#. representing a major breakthrough—an outward sign of another significant
+#. step in his evolution.
+#: paragraph:17,sentence:2
+msgid ""
+"In 1985, Pat started traveling to do research for the book she co-authored "
+"with Sherry Anderson, The Feminine Face of God, and ultimately moved into "
+"her own apartment in January 1986.[9] Bill was spending perhaps a third of "
+"his time in La Jolla, visiting there from 1982–1986 on an increasingly "
+"regular basis."
+msgstr ""
+"In 1985, Pat started traveling to do research for the book she co-authored "
+"with Sherry Anderson, The Feminine Face of God, and ultimately moved into "
+"her own apartment in January 1986.[9] Bill was spending perhaps a third of "
+"his time in La Jolla, visiting there from 1982–1986 on an increasingly "
+"regular basis."
+
+#. Context: As Pat and Bill began their fourth year sharing an apartment, both
+#. were often gone. In 1985, Pat started traveling to do research for the book
+#. she co-authored with Sherry Anderson, The Feminine Face of God, and
+#. ultimately moved into her own apartment in January 1986.[9] Bill was
+#. spending perhaps a third of his time in La Jolla, visiting there from
+#. 1982–1986 on an increasingly regular basis. Several months after they moved
+#. in together, Bill and Pat had gone to La Jolla, and after that Bill made
+#. extended visits, sometimes with Pat and sometimes alone. They had
+#. discovered a quiet, well-run motel, and either he or they stayed in the
+#. same room on each trip. He loved the greater ease of the southern
+#. California lifestyle and established a pattern of going there for at least
+#. three weeks, then returning to Tiburon. After several weeks, he started to
+#. feel a bit lonely and less energized, so he would head back south. He
+#. talked about vacillating between Tiburon and La Jolla, or more humorously,
+#. teetering away from Tiburon and leaning toward La Jolla. Clearly, something
+#. was drawing him there. It would be the last venue for his healing,
+#. representing a major breakthrough—an outward sign of another significant
+#. step in his evolution.
+#: paragraph:17,sentence:3
+msgid ""
+"Several months after they moved in together, Bill and Pat had gone to La "
+"Jolla, and after that Bill made extended visits, sometimes with Pat and "
+"sometimes alone."
+msgstr ""
+"Several months after they moved in together, Bill and Pat had gone to La "
+"Jolla, and after that Bill made extended visits, sometimes with Pat and "
+"sometimes alone."
+
+#. Context: As Pat and Bill began their fourth year sharing an apartment, both
+#. were often gone. In 1985, Pat started traveling to do research for the book
+#. she co-authored with Sherry Anderson, The Feminine Face of God, and
+#. ultimately moved into her own apartment in January 1986.[9] Bill was
+#. spending perhaps a third of his time in La Jolla, visiting there from
+#. 1982–1986 on an increasingly regular basis. Several months after they moved
+#. in together, Bill and Pat had gone to La Jolla, and after that Bill made
+#. extended visits, sometimes with Pat and sometimes alone. They had
+#. discovered a quiet, well-run motel, and either he or they stayed in the
+#. same room on each trip. He loved the greater ease of the southern
+#. California lifestyle and established a pattern of going there for at least
+#. three weeks, then returning to Tiburon. After several weeks, he started to
+#. feel a bit lonely and less energized, so he would head back south. He
+#. talked about vacillating between Tiburon and La Jolla, or more humorously,
+#. teetering away from Tiburon and leaning toward La Jolla. Clearly, something
+#. was drawing him there. It would be the last venue for his healing,
+#. representing a major breakthrough—an outward sign of another significant
+#. step in his evolution.
+#: paragraph:17,sentence:4
+msgid ""
+"They had discovered a quiet, well-run motel, and either he or they stayed in"
+" the same room on each trip."
+msgstr ""
+"They had discovered a quiet, well-run motel, and either he or they stayed in"
+" the same room on each trip."
+
+#. Context: As Pat and Bill began their fourth year sharing an apartment, both
+#. were often gone. In 1985, Pat started traveling to do research for the book
+#. she co-authored with Sherry Anderson, The Feminine Face of God, and
+#. ultimately moved into her own apartment in January 1986.[9] Bill was
+#. spending perhaps a third of his time in La Jolla, visiting there from
+#. 1982–1986 on an increasingly regular basis. Several months after they moved
+#. in together, Bill and Pat had gone to La Jolla, and after that Bill made
+#. extended visits, sometimes with Pat and sometimes alone. They had
+#. discovered a quiet, well-run motel, and either he or they stayed in the
+#. same room on each trip. He loved the greater ease of the southern
+#. California lifestyle and established a pattern of going there for at least
+#. three weeks, then returning to Tiburon. After several weeks, he started to
+#. feel a bit lonely and less energized, so he would head back south. He
+#. talked about vacillating between Tiburon and La Jolla, or more humorously,
+#. teetering away from Tiburon and leaning toward La Jolla. Clearly, something
+#. was drawing him there. It would be the last venue for his healing,
+#. representing a major breakthrough—an outward sign of another significant
+#. step in his evolution.
+#: paragraph:17,sentence:5
+msgid ""
+"He loved the greater ease of the southern California lifestyle and "
+"established a pattern of going there for at least three weeks, then "
+"returning to Tiburon."
+msgstr ""
+"He loved the greater ease of the southern California lifestyle and "
+"established a pattern of going there for at least three weeks, then "
+"returning to Tiburon."
+
+#. Context: As Pat and Bill began their fourth year sharing an apartment, both
+#. were often gone. In 1985, Pat started traveling to do research for the book
+#. she co-authored with Sherry Anderson, The Feminine Face of God, and
+#. ultimately moved into her own apartment in January 1986.[9] Bill was
+#. spending perhaps a third of his time in La Jolla, visiting there from
+#. 1982–1986 on an increasingly regular basis. Several months after they moved
+#. in together, Bill and Pat had gone to La Jolla, and after that Bill made
+#. extended visits, sometimes with Pat and sometimes alone. They had
+#. discovered a quiet, well-run motel, and either he or they stayed in the
+#. same room on each trip. He loved the greater ease of the southern
+#. California lifestyle and established a pattern of going there for at least
+#. three weeks, then returning to Tiburon. After several weeks, he started to
+#. feel a bit lonely and less energized, so he would head back south. He
+#. talked about vacillating between Tiburon and La Jolla, or more humorously,
+#. teetering away from Tiburon and leaning toward La Jolla. Clearly, something
+#. was drawing him there. It would be the last venue for his healing,
+#. representing a major breakthrough—an outward sign of another significant
+#. step in his evolution.
+#: paragraph:17,sentence:6
+msgid ""
+"After several weeks, he started to feel a bit lonely and less energized, so "
+"he would head back south."
+msgstr ""
+"After several weeks, he started to feel a bit lonely and less energized, so "
+"he would head back south."
+
+#. Context: As Pat and Bill began their fourth year sharing an apartment, both
+#. were often gone. In 1985, Pat started traveling to do research for the book
+#. she co-authored with Sherry Anderson, The Feminine Face of God, and
+#. ultimately moved into her own apartment in January 1986.[9] Bill was
+#. spending perhaps a third of his time in La Jolla, visiting there from
+#. 1982–1986 on an increasingly regular basis. Several months after they moved
+#. in together, Bill and Pat had gone to La Jolla, and after that Bill made
+#. extended visits, sometimes with Pat and sometimes alone. They had
+#. discovered a quiet, well-run motel, and either he or they stayed in the
+#. same room on each trip. He loved the greater ease of the southern
+#. California lifestyle and established a pattern of going there for at least
+#. three weeks, then returning to Tiburon. After several weeks, he started to
+#. feel a bit lonely and less energized, so he would head back south. He
+#. talked about vacillating between Tiburon and La Jolla, or more humorously,
+#. teetering away from Tiburon and leaning toward La Jolla. Clearly, something
+#. was drawing him there. It would be the last venue for his healing,
+#. representing a major breakthrough—an outward sign of another significant
+#. step in his evolution.
+#: paragraph:17,sentence:7
+msgid ""
+"He talked about vacillating between Tiburon and La Jolla, or more "
+"humorously, teetering away from Tiburon and leaning toward La Jolla."
+msgstr ""
+"He talked about vacillating between Tiburon and La Jolla, or more "
+"humorously, teetering away from Tiburon and leaning toward La Jolla."
+
+#. Context: As Pat and Bill began their fourth year sharing an apartment, both
+#. were often gone. In 1985, Pat started traveling to do research for the book
+#. she co-authored with Sherry Anderson, The Feminine Face of God, and
+#. ultimately moved into her own apartment in January 1986.[9] Bill was
+#. spending perhaps a third of his time in La Jolla, visiting there from
+#. 1982–1986 on an increasingly regular basis. Several months after they moved
+#. in together, Bill and Pat had gone to La Jolla, and after that Bill made
+#. extended visits, sometimes with Pat and sometimes alone. They had
+#. discovered a quiet, well-run motel, and either he or they stayed in the
+#. same room on each trip. He loved the greater ease of the southern
+#. California lifestyle and established a pattern of going there for at least
+#. three weeks, then returning to Tiburon. After several weeks, he started to
+#. feel a bit lonely and less energized, so he would head back south. He
+#. talked about vacillating between Tiburon and La Jolla, or more humorously,
+#. teetering away from Tiburon and leaning toward La Jolla. Clearly, something
+#. was drawing him there. It would be the last venue for his healing,
+#. representing a major breakthrough—an outward sign of another significant
+#. step in his evolution.
+#: paragraph:17,sentence:8
+msgid "Clearly, something was drawing him there."
+msgstr "Clearly, something was drawing him there."
+
+#. Context: As Pat and Bill began their fourth year sharing an apartment, both
+#. were often gone. In 1985, Pat started traveling to do research for the book
+#. she co-authored with Sherry Anderson, The Feminine Face of God, and
+#. ultimately moved into her own apartment in January 1986.[9] Bill was
+#. spending perhaps a third of his time in La Jolla, visiting there from
+#. 1982–1986 on an increasingly regular basis. Several months after they moved
+#. in together, Bill and Pat had gone to La Jolla, and after that Bill made
+#. extended visits, sometimes with Pat and sometimes alone. They had
+#. discovered a quiet, well-run motel, and either he or they stayed in the
+#. same room on each trip. He loved the greater ease of the southern
+#. California lifestyle and established a pattern of going there for at least
+#. three weeks, then returning to Tiburon. After several weeks, he started to
+#. feel a bit lonely and less energized, so he would head back south. He
+#. talked about vacillating between Tiburon and La Jolla, or more humorously,
+#. teetering away from Tiburon and leaning toward La Jolla. Clearly, something
+#. was drawing him there. It would be the last venue for his healing,
+#. representing a major breakthrough—an outward sign of another significant
+#. step in his evolution.
+#: paragraph:17,sentence:9
+msgid ""
+"It would be the last venue for his healing, representing a major "
+"breakthrough—an outward sign of another significant step in his evolution."
+msgstr ""
+"It would be the last venue for his healing, representing a major "
+"breakthrough—an outward sign of another significant step in his evolution."
+
+#. Context: Robert Rosenthal recalled, “I think the next important transition
+#. for Bill was when it became clear that the relationship with Pat was not
+#. going to work out. From the way I understood it, Bill really wasn’t capable
+#. of a full sexual relationship with a woman. And so the relationship, as
+#. close as it was, was always left incomplete—a halfway relationship.
+#. Celibacy may have worked okay for him, but probably not for her.”[10] From
+#. Pat’s perspective on their time together, “We were like family, but not
+#. sisterly-brotherly, and we were partners, but not in the traditional sense
+#. of the word. To this day, I don’t know how to describe our
+#. relationship.”[11] She also told me, “I know it was hugely and immensely
+#. important; I would say that both our lives were significantly enriched, but
+#. I couldn’t give specifics.”[12]
+#: paragraph:18,sentence:1
+msgid ""
+"Robert Rosenthal recalled, “I think the next important transition for Bill "
+"was when it became clear that the relationship with Pat was not going to "
+"work out."
+msgstr ""
+"Robert Rosenthal recalled, “I think the next important transition for Bill "
+"was when it became clear that the relationship with Pat was not going to "
+"work out."
+
+#. Context: Robert Rosenthal recalled, “I think the next important transition
+#. for Bill was when it became clear that the relationship with Pat was not
+#. going to work out. From the way I understood it, Bill really wasn’t capable
+#. of a full sexual relationship with a woman. And so the relationship, as
+#. close as it was, was always left incomplete—a halfway relationship.
+#. Celibacy may have worked okay for him, but probably not for her.”[10] From
+#. Pat’s perspective on their time together, “We were like family, but not
+#. sisterly-brotherly, and we were partners, but not in the traditional sense
+#. of the word. To this day, I don’t know how to describe our
+#. relationship.”[11] She also told me, “I know it was hugely and immensely
+#. important; I would say that both our lives were significantly enriched, but
+#. I couldn’t give specifics.”[12]
+#: paragraph:18,sentence:2
+msgid ""
+"From the way I understood it, Bill really wasn’t capable of a full sexual "
+"relationship with a woman."
+msgstr ""
+"From the way I understood it, Bill really wasn’t capable of a full sexual "
+"relationship with a woman."
+
+#. Context: Robert Rosenthal recalled, “I think the next important transition
+#. for Bill was when it became clear that the relationship with Pat was not
+#. going to work out. From the way I understood it, Bill really wasn’t capable
+#. of a full sexual relationship with a woman. And so the relationship, as
+#. close as it was, was always left incomplete—a halfway relationship.
+#. Celibacy may have worked okay for him, but probably not for her.”[10] From
+#. Pat’s perspective on their time together, “We were like family, but not
+#. sisterly-brotherly, and we were partners, but not in the traditional sense
+#. of the word. To this day, I don’t know how to describe our
+#. relationship.”[11] She also told me, “I know it was hugely and immensely
+#. important; I would say that both our lives were significantly enriched, but
+#. I couldn’t give specifics.”[12]
+#: paragraph:18,sentence:3
+msgid ""
+"And so the relationship, as close as it was, was always left incomplete—a "
+"halfway relationship."
+msgstr ""
+"And so the relationship, as close as it was, was always left incomplete—a "
+"halfway relationship."
+
+#. Context: Robert Rosenthal recalled, “I think the next important transition
+#. for Bill was when it became clear that the relationship with Pat was not
+#. going to work out. From the way I understood it, Bill really wasn’t capable
+#. of a full sexual relationship with a woman. And so the relationship, as
+#. close as it was, was always left incomplete—a halfway relationship.
+#. Celibacy may have worked okay for him, but probably not for her.”[10] From
+#. Pat’s perspective on their time together, “We were like family, but not
+#. sisterly-brotherly, and we were partners, but not in the traditional sense
+#. of the word. To this day, I don’t know how to describe our
+#. relationship.”[11] She also told me, “I know it was hugely and immensely
+#. important; I would say that both our lives were significantly enriched, but
+#. I couldn’t give specifics.”[12]
+#: paragraph:18,sentence:4
+msgid ""
+"Celibacy may have worked okay for him, but probably not for her.”[10] From "
+"Pat’s perspective on their time together, “We were like family, but not "
+"sisterly-brotherly, and we were partners, but not in the traditional sense "
+"of the word."
+msgstr ""
+"Celibacy may have worked okay for him, but probably not for her.”[10] From "
+"Pat’s perspective on their time together, “We were like family, but not "
+"sisterly-brotherly, and we were partners, but not in the traditional sense "
+"of the word."
+
+#. Context: Robert Rosenthal recalled, “I think the next important transition
+#. for Bill was when it became clear that the relationship with Pat was not
+#. going to work out. From the way I understood it, Bill really wasn’t capable
+#. of a full sexual relationship with a woman. And so the relationship, as
+#. close as it was, was always left incomplete—a halfway relationship.
+#. Celibacy may have worked okay for him, but probably not for her.”[10] From
+#. Pat’s perspective on their time together, “We were like family, but not
+#. sisterly-brotherly, and we were partners, but not in the traditional sense
+#. of the word. To this day, I don’t know how to describe our
+#. relationship.”[11] She also told me, “I know it was hugely and immensely
+#. important; I would say that both our lives were significantly enriched, but
+#. I couldn’t give specifics.”[12]
+#: paragraph:18,sentence:5
+msgid ""
+"To this day, I don’t know how to describe our relationship.”[11] She also "
+"told me, “I know it was hugely and immensely important; I would say that "
+"both our lives were significantly enriched, but I couldn’t give "
+"specifics.”[12]"
+msgstr ""
+"To this day, I don’t know how to describe our relationship.”[11] She also "
+"told me, “I know it was hugely and immensely important; I would say that "
+"both our lives were significantly enriched, but I couldn’t give "
+"specifics.”[12]"
+
+#. Context: Hugh remembers getting together with them after they stopped being
+#. housemates:
+#: paragraph:19,sentence:1
+msgid ""
+"Hugh remembers getting together with them after they stopped being "
+"housemates:"
+msgstr ""
+"Hugh remembers getting together with them after they stopped being "
+"housemates:"
+
+#. Context: Well, he saw the humor in it [their learning experiences] and at
+#. the same time I think it [times of not getting along] was distressing to
+#. him, but he didn’t hang on to it. Neither of them did. They had been very
+#. close friends and became very close friends again. They would tell many
+#. funny stories about what had happened when they were together and what went
+#. on in that apartment; it was just a riot![13]
+#: paragraph:20,sentence:1
+msgid ""
+"Well, he saw the humor in it [their learning experiences] and at the same "
+"time I think it [times of not getting along] was distressing to him, but he "
+"didn’t hang on to it. Neither of them did."
+msgstr ""
+"Well, he saw the humor in it [their learning experiences] and at the same "
+"time I think it [times of not getting along] was distressing to him, but he "
+"didn’t hang on to it. Neither of them did."
+
+#. Context: Well, he saw the humor in it [their learning experiences] and at
+#. the same time I think it [times of not getting along] was distressing to
+#. him, but he didn’t hang on to it. Neither of them did. They had been very
+#. close friends and became very close friends again. They would tell many
+#. funny stories about what had happened when they were together and what went
+#. on in that apartment; it was just a riot![13]
+#: paragraph:20,sentence:2
+msgid "They had been very close friends and became very close friends again."
+msgstr "They had been very close friends and became very close friends again."
+
+#. Context: Well, he saw the humor in it [their learning experiences] and at
+#. the same time I think it [times of not getting along] was distressing to
+#. him, but he didn’t hang on to it. Neither of them did. They had been very
+#. close friends and became very close friends again. They would tell many
+#. funny stories about what had happened when they were together and what went
+#. on in that apartment; it was just a riot![13]
+#: paragraph:20,sentence:3
+msgid ""
+"They would tell many funny stories about what had happened when they were "
+"together and what went on in that apartment; it was just a riot![13]"
+msgstr ""
+"They would tell many funny stories about what had happened when they were "
+"together and what went on in that apartment; it was just a riot![13]"
+
+#. Context: He also observed, as Bill was vacillating about his move,
+#: paragraph:21,sentence:1
+msgid "He also observed, as Bill was vacillating about his move,"
+msgstr "He also observed, as Bill was vacillating about his move,"
+
+#. Context: He was several years making that decision [to go to La Jolla],
+#. which was a very deep one. It was on his mind for a long time, and I’m
+#. certain that at that point he saw his own ego clearly, which was sort of
+#. the eastern, sophisticated, New York professor, classical music, classical
+#. education- type thing, which he shared with everyone else he was surrounded
+#. by there, with the exception of Jerry. [Jerry was California born and bred
+#. and attended medical school at Stanford.] But Pat, Jules, Frances, Roger,
+#. and Judy shared his same worldview. That was the unconscious part of Bill’s
+#. ego in the beginning. In other words, he just presumed everyone would love
+#. Mozart and opera; that was a given or a fact. His whole personality, that
+#. whole eastern thing, was quite unlike this lighthearted self.
+#: paragraph:22,sentence:1
+msgid ""
+"He was several years making that decision [to go to La Jolla], which was a "
+"very deep one."
+msgstr ""
+"He was several years making that decision [to go to La Jolla], which was a "
+"very deep one."
+
+#. Context: He was several years making that decision [to go to La Jolla],
+#. which was a very deep one. It was on his mind for a long time, and I’m
+#. certain that at that point he saw his own ego clearly, which was sort of
+#. the eastern, sophisticated, New York professor, classical music, classical
+#. education- type thing, which he shared with everyone else he was surrounded
+#. by there, with the exception of Jerry. [Jerry was California born and bred
+#. and attended medical school at Stanford.] But Pat, Jules, Frances, Roger,
+#. and Judy shared his same worldview. That was the unconscious part of Bill’s
+#. ego in the beginning. In other words, he just presumed everyone would love
+#. Mozart and opera; that was a given or a fact. His whole personality, that
+#. whole eastern thing, was quite unlike this lighthearted self.
+#: paragraph:22,sentence:2
+msgid ""
+"It was on his mind for a long time, and I’m certain that at that point he "
+"saw his own ego clearly, which was sort of the eastern, sophisticated, New "
+"York professor, classical music, classical education- type thing, which he "
+"shared with everyone else he was surrounded by there, with the exception of "
+"Jerry. [Jerry was California born and bred and attended medical school at "
+"Stanford.] But Pat, Jules, Frances, Roger, and Judy shared his same "
+"worldview."
+msgstr ""
+"It was on his mind for a long time, and I’m certain that at that point he "
+"saw his own ego clearly, which was sort of the eastern, sophisticated, New "
+"York professor, classical music, classical education- type thing, which he "
+"shared with everyone else he was surrounded by there, with the exception of "
+"Jerry. [Jerry was California born and bred and attended medical school at "
+"Stanford.] But Pat, Jules, Frances, Roger, and Judy shared his same "
+"worldview."
+
+#. Context: He was several years making that decision [to go to La Jolla],
+#. which was a very deep one. It was on his mind for a long time, and I’m
+#. certain that at that point he saw his own ego clearly, which was sort of
+#. the eastern, sophisticated, New York professor, classical music, classical
+#. education- type thing, which he shared with everyone else he was surrounded
+#. by there, with the exception of Jerry. [Jerry was California born and bred
+#. and attended medical school at Stanford.] But Pat, Jules, Frances, Roger,
+#. and Judy shared his same worldview. That was the unconscious part of Bill’s
+#. ego in the beginning. In other words, he just presumed everyone would love
+#. Mozart and opera; that was a given or a fact. His whole personality, that
+#. whole eastern thing, was quite unlike this lighthearted self.
+#: paragraph:22,sentence:3
+msgid "That was the unconscious part of Bill’s ego in the beginning."
+msgstr "That was the unconscious part of Bill’s ego in the beginning."
+
+#. Context: He was several years making that decision [to go to La Jolla],
+#. which was a very deep one. It was on his mind for a long time, and I’m
+#. certain that at that point he saw his own ego clearly, which was sort of
+#. the eastern, sophisticated, New York professor, classical music, classical
+#. education- type thing, which he shared with everyone else he was surrounded
+#. by there, with the exception of Jerry. [Jerry was California born and bred
+#. and attended medical school at Stanford.] But Pat, Jules, Frances, Roger,
+#. and Judy shared his same worldview. That was the unconscious part of Bill’s
+#. ego in the beginning. In other words, he just presumed everyone would love
+#. Mozart and opera; that was a given or a fact. His whole personality, that
+#. whole eastern thing, was quite unlike this lighthearted self.
+#: paragraph:22,sentence:4
+msgid ""
+"In other words, he just presumed everyone would love Mozart and opera; that "
+"was a given or a fact."
+msgstr ""
+"In other words, he just presumed everyone would love Mozart and opera; that "
+"was a given or a fact."
+
+#. Context: He was several years making that decision [to go to La Jolla],
+#. which was a very deep one. It was on his mind for a long time, and I’m
+#. certain that at that point he saw his own ego clearly, which was sort of
+#. the eastern, sophisticated, New York professor, classical music, classical
+#. education- type thing, which he shared with everyone else he was surrounded
+#. by there, with the exception of Jerry. [Jerry was California born and bred
+#. and attended medical school at Stanford.] But Pat, Jules, Frances, Roger,
+#. and Judy shared his same worldview. That was the unconscious part of Bill’s
+#. ego in the beginning. In other words, he just presumed everyone would love
+#. Mozart and opera; that was a given or a fact. His whole personality, that
+#. whole eastern thing, was quite unlike this lighthearted self.
+#: paragraph:22,sentence:5
+msgid ""
+"His whole personality, that whole eastern thing, was quite unlike this "
+"lighthearted self."
+msgstr ""
+"His whole personality, that whole eastern thing, was quite unlike this "
+"lighthearted self."
+
+#. Context: My understanding in conversations, and from my own observation,
+#. was that he saw that in order to let go of his ego he was going to have to
+#. turn it upside down. He would have to stand it on its head. He was going to
+#. have to get out of this situation and put himself in a completely
+#. different, nonintellectual environment, which he did. He had a tremendous
+#. capacity for acceptance and was able to accept and enjoy it immensely;
+#. that’s when his ego dissolved at a remarkably fast rate.[14]
+#: paragraph:23,sentence:1
+msgid ""
+"My understanding in conversations, and from my own observation, was that he "
+"saw that in order to let go of his ego he was going to have to turn it "
+"upside down."
+msgstr ""
+"My understanding in conversations, and from my own observation, was that he "
+"saw that in order to let go of his ego he was going to have to turn it "
+"upside down."
+
+#. Context: My understanding in conversations, and from my own observation,
+#. was that he saw that in order to let go of his ego he was going to have to
+#. turn it upside down. He would have to stand it on its head. He was going to
+#. have to get out of this situation and put himself in a completely
+#. different, nonintellectual environment, which he did. He had a tremendous
+#. capacity for acceptance and was able to accept and enjoy it immensely;
+#. that’s when his ego dissolved at a remarkably fast rate.[14]
+#: paragraph:23,sentence:2
+msgid "He would have to stand it on its head."
+msgstr "He would have to stand it on its head."
+
+#. Context: My understanding in conversations, and from my own observation,
+#. was that he saw that in order to let go of his ego he was going to have to
+#. turn it upside down. He would have to stand it on its head. He was going to
+#. have to get out of this situation and put himself in a completely
+#. different, nonintellectual environment, which he did. He had a tremendous
+#. capacity for acceptance and was able to accept and enjoy it immensely;
+#. that’s when his ego dissolved at a remarkably fast rate.[14]
+#: paragraph:23,sentence:3
+msgid ""
+"He was going to have to get out of this situation and put himself in a "
+"completely different, nonintellectual environment, which he did."
+msgstr ""
+"He was going to have to get out of this situation and put himself in a "
+"completely different, nonintellectual environment, which he did."
+
+#. Context: My understanding in conversations, and from my own observation,
+#. was that he saw that in order to let go of his ego he was going to have to
+#. turn it upside down. He would have to stand it on its head. He was going to
+#. have to get out of this situation and put himself in a completely
+#. different, nonintellectual environment, which he did. He had a tremendous
+#. capacity for acceptance and was able to accept and enjoy it immensely;
+#. that’s when his ego dissolved at a remarkably fast rate.[14]
+#: paragraph:23,sentence:4
+msgid ""
+"He had a tremendous capacity for acceptance and was able to accept and enjoy"
+" it immensely; that’s when his ego dissolved at a remarkably fast rate.[14]"
+msgstr ""
+"He had a tremendous capacity for acceptance and was able to accept and enjoy"
+" it immensely; that’s when his ego dissolved at a remarkably fast rate.[14]"
+
+#. Context: Gayle Prather additionally noted: “He did agonize over that
+#. decision to move to southern California. I guess it was because, basically,
+#. he really was going to be saying good-bye to his past because everybody,
+#. despite how he or she may or may not have felt about it, deferred to Bill
+#. as the patriarch. He was the head of the family, and I don’t think he could
+#. shake that role as long as he was in Tiburon.”[15]
+#: paragraph:24,sentence:1
+msgid ""
+"Gayle Prather additionally noted: “He did agonize over that decision to move"
+" to southern California."
+msgstr ""
+"Gayle Prather additionally noted: “He did agonize over that decision to move"
+" to southern California."
+
+#. Context: Gayle Prather additionally noted: “He did agonize over that
+#. decision to move to southern California. I guess it was because, basically,
+#. he really was going to be saying good-bye to his past because everybody,
+#. despite how he or she may or may not have felt about it, deferred to Bill
+#. as the patriarch. He was the head of the family, and I don’t think he could
+#. shake that role as long as he was in Tiburon.”[15]
+#: paragraph:24,sentence:2
+msgid ""
+"I guess it was because, basically, he really was going to be saying good-bye"
+" to his past because everybody, despite how he or she may or may not have "
+"felt about it, deferred to Bill as the patriarch."
+msgstr ""
+"I guess it was because, basically, he really was going to be saying good-bye"
+" to his past because everybody, despite how he or she may or may not have "
+"felt about it, deferred to Bill as the patriarch."
+
+#. Context: Gayle Prather additionally noted: “He did agonize over that
+#. decision to move to southern California. I guess it was because, basically,
+#. he really was going to be saying good-bye to his past because everybody,
+#. despite how he or she may or may not have felt about it, deferred to Bill
+#. as the patriarch. He was the head of the family, and I don’t think he could
+#. shake that role as long as he was in Tiburon.”[15]
+#: paragraph:24,sentence:3
+msgid ""
+"He was the head of the family, and I don’t think he could shake that role as"
+" long as he was in Tiburon.”[15]"
+msgstr ""
+"He was the head of the family, and I don’t think he could shake that role as"
+" long as he was in Tiburon.”[15]"
+
+#. Context: Bill and Judy - ACIM 10th anniversary 1986
+#: paragraph:25,sentence:1
+msgid "Bill and Judy - ACIM 10th anniversary 1986"
+msgstr "Bill and Judy - ACIM 10th anniversary 1986"
+
+#. Context: Bill’s situation was transparent to everyone watching him. Many
+#. echoed Hugh’s and Gayle’s comments, recognizing the heavy intellectual
+#. emphasis in Tiburon, his attempts to escape it, and his inability to take
+#. his next step until he was out of that environment entirely. In his own
+#. way, he was dissociating himself from normal rules of behavior, of self-
+#. and other kinds of evaluation. He had told his stories long enough and had
+#. chosen not to pursue a more public or authoritative role with the Course,
+#. nor a more conventional, professional career. In terms of an outward focus,
+#. he had done what he came to do. Also, Roger Walsh felt that part of the
+#. pull to La Jolla was to be with people, primarily the Lucketts, who solely
+#. devoted themselves to practicing ACIM. Although his Tiburon friends were
+#. all Course students, they had divided loyalties, including careers,
+#. organizations, family responsibilities, or other worldly matters.
+#: paragraph:26,sentence:1
+msgid "Bill’s situation was transparent to everyone watching him."
+msgstr "Bill’s situation was transparent to everyone watching him."
+
+#. Context: Bill’s situation was transparent to everyone watching him. Many
+#. echoed Hugh’s and Gayle’s comments, recognizing the heavy intellectual
+#. emphasis in Tiburon, his attempts to escape it, and his inability to take
+#. his next step until he was out of that environment entirely. In his own
+#. way, he was dissociating himself from normal rules of behavior, of self-
+#. and other kinds of evaluation. He had told his stories long enough and had
+#. chosen not to pursue a more public or authoritative role with the Course,
+#. nor a more conventional, professional career. In terms of an outward focus,
+#. he had done what he came to do. Also, Roger Walsh felt that part of the
+#. pull to La Jolla was to be with people, primarily the Lucketts, who solely
+#. devoted themselves to practicing ACIM. Although his Tiburon friends were
+#. all Course students, they had divided loyalties, including careers,
+#. organizations, family responsibilities, or other worldly matters.
+#: paragraph:26,sentence:2
+msgid ""
+"Many echoed Hugh’s and Gayle’s comments, recognizing the heavy intellectual "
+"emphasis in Tiburon, his attempts to escape it, and his inability to take "
+"his next step until he was out of that environment entirely."
+msgstr ""
+"Many echoed Hugh’s and Gayle’s comments, recognizing the heavy intellectual "
+"emphasis in Tiburon, his attempts to escape it, and his inability to take "
+"his next step until he was out of that environment entirely."
+
+#. Context: Bill’s situation was transparent to everyone watching him. Many
+#. echoed Hugh’s and Gayle’s comments, recognizing the heavy intellectual
+#. emphasis in Tiburon, his attempts to escape it, and his inability to take
+#. his next step until he was out of that environment entirely. In his own
+#. way, he was dissociating himself from normal rules of behavior, of self-
+#. and other kinds of evaluation. He had told his stories long enough and had
+#. chosen not to pursue a more public or authoritative role with the Course,
+#. nor a more conventional, professional career. In terms of an outward focus,
+#. he had done what he came to do. Also, Roger Walsh felt that part of the
+#. pull to La Jolla was to be with people, primarily the Lucketts, who solely
+#. devoted themselves to practicing ACIM. Although his Tiburon friends were
+#. all Course students, they had divided loyalties, including careers,
+#. organizations, family responsibilities, or other worldly matters.
+#: paragraph:26,sentence:3
+msgid ""
+"In his own way, he was dissociating himself from normal rules of behavior, "
+"of self- and other kinds of evaluation."
+msgstr ""
+"In his own way, he was dissociating himself from normal rules of behavior, "
+"of self- and other kinds of evaluation."
+
+#. Context: Bill’s situation was transparent to everyone watching him. Many
+#. echoed Hugh’s and Gayle’s comments, recognizing the heavy intellectual
+#. emphasis in Tiburon, his attempts to escape it, and his inability to take
+#. his next step until he was out of that environment entirely. In his own
+#. way, he was dissociating himself from normal rules of behavior, of self-
+#. and other kinds of evaluation. He had told his stories long enough and had
+#. chosen not to pursue a more public or authoritative role with the Course,
+#. nor a more conventional, professional career. In terms of an outward focus,
+#. he had done what he came to do. Also, Roger Walsh felt that part of the
+#. pull to La Jolla was to be with people, primarily the Lucketts, who solely
+#. devoted themselves to practicing ACIM. Although his Tiburon friends were
+#. all Course students, they had divided loyalties, including careers,
+#. organizations, family responsibilities, or other worldly matters.
+#: paragraph:26,sentence:4
+msgid ""
+"He had told his stories long enough and had chosen not to pursue a more "
+"public or authoritative role with the Course, nor a more conventional, "
+"professional career."
+msgstr ""
+"He had told his stories long enough and had chosen not to pursue a more "
+"public or authoritative role with the Course, nor a more conventional, "
+"professional career."
+
+#. Context: Bill’s situation was transparent to everyone watching him. Many
+#. echoed Hugh’s and Gayle’s comments, recognizing the heavy intellectual
+#. emphasis in Tiburon, his attempts to escape it, and his inability to take
+#. his next step until he was out of that environment entirely. In his own
+#. way, he was dissociating himself from normal rules of behavior, of self-
+#. and other kinds of evaluation. He had told his stories long enough and had
+#. chosen not to pursue a more public or authoritative role with the Course,
+#. nor a more conventional, professional career. In terms of an outward focus,
+#. he had done what he came to do. Also, Roger Walsh felt that part of the
+#. pull to La Jolla was to be with people, primarily the Lucketts, who solely
+#. devoted themselves to practicing ACIM. Although his Tiburon friends were
+#. all Course students, they had divided loyalties, including careers,
+#. organizations, family responsibilities, or other worldly matters.
+#: paragraph:26,sentence:5
+msgid "In terms of an outward focus, he had done what he came to do."
+msgstr "In terms of an outward focus, he had done what he came to do."
+
+#. Context: Bill’s situation was transparent to everyone watching him. Many
+#. echoed Hugh’s and Gayle’s comments, recognizing the heavy intellectual
+#. emphasis in Tiburon, his attempts to escape it, and his inability to take
+#. his next step until he was out of that environment entirely. In his own
+#. way, he was dissociating himself from normal rules of behavior, of self-
+#. and other kinds of evaluation. He had told his stories long enough and had
+#. chosen not to pursue a more public or authoritative role with the Course,
+#. nor a more conventional, professional career. In terms of an outward focus,
+#. he had done what he came to do. Also, Roger Walsh felt that part of the
+#. pull to La Jolla was to be with people, primarily the Lucketts, who solely
+#. devoted themselves to practicing ACIM. Although his Tiburon friends were
+#. all Course students, they had divided loyalties, including careers,
+#. organizations, family responsibilities, or other worldly matters.
+#: paragraph:26,sentence:6
+msgid ""
+"Also, Roger Walsh felt that part of the pull to La Jolla was to be with "
+"people, primarily the Lucketts, who solely devoted themselves to practicing "
+"ACIM."
+msgstr ""
+"Also, Roger Walsh felt that part of the pull to La Jolla was to be with "
+"people, primarily the Lucketts, who solely devoted themselves to practicing "
+"ACIM."
+
+#. Context: Bill’s situation was transparent to everyone watching him. Many
+#. echoed Hugh’s and Gayle’s comments, recognizing the heavy intellectual
+#. emphasis in Tiburon, his attempts to escape it, and his inability to take
+#. his next step until he was out of that environment entirely. In his own
+#. way, he was dissociating himself from normal rules of behavior, of self-
+#. and other kinds of evaluation. He had told his stories long enough and had
+#. chosen not to pursue a more public or authoritative role with the Course,
+#. nor a more conventional, professional career. In terms of an outward focus,
+#. he had done what he came to do. Also, Roger Walsh felt that part of the
+#. pull to La Jolla was to be with people, primarily the Lucketts, who solely
+#. devoted themselves to practicing ACIM. Although his Tiburon friends were
+#. all Course students, they had divided loyalties, including careers,
+#. organizations, family responsibilities, or other worldly matters.
+#: paragraph:26,sentence:7
+msgid ""
+"Although his Tiburon friends were all Course students, they had divided "
+"loyalties, including careers, organizations, family responsibilities, or "
+"other worldly matters."
+msgstr ""
+"Although his Tiburon friends were all Course students, they had divided "
+"loyalties, including careers, organizations, family responsibilities, or "
+"other worldly matters."

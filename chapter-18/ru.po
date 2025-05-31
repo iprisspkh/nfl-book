@@ -1,0 +1,1096 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Context: Even as Bill had struggled during the ACIM scribing era, feeling
+#. it was so difficult, the purifying effect was under way. The entire process
+#. of receiving and typing the material—the discussions and arguments about
+#. its meaning and then the editing—forced Bill and Helen to focus on it
+#. continually. Even when not doing the lessons or studying, they were under
+#. its influence, and by the time I met Bill, much “unlearning” had occurred,
+#. though it wasn’t yet complete. He was becoming very clear and being with
+#. him always felt light and free, even when he was depressed. These “down”
+#. periods, when he entertained the preposterous notion that he didn’t have
+#. much to offer, didn’t keep others from enjoying his marvelous presence. He
+#. was a “work in progress,” still harboring some grievances, but his loving
+#. nature was always apparent, his light still shining through, and his help
+#. unfailingly available.
+#: paragraph:1,sentence:1
+msgid ""
+"Even as Bill had struggled during the ACIM scribing era, feeling it was so "
+"difficult, the purifying effect was under way."
+msgstr ""
+
+#. Context: Even as Bill had struggled during the ACIM scribing era, feeling
+#. it was so difficult, the purifying effect was under way. The entire process
+#. of receiving and typing the material—the discussions and arguments about
+#. its meaning and then the editing—forced Bill and Helen to focus on it
+#. continually. Even when not doing the lessons or studying, they were under
+#. its influence, and by the time I met Bill, much “unlearning” had occurred,
+#. though it wasn’t yet complete. He was becoming very clear and being with
+#. him always felt light and free, even when he was depressed. These “down”
+#. periods, when he entertained the preposterous notion that he didn’t have
+#. much to offer, didn’t keep others from enjoying his marvelous presence. He
+#. was a “work in progress,” still harboring some grievances, but his loving
+#. nature was always apparent, his light still shining through, and his help
+#. unfailingly available.
+#: paragraph:1,sentence:2
+msgid ""
+"The entire process of receiving and typing the material—the discussions and "
+"arguments about its meaning and then the editing—forced Bill and Helen to "
+"focus on it continually."
+msgstr ""
+
+#. Context: Even as Bill had struggled during the ACIM scribing era, feeling
+#. it was so difficult, the purifying effect was under way. The entire process
+#. of receiving and typing the material—the discussions and arguments about
+#. its meaning and then the editing—forced Bill and Helen to focus on it
+#. continually. Even when not doing the lessons or studying, they were under
+#. its influence, and by the time I met Bill, much “unlearning” had occurred,
+#. though it wasn’t yet complete. He was becoming very clear and being with
+#. him always felt light and free, even when he was depressed. These “down”
+#. periods, when he entertained the preposterous notion that he didn’t have
+#. much to offer, didn’t keep others from enjoying his marvelous presence. He
+#. was a “work in progress,” still harboring some grievances, but his loving
+#. nature was always apparent, his light still shining through, and his help
+#. unfailingly available.
+#: paragraph:1,sentence:3
+msgid ""
+"Even when not doing the lessons or studying, they were under its influence, "
+"and by the time I met Bill, much “unlearning” had occurred, though it wasn’t"
+" yet complete."
+msgstr ""
+
+#. Context: Even as Bill had struggled during the ACIM scribing era, feeling
+#. it was so difficult, the purifying effect was under way. The entire process
+#. of receiving and typing the material—the discussions and arguments about
+#. its meaning and then the editing—forced Bill and Helen to focus on it
+#. continually. Even when not doing the lessons or studying, they were under
+#. its influence, and by the time I met Bill, much “unlearning” had occurred,
+#. though it wasn’t yet complete. He was becoming very clear and being with
+#. him always felt light and free, even when he was depressed. These “down”
+#. periods, when he entertained the preposterous notion that he didn’t have
+#. much to offer, didn’t keep others from enjoying his marvelous presence. He
+#. was a “work in progress,” still harboring some grievances, but his loving
+#. nature was always apparent, his light still shining through, and his help
+#. unfailingly available.
+#: paragraph:1,sentence:4
+msgid ""
+"He was becoming very clear and being with him always felt light and free, "
+"even when he was depressed."
+msgstr ""
+
+#. Context: Even as Bill had struggled during the ACIM scribing era, feeling
+#. it was so difficult, the purifying effect was under way. The entire process
+#. of receiving and typing the material—the discussions and arguments about
+#. its meaning and then the editing—forced Bill and Helen to focus on it
+#. continually. Even when not doing the lessons or studying, they were under
+#. its influence, and by the time I met Bill, much “unlearning” had occurred,
+#. though it wasn’t yet complete. He was becoming very clear and being with
+#. him always felt light and free, even when he was depressed. These “down”
+#. periods, when he entertained the preposterous notion that he didn’t have
+#. much to offer, didn’t keep others from enjoying his marvelous presence. He
+#. was a “work in progress,” still harboring some grievances, but his loving
+#. nature was always apparent, his light still shining through, and his help
+#. unfailingly available.
+#: paragraph:1,sentence:5
+msgid ""
+"These “down” periods, when he entertained the preposterous notion that he "
+"didn’t have much to offer, didn’t keep others from enjoying his marvelous "
+"presence."
+msgstr ""
+
+#. Context: Even as Bill had struggled during the ACIM scribing era, feeling
+#. it was so difficult, the purifying effect was under way. The entire process
+#. of receiving and typing the material—the discussions and arguments about
+#. its meaning and then the editing—forced Bill and Helen to focus on it
+#. continually. Even when not doing the lessons or studying, they were under
+#. its influence, and by the time I met Bill, much “unlearning” had occurred,
+#. though it wasn’t yet complete. He was becoming very clear and being with
+#. him always felt light and free, even when he was depressed. These “down”
+#. periods, when he entertained the preposterous notion that he didn’t have
+#. much to offer, didn’t keep others from enjoying his marvelous presence. He
+#. was a “work in progress,” still harboring some grievances, but his loving
+#. nature was always apparent, his light still shining through, and his help
+#. unfailingly available.
+#: paragraph:1,sentence:6
+msgid ""
+"He was a “work in progress,” still harboring some grievances, but his loving"
+" nature was always apparent, his light still shining through, and his help "
+"unfailingly available."
+msgstr ""
+
+#. Context: It is comforting to know we can be helpful even while we’re still
+#. getting free ourselves. We need not and should not wait until we are
+#. entirely clear before we choose to be truly helpful, which would be like
+#. trying to remove the darkness before turning on a light. In fact, doing our
+#. best to be compassionate, open, and nonjudgmental is the point, recognizing
+#. that correction is not our job but loving is. Shortly after the scribing
+#. began, Bill was invited to a meeting on a subject he knew little about. For
+#. political reasons, those at the medical center felt it imperative that he
+#. attend, and he was most uncomfortable about the prospect. In an instance of
+#. synchronicity, Helen took down a passage he found extraordinarily helpful,
+#. just as it has been for many others since. It is often recited at the
+#. beginning of events or study groups—whenever one needs to remember our true
+#. purpose:
+#: paragraph:2,sentence:1
+msgid ""
+"It is comforting to know we can be helpful even while we’re still getting "
+"free ourselves."
+msgstr ""
+
+#. Context: It is comforting to know we can be helpful even while we’re still
+#. getting free ourselves. We need not and should not wait until we are
+#. entirely clear before we choose to be truly helpful, which would be like
+#. trying to remove the darkness before turning on a light. In fact, doing our
+#. best to be compassionate, open, and nonjudgmental is the point, recognizing
+#. that correction is not our job but loving is. Shortly after the scribing
+#. began, Bill was invited to a meeting on a subject he knew little about. For
+#. political reasons, those at the medical center felt it imperative that he
+#. attend, and he was most uncomfortable about the prospect. In an instance of
+#. synchronicity, Helen took down a passage he found extraordinarily helpful,
+#. just as it has been for many others since. It is often recited at the
+#. beginning of events or study groups—whenever one needs to remember our true
+#. purpose:
+#: paragraph:2,sentence:2
+msgid ""
+"We need not and should not wait until we are entirely clear before we choose"
+" to be truly helpful, which would be like trying to remove the darkness "
+"before turning on a light."
+msgstr ""
+
+#. Context: It is comforting to know we can be helpful even while we’re still
+#. getting free ourselves. We need not and should not wait until we are
+#. entirely clear before we choose to be truly helpful, which would be like
+#. trying to remove the darkness before turning on a light. In fact, doing our
+#. best to be compassionate, open, and nonjudgmental is the point, recognizing
+#. that correction is not our job but loving is. Shortly after the scribing
+#. began, Bill was invited to a meeting on a subject he knew little about. For
+#. political reasons, those at the medical center felt it imperative that he
+#. attend, and he was most uncomfortable about the prospect. In an instance of
+#. synchronicity, Helen took down a passage he found extraordinarily helpful,
+#. just as it has been for many others since. It is often recited at the
+#. beginning of events or study groups—whenever one needs to remember our true
+#. purpose:
+#: paragraph:2,sentence:3
+msgid ""
+"In fact, doing our best to be compassionate, open, and nonjudgmental is the "
+"point, recognizing that correction is not our job but loving is."
+msgstr ""
+
+#. Context: It is comforting to know we can be helpful even while we’re still
+#. getting free ourselves. We need not and should not wait until we are
+#. entirely clear before we choose to be truly helpful, which would be like
+#. trying to remove the darkness before turning on a light. In fact, doing our
+#. best to be compassionate, open, and nonjudgmental is the point, recognizing
+#. that correction is not our job but loving is. Shortly after the scribing
+#. began, Bill was invited to a meeting on a subject he knew little about. For
+#. political reasons, those at the medical center felt it imperative that he
+#. attend, and he was most uncomfortable about the prospect. In an instance of
+#. synchronicity, Helen took down a passage he found extraordinarily helpful,
+#. just as it has been for many others since. It is often recited at the
+#. beginning of events or study groups—whenever one needs to remember our true
+#. purpose:
+#: paragraph:2,sentence:4
+msgid ""
+"Shortly after the scribing began, Bill was invited to a meeting on a subject"
+" he knew little about."
+msgstr ""
+
+#. Context: It is comforting to know we can be helpful even while we’re still
+#. getting free ourselves. We need not and should not wait until we are
+#. entirely clear before we choose to be truly helpful, which would be like
+#. trying to remove the darkness before turning on a light. In fact, doing our
+#. best to be compassionate, open, and nonjudgmental is the point, recognizing
+#. that correction is not our job but loving is. Shortly after the scribing
+#. began, Bill was invited to a meeting on a subject he knew little about. For
+#. political reasons, those at the medical center felt it imperative that he
+#. attend, and he was most uncomfortable about the prospect. In an instance of
+#. synchronicity, Helen took down a passage he found extraordinarily helpful,
+#. just as it has been for many others since. It is often recited at the
+#. beginning of events or study groups—whenever one needs to remember our true
+#. purpose:
+#: paragraph:2,sentence:5
+msgid ""
+"For political reasons, those at the medical center felt it imperative that "
+"he attend, and he was most uncomfortable about the prospect."
+msgstr ""
+
+#. Context: It is comforting to know we can be helpful even while we’re still
+#. getting free ourselves. We need not and should not wait until we are
+#. entirely clear before we choose to be truly helpful, which would be like
+#. trying to remove the darkness before turning on a light. In fact, doing our
+#. best to be compassionate, open, and nonjudgmental is the point, recognizing
+#. that correction is not our job but loving is. Shortly after the scribing
+#. began, Bill was invited to a meeting on a subject he knew little about. For
+#. political reasons, those at the medical center felt it imperative that he
+#. attend, and he was most uncomfortable about the prospect. In an instance of
+#. synchronicity, Helen took down a passage he found extraordinarily helpful,
+#. just as it has been for many others since. It is often recited at the
+#. beginning of events or study groups—whenever one needs to remember our true
+#. purpose:
+#: paragraph:2,sentence:6
+msgid ""
+"In an instance of synchronicity, Helen took down a passage he found "
+"extraordinarily helpful, just as it has been for many others since."
+msgstr ""
+
+#. Context: It is comforting to know we can be helpful even while we’re still
+#. getting free ourselves. We need not and should not wait until we are
+#. entirely clear before we choose to be truly helpful, which would be like
+#. trying to remove the darkness before turning on a light. In fact, doing our
+#. best to be compassionate, open, and nonjudgmental is the point, recognizing
+#. that correction is not our job but loving is. Shortly after the scribing
+#. began, Bill was invited to a meeting on a subject he knew little about. For
+#. political reasons, those at the medical center felt it imperative that he
+#. attend, and he was most uncomfortable about the prospect. In an instance of
+#. synchronicity, Helen took down a passage he found extraordinarily helpful,
+#. just as it has been for many others since. It is often recited at the
+#. beginning of events or study groups—whenever one needs to remember our true
+#. purpose:
+#: paragraph:2,sentence:7
+msgid ""
+"It is often recited at the beginning of events or study groups—whenever one "
+"needs to remember our true purpose:"
+msgstr ""
+
+#. Context: I am here only to be truly helpful.
+#: paragraph:3,sentence:1
+msgid "I am here only to be truly helpful."
+msgstr ""
+
+#. Context: I am here to represent Him Who sent me.
+#: paragraph:4,sentence:1
+msgid "I am here to represent Him Who sent me."
+msgstr ""
+
+#. Context: I do not have to worry about what to say or what
+#: paragraph:5,sentence:1
+msgid "I do not have to worry about what to say or what"
+msgstr ""
+
+#. Context: to do, because He Who sent me will direct me.
+#: paragraph:6,sentence:1
+msgid "to do, because He Who sent me will direct me."
+msgstr ""
+
+#. Context: I am content to be wherever He wishes, knowing
+#: paragraph:7,sentence:1
+msgid "I am content to be wherever He wishes, knowing"
+msgstr ""
+
+#. Context: He goes there with me.
+#: paragraph:8,sentence:1
+msgid "He goes there with me."
+msgstr ""
+
+#. Context: I will be healed as I let Him teach me to heal.[40]
+#: paragraph:9,sentence:1
+msgid "I will be healed as I let Him teach me to heal.[40]"
+msgstr ""
+
+#. Context: Bill recalled his relief on receiving that special message:
+#: paragraph:10,sentence:1
+msgid "Bill recalled his relief on receiving that special message:"
+msgstr ""
+
+#. Context: This message helped me recognize that I did not have to rely on my
+#. intellectual defenses in preparing for the conference or anything else. All
+#. I had to do was to recognize that I was there to be truly helpful and that
+#. there would be guidance and help. Regardless of what the assignment might
+#. seem to be, I didn’t have to plan, I didn’t have to anticipate. All of this
+#. was very different. I was accustomed to planning, anticipating, having
+#. lectures and everything worked out intellectually ahead of time. Here, I
+#. think, the lesson in trust is really what is being emphasized.[41]
+#: paragraph:11,sentence:1
+msgid ""
+"This message helped me recognize that I did not have to rely on my "
+"intellectual defenses in preparing for the conference or anything else."
+msgstr ""
+
+#. Context: This message helped me recognize that I did not have to rely on my
+#. intellectual defenses in preparing for the conference or anything else. All
+#. I had to do was to recognize that I was there to be truly helpful and that
+#. there would be guidance and help. Regardless of what the assignment might
+#. seem to be, I didn’t have to plan, I didn’t have to anticipate. All of this
+#. was very different. I was accustomed to planning, anticipating, having
+#. lectures and everything worked out intellectually ahead of time. Here, I
+#. think, the lesson in trust is really what is being emphasized.[41]
+#: paragraph:11,sentence:2
+msgid ""
+"All I had to do was to recognize that I was there to be truly helpful and "
+"that there would be guidance and help."
+msgstr ""
+
+#. Context: This message helped me recognize that I did not have to rely on my
+#. intellectual defenses in preparing for the conference or anything else. All
+#. I had to do was to recognize that I was there to be truly helpful and that
+#. there would be guidance and help. Regardless of what the assignment might
+#. seem to be, I didn’t have to plan, I didn’t have to anticipate. All of this
+#. was very different. I was accustomed to planning, anticipating, having
+#. lectures and everything worked out intellectually ahead of time. Here, I
+#. think, the lesson in trust is really what is being emphasized.[41]
+#: paragraph:11,sentence:3
+msgid ""
+"Regardless of what the assignment might seem to be, I didn’t have to plan, I"
+" didn’t have to anticipate."
+msgstr ""
+
+#. Context: This message helped me recognize that I did not have to rely on my
+#. intellectual defenses in preparing for the conference or anything else. All
+#. I had to do was to recognize that I was there to be truly helpful and that
+#. there would be guidance and help. Regardless of what the assignment might
+#. seem to be, I didn’t have to plan, I didn’t have to anticipate. All of this
+#. was very different. I was accustomed to planning, anticipating, having
+#. lectures and everything worked out intellectually ahead of time. Here, I
+#. think, the lesson in trust is really what is being emphasized.[41]
+#: paragraph:11,sentence:4
+msgid "All of this was very different."
+msgstr ""
+
+#. Context: This message helped me recognize that I did not have to rely on my
+#. intellectual defenses in preparing for the conference or anything else. All
+#. I had to do was to recognize that I was there to be truly helpful and that
+#. there would be guidance and help. Regardless of what the assignment might
+#. seem to be, I didn’t have to plan, I didn’t have to anticipate. All of this
+#. was very different. I was accustomed to planning, anticipating, having
+#. lectures and everything worked out intellectually ahead of time. Here, I
+#. think, the lesson in trust is really what is being emphasized.[41]
+#: paragraph:11,sentence:5
+msgid ""
+"I was accustomed to planning, anticipating, having lectures and everything "
+"worked out intellectually ahead of time."
+msgstr ""
+
+#. Context: This message helped me recognize that I did not have to rely on my
+#. intellectual defenses in preparing for the conference or anything else. All
+#. I had to do was to recognize that I was there to be truly helpful and that
+#. there would be guidance and help. Regardless of what the assignment might
+#. seem to be, I didn’t have to plan, I didn’t have to anticipate. All of this
+#. was very different. I was accustomed to planning, anticipating, having
+#. lectures and everything worked out intellectually ahead of time. Here, I
+#. think, the lesson in trust is really what is being emphasized.[41]
+#: paragraph:11,sentence:6
+msgid ""
+"Here, I think, the lesson in trust is really what is being emphasized.[41]"
+msgstr ""
+
+#. Context: And a next lesson in trust was about to unfold. In 1981, Bill made
+#. arrangements to have Christmas with us in Denver, and all four of us were
+#. very excited about his coming. We had planned several special treats,
+#. especially related to the seasonal celebratory music; everything was
+#. prepared, with his presents under the tree. Then the phone call. The day
+#. before his planned arrival, Jules called to say that Bill had had a serious
+#. bout of atrial fibrillation, a malfunction of the heart. We were
+#. devastated, first out of concern for his well-being, and second, because we
+#. were so looking forward to including him in what would probably have been
+#. his first truly “family Christmas” since his own early childhood.
+#: paragraph:12,sentence:1
+msgid "And a next lesson in trust was about to unfold."
+msgstr ""
+
+#. Context: And a next lesson in trust was about to unfold. In 1981, Bill made
+#. arrangements to have Christmas with us in Denver, and all four of us were
+#. very excited about his coming. We had planned several special treats,
+#. especially related to the seasonal celebratory music; everything was
+#. prepared, with his presents under the tree. Then the phone call. The day
+#. before his planned arrival, Jules called to say that Bill had had a serious
+#. bout of atrial fibrillation, a malfunction of the heart. We were
+#. devastated, first out of concern for his well-being, and second, because we
+#. were so looking forward to including him in what would probably have been
+#. his first truly “family Christmas” since his own early childhood.
+#: paragraph:12,sentence:2
+msgid ""
+"In 1981, Bill made arrangements to have Christmas with us in Denver, and all"
+" four of us were very excited about his coming."
+msgstr ""
+
+#. Context: And a next lesson in trust was about to unfold. In 1981, Bill made
+#. arrangements to have Christmas with us in Denver, and all four of us were
+#. very excited about his coming. We had planned several special treats,
+#. especially related to the seasonal celebratory music; everything was
+#. prepared, with his presents under the tree. Then the phone call. The day
+#. before his planned arrival, Jules called to say that Bill had had a serious
+#. bout of atrial fibrillation, a malfunction of the heart. We were
+#. devastated, first out of concern for his well-being, and second, because we
+#. were so looking forward to including him in what would probably have been
+#. his first truly “family Christmas” since his own early childhood.
+#: paragraph:12,sentence:3
+msgid ""
+"We had planned several special treats, especially related to the seasonal "
+"celebratory music; everything was prepared, with his presents under the "
+"tree. Then the phone call."
+msgstr ""
+
+#. Context: And a next lesson in trust was about to unfold. In 1981, Bill made
+#. arrangements to have Christmas with us in Denver, and all four of us were
+#. very excited about his coming. We had planned several special treats,
+#. especially related to the seasonal celebratory music; everything was
+#. prepared, with his presents under the tree. Then the phone call. The day
+#. before his planned arrival, Jules called to say that Bill had had a serious
+#. bout of atrial fibrillation, a malfunction of the heart. We were
+#. devastated, first out of concern for his well-being, and second, because we
+#. were so looking forward to including him in what would probably have been
+#. his first truly “family Christmas” since his own early childhood.
+#: paragraph:12,sentence:4
+msgid ""
+"The day before his planned arrival, Jules called to say that Bill had had a "
+"serious bout of atrial fibrillation, a malfunction of the heart."
+msgstr ""
+
+#. Context: And a next lesson in trust was about to unfold. In 1981, Bill made
+#. arrangements to have Christmas with us in Denver, and all four of us were
+#. very excited about his coming. We had planned several special treats,
+#. especially related to the seasonal celebratory music; everything was
+#. prepared, with his presents under the tree. Then the phone call. The day
+#. before his planned arrival, Jules called to say that Bill had had a serious
+#. bout of atrial fibrillation, a malfunction of the heart. We were
+#. devastated, first out of concern for his well-being, and second, because we
+#. were so looking forward to including him in what would probably have been
+#. his first truly “family Christmas” since his own early childhood.
+#: paragraph:12,sentence:5
+msgid ""
+"We were devastated, first out of concern for his well-being, and second, "
+"because we were so looking forward to including him in what would probably "
+"have been his first truly “family Christmas” since his own early childhood."
+msgstr ""
+
+#. Context: The day before, Pat Hopkins, then a consultant with the Center for
+#. Attitudinal Healing, had gone by Bill’s home after work at his request.
+#. They were becoming much better acquainted and had developed a routine of
+#. getting together at the close of her business day. He had called her
+#. earlier in the day to say he was not feeling quite up to par, a
+#. characteristic understatement, and asked if she would take him to the
+#. hospital when she finished work. His condition steadily worsened after her
+#. arrival and she called the paramedics. They required considerable time to
+#. stabilize his acutely dangerous condition, then they rushed him to the
+#. hospital by ambulance. No doubt, Pat saved his life. She later assumed the
+#. task of handling all paperwork related to insurance, medication, and the
+#. details of recovery, which, given his basic unfamiliarity with such
+#. matters, would have been more than overwhelming to him. She was literally a
+#. God-send.
+#: paragraph:13,sentence:1
+msgid ""
+"The day before, Pat Hopkins, then a consultant with the Center for "
+"Attitudinal Healing, had gone by Bill’s home after work at his request."
+msgstr ""
+
+#. Context: The day before, Pat Hopkins, then a consultant with the Center for
+#. Attitudinal Healing, had gone by Bill’s home after work at his request.
+#. They were becoming much better acquainted and had developed a routine of
+#. getting together at the close of her business day. He had called her
+#. earlier in the day to say he was not feeling quite up to par, a
+#. characteristic understatement, and asked if she would take him to the
+#. hospital when she finished work. His condition steadily worsened after her
+#. arrival and she called the paramedics. They required considerable time to
+#. stabilize his acutely dangerous condition, then they rushed him to the
+#. hospital by ambulance. No doubt, Pat saved his life. She later assumed the
+#. task of handling all paperwork related to insurance, medication, and the
+#. details of recovery, which, given his basic unfamiliarity with such
+#. matters, would have been more than overwhelming to him. She was literally a
+#. God-send.
+#: paragraph:13,sentence:2
+msgid ""
+"They were becoming much better acquainted and had developed a routine of "
+"getting together at the close of her business day."
+msgstr ""
+
+#. Context: The day before, Pat Hopkins, then a consultant with the Center for
+#. Attitudinal Healing, had gone by Bill’s home after work at his request.
+#. They were becoming much better acquainted and had developed a routine of
+#. getting together at the close of her business day. He had called her
+#. earlier in the day to say he was not feeling quite up to par, a
+#. characteristic understatement, and asked if she would take him to the
+#. hospital when she finished work. His condition steadily worsened after her
+#. arrival and she called the paramedics. They required considerable time to
+#. stabilize his acutely dangerous condition, then they rushed him to the
+#. hospital by ambulance. No doubt, Pat saved his life. She later assumed the
+#. task of handling all paperwork related to insurance, medication, and the
+#. details of recovery, which, given his basic unfamiliarity with such
+#. matters, would have been more than overwhelming to him. She was literally a
+#. God-send.
+#: paragraph:13,sentence:3
+msgid ""
+"He had called her earlier in the day to say he was not feeling quite up to "
+"par, a characteristic understatement, and asked if she would take him to the"
+" hospital when she finished work."
+msgstr ""
+
+#. Context: The day before, Pat Hopkins, then a consultant with the Center for
+#. Attitudinal Healing, had gone by Bill’s home after work at his request.
+#. They were becoming much better acquainted and had developed a routine of
+#. getting together at the close of her business day. He had called her
+#. earlier in the day to say he was not feeling quite up to par, a
+#. characteristic understatement, and asked if she would take him to the
+#. hospital when she finished work. His condition steadily worsened after her
+#. arrival and she called the paramedics. They required considerable time to
+#. stabilize his acutely dangerous condition, then they rushed him to the
+#. hospital by ambulance. No doubt, Pat saved his life. She later assumed the
+#. task of handling all paperwork related to insurance, medication, and the
+#. details of recovery, which, given his basic unfamiliarity with such
+#. matters, would have been more than overwhelming to him. She was literally a
+#. God-send.
+#: paragraph:13,sentence:4
+msgid ""
+"His condition steadily worsened after her arrival and she called the "
+"paramedics."
+msgstr ""
+
+#. Context: The day before, Pat Hopkins, then a consultant with the Center for
+#. Attitudinal Healing, had gone by Bill’s home after work at his request.
+#. They were becoming much better acquainted and had developed a routine of
+#. getting together at the close of her business day. He had called her
+#. earlier in the day to say he was not feeling quite up to par, a
+#. characteristic understatement, and asked if she would take him to the
+#. hospital when she finished work. His condition steadily worsened after her
+#. arrival and she called the paramedics. They required considerable time to
+#. stabilize his acutely dangerous condition, then they rushed him to the
+#. hospital by ambulance. No doubt, Pat saved his life. She later assumed the
+#. task of handling all paperwork related to insurance, medication, and the
+#. details of recovery, which, given his basic unfamiliarity with such
+#. matters, would have been more than overwhelming to him. She was literally a
+#. God-send.
+#: paragraph:13,sentence:5
+msgid ""
+"They required considerable time to stabilize his acutely dangerous "
+"condition, then they rushed him to the hospital by ambulance."
+msgstr ""
+
+#. Context: The day before, Pat Hopkins, then a consultant with the Center for
+#. Attitudinal Healing, had gone by Bill’s home after work at his request.
+#. They were becoming much better acquainted and had developed a routine of
+#. getting together at the close of her business day. He had called her
+#. earlier in the day to say he was not feeling quite up to par, a
+#. characteristic understatement, and asked if she would take him to the
+#. hospital when she finished work. His condition steadily worsened after her
+#. arrival and she called the paramedics. They required considerable time to
+#. stabilize his acutely dangerous condition, then they rushed him to the
+#. hospital by ambulance. No doubt, Pat saved his life. She later assumed the
+#. task of handling all paperwork related to insurance, medication, and the
+#. details of recovery, which, given his basic unfamiliarity with such
+#. matters, would have been more than overwhelming to him. She was literally a
+#. God-send.
+#: paragraph:13,sentence:6
+msgid "No doubt, Pat saved his life."
+msgstr ""
+
+#. Context: The day before, Pat Hopkins, then a consultant with the Center for
+#. Attitudinal Healing, had gone by Bill’s home after work at his request.
+#. They were becoming much better acquainted and had developed a routine of
+#. getting together at the close of her business day. He had called her
+#. earlier in the day to say he was not feeling quite up to par, a
+#. characteristic understatement, and asked if she would take him to the
+#. hospital when she finished work. His condition steadily worsened after her
+#. arrival and she called the paramedics. They required considerable time to
+#. stabilize his acutely dangerous condition, then they rushed him to the
+#. hospital by ambulance. No doubt, Pat saved his life. She later assumed the
+#. task of handling all paperwork related to insurance, medication, and the
+#. details of recovery, which, given his basic unfamiliarity with such
+#. matters, would have been more than overwhelming to him. She was literally a
+#. God-send.
+#: paragraph:13,sentence:7
+msgid ""
+"She later assumed the task of handling all paperwork related to insurance, "
+"medication, and the details of recovery, which, given his basic "
+"unfamiliarity with such matters, would have been more than overwhelming to "
+"him."
+msgstr ""
+
+#. Context: The day before, Pat Hopkins, then a consultant with the Center for
+#. Attitudinal Healing, had gone by Bill’s home after work at his request.
+#. They were becoming much better acquainted and had developed a routine of
+#. getting together at the close of her business day. He had called her
+#. earlier in the day to say he was not feeling quite up to par, a
+#. characteristic understatement, and asked if she would take him to the
+#. hospital when she finished work. His condition steadily worsened after her
+#. arrival and she called the paramedics. They required considerable time to
+#. stabilize his acutely dangerous condition, then they rushed him to the
+#. hospital by ambulance. No doubt, Pat saved his life. She later assumed the
+#. task of handling all paperwork related to insurance, medication, and the
+#. details of recovery, which, given his basic unfamiliarity with such
+#. matters, would have been more than overwhelming to him. She was literally a
+#. God-send.
+#: paragraph:13,sentence:8
+msgid "She was literally a God-send."
+msgstr ""
+
+#. Context: Bill returned to Denver only once or twice after his near-fatal
+#. collapse. Our Center for Creative Alternatives had teamed up with the Mile
+#. High Church of Religious Science in Denver to sponsor a workshop featuring
+#. Jerry and Hugh Prather in April 1982. We had a sellout crowd, and while
+#. planning that event, Jerry and I intuitively felt we had some joint work to
+#. do. Three weeks later, I went to Tiburon and we brainstormed about the
+#. nature of possible projects. For the next two years, Jerry and I worked
+#. closely together in a number of areas, which entailed frequent visits to
+#. Tiburon and ongoing contact with Bill. Thus, between 1978 and 1985, I was
+#. there many times.
+#: paragraph:14,sentence:1
+msgid ""
+"Bill returned to Denver only once or twice after his near-fatal collapse."
+msgstr ""
+
+#. Context: Bill returned to Denver only once or twice after his near-fatal
+#. collapse. Our Center for Creative Alternatives had teamed up with the Mile
+#. High Church of Religious Science in Denver to sponsor a workshop featuring
+#. Jerry and Hugh Prather in April 1982. We had a sellout crowd, and while
+#. planning that event, Jerry and I intuitively felt we had some joint work to
+#. do. Three weeks later, I went to Tiburon and we brainstormed about the
+#. nature of possible projects. For the next two years, Jerry and I worked
+#. closely together in a number of areas, which entailed frequent visits to
+#. Tiburon and ongoing contact with Bill. Thus, between 1978 and 1985, I was
+#. there many times.
+#: paragraph:14,sentence:2
+msgid ""
+"Our Center for Creative Alternatives had teamed up with the Mile High Church"
+" of Religious Science in Denver to sponsor a workshop featuring Jerry and "
+"Hugh Prather in April 1982."
+msgstr ""
+
+#. Context: Bill returned to Denver only once or twice after his near-fatal
+#. collapse. Our Center for Creative Alternatives had teamed up with the Mile
+#. High Church of Religious Science in Denver to sponsor a workshop featuring
+#. Jerry and Hugh Prather in April 1982. We had a sellout crowd, and while
+#. planning that event, Jerry and I intuitively felt we had some joint work to
+#. do. Three weeks later, I went to Tiburon and we brainstormed about the
+#. nature of possible projects. For the next two years, Jerry and I worked
+#. closely together in a number of areas, which entailed frequent visits to
+#. Tiburon and ongoing contact with Bill. Thus, between 1978 and 1985, I was
+#. there many times.
+#: paragraph:14,sentence:3
+msgid ""
+"We had a sellout crowd, and while planning that event, Jerry and I "
+"intuitively felt we had some joint work to do."
+msgstr ""
+
+#. Context: Bill returned to Denver only once or twice after his near-fatal
+#. collapse. Our Center for Creative Alternatives had teamed up with the Mile
+#. High Church of Religious Science in Denver to sponsor a workshop featuring
+#. Jerry and Hugh Prather in April 1982. We had a sellout crowd, and while
+#. planning that event, Jerry and I intuitively felt we had some joint work to
+#. do. Three weeks later, I went to Tiburon and we brainstormed about the
+#. nature of possible projects. For the next two years, Jerry and I worked
+#. closely together in a number of areas, which entailed frequent visits to
+#. Tiburon and ongoing contact with Bill. Thus, between 1978 and 1985, I was
+#. there many times.
+#: paragraph:14,sentence:4
+msgid ""
+"Three weeks later, I went to Tiburon and we brainstormed about the nature of"
+" possible projects."
+msgstr ""
+
+#. Context: Bill returned to Denver only once or twice after his near-fatal
+#. collapse. Our Center for Creative Alternatives had teamed up with the Mile
+#. High Church of Religious Science in Denver to sponsor a workshop featuring
+#. Jerry and Hugh Prather in April 1982. We had a sellout crowd, and while
+#. planning that event, Jerry and I intuitively felt we had some joint work to
+#. do. Three weeks later, I went to Tiburon and we brainstormed about the
+#. nature of possible projects. For the next two years, Jerry and I worked
+#. closely together in a number of areas, which entailed frequent visits to
+#. Tiburon and ongoing contact with Bill. Thus, between 1978 and 1985, I was
+#. there many times.
+#: paragraph:14,sentence:5
+msgid ""
+"For the next two years, Jerry and I worked closely together in a number of "
+"areas, which entailed frequent visits to Tiburon and ongoing contact with "
+"Bill."
+msgstr ""
+
+#. Context: Bill returned to Denver only once or twice after his near-fatal
+#. collapse. Our Center for Creative Alternatives had teamed up with the Mile
+#. High Church of Religious Science in Denver to sponsor a workshop featuring
+#. Jerry and Hugh Prather in April 1982. We had a sellout crowd, and while
+#. planning that event, Jerry and I intuitively felt we had some joint work to
+#. do. Three weeks later, I went to Tiburon and we brainstormed about the
+#. nature of possible projects. For the next two years, Jerry and I worked
+#. closely together in a number of areas, which entailed frequent visits to
+#. Tiburon and ongoing contact with Bill. Thus, between 1978 and 1985, I was
+#. there many times.
+#: paragraph:14,sentence:6
+msgid "Thus, between 1978 and 1985, I was there many times."
+msgstr ""
+
+#. Context: During his first four years in Tiburon, Bill’s life was busy,
+#. especially for a retiree, but not extraordinary. His days were not filled
+#. with particularly grand or exotic events. He worked, meditated, wrote,
+#. visited, recovered from his cardiac difficulties, helped friends, and
+#. faithfully walked. Because his daily routine sounds so ordinary, it doesn’t
+#. convey the magic so many felt on being around him. Therefore, before
+#. continuing with the chronology of his earthly adventure, here are more
+#. details of his major positive characteristics and their life-altering
+#. impact on others, as well as the “demons” that plagued him—all the
+#. challenges, fears, and concerns that had to be forgiven.
+#: paragraph:15,sentence:1
+msgid ""
+"During his first four years in Tiburon, Bill’s life was busy, especially for"
+" a retiree, but not extraordinary."
+msgstr ""
+
+#. Context: During his first four years in Tiburon, Bill’s life was busy,
+#. especially for a retiree, but not extraordinary. His days were not filled
+#. with particularly grand or exotic events. He worked, meditated, wrote,
+#. visited, recovered from his cardiac difficulties, helped friends, and
+#. faithfully walked. Because his daily routine sounds so ordinary, it doesn’t
+#. convey the magic so many felt on being around him. Therefore, before
+#. continuing with the chronology of his earthly adventure, here are more
+#. details of his major positive characteristics and their life-altering
+#. impact on others, as well as the “demons” that plagued him—all the
+#. challenges, fears, and concerns that had to be forgiven.
+#: paragraph:15,sentence:2
+msgid "His days were not filled with particularly grand or exotic events."
+msgstr ""
+
+#. Context: During his first four years in Tiburon, Bill’s life was busy,
+#. especially for a retiree, but not extraordinary. His days were not filled
+#. with particularly grand or exotic events. He worked, meditated, wrote,
+#. visited, recovered from his cardiac difficulties, helped friends, and
+#. faithfully walked. Because his daily routine sounds so ordinary, it doesn’t
+#. convey the magic so many felt on being around him. Therefore, before
+#. continuing with the chronology of his earthly adventure, here are more
+#. details of his major positive characteristics and their life-altering
+#. impact on others, as well as the “demons” that plagued him—all the
+#. challenges, fears, and concerns that had to be forgiven.
+#: paragraph:15,sentence:3
+msgid ""
+"He worked, meditated, wrote, visited, recovered from his cardiac "
+"difficulties, helped friends, and faithfully walked."
+msgstr ""
+
+#. Context: During his first four years in Tiburon, Bill’s life was busy,
+#. especially for a retiree, but not extraordinary. His days were not filled
+#. with particularly grand or exotic events. He worked, meditated, wrote,
+#. visited, recovered from his cardiac difficulties, helped friends, and
+#. faithfully walked. Because his daily routine sounds so ordinary, it doesn’t
+#. convey the magic so many felt on being around him. Therefore, before
+#. continuing with the chronology of his earthly adventure, here are more
+#. details of his major positive characteristics and their life-altering
+#. impact on others, as well as the “demons” that plagued him—all the
+#. challenges, fears, and concerns that had to be forgiven.
+#: paragraph:15,sentence:4
+msgid ""
+"Because his daily routine sounds so ordinary, it doesn’t convey the magic so"
+" many felt on being around him."
+msgstr ""
+
+#. Context: During his first four years in Tiburon, Bill’s life was busy,
+#. especially for a retiree, but not extraordinary. His days were not filled
+#. with particularly grand or exotic events. He worked, meditated, wrote,
+#. visited, recovered from his cardiac difficulties, helped friends, and
+#. faithfully walked. Because his daily routine sounds so ordinary, it doesn’t
+#. convey the magic so many felt on being around him. Therefore, before
+#. continuing with the chronology of his earthly adventure, here are more
+#. details of his major positive characteristics and their life-altering
+#. impact on others, as well as the “demons” that plagued him—all the
+#. challenges, fears, and concerns that had to be forgiven.
+#: paragraph:15,sentence:5
+msgid ""
+"Therefore, before continuing with the chronology of his earthly adventure, "
+"here are more details of his major positive characteristics and their life-"
+"altering impact on others, as well as the “demons” that plagued him—all the "
+"challenges, fears, and concerns that had to be forgiven."
+msgstr ""
+
+#. Context: And for all of us drawn into his energy field and who feel part of
+#. his lineage, our job is to continue our own forgiveness. The world can’t
+#. wait for us to be “ready.” As with Bill, we can be helpful while we’re
+#. still “in process,” and we must. The stakes are very high and ignoring our
+#. calling could be disastrous.
+#: paragraph:16,sentence:1
+msgid ""
+"And for all of us drawn into his energy field and who feel part of his "
+"lineage, our job is to continue our own forgiveness."
+msgstr ""
+
+#. Context: And for all of us drawn into his energy field and who feel part of
+#. his lineage, our job is to continue our own forgiveness. The world can’t
+#. wait for us to be “ready.” As with Bill, we can be helpful while we’re
+#. still “in process,” and we must. The stakes are very high and ignoring our
+#. calling could be disastrous.
+#: paragraph:16,sentence:2
+msgid ""
+"The world can’t wait for us to be “ready.” As with Bill, we can be helpful "
+"while we’re still “in process,” and we must."
+msgstr ""
+
+#. Context: And for all of us drawn into his energy field and who feel part of
+#. his lineage, our job is to continue our own forgiveness. The world can’t
+#. wait for us to be “ready.” As with Bill, we can be helpful while we’re
+#. still “in process,” and we must. The stakes are very high and ignoring our
+#. calling could be disastrous.
+#: paragraph:16,sentence:3
+msgid "The stakes are very high and ignoring our calling could be disastrous."
+msgstr ""
+
+#. Context: [1] William Thetford: Life Story, in “Origins of A Course In
+#. Miracles,” 4:11, FIPA.
+#: paragraph:17,sentence:1
+msgid ""
+"[1] William Thetford: Life Story, in “Origins of A Course In Miracles,” "
+"4:11, FIPA."
+msgstr ""
+
+#. Context: [2] Julius J. Finegold and William N. Thetford, Eds., Choose Once
+#. Again (Millbrae, CA: Celestial Arts, 1981).
+#: paragraph:18,sentence:1
+msgid "[2] Julius J. Finegold and William N."
+msgstr ""
+
+#. Context: [2] Julius J. Finegold and William N. Thetford, Eds., Choose Once
+#. Again (Millbrae, CA: Celestial Arts, 1981).
+#: paragraph:18,sentence:2
+msgid ""
+"Thetford, Eds., Choose Once Again (Millbrae, CA: Celestial Arts, 1981)."
+msgstr ""
+
+#. Context: [3] For more information on Rolfing, see www.rolf.org
+#: paragraph:19,sentence:1
+msgid "[3] For more information on Rolfing, see www.rolf.org"
+msgstr ""
+
+#. Context: [4] Jaison Kayn telephone interview by author, February 2007.
+#: paragraph:20,sentence:1
+msgid "[4] Jaison Kayn telephone interview by author, February 2007."
+msgstr ""
+
+#. Context: [5] Judith Skutch Whitson telephone interview by author, January
+#. 2008.
+#: paragraph:21,sentence:1
+msgid "[5] Judith Skutch Whitson telephone interview by author, January 2008."
+msgstr ""
+
+#. Context: [6] Hugh and Gayle Prather interview by author, October 1993.
+#: paragraph:22,sentence:1
+msgid "[6] Hugh and Gayle Prather interview by author, October 1993."
+msgstr ""
+
+#. Context: [7] Thetford: Life Story, 4:52, FIPA.
+#: paragraph:23,sentence:1
+msgid "[7] Thetford: Life Story, 4:52, FIPA."
+msgstr ""
+
+#. Context: [8] Robert Skutch, Journey Without Distance: The Story Behind A
+#. Course In Miracles (Berkeley, CA: Celestial Arts, 1984).
+#: paragraph:24,sentence:1
+msgid ""
+"[8] Robert Skutch, Journey Without Distance: The Story Behind A Course In "
+"Miracles (Berkeley, CA: Celestial Arts, 1984)."
+msgstr ""
+
+#. Context: [9] Transcription of Thetford personal reading, author’s copy,
+#. LeRoy Zemke, February 1980.
+#: paragraph:25,sentence:1
+msgid ""
+"[9] Transcription of Thetford personal reading, author’s copy, LeRoy Zemke, "
+"February 1980."
+msgstr ""
+
+#. Context: [10]A Course In Miracles Text, 433–434.
+#: paragraph:26,sentence:1
+msgid "[10]A Course In Miracles Text, 433–434."
+msgstr ""
+
+#. Context: [11] Thetford personal reading, LeRoy Zemke, February 1980.
+#: paragraph:27,sentence:1
+msgid "[11] Thetford personal reading, LeRoy Zemke, February 1980."
+msgstr ""
+
+#. Context: [12] Jack and Layle Luckett telephone interview by author,
+#. September 2007.
+#: paragraph:28,sentence:1
+msgid ""
+"[12] Jack and Layle Luckett telephone interview by author, September 2007."
+msgstr ""
+
+#. Context: [14] William Thetford: Life Story, in “Origins of A Course In
+#. Miracles,” 4:48, FIPA.
+#: paragraph:29,sentence:1
+msgid ""
+"[14] William Thetford: Life Story, in “Origins of A Course In Miracles,” "
+"4:48, FIPA."
+msgstr ""
+
+#. Context: [15] Bob Howe interview by author, March 2007.
+#: paragraph:30,sentence:1
+msgid "[15] Bob Howe interview by author, March 2007."
+msgstr ""
+
+#. Context: [16] Robert Rosenthal interview by Tamara Cohen, in “Origins of A
+#. Course In Miracles,” ed. James Bolen, 16:2, FIPA.
+#: paragraph:31,sentence:1
+msgid ""
+"[16] Robert Rosenthal interview by Tamara Cohen, in “Origins of A Course In "
+"Miracles,” ed. James Bolen, 16:2, FIPA."
+msgstr ""
+
+#. Context: [17] Jaison Kayn telephone interview by author, February 2007.
+#: paragraph:32,sentence:1
+msgid "[17] Jaison Kayn telephone interview by author, February 2007."
+msgstr ""
+
+#. Context: [18]A Course In Miracles Text, 649–650.
+#: paragraph:33,sentence:1
+msgid "[18]A Course In Miracles Text, 649–650."
+msgstr ""
+
+#. Context: [19]A Course In Miracles Workbook, Lesson 166, 315–316.
+#: paragraph:34,sentence:1
+msgid "[19]A Course In Miracles Workbook, Lesson 166, 315–316."
+msgstr ""
+
+#. Context: [20]A Course In Miracles Workbook, Lesson 185, 348.
+#: paragraph:35,sentence:1
+msgid "[20]A Course In Miracles Workbook, Lesson 185, 348."
+msgstr ""
+
+#. Context: [21] Ibid., Lesson 134, 248.
+#: paragraph:36,sentence:1
+msgid "[21] Ibid., Lesson 134, 248."
+msgstr ""
+
+#. Context: [22]A Course In Miracles Text, 568.
+#: paragraph:37,sentence:1
+msgid "[22]A Course In Miracles Text, 568."
+msgstr ""
+
+#. Context: [24] Robert Rosenthal interview by Tamara Cohen, in “Origins of A
+#. Course In Miracles,” ed. James Bolen, 16: 2–3, FIPA.
+#: paragraph:38,sentence:1
+msgid ""
+"[24] Robert Rosenthal interview by Tamara Cohen, in “Origins of A Course In "
+"Miracles,” ed."
+msgstr ""
+
+#. Context: [24] Robert Rosenthal interview by Tamara Cohen, in “Origins of A
+#. Course In Miracles,” ed. James Bolen, 16: 2–3, FIPA.
+#: paragraph:38,sentence:2
+msgid "James Bolen, 16: 2–3, FIPA."
+msgstr ""
+
+#. Context: [25] Roger Walsh interview by Tamara Cohen, in “Origins of A
+#. Course In Miracles,”ed. James Bolen, 25:5–6, FIPA; and personal
+#. communication to author, August 15, 2009.
+#: paragraph:39,sentence:1
+msgid ""
+"[25] Roger Walsh interview by Tamara Cohen, in “Origins of A Course In "
+"Miracles,”ed."
+msgstr ""
+
+#. Context: [25] Roger Walsh interview by Tamara Cohen, in “Origins of A
+#. Course In Miracles,”ed. James Bolen, 25:5–6, FIPA; and personal
+#. communication to author, August 15, 2009.
+#: paragraph:39,sentence:2
+msgid ""
+"James Bolen, 25:5–6, FIPA; and personal communication to author, August 15, "
+"2009."
+msgstr ""
+
+#. Context: [26] Helen Schucman: Autobiography, in “Origins of A Course In
+#. Miracles,” 3:52, FIPA.
+#: paragraph:40,sentence:1
+msgid ""
+"[26] Helen Schucman: Autobiography, in “Origins of A Course In Miracles,” "
+"3:52, FIPA."
+msgstr ""
+
+#. Context: [27]A Course In Miracles Text, 37.
+#: paragraph:41,sentence:1
+msgid "[27]A Course In Miracles Text, 37."
+msgstr ""
+
+#. Context: [28] www.circleofa.org
+#: paragraph:42,sentence:1
+msgid "[28] www.circleofa.org"
+msgstr ""
+
+#. Context: [29] Jaison Kayn telephone interview with author, February 2007.
+#: paragraph:43,sentence:1
+msgid "[29] Jaison Kayn telephone interview with author, February 2007."
+msgstr ""
+
+#. Context: [31] Bob Beale telephone interview with author, February 2007.
+#: paragraph:44,sentence:1
+msgid "[31] Bob Beale telephone interview with author, February 2007."
+msgstr ""
+
+#. Context: [32] William Thetford: Life Story, in “Origins of A Course In
+#. Miracles,” 4:51, FIPA.
+#: paragraph:45,sentence:1
+msgid ""
+"[32] William Thetford: Life Story, in “Origins of A Course In Miracles,” "
+"4:51, FIPA."
+msgstr ""
+
+#. Context: [33] Jaison Kayn interview, February 2007.
+#: paragraph:46,sentence:1
+msgid "[33] Jaison Kayn interview, February 2007."
+msgstr ""
+
+#. Context: [35] Gerald Jampolsky, M.D., Love Is Letting Go of Fear (Millbrae,
+#. CA: Celestial Arts,1979).
+#: paragraph:47,sentence:1
+msgid ""
+"[35] Gerald Jampolsky, M.D., Love Is Letting Go of Fear (Millbrae, CA: "
+"Celestial Arts,1979)."
+msgstr ""
+
+#. Context: [36] James Bolen, “Interview: Judith R. Skutch,” New Realities
+#. (April 1977), 19.
+#: paragraph:48,sentence:1
+msgid "[36] James Bolen, “Interview: Judith R."
+msgstr ""
+
+#. Context: [36] James Bolen, “Interview: Judith R. Skutch,” New Realities
+#. (April 1977), 19.
+#: paragraph:48,sentence:2
+msgid "Skutch,” New Realities (April 1977), 19."
+msgstr ""
+
+#. Context: [37] Introduction by Tamara Cohen, in “Origins of A Course In
+#. Miracles,” ed. James Bolen, Introduction: 4, FIPA.
+#: paragraph:49,sentence:1
+msgid ""
+"[37] Introduction by Tamara Cohen, in “Origins of A Course In Miracles,” ed."
+msgstr ""
+
+#. Context: [37] Introduction by Tamara Cohen, in “Origins of A Course In
+#. Miracles,” ed. James Bolen, Introduction: 4, FIPA.
+#: paragraph:49,sentence:2
+msgid "James Bolen, Introduction: 4, FIPA."
+msgstr ""
+
+#. Context: [38] Gerald Jampolsky, M.D., Diane Cirincione, Ph.D., To Give Is
+#. To Receive: An Eighteen Day Mini-Course on Healing Relationships
+#. (Sausalito, CA: Mini-Course Publishing, 2007).
+#: paragraph:50,sentence:1
+msgid ""
+"[38] Gerald Jampolsky, M.D., Diane Cirincione, Ph.D., To Give Is To Receive:"
+" An Eighteen Day Mini-Course on Healing Relationships (Sausalito, CA: Mini-"
+"Course Publishing, 2007)."
+msgstr ""
+
+#. Context: [39]A Course In Miracles Text, 314.
+#: paragraph:51,sentence:1
+msgid "[39]A Course In Miracles Text, 314."
+msgstr ""
+
+#. Context: [40]A Course In Miracles Text, 28.
+#: paragraph:52,sentence:1
+msgid "[40]A Course In Miracles Text, 28."
+msgstr ""
+
+#. Context: [41] William Thetford: Life Story, in “Origins of A Course In
+#. Miracles,” 4:24, FIPA.
+#: paragraph:53,sentence:1
+msgid ""
+"[41] William Thetford: Life Story, in “Origins of A Course In Miracles,” "
+"4:24, FIPA."
+msgstr ""
+
+#. Context: Assets and challenges
+#: paragraph:54,sentence:1
+msgid "Assets and challenges"
+msgstr ""

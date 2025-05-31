@@ -1,0 +1,28 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Context: Part I - Childhood through retirement
+#: paragraph:1,sentence:1
+msgid "Part I - Childhood through retirement"
+msgstr "Part I - Childhood through retirement"
+
+#. Context: Part II - The early Tiburon years
+#: paragraph:2,sentence:1
+msgid "Part II - The early Tiburon years"
+msgstr "Part II - The early Tiburon years"
+
+#. Context: Part III - Assets and challenges
+#: paragraph:3,sentence:1
+msgid "Part III - Assets and challenges"
+msgstr "Part III - Assets and challenges"
+
+#. Context: Part IV - On to La Jolla
+#: paragraph:4,sentence:1
+msgid "Part IV - On to La Jolla"
+msgstr "Part IV - On to La Jolla"

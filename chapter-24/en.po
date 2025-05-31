@@ -1,0 +1,1761 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Context: Another defining characteristic that Bill possessed was a simple,
+#. uncomplicated wisdom that was anything but simple-minded or
+#. elementary—quite the opposite. And, with the dwindling instances of ego
+#. involvement mentioned earlier, Bill was the poster child for genuine
+#. humility, intellectual and otherwise. Frances Vaughan referred to his being
+#. “wonderfully nothing special.”
+#: paragraph:1,sentence:1
+msgid ""
+"Another defining characteristic that Bill possessed was a simple, "
+"uncomplicated wisdom that was anything but simple-minded or elementary—quite"
+" the opposite."
+msgstr ""
+"Another defining characteristic that Bill possessed was a simple, "
+"uncomplicated wisdom that was anything but simple-minded or elementary—quite"
+" the opposite."
+
+#. Context: Another defining characteristic that Bill possessed was a simple,
+#. uncomplicated wisdom that was anything but simple-minded or
+#. elementary—quite the opposite. And, with the dwindling instances of ego
+#. involvement mentioned earlier, Bill was the poster child for genuine
+#. humility, intellectual and otherwise. Frances Vaughan referred to his being
+#. “wonderfully nothing special.”
+#: paragraph:1,sentence:2
+msgid ""
+"And, with the dwindling instances of ego involvement mentioned earlier, Bill"
+" was the poster child for genuine humility, intellectual and otherwise."
+msgstr ""
+"And, with the dwindling instances of ego involvement mentioned earlier, Bill"
+" was the poster child for genuine humility, intellectual and otherwise."
+
+#. Context: Another defining characteristic that Bill possessed was a simple,
+#. uncomplicated wisdom that was anything but simple-minded or
+#. elementary—quite the opposite. And, with the dwindling instances of ego
+#. involvement mentioned earlier, Bill was the poster child for genuine
+#. humility, intellectual and otherwise. Frances Vaughan referred to his being
+#. “wonderfully nothing special.”
+#: paragraph:1,sentence:3
+msgid "Frances Vaughan referred to his being “wonderfully nothing special.”"
+msgstr "Frances Vaughan referred to his being “wonderfully nothing special.”"
+
+#. Context: He was a very important mentor to me. One thing about Bill that
+#. not everyone saw was his incredible knowledge and understanding of
+#. psychology, philosophy, and comparative religions. He was extraordinarily
+#. erudite and well read. He never flaunted his intellectual brilliance, yet
+#. he really had a profound, universal understanding of human beings and the
+#. way we grow and change.[89]
+#: paragraph:2,sentence:1
+msgid "He was a very important mentor to me."
+msgstr "He was a very important mentor to me."
+
+#. Context: He was a very important mentor to me. One thing about Bill that
+#. not everyone saw was his incredible knowledge and understanding of
+#. psychology, philosophy, and comparative religions. He was extraordinarily
+#. erudite and well read. He never flaunted his intellectual brilliance, yet
+#. he really had a profound, universal understanding of human beings and the
+#. way we grow and change.[89]
+#: paragraph:2,sentence:2
+msgid ""
+"One thing about Bill that not everyone saw was his incredible knowledge and "
+"understanding of psychology, philosophy, and comparative religions."
+msgstr ""
+"One thing about Bill that not everyone saw was his incredible knowledge and "
+"understanding of psychology, philosophy, and comparative religions."
+
+#. Context: He was a very important mentor to me. One thing about Bill that
+#. not everyone saw was his incredible knowledge and understanding of
+#. psychology, philosophy, and comparative religions. He was extraordinarily
+#. erudite and well read. He never flaunted his intellectual brilliance, yet
+#. he really had a profound, universal understanding of human beings and the
+#. way we grow and change.[89]
+#: paragraph:2,sentence:3
+msgid "He was extraordinarily erudite and well read."
+msgstr "He was extraordinarily erudite and well read."
+
+#. Context: He was a very important mentor to me. One thing about Bill that
+#. not everyone saw was his incredible knowledge and understanding of
+#. psychology, philosophy, and comparative religions. He was extraordinarily
+#. erudite and well read. He never flaunted his intellectual brilliance, yet
+#. he really had a profound, universal understanding of human beings and the
+#. way we grow and change.[89]
+#: paragraph:2,sentence:4
+msgid ""
+"He never flaunted his intellectual brilliance, yet he really had a profound,"
+" universal understanding of human beings and the way we grow and change.[89]"
+msgstr ""
+"He never flaunted his intellectual brilliance, yet he really had a profound,"
+" universal understanding of human beings and the way we grow and change.[89]"
+
+#. Context: A friend from Florida said, “I loved his careful, clear mind, so
+#. precise but so well buffered with kindliness, and I can easily appreciate
+#. how you would be drawn together in friendship.” Another unusual and
+#. compelling trait was his willingness to grant wisdom where he found it. He
+#. was always very happy to give everybody credit for their capabilities,
+#. regardless of their “official” credentials.
+#: paragraph:3,sentence:1
+msgid ""
+"A friend from Florida said, “I loved his careful, clear mind, so precise but"
+" so well buffered with kindliness, and I can easily appreciate how you would"
+" be drawn together in friendship.” Another unusual and compelling trait was "
+"his willingness to grant wisdom where he found it."
+msgstr ""
+"A friend from Florida said, “I loved his careful, clear mind, so precise but"
+" so well buffered with kindliness, and I can easily appreciate how you would"
+" be drawn together in friendship.” Another unusual and compelling trait was "
+"his willingness to grant wisdom where he found it."
+
+#. Context: A friend from Florida said, “I loved his careful, clear mind, so
+#. precise but so well buffered with kindliness, and I can easily appreciate
+#. how you would be drawn together in friendship.” Another unusual and
+#. compelling trait was his willingness to grant wisdom where he found it. He
+#. was always very happy to give everybody credit for their capabilities,
+#. regardless of their “official” credentials.
+#: paragraph:3,sentence:2
+msgid ""
+"He was always very happy to give everybody credit for their capabilities, "
+"regardless of their “official” credentials."
+msgstr ""
+"He was always very happy to give everybody credit for their capabilities, "
+"regardless of their “official” credentials."
+
+#. Context: Jaison Kayn spoke for so many when he noted:
+#: paragraph:4,sentence:1
+msgid "Jaison Kayn spoke for so many when he noted:"
+msgstr "Jaison Kayn spoke for so many when he noted:"
+
+#. Context: He was more than just a dear friend who was there to listen; it
+#. was his very simple and direct wisdom. I was comforted by the knowingness
+#. that he had. It’s nice to know someone who was that clear and alive and
+#. personally caring of me. One time we were actually in your backyard and he
+#. was enjoying Shanna [Jaison’s dog] and he just looked at me and said,
+#. “Well, isn’t she your alter ego?” Bill didn’t wear his knowledge at all,
+#. but if you asked him something, he would give the clearest, brief summary
+#. of anything—the Vedanta, the Urantia book, or whatever. This guy was a
+#. library, not only of knowledge, but a library of very precise
+#. understanding. He was so tuned in without the outward appearance of it,
+#. almost as if he were surprised that it came out.[90]
+#: paragraph:5,sentence:1
+msgid ""
+"He was more than just a dear friend who was there to listen; it was his very"
+" simple and direct wisdom."
+msgstr ""
+"He was more than just a dear friend who was there to listen; it was his very"
+" simple and direct wisdom."
+
+#. Context: He was more than just a dear friend who was there to listen; it
+#. was his very simple and direct wisdom. I was comforted by the knowingness
+#. that he had. It’s nice to know someone who was that clear and alive and
+#. personally caring of me. One time we were actually in your backyard and he
+#. was enjoying Shanna [Jaison’s dog] and he just looked at me and said,
+#. “Well, isn’t she your alter ego?” Bill didn’t wear his knowledge at all,
+#. but if you asked him something, he would give the clearest, brief summary
+#. of anything—the Vedanta, the Urantia book, or whatever. This guy was a
+#. library, not only of knowledge, but a library of very precise
+#. understanding. He was so tuned in without the outward appearance of it,
+#. almost as if he were surprised that it came out.[90]
+#: paragraph:5,sentence:2
+msgid "I was comforted by the knowingness that he had."
+msgstr "I was comforted by the knowingness that he had."
+
+#. Context: He was more than just a dear friend who was there to listen; it
+#. was his very simple and direct wisdom. I was comforted by the knowingness
+#. that he had. It’s nice to know someone who was that clear and alive and
+#. personally caring of me. One time we were actually in your backyard and he
+#. was enjoying Shanna [Jaison’s dog] and he just looked at me and said,
+#. “Well, isn’t she your alter ego?” Bill didn’t wear his knowledge at all,
+#. but if you asked him something, he would give the clearest, brief summary
+#. of anything—the Vedanta, the Urantia book, or whatever. This guy was a
+#. library, not only of knowledge, but a library of very precise
+#. understanding. He was so tuned in without the outward appearance of it,
+#. almost as if he were surprised that it came out.[90]
+#: paragraph:5,sentence:3
+msgid ""
+"It’s nice to know someone who was that clear and alive and personally caring"
+" of me."
+msgstr ""
+"It’s nice to know someone who was that clear and alive and personally caring"
+" of me."
+
+#. Context: He was more than just a dear friend who was there to listen; it
+#. was his very simple and direct wisdom. I was comforted by the knowingness
+#. that he had. It’s nice to know someone who was that clear and alive and
+#. personally caring of me. One time we were actually in your backyard and he
+#. was enjoying Shanna [Jaison’s dog] and he just looked at me and said,
+#. “Well, isn’t she your alter ego?” Bill didn’t wear his knowledge at all,
+#. but if you asked him something, he would give the clearest, brief summary
+#. of anything—the Vedanta, the Urantia book, or whatever. This guy was a
+#. library, not only of knowledge, but a library of very precise
+#. understanding. He was so tuned in without the outward appearance of it,
+#. almost as if he were surprised that it came out.[90]
+#: paragraph:5,sentence:4
+msgid ""
+"One time we were actually in your backyard and he was enjoying Shanna "
+"[Jaison’s dog] and he just looked at me and said, “Well, isn’t she your "
+"alter ego?” Bill didn’t wear his knowledge at all, but if you asked him "
+"something, he would give the clearest, brief summary of anything—the "
+"Vedanta, the Urantia book, or whatever."
+msgstr ""
+"One time we were actually in your backyard and he was enjoying Shanna "
+"[Jaison’s dog] and he just looked at me and said, “Well, isn’t she your "
+"alter ego?” Bill didn’t wear his knowledge at all, but if you asked him "
+"something, he would give the clearest, brief summary of anything—the "
+"Vedanta, the Urantia book, or whatever."
+
+#. Context: He was more than just a dear friend who was there to listen; it
+#. was his very simple and direct wisdom. I was comforted by the knowingness
+#. that he had. It’s nice to know someone who was that clear and alive and
+#. personally caring of me. One time we were actually in your backyard and he
+#. was enjoying Shanna [Jaison’s dog] and he just looked at me and said,
+#. “Well, isn’t she your alter ego?” Bill didn’t wear his knowledge at all,
+#. but if you asked him something, he would give the clearest, brief summary
+#. of anything—the Vedanta, the Urantia book, or whatever. This guy was a
+#. library, not only of knowledge, but a library of very precise
+#. understanding. He was so tuned in without the outward appearance of it,
+#. almost as if he were surprised that it came out.[90]
+#: paragraph:5,sentence:5
+msgid ""
+"This guy was a library, not only of knowledge, but a library of very precise"
+" understanding."
+msgstr ""
+"This guy was a library, not only of knowledge, but a library of very precise"
+" understanding."
+
+#. Context: He was more than just a dear friend who was there to listen; it
+#. was his very simple and direct wisdom. I was comforted by the knowingness
+#. that he had. It’s nice to know someone who was that clear and alive and
+#. personally caring of me. One time we were actually in your backyard and he
+#. was enjoying Shanna [Jaison’s dog] and he just looked at me and said,
+#. “Well, isn’t she your alter ego?” Bill didn’t wear his knowledge at all,
+#. but if you asked him something, he would give the clearest, brief summary
+#. of anything—the Vedanta, the Urantia book, or whatever. This guy was a
+#. library, not only of knowledge, but a library of very precise
+#. understanding. He was so tuned in without the outward appearance of it,
+#. almost as if he were surprised that it came out.[90]
+#: paragraph:5,sentence:6
+msgid ""
+"He was so tuned in without the outward appearance of it, almost as if he "
+"were surprised that it came out.[90]"
+msgstr ""
+"He was so tuned in without the outward appearance of it, almost as if he "
+"were surprised that it came out.[90]"
+
+#. Context: Sometimes that wisdom could be very direct and short. One of
+#. Judy’s favorite stories is about a time when she was utterly furious with
+#. Jerry and caught in the grip of her own anger. Not to put too fine a point
+#. on it, she was having a fit! She called Bill and ranted to him about
+#. Jerry’s various shortcomings. Bill’s calm response was, “Are you willing to
+#. see your brother sinless?” She shouted that no, she was not! He said to
+#. her, “When you’re ready to do just that, you will feel much better,” and
+#. hung up.
+#: paragraph:6,sentence:1
+msgid "Sometimes that wisdom could be very direct and short."
+msgstr "Sometimes that wisdom could be very direct and short."
+
+#. Context: Sometimes that wisdom could be very direct and short. One of
+#. Judy’s favorite stories is about a time when she was utterly furious with
+#. Jerry and caught in the grip of her own anger. Not to put too fine a point
+#. on it, she was having a fit! She called Bill and ranted to him about
+#. Jerry’s various shortcomings. Bill’s calm response was, “Are you willing to
+#. see your brother sinless?” She shouted that no, she was not! He said to
+#. her, “When you’re ready to do just that, you will feel much better,” and
+#. hung up.
+#: paragraph:6,sentence:2
+msgid ""
+"One of Judy’s favorite stories is about a time when she was utterly furious "
+"with Jerry and caught in the grip of her own anger."
+msgstr ""
+"One of Judy’s favorite stories is about a time when she was utterly furious "
+"with Jerry and caught in the grip of her own anger."
+
+#. Context: Sometimes that wisdom could be very direct and short. One of
+#. Judy’s favorite stories is about a time when she was utterly furious with
+#. Jerry and caught in the grip of her own anger. Not to put too fine a point
+#. on it, she was having a fit! She called Bill and ranted to him about
+#. Jerry’s various shortcomings. Bill’s calm response was, “Are you willing to
+#. see your brother sinless?” She shouted that no, she was not! He said to
+#. her, “When you’re ready to do just that, you will feel much better,” and
+#. hung up.
+#: paragraph:6,sentence:3
+msgid "Not to put too fine a point on it, she was having a fit!"
+msgstr "Not to put too fine a point on it, she was having a fit!"
+
+#. Context: Sometimes that wisdom could be very direct and short. One of
+#. Judy’s favorite stories is about a time when she was utterly furious with
+#. Jerry and caught in the grip of her own anger. Not to put too fine a point
+#. on it, she was having a fit! She called Bill and ranted to him about
+#. Jerry’s various shortcomings. Bill’s calm response was, “Are you willing to
+#. see your brother sinless?” She shouted that no, she was not! He said to
+#. her, “When you’re ready to do just that, you will feel much better,” and
+#. hung up.
+#: paragraph:6,sentence:4
+msgid "She called Bill and ranted to him about Jerry’s various shortcomings."
+msgstr "She called Bill and ranted to him about Jerry’s various shortcomings."
+
+#. Context: Sometimes that wisdom could be very direct and short. One of
+#. Judy’s favorite stories is about a time when she was utterly furious with
+#. Jerry and caught in the grip of her own anger. Not to put too fine a point
+#. on it, she was having a fit! She called Bill and ranted to him about
+#. Jerry’s various shortcomings. Bill’s calm response was, “Are you willing to
+#. see your brother sinless?” She shouted that no, she was not! He said to
+#. her, “When you’re ready to do just that, you will feel much better,” and
+#. hung up.
+#: paragraph:6,sentence:5
+msgid ""
+"Bill’s calm response was, “Are you willing to see your brother sinless?” She"
+" shouted that no, she was not!"
+msgstr ""
+"Bill’s calm response was, “Are you willing to see your brother sinless?” She"
+" shouted that no, she was not!"
+
+#. Context: Sometimes that wisdom could be very direct and short. One of
+#. Judy’s favorite stories is about a time when she was utterly furious with
+#. Jerry and caught in the grip of her own anger. Not to put too fine a point
+#. on it, she was having a fit! She called Bill and ranted to him about
+#. Jerry’s various shortcomings. Bill’s calm response was, “Are you willing to
+#. see your brother sinless?” She shouted that no, she was not! He said to
+#. her, “When you’re ready to do just that, you will feel much better,” and
+#. hung up.
+#: paragraph:6,sentence:6
+msgid ""
+"He said to her, “When you’re ready to do just that, you will feel much "
+"better,” and hung up."
+msgstr ""
+"He said to her, “When you’re ready to do just that, you will feel much "
+"better,” and hung up."
+
+#. Context: Pat Hopkins recalls, “Also, while he had a brilliant mind and a
+#. naturally elegant way of speaking, he never clobbered you over the head
+#. with his knowledge or the power of his intellect. He was truly the most
+#. modest, gentle man I’ve ever known.”[91] Another example of Bill’s
+#. confirming wisdom was this response to Bob Beale:
+#: paragraph:7,sentence:1
+msgid ""
+"Pat Hopkins recalls, “Also, while he had a brilliant mind and a naturally "
+"elegant way of speaking, he never clobbered you over the head with his "
+"knowledge or the power of his intellect."
+msgstr ""
+"Pat Hopkins recalls, “Also, while he had a brilliant mind and a naturally "
+"elegant way of speaking, he never clobbered you over the head with his "
+"knowledge or the power of his intellect."
+
+#. Context: Pat Hopkins recalls, “Also, while he had a brilliant mind and a
+#. naturally elegant way of speaking, he never clobbered you over the head
+#. with his knowledge or the power of his intellect. He was truly the most
+#. modest, gentle man I’ve ever known.”[91] Another example of Bill’s
+#. confirming wisdom was this response to Bob Beale:
+#: paragraph:7,sentence:2
+msgid ""
+"He was truly the most modest, gentle man I’ve ever known.”[91] Another "
+"example of Bill’s confirming wisdom was this response to Bob Beale:"
+msgstr ""
+"He was truly the most modest, gentle man I’ve ever known.”[91] Another "
+"example of Bill’s confirming wisdom was this response to Bob Beale:"
+
+#. Context: One early morning while we were on that trip to Santa Fe, I jogged
+#. around the national cemetery there for about forty-five minutes or so, and
+#. after returning, we were all having breakfast and I said, “You know Bill,
+#. when I was in that cemetery I got a sense that a number of the spirits of
+#. those people buried there were around. And it seemed like they were talking
+#. to me so I just decided to have a conversation with them. I told him
+#. Sergeant So-and-So said this and Captain Jones said that, calling them by
+#. name.” I remember Bill saying, “Well, of course, that’s what happens.” He
+#. didn’t elaborate on things, just giving such amazing confirmation.[92]
+#: paragraph:8,sentence:1
+msgid ""
+"One early morning while we were on that trip to Santa Fe, I jogged around "
+"the national cemetery there for about forty-five minutes or so, and after "
+"returning, we were all having breakfast and I said, “You know Bill, when I "
+"was in that cemetery I got a sense that a number of the spirits of those "
+"people buried there were around."
+msgstr ""
+"One early morning while we were on that trip to Santa Fe, I jogged around "
+"the national cemetery there for about forty-five minutes or so, and after "
+"returning, we were all having breakfast and I said, “You know Bill, when I "
+"was in that cemetery I got a sense that a number of the spirits of those "
+"people buried there were around."
+
+#. Context: One early morning while we were on that trip to Santa Fe, I jogged
+#. around the national cemetery there for about forty-five minutes or so, and
+#. after returning, we were all having breakfast and I said, “You know Bill,
+#. when I was in that cemetery I got a sense that a number of the spirits of
+#. those people buried there were around. And it seemed like they were talking
+#. to me so I just decided to have a conversation with them. I told him
+#. Sergeant So-and-So said this and Captain Jones said that, calling them by
+#. name.” I remember Bill saying, “Well, of course, that’s what happens.” He
+#. didn’t elaborate on things, just giving such amazing confirmation.[92]
+#: paragraph:8,sentence:2
+msgid ""
+"And it seemed like they were talking to me so I just decided to have a "
+"conversation with them."
+msgstr ""
+"And it seemed like they were talking to me so I just decided to have a "
+"conversation with them."
+
+#. Context: One early morning while we were on that trip to Santa Fe, I jogged
+#. around the national cemetery there for about forty-five minutes or so, and
+#. after returning, we were all having breakfast and I said, “You know Bill,
+#. when I was in that cemetery I got a sense that a number of the spirits of
+#. those people buried there were around. And it seemed like they were talking
+#. to me so I just decided to have a conversation with them. I told him
+#. Sergeant So-and-So said this and Captain Jones said that, calling them by
+#. name.” I remember Bill saying, “Well, of course, that’s what happens.” He
+#. didn’t elaborate on things, just giving such amazing confirmation.[92]
+#: paragraph:8,sentence:3
+msgid ""
+"I told him Sergeant So-and-So said this and Captain Jones said that, calling"
+" them by name.” I remember Bill saying, “Well, of course, that’s what "
+"happens.” He didn’t elaborate on things, just giving such amazing "
+"confirmation.[92]"
+msgstr ""
+"I told him Sergeant So-and-So said this and Captain Jones said that, calling"
+" them by name.” I remember Bill saying, “Well, of course, that’s what "
+"happens.” He didn’t elaborate on things, just giving such amazing "
+"confirmation.[92]"
+
+#. Context: That quiet, behind-the-scenes brilliance manifested in other ways.
+#. Whit Whitson noted,
+#: paragraph:9,sentence:1
+msgid ""
+"That quiet, behind-the-scenes brilliance manifested in other ways. Whit "
+"Whitson noted,"
+msgstr ""
+"That quiet, behind-the-scenes brilliance manifested in other ways. Whit "
+"Whitson noted,"
+
+#. Context: When we were at parties or elsewhere, Bill and I would see someone
+#. come in and watch their body language to try to fit that personality into
+#. the PAS, not dissecting the person but playing with the basic structure of
+#. the PAS as applied to that person. Then we would embellish it. It was as if
+#. we had found the basic Christmas tree and then decided what kind of baubles
+#. would be hung on that kind of Christmas tree [in terms of fine-tuning the
+#. exact details of that particular personality type, after noting the basic
+#. personality components]. Bill knew so much more about it than I did that I
+#. would sit there fascinated. He enjoyed that kind of intellectual discourse
+#. because at the level of analyzing the ego, he was the best.[93]
+#: paragraph:10,sentence:1
+msgid ""
+"When we were at parties or elsewhere, Bill and I would see someone come in "
+"and watch their body language to try to fit that personality into the PAS, "
+"not dissecting the person but playing with the basic structure of the PAS as"
+" applied to that person."
+msgstr ""
+"When we were at parties or elsewhere, Bill and I would see someone come in "
+"and watch their body language to try to fit that personality into the PAS, "
+"not dissecting the person but playing with the basic structure of the PAS as"
+" applied to that person."
+
+#. Context: When we were at parties or elsewhere, Bill and I would see someone
+#. come in and watch their body language to try to fit that personality into
+#. the PAS, not dissecting the person but playing with the basic structure of
+#. the PAS as applied to that person. Then we would embellish it. It was as if
+#. we had found the basic Christmas tree and then decided what kind of baubles
+#. would be hung on that kind of Christmas tree [in terms of fine-tuning the
+#. exact details of that particular personality type, after noting the basic
+#. personality components]. Bill knew so much more about it than I did that I
+#. would sit there fascinated. He enjoyed that kind of intellectual discourse
+#. because at the level of analyzing the ego, he was the best.[93]
+#: paragraph:10,sentence:2
+msgid "Then we would embellish it."
+msgstr "Then we would embellish it."
+
+#. Context: When we were at parties or elsewhere, Bill and I would see someone
+#. come in and watch their body language to try to fit that personality into
+#. the PAS, not dissecting the person but playing with the basic structure of
+#. the PAS as applied to that person. Then we would embellish it. It was as if
+#. we had found the basic Christmas tree and then decided what kind of baubles
+#. would be hung on that kind of Christmas tree [in terms of fine-tuning the
+#. exact details of that particular personality type, after noting the basic
+#. personality components]. Bill knew so much more about it than I did that I
+#. would sit there fascinated. He enjoyed that kind of intellectual discourse
+#. because at the level of analyzing the ego, he was the best.[93]
+#: paragraph:10,sentence:3
+msgid ""
+"It was as if we had found the basic Christmas tree and then decided what "
+"kind of baubles would be hung on that kind of Christmas tree [in terms of "
+"fine-tuning the exact details of that particular personality type, after "
+"noting the basic personality components]."
+msgstr ""
+"It was as if we had found the basic Christmas tree and then decided what "
+"kind of baubles would be hung on that kind of Christmas tree [in terms of "
+"fine-tuning the exact details of that particular personality type, after "
+"noting the basic personality components]."
+
+#. Context: When we were at parties or elsewhere, Bill and I would see someone
+#. come in and watch their body language to try to fit that personality into
+#. the PAS, not dissecting the person but playing with the basic structure of
+#. the PAS as applied to that person. Then we would embellish it. It was as if
+#. we had found the basic Christmas tree and then decided what kind of baubles
+#. would be hung on that kind of Christmas tree [in terms of fine-tuning the
+#. exact details of that particular personality type, after noting the basic
+#. personality components]. Bill knew so much more about it than I did that I
+#. would sit there fascinated. He enjoyed that kind of intellectual discourse
+#. because at the level of analyzing the ego, he was the best.[93]
+#: paragraph:10,sentence:4
+msgid ""
+"Bill knew so much more about it than I did that I would sit there "
+"fascinated."
+msgstr ""
+"Bill knew so much more about it than I did that I would sit there "
+"fascinated."
+
+#. Context: When we were at parties or elsewhere, Bill and I would see someone
+#. come in and watch their body language to try to fit that personality into
+#. the PAS, not dissecting the person but playing with the basic structure of
+#. the PAS as applied to that person. Then we would embellish it. It was as if
+#. we had found the basic Christmas tree and then decided what kind of baubles
+#. would be hung on that kind of Christmas tree [in terms of fine-tuning the
+#. exact details of that particular personality type, after noting the basic
+#. personality components]. Bill knew so much more about it than I did that I
+#. would sit there fascinated. He enjoyed that kind of intellectual discourse
+#. because at the level of analyzing the ego, he was the best.[93]
+#: paragraph:10,sentence:5
+msgid ""
+"He enjoyed that kind of intellectual discourse because at the level of "
+"analyzing the ego, he was the best.[93]"
+msgstr ""
+"He enjoyed that kind of intellectual discourse because at the level of "
+"analyzing the ego, he was the best.[93]"
+
+#. Context: Whit also commented that Bill possessed a talent for evaluation
+#. that was almost psychic and always empathetic. However, that particular
+#. demonstration of his talent remained private, shared only with Whit in
+#. Tiburon, who could appreciate Bill’s ability from his own experience with
+#. the PAS.
+#: paragraph:11,sentence:1
+msgid ""
+"Whit also commented that Bill possessed a talent for evaluation that was "
+"almost psychic and always empathetic."
+msgstr ""
+"Whit also commented that Bill possessed a talent for evaluation that was "
+"almost psychic and always empathetic."
+
+#. Context: Whit also commented that Bill possessed a talent for evaluation
+#. that was almost psychic and always empathetic. However, that particular
+#. demonstration of his talent remained private, shared only with Whit in
+#. Tiburon, who could appreciate Bill’s ability from his own experience with
+#. the PAS.
+#: paragraph:11,sentence:2
+msgid ""
+"However, that particular demonstration of his talent remained private, "
+"shared only with Whit in Tiburon, who could appreciate Bill’s ability from "
+"his own experience with the PAS."
+msgstr ""
+"However, that particular demonstration of his talent remained private, "
+"shared only with Whit in Tiburon, who could appreciate Bill’s ability from "
+"his own experience with the PAS."
+
+#. Context: Another thing that was very interesting to me about Bill’s life
+#. was that he never used ACIM to his benefit, where all the rest of us have.
+#. To one degree or another, we’ve made money off the Course; we’ve increased
+#. our reputations with it. I don’t think there’s anything wrong with that,
+#. but it was just remarkable that Bill never once used the Course to enhance
+#. himself or put money in his pocket in any way, nor did he have any interest
+#. in doing that. In fact, he had great reluctance.[94]
+#: paragraph:12,sentence:1
+msgid ""
+"Another thing that was very interesting to me about Bill’s life was that he "
+"never used ACIM to his benefit, where all the rest of us have."
+msgstr ""
+"Another thing that was very interesting to me about Bill’s life was that he "
+"never used ACIM to his benefit, where all the rest of us have."
+
+#. Context: Another thing that was very interesting to me about Bill’s life
+#. was that he never used ACIM to his benefit, where all the rest of us have.
+#. To one degree or another, we’ve made money off the Course; we’ve increased
+#. our reputations with it. I don’t think there’s anything wrong with that,
+#. but it was just remarkable that Bill never once used the Course to enhance
+#. himself or put money in his pocket in any way, nor did he have any interest
+#. in doing that. In fact, he had great reluctance.[94]
+#: paragraph:12,sentence:2
+msgid ""
+"To one degree or another, we’ve made money off the Course; we’ve increased "
+"our reputations with it."
+msgstr ""
+"To one degree or another, we’ve made money off the Course; we’ve increased "
+"our reputations with it."
+
+#. Context: Another thing that was very interesting to me about Bill’s life
+#. was that he never used ACIM to his benefit, where all the rest of us have.
+#. To one degree or another, we’ve made money off the Course; we’ve increased
+#. our reputations with it. I don’t think there’s anything wrong with that,
+#. but it was just remarkable that Bill never once used the Course to enhance
+#. himself or put money in his pocket in any way, nor did he have any interest
+#. in doing that. In fact, he had great reluctance.[94]
+#: paragraph:12,sentence:3
+msgid ""
+"I don’t think there’s anything wrong with that, but it was just remarkable "
+"that Bill never once used the Course to enhance himself or put money in his "
+"pocket in any way, nor did he have any interest in doing that."
+msgstr ""
+"I don’t think there’s anything wrong with that, but it was just remarkable "
+"that Bill never once used the Course to enhance himself or put money in his "
+"pocket in any way, nor did he have any interest in doing that."
+
+#. Context: Another thing that was very interesting to me about Bill’s life
+#. was that he never used ACIM to his benefit, where all the rest of us have.
+#. To one degree or another, we’ve made money off the Course; we’ve increased
+#. our reputations with it. I don’t think there’s anything wrong with that,
+#. but it was just remarkable that Bill never once used the Course to enhance
+#. himself or put money in his pocket in any way, nor did he have any interest
+#. in doing that. In fact, he had great reluctance.[94]
+#: paragraph:12,sentence:4
+msgid "In fact, he had great reluctance.[94]"
+msgstr "In fact, he had great reluctance.[94]"
+
+#. Context: Roger Walsh commented on his first impression of Bill:
+#: paragraph:13,sentence:1
+msgid "Roger Walsh commented on his first impression of Bill:"
+msgstr "Roger Walsh commented on his first impression of Bill:"
+
+#. Context: The one that immediately comes up is that he was so shy. It took
+#. me a while to appreciate that it was an extraordinary degree of humility.
+#. He was unduly self-deprecating but I came to appreciate that that was just
+#. a very genuine and deep form of humility. When I first saw the Course, I
+#. opened it up and saw those words “God” and “Holy Spirit” and said, “No
+#. thanks.” One time, Bill and Jerry were making a presentation on ACIM at the
+#. American Psychiatric Conference in San Francisco. I remember going to the
+#. gathering afterwards and meeting Bill there and literally having the
+#. thought, “Well, if this guy’s into it, I’m interested.” . . . He served the
+#. purpose of opening doors for me in the sense that I came from a very hard-
+#. core scientific, materialist, reductionist, anti-spiritual background and
+#. he was someone who I could not pretend to be brighter than, and yet who
+#. himself had come around to appreciate this material, so I appreciated it.
+#. Here was someone with a very impressive intellect who was impressed by it.
+#. It’s one thing when people who may not be so analytically or critically
+#. inclined get into something but another, indeed, with someone whose
+#. credentials are impeccable, whose intellectual and skeptical faculties are
+#. good.[95]
+#: paragraph:14,sentence:1
+msgid "The one that immediately comes up is that he was so shy."
+msgstr "The one that immediately comes up is that he was so shy."
+
+#. Context: The one that immediately comes up is that he was so shy. It took
+#. me a while to appreciate that it was an extraordinary degree of humility.
+#. He was unduly self-deprecating but I came to appreciate that that was just
+#. a very genuine and deep form of humility. When I first saw the Course, I
+#. opened it up and saw those words “God” and “Holy Spirit” and said, “No
+#. thanks.” One time, Bill and Jerry were making a presentation on ACIM at the
+#. American Psychiatric Conference in San Francisco. I remember going to the
+#. gathering afterwards and meeting Bill there and literally having the
+#. thought, “Well, if this guy’s into it, I’m interested.” . . . He served the
+#. purpose of opening doors for me in the sense that I came from a very hard-
+#. core scientific, materialist, reductionist, anti-spiritual background and
+#. he was someone who I could not pretend to be brighter than, and yet who
+#. himself had come around to appreciate this material, so I appreciated it.
+#. Here was someone with a very impressive intellect who was impressed by it.
+#. It’s one thing when people who may not be so analytically or critically
+#. inclined get into something but another, indeed, with someone whose
+#. credentials are impeccable, whose intellectual and skeptical faculties are
+#. good.[95]
+#: paragraph:14,sentence:2
+msgid ""
+"It took me a while to appreciate that it was an extraordinary degree of "
+"humility."
+msgstr ""
+"It took me a while to appreciate that it was an extraordinary degree of "
+"humility."
+
+#. Context: The one that immediately comes up is that he was so shy. It took
+#. me a while to appreciate that it was an extraordinary degree of humility.
+#. He was unduly self-deprecating but I came to appreciate that that was just
+#. a very genuine and deep form of humility. When I first saw the Course, I
+#. opened it up and saw those words “God” and “Holy Spirit” and said, “No
+#. thanks.” One time, Bill and Jerry were making a presentation on ACIM at the
+#. American Psychiatric Conference in San Francisco. I remember going to the
+#. gathering afterwards and meeting Bill there and literally having the
+#. thought, “Well, if this guy’s into it, I’m interested.” . . . He served the
+#. purpose of opening doors for me in the sense that I came from a very hard-
+#. core scientific, materialist, reductionist, anti-spiritual background and
+#. he was someone who I could not pretend to be brighter than, and yet who
+#. himself had come around to appreciate this material, so I appreciated it.
+#. Here was someone with a very impressive intellect who was impressed by it.
+#. It’s one thing when people who may not be so analytically or critically
+#. inclined get into something but another, indeed, with someone whose
+#. credentials are impeccable, whose intellectual and skeptical faculties are
+#. good.[95]
+#: paragraph:14,sentence:3
+msgid ""
+"He was unduly self-deprecating but I came to appreciate that that was just a"
+" very genuine and deep form of humility."
+msgstr ""
+"He was unduly self-deprecating but I came to appreciate that that was just a"
+" very genuine and deep form of humility."
+
+#. Context: The one that immediately comes up is that he was so shy. It took
+#. me a while to appreciate that it was an extraordinary degree of humility.
+#. He was unduly self-deprecating but I came to appreciate that that was just
+#. a very genuine and deep form of humility. When I first saw the Course, I
+#. opened it up and saw those words “God” and “Holy Spirit” and said, “No
+#. thanks.” One time, Bill and Jerry were making a presentation on ACIM at the
+#. American Psychiatric Conference in San Francisco. I remember going to the
+#. gathering afterwards and meeting Bill there and literally having the
+#. thought, “Well, if this guy’s into it, I’m interested.” . . . He served the
+#. purpose of opening doors for me in the sense that I came from a very hard-
+#. core scientific, materialist, reductionist, anti-spiritual background and
+#. he was someone who I could not pretend to be brighter than, and yet who
+#. himself had come around to appreciate this material, so I appreciated it.
+#. Here was someone with a very impressive intellect who was impressed by it.
+#. It’s one thing when people who may not be so analytically or critically
+#. inclined get into something but another, indeed, with someone whose
+#. credentials are impeccable, whose intellectual and skeptical faculties are
+#. good.[95]
+#: paragraph:14,sentence:4
+msgid ""
+"When I first saw the Course, I opened it up and saw those words “God” and "
+"“Holy Spirit” and said, “No thanks.” One time, Bill and Jerry were making a "
+"presentation on ACIM at the American Psychiatric Conference in San "
+"Francisco."
+msgstr ""
+"When I first saw the Course, I opened it up and saw those words “God” and "
+"“Holy Spirit” and said, “No thanks.” One time, Bill and Jerry were making a "
+"presentation on ACIM at the American Psychiatric Conference in San "
+"Francisco."
+
+#. Context: The one that immediately comes up is that he was so shy. It took
+#. me a while to appreciate that it was an extraordinary degree of humility.
+#. He was unduly self-deprecating but I came to appreciate that that was just
+#. a very genuine and deep form of humility. When I first saw the Course, I
+#. opened it up and saw those words “God” and “Holy Spirit” and said, “No
+#. thanks.” One time, Bill and Jerry were making a presentation on ACIM at the
+#. American Psychiatric Conference in San Francisco. I remember going to the
+#. gathering afterwards and meeting Bill there and literally having the
+#. thought, “Well, if this guy’s into it, I’m interested.” . . . He served the
+#. purpose of opening doors for me in the sense that I came from a very hard-
+#. core scientific, materialist, reductionist, anti-spiritual background and
+#. he was someone who I could not pretend to be brighter than, and yet who
+#. himself had come around to appreciate this material, so I appreciated it.
+#. Here was someone with a very impressive intellect who was impressed by it.
+#. It’s one thing when people who may not be so analytically or critically
+#. inclined get into something but another, indeed, with someone whose
+#. credentials are impeccable, whose intellectual and skeptical faculties are
+#. good.[95]
+#: paragraph:14,sentence:5
+msgid ""
+"I remember going to the gathering afterwards and meeting Bill there and "
+"literally having the thought, “Well, if this guy’s into it, I’m interested.”"
+" . . ."
+msgstr ""
+"I remember going to the gathering afterwards and meeting Bill there and "
+"literally having the thought, “Well, if this guy’s into it, I’m interested.”"
+" . . ."
+
+#. Context: The one that immediately comes up is that he was so shy. It took
+#. me a while to appreciate that it was an extraordinary degree of humility.
+#. He was unduly self-deprecating but I came to appreciate that that was just
+#. a very genuine and deep form of humility. When I first saw the Course, I
+#. opened it up and saw those words “God” and “Holy Spirit” and said, “No
+#. thanks.” One time, Bill and Jerry were making a presentation on ACIM at the
+#. American Psychiatric Conference in San Francisco. I remember going to the
+#. gathering afterwards and meeting Bill there and literally having the
+#. thought, “Well, if this guy’s into it, I’m interested.” . . . He served the
+#. purpose of opening doors for me in the sense that I came from a very hard-
+#. core scientific, materialist, reductionist, anti-spiritual background and
+#. he was someone who I could not pretend to be brighter than, and yet who
+#. himself had come around to appreciate this material, so I appreciated it.
+#. Here was someone with a very impressive intellect who was impressed by it.
+#. It’s one thing when people who may not be so analytically or critically
+#. inclined get into something but another, indeed, with someone whose
+#. credentials are impeccable, whose intellectual and skeptical faculties are
+#. good.[95]
+#: paragraph:14,sentence:6
+msgid ""
+"He served the purpose of opening doors for me in the sense that I came from "
+"a very hard-core scientific, materialist, reductionist, anti-spiritual "
+"background and he was someone who I could not pretend to be brighter than, "
+"and yet who himself had come around to appreciate this material, so I "
+"appreciated it."
+msgstr ""
+"He served the purpose of opening doors for me in the sense that I came from "
+"a very hard-core scientific, materialist, reductionist, anti-spiritual "
+"background and he was someone who I could not pretend to be brighter than, "
+"and yet who himself had come around to appreciate this material, so I "
+"appreciated it."
+
+#. Context: The one that immediately comes up is that he was so shy. It took
+#. me a while to appreciate that it was an extraordinary degree of humility.
+#. He was unduly self-deprecating but I came to appreciate that that was just
+#. a very genuine and deep form of humility. When I first saw the Course, I
+#. opened it up and saw those words “God” and “Holy Spirit” and said, “No
+#. thanks.” One time, Bill and Jerry were making a presentation on ACIM at the
+#. American Psychiatric Conference in San Francisco. I remember going to the
+#. gathering afterwards and meeting Bill there and literally having the
+#. thought, “Well, if this guy’s into it, I’m interested.” . . . He served the
+#. purpose of opening doors for me in the sense that I came from a very hard-
+#. core scientific, materialist, reductionist, anti-spiritual background and
+#. he was someone who I could not pretend to be brighter than, and yet who
+#. himself had come around to appreciate this material, so I appreciated it.
+#. Here was someone with a very impressive intellect who was impressed by it.
+#. It’s one thing when people who may not be so analytically or critically
+#. inclined get into something but another, indeed, with someone whose
+#. credentials are impeccable, whose intellectual and skeptical faculties are
+#. good.[95]
+#: paragraph:14,sentence:7
+msgid ""
+"Here was someone with a very impressive intellect who was impressed by it."
+msgstr ""
+"Here was someone with a very impressive intellect who was impressed by it."
+
+#. Context: The one that immediately comes up is that he was so shy. It took
+#. me a while to appreciate that it was an extraordinary degree of humility.
+#. He was unduly self-deprecating but I came to appreciate that that was just
+#. a very genuine and deep form of humility. When I first saw the Course, I
+#. opened it up and saw those words “God” and “Holy Spirit” and said, “No
+#. thanks.” One time, Bill and Jerry were making a presentation on ACIM at the
+#. American Psychiatric Conference in San Francisco. I remember going to the
+#. gathering afterwards and meeting Bill there and literally having the
+#. thought, “Well, if this guy’s into it, I’m interested.” . . . He served the
+#. purpose of opening doors for me in the sense that I came from a very hard-
+#. core scientific, materialist, reductionist, anti-spiritual background and
+#. he was someone who I could not pretend to be brighter than, and yet who
+#. himself had come around to appreciate this material, so I appreciated it.
+#. Here was someone with a very impressive intellect who was impressed by it.
+#. It’s one thing when people who may not be so analytically or critically
+#. inclined get into something but another, indeed, with someone whose
+#. credentials are impeccable, whose intellectual and skeptical faculties are
+#. good.[95]
+#: paragraph:14,sentence:8
+msgid ""
+"It’s one thing when people who may not be so analytically or critically "
+"inclined get into something but another, indeed, with someone whose "
+"credentials are impeccable, whose intellectual and skeptical faculties are "
+"good.[95]"
+msgstr ""
+"It’s one thing when people who may not be so analytically or critically "
+"inclined get into something but another, indeed, with someone whose "
+"credentials are impeccable, whose intellectual and skeptical faculties are "
+"good.[95]"
+
+#. Context: At Bill’s memorial service, Roger additionally commented on the
+#. deep impact of Bill’s choice to leave no legacy. Although so many devote
+#. enormous amounts of time to creating a legacy and identifying their lives
+#. with it, Bill’s intention was to leave no personal footprint but simply to
+#. be ordinary.
+#: paragraph:15,sentence:1
+msgid ""
+"At Bill’s memorial service, Roger additionally commented on the deep impact "
+"of Bill’s choice to leave no legacy."
+msgstr ""
+"At Bill’s memorial service, Roger additionally commented on the deep impact "
+"of Bill’s choice to leave no legacy."
+
+#. Context: At Bill’s memorial service, Roger additionally commented on the
+#. deep impact of Bill’s choice to leave no legacy. Although so many devote
+#. enormous amounts of time to creating a legacy and identifying their lives
+#. with it, Bill’s intention was to leave no personal footprint but simply to
+#. be ordinary.
+#: paragraph:15,sentence:2
+msgid ""
+"Although so many devote enormous amounts of time to creating a legacy and "
+"identifying their lives with it, Bill’s intention was to leave no personal "
+"footprint but simply to be ordinary."
+msgstr ""
+"Although so many devote enormous amounts of time to creating a legacy and "
+"identifying their lives with it, Bill’s intention was to leave no personal "
+"footprint but simply to be ordinary."
+
+#. Context: Bill’s life was a model of the opposite. He had already created a
+#. legacy, one of priceless worth, and worked very hard to make sure he was
+#. not identified with it. Bill could have symbolized many things—an
+#. extraordinarily successful psychologist or a really successful person of
+#. the world, or a spiritual symbol as someone who was the source and creator
+#. of this most important spiritual text. He didn’t do any of the things I
+#. would assume to be part of making an important spiritual
+#. contribution—lecturing, writing books or papers on ACIM, appearing on TV,
+#. giving interviews. He stayed home most of the time, studied the Course, and
+#. tried to make his relationships whole, humbly and unpretentiously
+#. practicing the material. That, I find, is just an extraordinary
+#. example.[96]
+#: paragraph:16,sentence:1
+msgid "Bill’s life was a model of the opposite."
+msgstr "Bill’s life was a model of the opposite."
+
+#. Context: Bill’s life was a model of the opposite. He had already created a
+#. legacy, one of priceless worth, and worked very hard to make sure he was
+#. not identified with it. Bill could have symbolized many things—an
+#. extraordinarily successful psychologist or a really successful person of
+#. the world, or a spiritual symbol as someone who was the source and creator
+#. of this most important spiritual text. He didn’t do any of the things I
+#. would assume to be part of making an important spiritual
+#. contribution—lecturing, writing books or papers on ACIM, appearing on TV,
+#. giving interviews. He stayed home most of the time, studied the Course, and
+#. tried to make his relationships whole, humbly and unpretentiously
+#. practicing the material. That, I find, is just an extraordinary
+#. example.[96]
+#: paragraph:16,sentence:2
+msgid ""
+"He had already created a legacy, one of priceless worth, and worked very "
+"hard to make sure he was not identified with it."
+msgstr ""
+"He had already created a legacy, one of priceless worth, and worked very "
+"hard to make sure he was not identified with it."
+
+#. Context: Bill’s life was a model of the opposite. He had already created a
+#. legacy, one of priceless worth, and worked very hard to make sure he was
+#. not identified with it. Bill could have symbolized many things—an
+#. extraordinarily successful psychologist or a really successful person of
+#. the world, or a spiritual symbol as someone who was the source and creator
+#. of this most important spiritual text. He didn’t do any of the things I
+#. would assume to be part of making an important spiritual
+#. contribution—lecturing, writing books or papers on ACIM, appearing on TV,
+#. giving interviews. He stayed home most of the time, studied the Course, and
+#. tried to make his relationships whole, humbly and unpretentiously
+#. practicing the material. That, I find, is just an extraordinary
+#. example.[96]
+#: paragraph:16,sentence:3
+msgid ""
+"Bill could have symbolized many things—an extraordinarily successful "
+"psychologist or a really successful person of the world, or a spiritual "
+"symbol as someone who was the source and creator of this most important "
+"spiritual text."
+msgstr ""
+"Bill could have symbolized many things—an extraordinarily successful "
+"psychologist or a really successful person of the world, or a spiritual "
+"symbol as someone who was the source and creator of this most important "
+"spiritual text."
+
+#. Context: Bill’s life was a model of the opposite. He had already created a
+#. legacy, one of priceless worth, and worked very hard to make sure he was
+#. not identified with it. Bill could have symbolized many things—an
+#. extraordinarily successful psychologist or a really successful person of
+#. the world, or a spiritual symbol as someone who was the source and creator
+#. of this most important spiritual text. He didn’t do any of the things I
+#. would assume to be part of making an important spiritual
+#. contribution—lecturing, writing books or papers on ACIM, appearing on TV,
+#. giving interviews. He stayed home most of the time, studied the Course, and
+#. tried to make his relationships whole, humbly and unpretentiously
+#. practicing the material. That, I find, is just an extraordinary
+#. example.[96]
+#: paragraph:16,sentence:4
+msgid ""
+"He didn’t do any of the things I would assume to be part of making an "
+"important spiritual contribution—lecturing, writing books or papers on ACIM,"
+" appearing on TV, giving interviews."
+msgstr ""
+"He didn’t do any of the things I would assume to be part of making an "
+"important spiritual contribution—lecturing, writing books or papers on ACIM,"
+" appearing on TV, giving interviews."
+
+#. Context: Bill’s life was a model of the opposite. He had already created a
+#. legacy, one of priceless worth, and worked very hard to make sure he was
+#. not identified with it. Bill could have symbolized many things—an
+#. extraordinarily successful psychologist or a really successful person of
+#. the world, or a spiritual symbol as someone who was the source and creator
+#. of this most important spiritual text. He didn’t do any of the things I
+#. would assume to be part of making an important spiritual
+#. contribution—lecturing, writing books or papers on ACIM, appearing on TV,
+#. giving interviews. He stayed home most of the time, studied the Course, and
+#. tried to make his relationships whole, humbly and unpretentiously
+#. practicing the material. That, I find, is just an extraordinary
+#. example.[96]
+#: paragraph:16,sentence:5
+msgid ""
+"He stayed home most of the time, studied the Course, and tried to make his "
+"relationships whole, humbly and unpretentiously practicing the material."
+msgstr ""
+"He stayed home most of the time, studied the Course, and tried to make his "
+"relationships whole, humbly and unpretentiously practicing the material."
+
+#. Context: Bill’s life was a model of the opposite. He had already created a
+#. legacy, one of priceless worth, and worked very hard to make sure he was
+#. not identified with it. Bill could have symbolized many things—an
+#. extraordinarily successful psychologist or a really successful person of
+#. the world, or a spiritual symbol as someone who was the source and creator
+#. of this most important spiritual text. He didn’t do any of the things I
+#. would assume to be part of making an important spiritual
+#. contribution—lecturing, writing books or papers on ACIM, appearing on TV,
+#. giving interviews. He stayed home most of the time, studied the Course, and
+#. tried to make his relationships whole, humbly and unpretentiously
+#. practicing the material. That, I find, is just an extraordinary
+#. example.[96]
+#: paragraph:16,sentence:6
+msgid "That, I find, is just an extraordinary example.[96]"
+msgstr "That, I find, is just an extraordinary example.[96]"
+
+#. Context: One aspect of Bill’s wisdom was his willingness to acknowledge
+#. what he didn’t know, despite all the knowledge he possessed. If you believe
+#. you should already know it all and must not reveal that you don’t,
+#. protecting your image as an accomplished self becomes job one—a terrible
+#. trap. In contrast, Jaison Kayn noted,
+#: paragraph:17,sentence:1
+msgid ""
+"One aspect of Bill’s wisdom was his willingness to acknowledge what he "
+"didn’t know, despite all the knowledge he possessed."
+msgstr ""
+"One aspect of Bill’s wisdom was his willingness to acknowledge what he "
+"didn’t know, despite all the knowledge he possessed."
+
+#. Context: One aspect of Bill’s wisdom was his willingness to acknowledge
+#. what he didn’t know, despite all the knowledge he possessed. If you believe
+#. you should already know it all and must not reveal that you don’t,
+#. protecting your image as an accomplished self becomes job one—a terrible
+#. trap. In contrast, Jaison Kayn noted,
+#: paragraph:17,sentence:2
+msgid ""
+"If you believe you should already know it all and must not reveal that you "
+"don’t, protecting your image as an accomplished self becomes job one—a "
+"terrible trap."
+msgstr ""
+"If you believe you should already know it all and must not reveal that you "
+"don’t, protecting your image as an accomplished self becomes job one—a "
+"terrible trap."
+
+#. Context: One aspect of Bill’s wisdom was his willingness to acknowledge
+#. what he didn’t know, despite all the knowledge he possessed. If you believe
+#. you should already know it all and must not reveal that you don’t,
+#. protecting your image as an accomplished self becomes job one—a terrible
+#. trap. In contrast, Jaison Kayn noted,
+#: paragraph:17,sentence:3
+msgid "In contrast, Jaison Kayn noted,"
+msgstr "In contrast, Jaison Kayn noted,"
+
+#. Context: Bill, clearly being human at the time, had all his normal human
+#. stuff to deal with too, just like the rest of us. And he never tried to
+#. pretend that wasn’t so. The feeling he conveyed was that he was in this
+#. soup like all the rest of us, and enjoyed being with us. I also had the
+#. sense that he liked being included [in our Denver group] because in a
+#. certain way he was shy and naive about some things. I expected someone who
+#. was the authority, but he was very open about his confusions and doubts.
+#. Everybody assumed he knew everything, but he was just another guy trying to
+#. figure life out. Sometimes he was the opposite of the guy with all the
+#. answers and would get that look in his eyes like, “I haven’t got a clue,
+#. don’t ask me.” He would defer as much as possible, put everybody else in
+#. the middle of things and have them speak because he didn’t want to be the
+#. center of attention. He didn’t want to be the big cheese at all, but when
+#. he spoke, everyone listened. He did not like having that much
+#. responsibility, but he accepted it as if he knew his gems were seeds that
+#. he needed to scatter. He also knew he was giving more than information or
+#. wisdom; he was giving support and encouragement, an act of love that would
+#. help people believe in the message and do their inner work. When he spoke,
+#. there was no preaching; it was all about practice.[97]
+#: paragraph:18,sentence:1
+msgid ""
+"Bill, clearly being human at the time, had all his normal human stuff to "
+"deal with too, just like the rest of us."
+msgstr ""
+"Bill, clearly being human at the time, had all his normal human stuff to "
+"deal with too, just like the rest of us."
+
+#. Context: Bill, clearly being human at the time, had all his normal human
+#. stuff to deal with too, just like the rest of us. And he never tried to
+#. pretend that wasn’t so. The feeling he conveyed was that he was in this
+#. soup like all the rest of us, and enjoyed being with us. I also had the
+#. sense that he liked being included [in our Denver group] because in a
+#. certain way he was shy and naive about some things. I expected someone who
+#. was the authority, but he was very open about his confusions and doubts.
+#. Everybody assumed he knew everything, but he was just another guy trying to
+#. figure life out. Sometimes he was the opposite of the guy with all the
+#. answers and would get that look in his eyes like, “I haven’t got a clue,
+#. don’t ask me.” He would defer as much as possible, put everybody else in
+#. the middle of things and have them speak because he didn’t want to be the
+#. center of attention. He didn’t want to be the big cheese at all, but when
+#. he spoke, everyone listened. He did not like having that much
+#. responsibility, but he accepted it as if he knew his gems were seeds that
+#. he needed to scatter. He also knew he was giving more than information or
+#. wisdom; he was giving support and encouragement, an act of love that would
+#. help people believe in the message and do their inner work. When he spoke,
+#. there was no preaching; it was all about practice.[97]
+#: paragraph:18,sentence:2
+msgid "And he never tried to pretend that wasn’t so."
+msgstr "And he never tried to pretend that wasn’t so."
+
+#. Context: Bill, clearly being human at the time, had all his normal human
+#. stuff to deal with too, just like the rest of us. And he never tried to
+#. pretend that wasn’t so. The feeling he conveyed was that he was in this
+#. soup like all the rest of us, and enjoyed being with us. I also had the
+#. sense that he liked being included [in our Denver group] because in a
+#. certain way he was shy and naive about some things. I expected someone who
+#. was the authority, but he was very open about his confusions and doubts.
+#. Everybody assumed he knew everything, but he was just another guy trying to
+#. figure life out. Sometimes he was the opposite of the guy with all the
+#. answers and would get that look in his eyes like, “I haven’t got a clue,
+#. don’t ask me.” He would defer as much as possible, put everybody else in
+#. the middle of things and have them speak because he didn’t want to be the
+#. center of attention. He didn’t want to be the big cheese at all, but when
+#. he spoke, everyone listened. He did not like having that much
+#. responsibility, but he accepted it as if he knew his gems were seeds that
+#. he needed to scatter. He also knew he was giving more than information or
+#. wisdom; he was giving support and encouragement, an act of love that would
+#. help people believe in the message and do their inner work. When he spoke,
+#. there was no preaching; it was all about practice.[97]
+#: paragraph:18,sentence:3
+msgid ""
+"The feeling he conveyed was that he was in this soup like all the rest of "
+"us, and enjoyed being with us."
+msgstr ""
+"The feeling he conveyed was that he was in this soup like all the rest of "
+"us, and enjoyed being with us."
+
+#. Context: Bill, clearly being human at the time, had all his normal human
+#. stuff to deal with too, just like the rest of us. And he never tried to
+#. pretend that wasn’t so. The feeling he conveyed was that he was in this
+#. soup like all the rest of us, and enjoyed being with us. I also had the
+#. sense that he liked being included [in our Denver group] because in a
+#. certain way he was shy and naive about some things. I expected someone who
+#. was the authority, but he was very open about his confusions and doubts.
+#. Everybody assumed he knew everything, but he was just another guy trying to
+#. figure life out. Sometimes he was the opposite of the guy with all the
+#. answers and would get that look in his eyes like, “I haven’t got a clue,
+#. don’t ask me.” He would defer as much as possible, put everybody else in
+#. the middle of things and have them speak because he didn’t want to be the
+#. center of attention. He didn’t want to be the big cheese at all, but when
+#. he spoke, everyone listened. He did not like having that much
+#. responsibility, but he accepted it as if he knew his gems were seeds that
+#. he needed to scatter. He also knew he was giving more than information or
+#. wisdom; he was giving support and encouragement, an act of love that would
+#. help people believe in the message and do their inner work. When he spoke,
+#. there was no preaching; it was all about practice.[97]
+#: paragraph:18,sentence:4
+msgid ""
+"I also had the sense that he liked being included [in our Denver group] "
+"because in a certain way he was shy and naive about some things."
+msgstr ""
+"I also had the sense that he liked being included [in our Denver group] "
+"because in a certain way he was shy and naive about some things."
+
+#. Context: Bill, clearly being human at the time, had all his normal human
+#. stuff to deal with too, just like the rest of us. And he never tried to
+#. pretend that wasn’t so. The feeling he conveyed was that he was in this
+#. soup like all the rest of us, and enjoyed being with us. I also had the
+#. sense that he liked being included [in our Denver group] because in a
+#. certain way he was shy and naive about some things. I expected someone who
+#. was the authority, but he was very open about his confusions and doubts.
+#. Everybody assumed he knew everything, but he was just another guy trying to
+#. figure life out. Sometimes he was the opposite of the guy with all the
+#. answers and would get that look in his eyes like, “I haven’t got a clue,
+#. don’t ask me.” He would defer as much as possible, put everybody else in
+#. the middle of things and have them speak because he didn’t want to be the
+#. center of attention. He didn’t want to be the big cheese at all, but when
+#. he spoke, everyone listened. He did not like having that much
+#. responsibility, but he accepted it as if he knew his gems were seeds that
+#. he needed to scatter. He also knew he was giving more than information or
+#. wisdom; he was giving support and encouragement, an act of love that would
+#. help people believe in the message and do their inner work. When he spoke,
+#. there was no preaching; it was all about practice.[97]
+#: paragraph:18,sentence:5
+msgid ""
+"I expected someone who was the authority, but he was very open about his "
+"confusions and doubts."
+msgstr ""
+"I expected someone who was the authority, but he was very open about his "
+"confusions and doubts."
+
+#. Context: Bill, clearly being human at the time, had all his normal human
+#. stuff to deal with too, just like the rest of us. And he never tried to
+#. pretend that wasn’t so. The feeling he conveyed was that he was in this
+#. soup like all the rest of us, and enjoyed being with us. I also had the
+#. sense that he liked being included [in our Denver group] because in a
+#. certain way he was shy and naive about some things. I expected someone who
+#. was the authority, but he was very open about his confusions and doubts.
+#. Everybody assumed he knew everything, but he was just another guy trying to
+#. figure life out. Sometimes he was the opposite of the guy with all the
+#. answers and would get that look in his eyes like, “I haven’t got a clue,
+#. don’t ask me.” He would defer as much as possible, put everybody else in
+#. the middle of things and have them speak because he didn’t want to be the
+#. center of attention. He didn’t want to be the big cheese at all, but when
+#. he spoke, everyone listened. He did not like having that much
+#. responsibility, but he accepted it as if he knew his gems were seeds that
+#. he needed to scatter. He also knew he was giving more than information or
+#. wisdom; he was giving support and encouragement, an act of love that would
+#. help people believe in the message and do their inner work. When he spoke,
+#. there was no preaching; it was all about practice.[97]
+#: paragraph:18,sentence:6
+msgid ""
+"Everybody assumed he knew everything, but he was just another guy trying to "
+"figure life out."
+msgstr ""
+"Everybody assumed he knew everything, but he was just another guy trying to "
+"figure life out."
+
+#. Context: Bill, clearly being human at the time, had all his normal human
+#. stuff to deal with too, just like the rest of us. And he never tried to
+#. pretend that wasn’t so. The feeling he conveyed was that he was in this
+#. soup like all the rest of us, and enjoyed being with us. I also had the
+#. sense that he liked being included [in our Denver group] because in a
+#. certain way he was shy and naive about some things. I expected someone who
+#. was the authority, but he was very open about his confusions and doubts.
+#. Everybody assumed he knew everything, but he was just another guy trying to
+#. figure life out. Sometimes he was the opposite of the guy with all the
+#. answers and would get that look in his eyes like, “I haven’t got a clue,
+#. don’t ask me.” He would defer as much as possible, put everybody else in
+#. the middle of things and have them speak because he didn’t want to be the
+#. center of attention. He didn’t want to be the big cheese at all, but when
+#. he spoke, everyone listened. He did not like having that much
+#. responsibility, but he accepted it as if he knew his gems were seeds that
+#. he needed to scatter. He also knew he was giving more than information or
+#. wisdom; he was giving support and encouragement, an act of love that would
+#. help people believe in the message and do their inner work. When he spoke,
+#. there was no preaching; it was all about practice.[97]
+#: paragraph:18,sentence:7
+msgid ""
+"Sometimes he was the opposite of the guy with all the answers and would get "
+"that look in his eyes like, “I haven’t got a clue, don’t ask me.” He would "
+"defer as much as possible, put everybody else in the middle of things and "
+"have them speak because he didn’t want to be the center of attention."
+msgstr ""
+"Sometimes he was the opposite of the guy with all the answers and would get "
+"that look in his eyes like, “I haven’t got a clue, don’t ask me.” He would "
+"defer as much as possible, put everybody else in the middle of things and "
+"have them speak because he didn’t want to be the center of attention."
+
+#. Context: Bill, clearly being human at the time, had all his normal human
+#. stuff to deal with too, just like the rest of us. And he never tried to
+#. pretend that wasn’t so. The feeling he conveyed was that he was in this
+#. soup like all the rest of us, and enjoyed being with us. I also had the
+#. sense that he liked being included [in our Denver group] because in a
+#. certain way he was shy and naive about some things. I expected someone who
+#. was the authority, but he was very open about his confusions and doubts.
+#. Everybody assumed he knew everything, but he was just another guy trying to
+#. figure life out. Sometimes he was the opposite of the guy with all the
+#. answers and would get that look in his eyes like, “I haven’t got a clue,
+#. don’t ask me.” He would defer as much as possible, put everybody else in
+#. the middle of things and have them speak because he didn’t want to be the
+#. center of attention. He didn’t want to be the big cheese at all, but when
+#. he spoke, everyone listened. He did not like having that much
+#. responsibility, but he accepted it as if he knew his gems were seeds that
+#. he needed to scatter. He also knew he was giving more than information or
+#. wisdom; he was giving support and encouragement, an act of love that would
+#. help people believe in the message and do their inner work. When he spoke,
+#. there was no preaching; it was all about practice.[97]
+#: paragraph:18,sentence:8
+msgid ""
+"He didn’t want to be the big cheese at all, but when he spoke, everyone "
+"listened."
+msgstr ""
+"He didn’t want to be the big cheese at all, but when he spoke, everyone "
+"listened."
+
+#. Context: Bill, clearly being human at the time, had all his normal human
+#. stuff to deal with too, just like the rest of us. And he never tried to
+#. pretend that wasn’t so. The feeling he conveyed was that he was in this
+#. soup like all the rest of us, and enjoyed being with us. I also had the
+#. sense that he liked being included [in our Denver group] because in a
+#. certain way he was shy and naive about some things. I expected someone who
+#. was the authority, but he was very open about his confusions and doubts.
+#. Everybody assumed he knew everything, but he was just another guy trying to
+#. figure life out. Sometimes he was the opposite of the guy with all the
+#. answers and would get that look in his eyes like, “I haven’t got a clue,
+#. don’t ask me.” He would defer as much as possible, put everybody else in
+#. the middle of things and have them speak because he didn’t want to be the
+#. center of attention. He didn’t want to be the big cheese at all, but when
+#. he spoke, everyone listened. He did not like having that much
+#. responsibility, but he accepted it as if he knew his gems were seeds that
+#. he needed to scatter. He also knew he was giving more than information or
+#. wisdom; he was giving support and encouragement, an act of love that would
+#. help people believe in the message and do their inner work. When he spoke,
+#. there was no preaching; it was all about practice.[97]
+#: paragraph:18,sentence:9
+msgid ""
+"He did not like having that much responsibility, but he accepted it as if he"
+" knew his gems were seeds that he needed to scatter."
+msgstr ""
+"He did not like having that much responsibility, but he accepted it as if he"
+" knew his gems were seeds that he needed to scatter."
+
+#. Context: Bill, clearly being human at the time, had all his normal human
+#. stuff to deal with too, just like the rest of us. And he never tried to
+#. pretend that wasn’t so. The feeling he conveyed was that he was in this
+#. soup like all the rest of us, and enjoyed being with us. I also had the
+#. sense that he liked being included [in our Denver group] because in a
+#. certain way he was shy and naive about some things. I expected someone who
+#. was the authority, but he was very open about his confusions and doubts.
+#. Everybody assumed he knew everything, but he was just another guy trying to
+#. figure life out. Sometimes he was the opposite of the guy with all the
+#. answers and would get that look in his eyes like, “I haven’t got a clue,
+#. don’t ask me.” He would defer as much as possible, put everybody else in
+#. the middle of things and have them speak because he didn’t want to be the
+#. center of attention. He didn’t want to be the big cheese at all, but when
+#. he spoke, everyone listened. He did not like having that much
+#. responsibility, but he accepted it as if he knew his gems were seeds that
+#. he needed to scatter. He also knew he was giving more than information or
+#. wisdom; he was giving support and encouragement, an act of love that would
+#. help people believe in the message and do their inner work. When he spoke,
+#. there was no preaching; it was all about practice.[97]
+#: paragraph:18,sentence:10
+msgid ""
+"He also knew he was giving more than information or wisdom; he was giving "
+"support and encouragement, an act of love that would help people believe in "
+"the message and do their inner work."
+msgstr ""
+"He also knew he was giving more than information or wisdom; he was giving "
+"support and encouragement, an act of love that would help people believe in "
+"the message and do their inner work."
+
+#. Context: Bill, clearly being human at the time, had all his normal human
+#. stuff to deal with too, just like the rest of us. And he never tried to
+#. pretend that wasn’t so. The feeling he conveyed was that he was in this
+#. soup like all the rest of us, and enjoyed being with us. I also had the
+#. sense that he liked being included [in our Denver group] because in a
+#. certain way he was shy and naive about some things. I expected someone who
+#. was the authority, but he was very open about his confusions and doubts.
+#. Everybody assumed he knew everything, but he was just another guy trying to
+#. figure life out. Sometimes he was the opposite of the guy with all the
+#. answers and would get that look in his eyes like, “I haven’t got a clue,
+#. don’t ask me.” He would defer as much as possible, put everybody else in
+#. the middle of things and have them speak because he didn’t want to be the
+#. center of attention. He didn’t want to be the big cheese at all, but when
+#. he spoke, everyone listened. He did not like having that much
+#. responsibility, but he accepted it as if he knew his gems were seeds that
+#. he needed to scatter. He also knew he was giving more than information or
+#. wisdom; he was giving support and encouragement, an act of love that would
+#. help people believe in the message and do their inner work. When he spoke,
+#. there was no preaching; it was all about practice.[97]
+#: paragraph:18,sentence:11
+msgid "When he spoke, there was no preaching; it was all about practice.[97]"
+msgstr "When he spoke, there was no preaching; it was all about practice.[97]"
+
+#. Context: Catherine Prescott remembered,
+#: paragraph:19,sentence:1
+msgid "Catherine Prescott remembered,"
+msgstr "Catherine Prescott remembered,"
+
+#. Context: He seemed very egoless to me, I will say that. I’m sure he had
+#. one, but he was so humble himself. Probably the worst [in terms of the ego
+#. revealing itself] was in those sessions where he got in touch with the
+#. angry side of himself. He would blow up and then feel remorseful and
+#. disgusted with himself. I think he was finishing up some work with Helen,
+#. and of course, we talked about all that nonstop. He always reflected back,
+#. wondering if he was a good or a bad person.[98]
+#: paragraph:20,sentence:1
+msgid "He seemed very egoless to me, I will say that."
+msgstr "He seemed very egoless to me, I will say that."
+
+#. Context: He seemed very egoless to me, I will say that. I’m sure he had
+#. one, but he was so humble himself. Probably the worst [in terms of the ego
+#. revealing itself] was in those sessions where he got in touch with the
+#. angry side of himself. He would blow up and then feel remorseful and
+#. disgusted with himself. I think he was finishing up some work with Helen,
+#. and of course, we talked about all that nonstop. He always reflected back,
+#. wondering if he was a good or a bad person.[98]
+#: paragraph:20,sentence:2
+msgid "I’m sure he had one, but he was so humble himself."
+msgstr "I’m sure he had one, but he was so humble himself."
+
+#. Context: He seemed very egoless to me, I will say that. I’m sure he had
+#. one, but he was so humble himself. Probably the worst [in terms of the ego
+#. revealing itself] was in those sessions where he got in touch with the
+#. angry side of himself. He would blow up and then feel remorseful and
+#. disgusted with himself. I think he was finishing up some work with Helen,
+#. and of course, we talked about all that nonstop. He always reflected back,
+#. wondering if he was a good or a bad person.[98]
+#: paragraph:20,sentence:3
+msgid ""
+"Probably the worst [in terms of the ego revealing itself] was in those "
+"sessions where he got in touch with the angry side of himself."
+msgstr ""
+"Probably the worst [in terms of the ego revealing itself] was in those "
+"sessions where he got in touch with the angry side of himself."
+
+#. Context: He seemed very egoless to me, I will say that. I’m sure he had
+#. one, but he was so humble himself. Probably the worst [in terms of the ego
+#. revealing itself] was in those sessions where he got in touch with the
+#. angry side of himself. He would blow up and then feel remorseful and
+#. disgusted with himself. I think he was finishing up some work with Helen,
+#. and of course, we talked about all that nonstop. He always reflected back,
+#. wondering if he was a good or a bad person.[98]
+#: paragraph:20,sentence:4
+msgid "He would blow up and then feel remorseful and disgusted with himself."
+msgstr "He would blow up and then feel remorseful and disgusted with himself."
+
+#. Context: He seemed very egoless to me, I will say that. I’m sure he had
+#. one, but he was so humble himself. Probably the worst [in terms of the ego
+#. revealing itself] was in those sessions where he got in touch with the
+#. angry side of himself. He would blow up and then feel remorseful and
+#. disgusted with himself. I think he was finishing up some work with Helen,
+#. and of course, we talked about all that nonstop. He always reflected back,
+#. wondering if he was a good or a bad person.[98]
+#: paragraph:20,sentence:5
+msgid ""
+"I think he was finishing up some work with Helen, and of course, we talked "
+"about all that nonstop."
+msgstr ""
+"I think he was finishing up some work with Helen, and of course, we talked "
+"about all that nonstop."
+
+#. Context: He seemed very egoless to me, I will say that. I’m sure he had
+#. one, but he was so humble himself. Probably the worst [in terms of the ego
+#. revealing itself] was in those sessions where he got in touch with the
+#. angry side of himself. He would blow up and then feel remorseful and
+#. disgusted with himself. I think he was finishing up some work with Helen,
+#. and of course, we talked about all that nonstop. He always reflected back,
+#. wondering if he was a good or a bad person.[98]
+#: paragraph:20,sentence:6
+msgid ""
+"He always reflected back, wondering if he was a good or a bad person.[98]"
+msgstr ""
+"He always reflected back, wondering if he was a good or a bad person.[98]"
+
+#. Context: Many of us had conversations with Bill about who the intended
+#. recipients of the Course’s teachings were to be. Hugh Prather said,
+#: paragraph:21,sentence:1
+msgid ""
+"Many of us had conversations with Bill about who the intended recipients of "
+"the Course’s teachings were to be. Hugh Prather said,"
+msgstr ""
+"Many of us had conversations with Bill about who the intended recipients of "
+"the Course’s teachings were to be. Hugh Prather said,"
+
+#. Context: I remember one of the things he brought up right from the
+#. beginning was his confusion over why ACIM was so popular. I think he
+#. interpreted the guidance he and Helen received as meaning this was for them
+#. and maybe a few others and that wasn’t the way it was turning out. Even
+#. then, it was obvious that it had, in a sense, taken off. I remember his
+#. telling me that Helen’s guidance was that the Course was only for about two
+#. hundred people, so he thought there was some sort of conflict here. It was
+#. as if it seemed obvious to everyone else that it was for everyone. He
+#. didn’t have any proprietary sense about this; I didn’t pick up that he was
+#. in any way resentful, simply amazed and perplexed as to why this had
+#. happened. That was a deep concern to him [early on], but it left him in the
+#. latter part of his life.[99]
+#: paragraph:22,sentence:1
+msgid ""
+"I remember one of the things he brought up right from the beginning was his "
+"confusion over why ACIM was so popular."
+msgstr ""
+"I remember one of the things he brought up right from the beginning was his "
+"confusion over why ACIM was so popular."
+
+#. Context: I remember one of the things he brought up right from the
+#. beginning was his confusion over why ACIM was so popular. I think he
+#. interpreted the guidance he and Helen received as meaning this was for them
+#. and maybe a few others and that wasn’t the way it was turning out. Even
+#. then, it was obvious that it had, in a sense, taken off. I remember his
+#. telling me that Helen’s guidance was that the Course was only for about two
+#. hundred people, so he thought there was some sort of conflict here. It was
+#. as if it seemed obvious to everyone else that it was for everyone. He
+#. didn’t have any proprietary sense about this; I didn’t pick up that he was
+#. in any way resentful, simply amazed and perplexed as to why this had
+#. happened. That was a deep concern to him [early on], but it left him in the
+#. latter part of his life.[99]
+#: paragraph:22,sentence:2
+msgid ""
+"I think he interpreted the guidance he and Helen received as meaning this "
+"was for them and maybe a few others and that wasn’t the way it was turning "
+"out."
+msgstr ""
+"I think he interpreted the guidance he and Helen received as meaning this "
+"was for them and maybe a few others and that wasn’t the way it was turning "
+"out."
+
+#. Context: I remember one of the things he brought up right from the
+#. beginning was his confusion over why ACIM was so popular. I think he
+#. interpreted the guidance he and Helen received as meaning this was for them
+#. and maybe a few others and that wasn’t the way it was turning out. Even
+#. then, it was obvious that it had, in a sense, taken off. I remember his
+#. telling me that Helen’s guidance was that the Course was only for about two
+#. hundred people, so he thought there was some sort of conflict here. It was
+#. as if it seemed obvious to everyone else that it was for everyone. He
+#. didn’t have any proprietary sense about this; I didn’t pick up that he was
+#. in any way resentful, simply amazed and perplexed as to why this had
+#. happened. That was a deep concern to him [early on], but it left him in the
+#. latter part of his life.[99]
+#: paragraph:22,sentence:3
+msgid "Even then, it was obvious that it had, in a sense, taken off."
+msgstr "Even then, it was obvious that it had, in a sense, taken off."
+
+#. Context: I remember one of the things he brought up right from the
+#. beginning was his confusion over why ACIM was so popular. I think he
+#. interpreted the guidance he and Helen received as meaning this was for them
+#. and maybe a few others and that wasn’t the way it was turning out. Even
+#. then, it was obvious that it had, in a sense, taken off. I remember his
+#. telling me that Helen’s guidance was that the Course was only for about two
+#. hundred people, so he thought there was some sort of conflict here. It was
+#. as if it seemed obvious to everyone else that it was for everyone. He
+#. didn’t have any proprietary sense about this; I didn’t pick up that he was
+#. in any way resentful, simply amazed and perplexed as to why this had
+#. happened. That was a deep concern to him [early on], but it left him in the
+#. latter part of his life.[99]
+#: paragraph:22,sentence:4
+msgid ""
+"I remember his telling me that Helen’s guidance was that the Course was only"
+" for about two hundred people, so he thought there was some sort of conflict"
+" here."
+msgstr ""
+"I remember his telling me that Helen’s guidance was that the Course was only"
+" for about two hundred people, so he thought there was some sort of conflict"
+" here."
+
+#. Context: I remember one of the things he brought up right from the
+#. beginning was his confusion over why ACIM was so popular. I think he
+#. interpreted the guidance he and Helen received as meaning this was for them
+#. and maybe a few others and that wasn’t the way it was turning out. Even
+#. then, it was obvious that it had, in a sense, taken off. I remember his
+#. telling me that Helen’s guidance was that the Course was only for about two
+#. hundred people, so he thought there was some sort of conflict here. It was
+#. as if it seemed obvious to everyone else that it was for everyone. He
+#. didn’t have any proprietary sense about this; I didn’t pick up that he was
+#. in any way resentful, simply amazed and perplexed as to why this had
+#. happened. That was a deep concern to him [early on], but it left him in the
+#. latter part of his life.[99]
+#: paragraph:22,sentence:5
+msgid ""
+"It was as if it seemed obvious to everyone else that it was for everyone."
+msgstr ""
+"It was as if it seemed obvious to everyone else that it was for everyone."
+
+#. Context: I remember one of the things he brought up right from the
+#. beginning was his confusion over why ACIM was so popular. I think he
+#. interpreted the guidance he and Helen received as meaning this was for them
+#. and maybe a few others and that wasn’t the way it was turning out. Even
+#. then, it was obvious that it had, in a sense, taken off. I remember his
+#. telling me that Helen’s guidance was that the Course was only for about two
+#. hundred people, so he thought there was some sort of conflict here. It was
+#. as if it seemed obvious to everyone else that it was for everyone. He
+#. didn’t have any proprietary sense about this; I didn’t pick up that he was
+#. in any way resentful, simply amazed and perplexed as to why this had
+#. happened. That was a deep concern to him [early on], but it left him in the
+#. latter part of his life.[99]
+#: paragraph:22,sentence:6
+msgid ""
+"He didn’t have any proprietary sense about this; I didn’t pick up that he "
+"was in any way resentful, simply amazed and perplexed as to why this had "
+"happened."
+msgstr ""
+"He didn’t have any proprietary sense about this; I didn’t pick up that he "
+"was in any way resentful, simply amazed and perplexed as to why this had "
+"happened."
+
+#. Context: I remember one of the things he brought up right from the
+#. beginning was his confusion over why ACIM was so popular. I think he
+#. interpreted the guidance he and Helen received as meaning this was for them
+#. and maybe a few others and that wasn’t the way it was turning out. Even
+#. then, it was obvious that it had, in a sense, taken off. I remember his
+#. telling me that Helen’s guidance was that the Course was only for about two
+#. hundred people, so he thought there was some sort of conflict here. It was
+#. as if it seemed obvious to everyone else that it was for everyone. He
+#. didn’t have any proprietary sense about this; I didn’t pick up that he was
+#. in any way resentful, simply amazed and perplexed as to why this had
+#. happened. That was a deep concern to him [early on], but it left him in the
+#. latter part of his life.[99]
+#: paragraph:22,sentence:7
+msgid ""
+"That was a deep concern to him [early on], but it left him in the latter "
+"part of his life.[99]"
+msgstr ""
+"That was a deep concern to him [early on], but it left him in the latter "
+"part of his life.[99]"
+
+#. Context: Perhaps Helen was right. Maybe, comparatively speaking, only a few
+#. people in the world really want to dedicate themselves to letting go of all
+#. grievances, totally accepting all aspects of their lives without
+#. reservation, and living without resistance. The other millions of ACIM
+#. students, either directly or through its surrogates, are proceeding in
+#. their own perfect and helpful way toward accepting the single goal of peace
+#. of mind, moving from understanding what the Course says to applying its
+#. principles in more and more situations. Therefore, it is both for a few and
+#. for everyone. How unusual and reassuring when everyone is right!
+#: paragraph:23,sentence:1
+msgid "Perhaps Helen was right."
+msgstr "Perhaps Helen was right."
+
+#. Context: Perhaps Helen was right. Maybe, comparatively speaking, only a few
+#. people in the world really want to dedicate themselves to letting go of all
+#. grievances, totally accepting all aspects of their lives without
+#. reservation, and living without resistance. The other millions of ACIM
+#. students, either directly or through its surrogates, are proceeding in
+#. their own perfect and helpful way toward accepting the single goal of peace
+#. of mind, moving from understanding what the Course says to applying its
+#. principles in more and more situations. Therefore, it is both for a few and
+#. for everyone. How unusual and reassuring when everyone is right!
+#: paragraph:23,sentence:2
+msgid ""
+"Maybe, comparatively speaking, only a few people in the world really want to"
+" dedicate themselves to letting go of all grievances, totally accepting all "
+"aspects of their lives without reservation, and living without resistance."
+msgstr ""
+"Maybe, comparatively speaking, only a few people in the world really want to"
+" dedicate themselves to letting go of all grievances, totally accepting all "
+"aspects of their lives without reservation, and living without resistance."
+
+#. Context: Perhaps Helen was right. Maybe, comparatively speaking, only a few
+#. people in the world really want to dedicate themselves to letting go of all
+#. grievances, totally accepting all aspects of their lives without
+#. reservation, and living without resistance. The other millions of ACIM
+#. students, either directly or through its surrogates, are proceeding in
+#. their own perfect and helpful way toward accepting the single goal of peace
+#. of mind, moving from understanding what the Course says to applying its
+#. principles in more and more situations. Therefore, it is both for a few and
+#. for everyone. How unusual and reassuring when everyone is right!
+#: paragraph:23,sentence:3
+msgid ""
+"The other millions of ACIM students, either directly or through its "
+"surrogates, are proceeding in their own perfect and helpful way toward "
+"accepting the single goal of peace of mind, moving from understanding what "
+"the Course says to applying its principles in more and more situations."
+msgstr ""
+"The other millions of ACIM students, either directly or through its "
+"surrogates, are proceeding in their own perfect and helpful way toward "
+"accepting the single goal of peace of mind, moving from understanding what "
+"the Course says to applying its principles in more and more situations."
+
+#. Context: Perhaps Helen was right. Maybe, comparatively speaking, only a few
+#. people in the world really want to dedicate themselves to letting go of all
+#. grievances, totally accepting all aspects of their lives without
+#. reservation, and living without resistance. The other millions of ACIM
+#. students, either directly or through its surrogates, are proceeding in
+#. their own perfect and helpful way toward accepting the single goal of peace
+#. of mind, moving from understanding what the Course says to applying its
+#. principles in more and more situations. Therefore, it is both for a few and
+#. for everyone. How unusual and reassuring when everyone is right!
+#: paragraph:23,sentence:4
+msgid "Therefore, it is both for a few and for everyone."
+msgstr "Therefore, it is both for a few and for everyone."
+
+#. Context: Perhaps Helen was right. Maybe, comparatively speaking, only a few
+#. people in the world really want to dedicate themselves to letting go of all
+#. grievances, totally accepting all aspects of their lives without
+#. reservation, and living without resistance. The other millions of ACIM
+#. students, either directly or through its surrogates, are proceeding in
+#. their own perfect and helpful way toward accepting the single goal of peace
+#. of mind, moving from understanding what the Course says to applying its
+#. principles in more and more situations. Therefore, it is both for a few and
+#. for everyone. How unusual and reassuring when everyone is right!
+#: paragraph:23,sentence:5
+msgid "How unusual and reassuring when everyone is right!"
+msgstr "How unusual and reassuring when everyone is right!"
+
+#. Context: Personally, I knew only a couple of people who were uncomfortable
+#. in Bill’s presence. One woman didn’t actively dislike him; she just thought
+#. he was socially inept and somewhat dull and boring. When I discussed this
+#. with a friend, he said, “I think she saw in Bill the very things that I
+#. saw, but had a different label for it. I saw that he knew how to handle
+#. himself, was obviously socially skilled so that he could participate, but
+#. he wasn’t completely comfortable with it. He just did the best he could. He
+#. did prefer to be quiet, but to me, that wasn’t boring, that was
+#. fabulous!”[100] His attempts to let go of ego, not call attention to
+#. himself, and practice forgiveness in every possible way paid off. He was
+#. just “ordinary Bill” in the end, but the most extraordinary person most of
+#. us ever knew.
+#: paragraph:24,sentence:1
+msgid ""
+"Personally, I knew only a couple of people who were uncomfortable in Bill’s "
+"presence."
+msgstr ""
+"Personally, I knew only a couple of people who were uncomfortable in Bill’s "
+"presence."
+
+#. Context: Personally, I knew only a couple of people who were uncomfortable
+#. in Bill’s presence. One woman didn’t actively dislike him; she just thought
+#. he was socially inept and somewhat dull and boring. When I discussed this
+#. with a friend, he said, “I think she saw in Bill the very things that I
+#. saw, but had a different label for it. I saw that he knew how to handle
+#. himself, was obviously socially skilled so that he could participate, but
+#. he wasn’t completely comfortable with it. He just did the best he could. He
+#. did prefer to be quiet, but to me, that wasn’t boring, that was
+#. fabulous!”[100] His attempts to let go of ego, not call attention to
+#. himself, and practice forgiveness in every possible way paid off. He was
+#. just “ordinary Bill” in the end, but the most extraordinary person most of
+#. us ever knew.
+#: paragraph:24,sentence:2
+msgid ""
+"One woman didn’t actively dislike him; she just thought he was socially "
+"inept and somewhat dull and boring."
+msgstr ""
+"One woman didn’t actively dislike him; she just thought he was socially "
+"inept and somewhat dull and boring."
+
+#. Context: Personally, I knew only a couple of people who were uncomfortable
+#. in Bill’s presence. One woman didn’t actively dislike him; she just thought
+#. he was socially inept and somewhat dull and boring. When I discussed this
+#. with a friend, he said, “I think she saw in Bill the very things that I
+#. saw, but had a different label for it. I saw that he knew how to handle
+#. himself, was obviously socially skilled so that he could participate, but
+#. he wasn’t completely comfortable with it. He just did the best he could. He
+#. did prefer to be quiet, but to me, that wasn’t boring, that was
+#. fabulous!”[100] His attempts to let go of ego, not call attention to
+#. himself, and practice forgiveness in every possible way paid off. He was
+#. just “ordinary Bill” in the end, but the most extraordinary person most of
+#. us ever knew.
+#: paragraph:24,sentence:3
+msgid ""
+"When I discussed this with a friend, he said, “I think she saw in Bill the "
+"very things that I saw, but had a different label for it."
+msgstr ""
+"When I discussed this with a friend, he said, “I think she saw in Bill the "
+"very things that I saw, but had a different label for it."
+
+#. Context: Personally, I knew only a couple of people who were uncomfortable
+#. in Bill’s presence. One woman didn’t actively dislike him; she just thought
+#. he was socially inept and somewhat dull and boring. When I discussed this
+#. with a friend, he said, “I think she saw in Bill the very things that I
+#. saw, but had a different label for it. I saw that he knew how to handle
+#. himself, was obviously socially skilled so that he could participate, but
+#. he wasn’t completely comfortable with it. He just did the best he could. He
+#. did prefer to be quiet, but to me, that wasn’t boring, that was
+#. fabulous!”[100] His attempts to let go of ego, not call attention to
+#. himself, and practice forgiveness in every possible way paid off. He was
+#. just “ordinary Bill” in the end, but the most extraordinary person most of
+#. us ever knew.
+#: paragraph:24,sentence:4
+msgid ""
+"I saw that he knew how to handle himself, was obviously socially skilled so "
+"that he could participate, but he wasn’t completely comfortable with it."
+msgstr ""
+"I saw that he knew how to handle himself, was obviously socially skilled so "
+"that he could participate, but he wasn’t completely comfortable with it."
+
+#. Context: Personally, I knew only a couple of people who were uncomfortable
+#. in Bill’s presence. One woman didn’t actively dislike him; she just thought
+#. he was socially inept and somewhat dull and boring. When I discussed this
+#. with a friend, he said, “I think she saw in Bill the very things that I
+#. saw, but had a different label for it. I saw that he knew how to handle
+#. himself, was obviously socially skilled so that he could participate, but
+#. he wasn’t completely comfortable with it. He just did the best he could. He
+#. did prefer to be quiet, but to me, that wasn’t boring, that was
+#. fabulous!”[100] His attempts to let go of ego, not call attention to
+#. himself, and practice forgiveness in every possible way paid off. He was
+#. just “ordinary Bill” in the end, but the most extraordinary person most of
+#. us ever knew.
+#: paragraph:24,sentence:5
+msgid "He just did the best he could."
+msgstr "He just did the best he could."
+
+#. Context: Personally, I knew only a couple of people who were uncomfortable
+#. in Bill’s presence. One woman didn’t actively dislike him; she just thought
+#. he was socially inept and somewhat dull and boring. When I discussed this
+#. with a friend, he said, “I think she saw in Bill the very things that I
+#. saw, but had a different label for it. I saw that he knew how to handle
+#. himself, was obviously socially skilled so that he could participate, but
+#. he wasn’t completely comfortable with it. He just did the best he could. He
+#. did prefer to be quiet, but to me, that wasn’t boring, that was
+#. fabulous!”[100] His attempts to let go of ego, not call attention to
+#. himself, and practice forgiveness in every possible way paid off. He was
+#. just “ordinary Bill” in the end, but the most extraordinary person most of
+#. us ever knew.
+#: paragraph:24,sentence:6
+msgid ""
+"He did prefer to be quiet, but to me, that wasn’t boring, that was "
+"fabulous!”[100] His attempts to let go of ego, not call attention to "
+"himself, and practice forgiveness in every possible way paid off."
+msgstr ""
+"He did prefer to be quiet, but to me, that wasn’t boring, that was "
+"fabulous!”[100] His attempts to let go of ego, not call attention to "
+"himself, and practice forgiveness in every possible way paid off."
+
+#. Context: Personally, I knew only a couple of people who were uncomfortable
+#. in Bill’s presence. One woman didn’t actively dislike him; she just thought
+#. he was socially inept and somewhat dull and boring. When I discussed this
+#. with a friend, he said, “I think she saw in Bill the very things that I
+#. saw, but had a different label for it. I saw that he knew how to handle
+#. himself, was obviously socially skilled so that he could participate, but
+#. he wasn’t completely comfortable with it. He just did the best he could. He
+#. did prefer to be quiet, but to me, that wasn’t boring, that was
+#. fabulous!”[100] His attempts to let go of ego, not call attention to
+#. himself, and practice forgiveness in every possible way paid off. He was
+#. just “ordinary Bill” in the end, but the most extraordinary person most of
+#. us ever knew.
+#: paragraph:24,sentence:7
+msgid ""
+"He was just “ordinary Bill” in the end, but the most extraordinary person "
+"most of us ever knew."
+msgstr ""
+"He was just “ordinary Bill” in the end, but the most extraordinary person "
+"most of us ever knew."

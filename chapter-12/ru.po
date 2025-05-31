@@ -1,0 +1,1788 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Context: As with all chapters, Bill’s time in New York was coming to a
+#. close. ACIM was finished and Helen, fourteen years his senior, had finally
+#. retired. He had managed to keep her employed past the usual retirement age
+#. of sixty-five to finish the last Course details. Before they had
+#. contemplated its publication, Bill had applied for and been granted a six-
+#. month sabbatical to begin in July 1976. Through no intentional planning,
+#. the first edition of ACIM made its debut the month before, in June 1976.
+#. With the next stage of the Course’s history unfolding, coupled with the
+#. fact that it was a difficult time at the university in general, it was a
+#. great time to leave. Bill felt he simply could not stay at Columbia now
+#. that their “guilty secret,” as they called it, was out in the open, a
+#. potentially awkward situation for everyone else concerned, as well. (He did
+#. not specifically attempt to conceal or reveal his association with ACIM.
+#. Some colleagues found out about it through conversation or the few articles
+#. ultimately written about the work. Others may never have found out.) He had
+#. been through a ten-year, life-altering, spiritual overhaul, and to resume
+#. his work with traditional psychology as though nothing had happened, no
+#. matter how proficient he was, would have been an impossible backward step.
+#: paragraph:1,sentence:1
+msgid "As with all chapters, Bill’s time in New York was coming to a close."
+msgstr ""
+
+#. Context: As with all chapters, Bill’s time in New York was coming to a
+#. close. ACIM was finished and Helen, fourteen years his senior, had finally
+#. retired. He had managed to keep her employed past the usual retirement age
+#. of sixty-five to finish the last Course details. Before they had
+#. contemplated its publication, Bill had applied for and been granted a six-
+#. month sabbatical to begin in July 1976. Through no intentional planning,
+#. the first edition of ACIM made its debut the month before, in June 1976.
+#. With the next stage of the Course’s history unfolding, coupled with the
+#. fact that it was a difficult time at the university in general, it was a
+#. great time to leave. Bill felt he simply could not stay at Columbia now
+#. that their “guilty secret,” as they called it, was out in the open, a
+#. potentially awkward situation for everyone else concerned, as well. (He did
+#. not specifically attempt to conceal or reveal his association with ACIM.
+#. Some colleagues found out about it through conversation or the few articles
+#. ultimately written about the work. Others may never have found out.) He had
+#. been through a ten-year, life-altering, spiritual overhaul, and to resume
+#. his work with traditional psychology as though nothing had happened, no
+#. matter how proficient he was, would have been an impossible backward step.
+#: paragraph:1,sentence:2
+msgid ""
+"ACIM was finished and Helen, fourteen years his senior, had finally retired."
+msgstr ""
+
+#. Context: As with all chapters, Bill’s time in New York was coming to a
+#. close. ACIM was finished and Helen, fourteen years his senior, had finally
+#. retired. He had managed to keep her employed past the usual retirement age
+#. of sixty-five to finish the last Course details. Before they had
+#. contemplated its publication, Bill had applied for and been granted a six-
+#. month sabbatical to begin in July 1976. Through no intentional planning,
+#. the first edition of ACIM made its debut the month before, in June 1976.
+#. With the next stage of the Course’s history unfolding, coupled with the
+#. fact that it was a difficult time at the university in general, it was a
+#. great time to leave. Bill felt he simply could not stay at Columbia now
+#. that their “guilty secret,” as they called it, was out in the open, a
+#. potentially awkward situation for everyone else concerned, as well. (He did
+#. not specifically attempt to conceal or reveal his association with ACIM.
+#. Some colleagues found out about it through conversation or the few articles
+#. ultimately written about the work. Others may never have found out.) He had
+#. been through a ten-year, life-altering, spiritual overhaul, and to resume
+#. his work with traditional psychology as though nothing had happened, no
+#. matter how proficient he was, would have been an impossible backward step.
+#: paragraph:1,sentence:3
+msgid ""
+"He had managed to keep her employed past the usual retirement age of sixty-"
+"five to finish the last Course details."
+msgstr ""
+
+#. Context: As with all chapters, Bill’s time in New York was coming to a
+#. close. ACIM was finished and Helen, fourteen years his senior, had finally
+#. retired. He had managed to keep her employed past the usual retirement age
+#. of sixty-five to finish the last Course details. Before they had
+#. contemplated its publication, Bill had applied for and been granted a six-
+#. month sabbatical to begin in July 1976. Through no intentional planning,
+#. the first edition of ACIM made its debut the month before, in June 1976.
+#. With the next stage of the Course’s history unfolding, coupled with the
+#. fact that it was a difficult time at the university in general, it was a
+#. great time to leave. Bill felt he simply could not stay at Columbia now
+#. that their “guilty secret,” as they called it, was out in the open, a
+#. potentially awkward situation for everyone else concerned, as well. (He did
+#. not specifically attempt to conceal or reveal his association with ACIM.
+#. Some colleagues found out about it through conversation or the few articles
+#. ultimately written about the work. Others may never have found out.) He had
+#. been through a ten-year, life-altering, spiritual overhaul, and to resume
+#. his work with traditional psychology as though nothing had happened, no
+#. matter how proficient he was, would have been an impossible backward step.
+#: paragraph:1,sentence:4
+msgid ""
+"Before they had contemplated its publication, Bill had applied for and been "
+"granted a six-month sabbatical to begin in July 1976."
+msgstr ""
+
+#. Context: As with all chapters, Bill’s time in New York was coming to a
+#. close. ACIM was finished and Helen, fourteen years his senior, had finally
+#. retired. He had managed to keep her employed past the usual retirement age
+#. of sixty-five to finish the last Course details. Before they had
+#. contemplated its publication, Bill had applied for and been granted a six-
+#. month sabbatical to begin in July 1976. Through no intentional planning,
+#. the first edition of ACIM made its debut the month before, in June 1976.
+#. With the next stage of the Course’s history unfolding, coupled with the
+#. fact that it was a difficult time at the university in general, it was a
+#. great time to leave. Bill felt he simply could not stay at Columbia now
+#. that their “guilty secret,” as they called it, was out in the open, a
+#. potentially awkward situation for everyone else concerned, as well. (He did
+#. not specifically attempt to conceal or reveal his association with ACIM.
+#. Some colleagues found out about it through conversation or the few articles
+#. ultimately written about the work. Others may never have found out.) He had
+#. been through a ten-year, life-altering, spiritual overhaul, and to resume
+#. his work with traditional psychology as though nothing had happened, no
+#. matter how proficient he was, would have been an impossible backward step.
+#: paragraph:1,sentence:5
+msgid ""
+"Through no intentional planning, the first edition of ACIM made its debut "
+"the month before, in June 1976."
+msgstr ""
+
+#. Context: As with all chapters, Bill’s time in New York was coming to a
+#. close. ACIM was finished and Helen, fourteen years his senior, had finally
+#. retired. He had managed to keep her employed past the usual retirement age
+#. of sixty-five to finish the last Course details. Before they had
+#. contemplated its publication, Bill had applied for and been granted a six-
+#. month sabbatical to begin in July 1976. Through no intentional planning,
+#. the first edition of ACIM made its debut the month before, in June 1976.
+#. With the next stage of the Course’s history unfolding, coupled with the
+#. fact that it was a difficult time at the university in general, it was a
+#. great time to leave. Bill felt he simply could not stay at Columbia now
+#. that their “guilty secret,” as they called it, was out in the open, a
+#. potentially awkward situation for everyone else concerned, as well. (He did
+#. not specifically attempt to conceal or reveal his association with ACIM.
+#. Some colleagues found out about it through conversation or the few articles
+#. ultimately written about the work. Others may never have found out.) He had
+#. been through a ten-year, life-altering, spiritual overhaul, and to resume
+#. his work with traditional psychology as though nothing had happened, no
+#. matter how proficient he was, would have been an impossible backward step.
+#: paragraph:1,sentence:6
+msgid ""
+"With the next stage of the Course’s history unfolding, coupled with the fact"
+" that it was a difficult time at the university in general, it was a great "
+"time to leave."
+msgstr ""
+
+#. Context: As with all chapters, Bill’s time in New York was coming to a
+#. close. ACIM was finished and Helen, fourteen years his senior, had finally
+#. retired. He had managed to keep her employed past the usual retirement age
+#. of sixty-five to finish the last Course details. Before they had
+#. contemplated its publication, Bill had applied for and been granted a six-
+#. month sabbatical to begin in July 1976. Through no intentional planning,
+#. the first edition of ACIM made its debut the month before, in June 1976.
+#. With the next stage of the Course’s history unfolding, coupled with the
+#. fact that it was a difficult time at the university in general, it was a
+#. great time to leave. Bill felt he simply could not stay at Columbia now
+#. that their “guilty secret,” as they called it, was out in the open, a
+#. potentially awkward situation for everyone else concerned, as well. (He did
+#. not specifically attempt to conceal or reveal his association with ACIM.
+#. Some colleagues found out about it through conversation or the few articles
+#. ultimately written about the work. Others may never have found out.) He had
+#. been through a ten-year, life-altering, spiritual overhaul, and to resume
+#. his work with traditional psychology as though nothing had happened, no
+#. matter how proficient he was, would have been an impossible backward step.
+#: paragraph:1,sentence:7
+msgid ""
+"Bill felt he simply could not stay at Columbia now that their “guilty "
+"secret,” as they called it, was out in the open, a potentially awkward "
+"situation for everyone else concerned, as well. (He did not specifically "
+"attempt to conceal or reveal his association with ACIM."
+msgstr ""
+
+#. Context: As with all chapters, Bill’s time in New York was coming to a
+#. close. ACIM was finished and Helen, fourteen years his senior, had finally
+#. retired. He had managed to keep her employed past the usual retirement age
+#. of sixty-five to finish the last Course details. Before they had
+#. contemplated its publication, Bill had applied for and been granted a six-
+#. month sabbatical to begin in July 1976. Through no intentional planning,
+#. the first edition of ACIM made its debut the month before, in June 1976.
+#. With the next stage of the Course’s history unfolding, coupled with the
+#. fact that it was a difficult time at the university in general, it was a
+#. great time to leave. Bill felt he simply could not stay at Columbia now
+#. that their “guilty secret,” as they called it, was out in the open, a
+#. potentially awkward situation for everyone else concerned, as well. (He did
+#. not specifically attempt to conceal or reveal his association with ACIM.
+#. Some colleagues found out about it through conversation or the few articles
+#. ultimately written about the work. Others may never have found out.) He had
+#. been through a ten-year, life-altering, spiritual overhaul, and to resume
+#. his work with traditional psychology as though nothing had happened, no
+#. matter how proficient he was, would have been an impossible backward step.
+#: paragraph:1,sentence:8
+msgid ""
+"Some colleagues found out about it through conversation or the few articles "
+"ultimately written about the work."
+msgstr ""
+
+#. Context: As with all chapters, Bill’s time in New York was coming to a
+#. close. ACIM was finished and Helen, fourteen years his senior, had finally
+#. retired. He had managed to keep her employed past the usual retirement age
+#. of sixty-five to finish the last Course details. Before they had
+#. contemplated its publication, Bill had applied for and been granted a six-
+#. month sabbatical to begin in July 1976. Through no intentional planning,
+#. the first edition of ACIM made its debut the month before, in June 1976.
+#. With the next stage of the Course’s history unfolding, coupled with the
+#. fact that it was a difficult time at the university in general, it was a
+#. great time to leave. Bill felt he simply could not stay at Columbia now
+#. that their “guilty secret,” as they called it, was out in the open, a
+#. potentially awkward situation for everyone else concerned, as well. (He did
+#. not specifically attempt to conceal or reveal his association with ACIM.
+#. Some colleagues found out about it through conversation or the few articles
+#. ultimately written about the work. Others may never have found out.) He had
+#. been through a ten-year, life-altering, spiritual overhaul, and to resume
+#. his work with traditional psychology as though nothing had happened, no
+#. matter how proficient he was, would have been an impossible backward step.
+#: paragraph:1,sentence:9
+msgid ""
+"Others may never have found out.) He had been through a ten-year, life-"
+"altering, spiritual overhaul, and to resume his work with traditional "
+"psychology as though nothing had happened, no matter how proficient he was, "
+"would have been an impossible backward step."
+msgstr ""
+
+#. Context: Bill had labored diligently on the PAS for approximately twenty
+#. years—teaching, mentoring, researching, writing papers, and teasing out
+#. every available bit of insight into how human beings predictably operate.
+#. Nevertheless, he closed that door, too. He gave up his research on the ego,
+#. which he considered his major academic contribution, as he and Helen became
+#. immersed in scribing and attempting to practice ACIM. The Course had dealt
+#. a devastating blow to his favorite topic:
+#: paragraph:2,sentence:1
+msgid ""
+"Bill had labored diligently on the PAS for approximately twenty "
+"years—teaching, mentoring, researching, writing papers, and teasing out "
+"every available bit of insight into how human beings predictably operate."
+msgstr ""
+
+#. Context: Bill had labored diligently on the PAS for approximately twenty
+#. years—teaching, mentoring, researching, writing papers, and teasing out
+#. every available bit of insight into how human beings predictably operate.
+#. Nevertheless, he closed that door, too. He gave up his research on the ego,
+#. which he considered his major academic contribution, as he and Helen became
+#. immersed in scribing and attempting to practice ACIM. The Course had dealt
+#. a devastating blow to his favorite topic:
+#: paragraph:2,sentence:2
+msgid "Nevertheless, he closed that door, too."
+msgstr ""
+
+#. Context: Bill had labored diligently on the PAS for approximately twenty
+#. years—teaching, mentoring, researching, writing papers, and teasing out
+#. every available bit of insight into how human beings predictably operate.
+#. Nevertheless, he closed that door, too. He gave up his research on the ego,
+#. which he considered his major academic contribution, as he and Helen became
+#. immersed in scribing and attempting to practice ACIM. The Course had dealt
+#. a devastating blow to his favorite topic:
+#: paragraph:2,sentence:3
+msgid ""
+"He gave up his research on the ego, which he considered his major academic "
+"contribution, as he and Helen became immersed in scribing and attempting to "
+"practice ACIM."
+msgstr ""
+
+#. Context: Bill had labored diligently on the PAS for approximately twenty
+#. years—teaching, mentoring, researching, writing papers, and teasing out
+#. every available bit of insight into how human beings predictably operate.
+#. Nevertheless, he closed that door, too. He gave up his research on the ego,
+#. which he considered his major academic contribution, as he and Helen became
+#. immersed in scribing and attempting to practice ACIM. The Course had dealt
+#. a devastating blow to his favorite topic:
+#: paragraph:2,sentence:4
+msgid "The Course had dealt a devastating blow to his favorite topic:"
+msgstr ""
+
+#. Context: If you believe you understand something of the “dynamics” of the
+#. ego, let me assure you that you understand nothing of it. For of yourself
+#. you could not understand it. The study of the ego is not the study of your
+#. mind. In fact, the ego enjoys studying itself, and thoroughly approves the
+#. undertakings of students who would “analyze” it, thus approving its
+#. importance.[105]
+#: paragraph:3,sentence:1
+msgid ""
+"If you believe you understand something of the “dynamics” of the ego, let me"
+" assure you that you understand nothing of it."
+msgstr ""
+
+#. Context: If you believe you understand something of the “dynamics” of the
+#. ego, let me assure you that you understand nothing of it. For of yourself
+#. you could not understand it. The study of the ego is not the study of your
+#. mind. In fact, the ego enjoys studying itself, and thoroughly approves the
+#. undertakings of students who would “analyze” it, thus approving its
+#. importance.[105]
+#: paragraph:3,sentence:2
+msgid "For of yourself you could not understand it."
+msgstr ""
+
+#. Context: If you believe you understand something of the “dynamics” of the
+#. ego, let me assure you that you understand nothing of it. For of yourself
+#. you could not understand it. The study of the ego is not the study of your
+#. mind. In fact, the ego enjoys studying itself, and thoroughly approves the
+#. undertakings of students who would “analyze” it, thus approving its
+#. importance.[105]
+#: paragraph:3,sentence:3
+msgid "The study of the ego is not the study of your mind."
+msgstr ""
+
+#. Context: If you believe you understand something of the “dynamics” of the
+#. ego, let me assure you that you understand nothing of it. For of yourself
+#. you could not understand it. The study of the ego is not the study of your
+#. mind. In fact, the ego enjoys studying itself, and thoroughly approves the
+#. undertakings of students who would “analyze” it, thus approving its
+#. importance.[105]
+#: paragraph:3,sentence:4
+msgid ""
+"In fact, the ego enjoys studying itself, and thoroughly approves the "
+"undertakings of students who would “analyze” it, thus approving its "
+"importance.[105]"
+msgstr ""
+
+#. Context: After years of statements like this, Bill could feel the
+#. foundations of his academic life collapsing. Finally, he found it too
+#. bizarre and contradictory to research the intricacies of how egos form and
+#. operate on one hand and to actively practice undoing them on the other. He
+#. abandoned his search. As Whit Whitson stated at Bill’s memorial service,
+#. “At the same time he was mapping the ego, he was channeling the process by
+#. which we could escape—like mapping an earthquake and then making a plan for
+#. how to get out of it.”[106]
+#: paragraph:4,sentence:1
+msgid ""
+"After years of statements like this, Bill could feel the foundations of his "
+"academic life collapsing."
+msgstr ""
+
+#. Context: After years of statements like this, Bill could feel the
+#. foundations of his academic life collapsing. Finally, he found it too
+#. bizarre and contradictory to research the intricacies of how egos form and
+#. operate on one hand and to actively practice undoing them on the other. He
+#. abandoned his search. As Whit Whitson stated at Bill’s memorial service,
+#. “At the same time he was mapping the ego, he was channeling the process by
+#. which we could escape—like mapping an earthquake and then making a plan for
+#. how to get out of it.”[106]
+#: paragraph:4,sentence:2
+msgid ""
+"Finally, he found it too bizarre and contradictory to research the "
+"intricacies of how egos form and operate on one hand and to actively "
+"practice undoing them on the other. He abandoned his search."
+msgstr ""
+
+#. Context: After years of statements like this, Bill could feel the
+#. foundations of his academic life collapsing. Finally, he found it too
+#. bizarre and contradictory to research the intricacies of how egos form and
+#. operate on one hand and to actively practice undoing them on the other. He
+#. abandoned his search. As Whit Whitson stated at Bill’s memorial service,
+#. “At the same time he was mapping the ego, he was channeling the process by
+#. which we could escape—like mapping an earthquake and then making a plan for
+#. how to get out of it.”[106]
+#: paragraph:4,sentence:3
+msgid ""
+"As Whit Whitson stated at Bill’s memorial service, “At the same time he was "
+"mapping the ego, he was channeling the process by which we could escape—like"
+" mapping an earthquake and then making a plan for how to get out of "
+"it.”[106]"
+msgstr ""
+
+#. Context: As his sabbatical was ending in early 1977, Bill took a leave of
+#. absence, then applied for another, but the second one was denied. He now
+#. had to make a final decision to stay or leave. He chose to leave. Because
+#. he had started at Columbia in February 1958, he was eligible for early
+#. retirement beginning in 1978. Thus, after beginning his sabbatical in mid
+#. 1976, he never returned to his academic or administrative duties. During
+#. that period of being employed but not actively working, he made several
+#. trips to California, at Judy’s invitation, to meet with groups about the
+#. Course. (Helen also participated in a few of them, although under protest
+#. because she strongly disliked traveling.) These trips planted the seed in
+#. Bill and introduced the possibility of leaving not only Columbia, but New
+#. York itself. The Skutches were entertaining the idea of moving to Tiburon
+#. because Judy planned to work on her Ph.D. in San Francisco and,
+#. additionally, she knew many people in the Bay area. Also, Jerry Jampolsky,
+#. a close friend of Judy’s, was a long-time resident of Tiburon. During those
+#. visits, Bill realized that both Jerry and Judy needed help with their
+#. personal lives and that living close to them would be ideal for offering
+#. his assistance. This provided a pivotal rationale for moving.
+#: paragraph:5,sentence:1
+msgid ""
+"As his sabbatical was ending in early 1977, Bill took a leave of absence, "
+"then applied for another, but the second one was denied."
+msgstr ""
+
+#. Context: As his sabbatical was ending in early 1977, Bill took a leave of
+#. absence, then applied for another, but the second one was denied. He now
+#. had to make a final decision to stay or leave. He chose to leave. Because
+#. he had started at Columbia in February 1958, he was eligible for early
+#. retirement beginning in 1978. Thus, after beginning his sabbatical in mid
+#. 1976, he never returned to his academic or administrative duties. During
+#. that period of being employed but not actively working, he made several
+#. trips to California, at Judy’s invitation, to meet with groups about the
+#. Course. (Helen also participated in a few of them, although under protest
+#. because she strongly disliked traveling.) These trips planted the seed in
+#. Bill and introduced the possibility of leaving not only Columbia, but New
+#. York itself. The Skutches were entertaining the idea of moving to Tiburon
+#. because Judy planned to work on her Ph.D. in San Francisco and,
+#. additionally, she knew many people in the Bay area. Also, Jerry Jampolsky,
+#. a close friend of Judy’s, was a long-time resident of Tiburon. During those
+#. visits, Bill realized that both Jerry and Judy needed help with their
+#. personal lives and that living close to them would be ideal for offering
+#. his assistance. This provided a pivotal rationale for moving.
+#: paragraph:5,sentence:2
+msgid ""
+"He now had to make a final decision to stay or leave. He chose to leave."
+msgstr ""
+
+#. Context: As his sabbatical was ending in early 1977, Bill took a leave of
+#. absence, then applied for another, but the second one was denied. He now
+#. had to make a final decision to stay or leave. He chose to leave. Because
+#. he had started at Columbia in February 1958, he was eligible for early
+#. retirement beginning in 1978. Thus, after beginning his sabbatical in mid
+#. 1976, he never returned to his academic or administrative duties. During
+#. that period of being employed but not actively working, he made several
+#. trips to California, at Judy’s invitation, to meet with groups about the
+#. Course. (Helen also participated in a few of them, although under protest
+#. because she strongly disliked traveling.) These trips planted the seed in
+#. Bill and introduced the possibility of leaving not only Columbia, but New
+#. York itself. The Skutches were entertaining the idea of moving to Tiburon
+#. because Judy planned to work on her Ph.D. in San Francisco and,
+#. additionally, she knew many people in the Bay area. Also, Jerry Jampolsky,
+#. a close friend of Judy’s, was a long-time resident of Tiburon. During those
+#. visits, Bill realized that both Jerry and Judy needed help with their
+#. personal lives and that living close to them would be ideal for offering
+#. his assistance. This provided a pivotal rationale for moving.
+#: paragraph:5,sentence:3
+msgid ""
+"Because he had started at Columbia in February 1958, he was eligible for "
+"early retirement beginning in 1978."
+msgstr ""
+
+#. Context: As his sabbatical was ending in early 1977, Bill took a leave of
+#. absence, then applied for another, but the second one was denied. He now
+#. had to make a final decision to stay or leave. He chose to leave. Because
+#. he had started at Columbia in February 1958, he was eligible for early
+#. retirement beginning in 1978. Thus, after beginning his sabbatical in mid
+#. 1976, he never returned to his academic or administrative duties. During
+#. that period of being employed but not actively working, he made several
+#. trips to California, at Judy’s invitation, to meet with groups about the
+#. Course. (Helen also participated in a few of them, although under protest
+#. because she strongly disliked traveling.) These trips planted the seed in
+#. Bill and introduced the possibility of leaving not only Columbia, but New
+#. York itself. The Skutches were entertaining the idea of moving to Tiburon
+#. because Judy planned to work on her Ph.D. in San Francisco and,
+#. additionally, she knew many people in the Bay area. Also, Jerry Jampolsky,
+#. a close friend of Judy’s, was a long-time resident of Tiburon. During those
+#. visits, Bill realized that both Jerry and Judy needed help with their
+#. personal lives and that living close to them would be ideal for offering
+#. his assistance. This provided a pivotal rationale for moving.
+#: paragraph:5,sentence:4
+msgid ""
+"Thus, after beginning his sabbatical in mid 1976, he never returned to his "
+"academic or administrative duties."
+msgstr ""
+
+#. Context: As his sabbatical was ending in early 1977, Bill took a leave of
+#. absence, then applied for another, but the second one was denied. He now
+#. had to make a final decision to stay or leave. He chose to leave. Because
+#. he had started at Columbia in February 1958, he was eligible for early
+#. retirement beginning in 1978. Thus, after beginning his sabbatical in mid
+#. 1976, he never returned to his academic or administrative duties. During
+#. that period of being employed but not actively working, he made several
+#. trips to California, at Judy’s invitation, to meet with groups about the
+#. Course. (Helen also participated in a few of them, although under protest
+#. because she strongly disliked traveling.) These trips planted the seed in
+#. Bill and introduced the possibility of leaving not only Columbia, but New
+#. York itself. The Skutches were entertaining the idea of moving to Tiburon
+#. because Judy planned to work on her Ph.D. in San Francisco and,
+#. additionally, she knew many people in the Bay area. Also, Jerry Jampolsky,
+#. a close friend of Judy’s, was a long-time resident of Tiburon. During those
+#. visits, Bill realized that both Jerry and Judy needed help with their
+#. personal lives and that living close to them would be ideal for offering
+#. his assistance. This provided a pivotal rationale for moving.
+#: paragraph:5,sentence:5
+msgid ""
+"During that period of being employed but not actively working, he made "
+"several trips to California, at Judy’s invitation, to meet with groups about"
+" the Course. (Helen also participated in a few of them, although under "
+"protest because she strongly disliked traveling.) These trips planted the "
+"seed in Bill and introduced the possibility of leaving not only Columbia, "
+"but New York itself."
+msgstr ""
+
+#. Context: As his sabbatical was ending in early 1977, Bill took a leave of
+#. absence, then applied for another, but the second one was denied. He now
+#. had to make a final decision to stay or leave. He chose to leave. Because
+#. he had started at Columbia in February 1958, he was eligible for early
+#. retirement beginning in 1978. Thus, after beginning his sabbatical in mid
+#. 1976, he never returned to his academic or administrative duties. During
+#. that period of being employed but not actively working, he made several
+#. trips to California, at Judy’s invitation, to meet with groups about the
+#. Course. (Helen also participated in a few of them, although under protest
+#. because she strongly disliked traveling.) These trips planted the seed in
+#. Bill and introduced the possibility of leaving not only Columbia, but New
+#. York itself. The Skutches were entertaining the idea of moving to Tiburon
+#. because Judy planned to work on her Ph.D. in San Francisco and,
+#. additionally, she knew many people in the Bay area. Also, Jerry Jampolsky,
+#. a close friend of Judy’s, was a long-time resident of Tiburon. During those
+#. visits, Bill realized that both Jerry and Judy needed help with their
+#. personal lives and that living close to them would be ideal for offering
+#. his assistance. This provided a pivotal rationale for moving.
+#: paragraph:5,sentence:6
+msgid ""
+"The Skutches were entertaining the idea of moving to Tiburon because Judy "
+"planned to work on her Ph.D. in San Francisco and, additionally, she knew "
+"many people in the Bay area."
+msgstr ""
+
+#. Context: As his sabbatical was ending in early 1977, Bill took a leave of
+#. absence, then applied for another, but the second one was denied. He now
+#. had to make a final decision to stay or leave. He chose to leave. Because
+#. he had started at Columbia in February 1958, he was eligible for early
+#. retirement beginning in 1978. Thus, after beginning his sabbatical in mid
+#. 1976, he never returned to his academic or administrative duties. During
+#. that period of being employed but not actively working, he made several
+#. trips to California, at Judy’s invitation, to meet with groups about the
+#. Course. (Helen also participated in a few of them, although under protest
+#. because she strongly disliked traveling.) These trips planted the seed in
+#. Bill and introduced the possibility of leaving not only Columbia, but New
+#. York itself. The Skutches were entertaining the idea of moving to Tiburon
+#. because Judy planned to work on her Ph.D. in San Francisco and,
+#. additionally, she knew many people in the Bay area. Also, Jerry Jampolsky,
+#. a close friend of Judy’s, was a long-time resident of Tiburon. During those
+#. visits, Bill realized that both Jerry and Judy needed help with their
+#. personal lives and that living close to them would be ideal for offering
+#. his assistance. This provided a pivotal rationale for moving.
+#: paragraph:5,sentence:7
+msgid ""
+"Also, Jerry Jampolsky, a close friend of Judy’s, was a long-time resident of"
+" Tiburon."
+msgstr ""
+
+#. Context: As his sabbatical was ending in early 1977, Bill took a leave of
+#. absence, then applied for another, but the second one was denied. He now
+#. had to make a final decision to stay or leave. He chose to leave. Because
+#. he had started at Columbia in February 1958, he was eligible for early
+#. retirement beginning in 1978. Thus, after beginning his sabbatical in mid
+#. 1976, he never returned to his academic or administrative duties. During
+#. that period of being employed but not actively working, he made several
+#. trips to California, at Judy’s invitation, to meet with groups about the
+#. Course. (Helen also participated in a few of them, although under protest
+#. because she strongly disliked traveling.) These trips planted the seed in
+#. Bill and introduced the possibility of leaving not only Columbia, but New
+#. York itself. The Skutches were entertaining the idea of moving to Tiburon
+#. because Judy planned to work on her Ph.D. in San Francisco and,
+#. additionally, she knew many people in the Bay area. Also, Jerry Jampolsky,
+#. a close friend of Judy’s, was a long-time resident of Tiburon. During those
+#. visits, Bill realized that both Jerry and Judy needed help with their
+#. personal lives and that living close to them would be ideal for offering
+#. his assistance. This provided a pivotal rationale for moving.
+#: paragraph:5,sentence:8
+msgid ""
+"During those visits, Bill realized that both Jerry and Judy needed help with"
+" their personal lives and that living close to them would be ideal for "
+"offering his assistance."
+msgstr ""
+
+#. Context: As his sabbatical was ending in early 1977, Bill took a leave of
+#. absence, then applied for another, but the second one was denied. He now
+#. had to make a final decision to stay or leave. He chose to leave. Because
+#. he had started at Columbia in February 1958, he was eligible for early
+#. retirement beginning in 1978. Thus, after beginning his sabbatical in mid
+#. 1976, he never returned to his academic or administrative duties. During
+#. that period of being employed but not actively working, he made several
+#. trips to California, at Judy’s invitation, to meet with groups about the
+#. Course. (Helen also participated in a few of them, although under protest
+#. because she strongly disliked traveling.) These trips planted the seed in
+#. Bill and introduced the possibility of leaving not only Columbia, but New
+#. York itself. The Skutches were entertaining the idea of moving to Tiburon
+#. because Judy planned to work on her Ph.D. in San Francisco and,
+#. additionally, she knew many people in the Bay area. Also, Jerry Jampolsky,
+#. a close friend of Judy’s, was a long-time resident of Tiburon. During those
+#. visits, Bill realized that both Jerry and Judy needed help with their
+#. personal lives and that living close to them would be ideal for offering
+#. his assistance. This provided a pivotal rationale for moving.
+#: paragraph:5,sentence:9
+msgid "This provided a pivotal rationale for moving."
+msgstr ""
+
+#. Context: As he weighed his options, Bill also had to confront his fear
+#. about leaving his secure, tenured position, one not easily attained. In
+#. addition to his fine reputation and the prestige of being associated with
+#. Columbia, he was financially secure. Now he wavered as he looked at giving
+#. it all up, like standing with one foot on each side of an ever-widening
+#. chasm. It was that branching of the road we all come to eventually and he
+#. chose the California path.
+#: paragraph:6,sentence:1
+msgid ""
+"As he weighed his options, Bill also had to confront his fear about leaving "
+"his secure, tenured position, one not easily attained."
+msgstr ""
+
+#. Context: As he weighed his options, Bill also had to confront his fear
+#. about leaving his secure, tenured position, one not easily attained. In
+#. addition to his fine reputation and the prestige of being associated with
+#. Columbia, he was financially secure. Now he wavered as he looked at giving
+#. it all up, like standing with one foot on each side of an ever-widening
+#. chasm. It was that branching of the road we all come to eventually and he
+#. chose the California path.
+#: paragraph:6,sentence:2
+msgid ""
+"In addition to his fine reputation and the prestige of being associated with"
+" Columbia, he was financially secure."
+msgstr ""
+
+#. Context: As he weighed his options, Bill also had to confront his fear
+#. about leaving his secure, tenured position, one not easily attained. In
+#. addition to his fine reputation and the prestige of being associated with
+#. Columbia, he was financially secure. Now he wavered as he looked at giving
+#. it all up, like standing with one foot on each side of an ever-widening
+#. chasm. It was that branching of the road we all come to eventually and he
+#. chose the California path.
+#: paragraph:6,sentence:3
+msgid ""
+"Now he wavered as he looked at giving it all up, like standing with one foot"
+" on each side of an ever-widening chasm."
+msgstr ""
+
+#. Context: As he weighed his options, Bill also had to confront his fear
+#. about leaving his secure, tenured position, one not easily attained. In
+#. addition to his fine reputation and the prestige of being associated with
+#. Columbia, he was financially secure. Now he wavered as he looked at giving
+#. it all up, like standing with one foot on each side of an ever-widening
+#. chasm. It was that branching of the road we all come to eventually and he
+#. chose the California path.
+#: paragraph:6,sentence:4
+msgid ""
+"It was that branching of the road we all come to eventually and he chose the"
+" California path."
+msgstr ""
+
+#. Context: Besides leaving academia behind, Bill also cut ties with most of
+#. his friends and, obviously, the New York lifestyle. He notes his propensity
+#. for leaving finished eras behind. “I talked about it [the Course] when it
+#. was necessary and then I would leave. Probably a lot of my life has been
+#. that way. I do whatever I think is necessary at the time and then I
+#. withdraw from it all.”[107] In characteristic fashion, he abandoned his
+#. life, his career, the person he had been, like a suit of clothes left
+#. hanging in the closet. That time was over.
+#: paragraph:7,sentence:1
+msgid ""
+"Besides leaving academia behind, Bill also cut ties with most of his friends"
+" and, obviously, the New York lifestyle."
+msgstr ""
+
+#. Context: Besides leaving academia behind, Bill also cut ties with most of
+#. his friends and, obviously, the New York lifestyle. He notes his propensity
+#. for leaving finished eras behind. “I talked about it [the Course] when it
+#. was necessary and then I would leave. Probably a lot of my life has been
+#. that way. I do whatever I think is necessary at the time and then I
+#. withdraw from it all.”[107] In characteristic fashion, he abandoned his
+#. life, his career, the person he had been, like a suit of clothes left
+#. hanging in the closet. That time was over.
+#: paragraph:7,sentence:2
+msgid ""
+"He notes his propensity for leaving finished eras behind. “I talked about it"
+" [the Course] when it was necessary and then I would leave."
+msgstr ""
+
+#. Context: Besides leaving academia behind, Bill also cut ties with most of
+#. his friends and, obviously, the New York lifestyle. He notes his propensity
+#. for leaving finished eras behind. “I talked about it [the Course] when it
+#. was necessary and then I would leave. Probably a lot of my life has been
+#. that way. I do whatever I think is necessary at the time and then I
+#. withdraw from it all.”[107] In characteristic fashion, he abandoned his
+#. life, his career, the person he had been, like a suit of clothes left
+#. hanging in the closet. That time was over.
+#: paragraph:7,sentence:3
+msgid "Probably a lot of my life has been that way."
+msgstr ""
+
+#. Context: Besides leaving academia behind, Bill also cut ties with most of
+#. his friends and, obviously, the New York lifestyle. He notes his propensity
+#. for leaving finished eras behind. “I talked about it [the Course] when it
+#. was necessary and then I would leave. Probably a lot of my life has been
+#. that way. I do whatever I think is necessary at the time and then I
+#. withdraw from it all.”[107] In characteristic fashion, he abandoned his
+#. life, his career, the person he had been, like a suit of clothes left
+#. hanging in the closet. That time was over.
+#: paragraph:7,sentence:4
+msgid ""
+"I do whatever I think is necessary at the time and then I withdraw from it "
+"all.”[107] In characteristic fashion, he abandoned his life, his career, the"
+" person he had been, like a suit of clothes left hanging in the closet. That"
+" time was over."
+msgstr ""
+
+#. Context: ACIM states: “Fear not that you will be abruptly lifted up and
+#. hurled into reality. Time is kind, and if you use it on behalf of reality,
+#. it will keep gentle pace with you in your transition. The urgency is only
+#. in dislodging your mind from its fixed position here.”[108] I think Bill
+#. often felt that, indeed, he had been picked up and hurled into California
+#. by some volition not his own. Leaving New York was wrenching, even though
+#. he was following his excellent guidance in making the choice, the right and
+#. inevitable one for him. New York had been the center of Bill’s world even
+#. during his early days in Washington, D.C., when he frequently traveled
+#. there on weekends.
+#: paragraph:8,sentence:1
+msgid ""
+"ACIM states: “Fear not that you will be abruptly lifted up and hurled into "
+"reality."
+msgstr ""
+
+#. Context: ACIM states: “Fear not that you will be abruptly lifted up and
+#. hurled into reality. Time is kind, and if you use it on behalf of reality,
+#. it will keep gentle pace with you in your transition. The urgency is only
+#. in dislodging your mind from its fixed position here.”[108] I think Bill
+#. often felt that, indeed, he had been picked up and hurled into California
+#. by some volition not his own. Leaving New York was wrenching, even though
+#. he was following his excellent guidance in making the choice, the right and
+#. inevitable one for him. New York had been the center of Bill’s world even
+#. during his early days in Washington, D.C., when he frequently traveled
+#. there on weekends.
+#: paragraph:8,sentence:2
+msgid ""
+"Time is kind, and if you use it on behalf of reality, it will keep gentle "
+"pace with you in your transition."
+msgstr ""
+
+#. Context: ACIM states: “Fear not that you will be abruptly lifted up and
+#. hurled into reality. Time is kind, and if you use it on behalf of reality,
+#. it will keep gentle pace with you in your transition. The urgency is only
+#. in dislodging your mind from its fixed position here.”[108] I think Bill
+#. often felt that, indeed, he had been picked up and hurled into California
+#. by some volition not his own. Leaving New York was wrenching, even though
+#. he was following his excellent guidance in making the choice, the right and
+#. inevitable one for him. New York had been the center of Bill’s world even
+#. during his early days in Washington, D.C., when he frequently traveled
+#. there on weekends.
+#: paragraph:8,sentence:3
+msgid ""
+"The urgency is only in dislodging your mind from its fixed position "
+"here.”[108] I think Bill often felt that, indeed, he had been picked up and "
+"hurled into California by some volition not his own."
+msgstr ""
+
+#. Context: ACIM states: “Fear not that you will be abruptly lifted up and
+#. hurled into reality. Time is kind, and if you use it on behalf of reality,
+#. it will keep gentle pace with you in your transition. The urgency is only
+#. in dislodging your mind from its fixed position here.”[108] I think Bill
+#. often felt that, indeed, he had been picked up and hurled into California
+#. by some volition not his own. Leaving New York was wrenching, even though
+#. he was following his excellent guidance in making the choice, the right and
+#. inevitable one for him. New York had been the center of Bill’s world even
+#. during his early days in Washington, D.C., when he frequently traveled
+#. there on weekends.
+#: paragraph:8,sentence:4
+msgid ""
+"Leaving New York was wrenching, even though he was following his excellent "
+"guidance in making the choice, the right and inevitable one for him."
+msgstr ""
+
+#. Context: ACIM states: “Fear not that you will be abruptly lifted up and
+#. hurled into reality. Time is kind, and if you use it on behalf of reality,
+#. it will keep gentle pace with you in your transition. The urgency is only
+#. in dislodging your mind from its fixed position here.”[108] I think Bill
+#. often felt that, indeed, he had been picked up and hurled into California
+#. by some volition not his own. Leaving New York was wrenching, even though
+#. he was following his excellent guidance in making the choice, the right and
+#. inevitable one for him. New York had been the center of Bill’s world even
+#. during his early days in Washington, D.C., when he frequently traveled
+#. there on weekends.
+#: paragraph:8,sentence:5
+msgid ""
+"New York had been the center of Bill’s world even during his early days in "
+"Washington, D.C., when he frequently traveled there on weekends."
+msgstr ""
+
+#. Context: As a sophisticated easterner, he did not fit the casual California
+#. stereotype, but he traded his daily coat and tie for jeans and a sweater
+#. and prepared to enter this new phase of his life, even if somewhat
+#. reluctantly at first. As with the end of any life chapter, there was a
+#. sense of loss and some grief at the prospect of leaving New York, but
+#. predictably, he found cause for warm good humor regarding his new home,
+#. often joking about the California lifestyle.
+#: paragraph:9,sentence:1
+msgid ""
+"As a sophisticated easterner, he did not fit the casual California "
+"stereotype, but he traded his daily coat and tie for jeans and a sweater and"
+" prepared to enter this new phase of his life, even if somewhat reluctantly "
+"at first."
+msgstr ""
+
+#. Context: As a sophisticated easterner, he did not fit the casual California
+#. stereotype, but he traded his daily coat and tie for jeans and a sweater
+#. and prepared to enter this new phase of his life, even if somewhat
+#. reluctantly at first. As with the end of any life chapter, there was a
+#. sense of loss and some grief at the prospect of leaving New York, but
+#. predictably, he found cause for warm good humor regarding his new home,
+#. often joking about the California lifestyle.
+#: paragraph:9,sentence:2
+msgid ""
+"As with the end of any life chapter, there was a sense of loss and some "
+"grief at the prospect of leaving New York, but predictably, he found cause "
+"for warm good humor regarding his new home, often joking about the "
+"California lifestyle."
+msgstr ""
+
+#. Context: During the time of Bill’s sabbatical and leave-taking, Jim Bolen—a
+#. friend of Judy’s, devoted Course student, and editor of a popular magazine,
+#. Psychic—wanted to publish an article about ACIM. Bill and Helen felt it
+#. would be misleading to have it appear in a publication with that name, so
+#. at Bill’s suggestion it was renamed New Realities. The article appeared in
+#. April 1977, and the response was overwhelming and widespread. What remained
+#. of the first five thousand sets of the Course, printed a year earlier with
+#. Reed Erickson’s generous donation, quickly sold out, requiring an immediate
+#. second printing. Thousands of letters and inquiries flooded in, indicating
+#. ACIM’s immense impact on those first readers. With the word out far and
+#. wide, Bill, for better or worse, would never again enjoy anonymity
+#. regarding his role in birthing the Course.
+#: paragraph:10,sentence:1
+msgid ""
+"During the time of Bill’s sabbatical and leave-taking, Jim Bolen—a friend of"
+" Judy’s, devoted Course student, and editor of a popular magazine, "
+"Psychic—wanted to publish an article about ACIM."
+msgstr ""
+
+#. Context: During the time of Bill’s sabbatical and leave-taking, Jim Bolen—a
+#. friend of Judy’s, devoted Course student, and editor of a popular magazine,
+#. Psychic—wanted to publish an article about ACIM. Bill and Helen felt it
+#. would be misleading to have it appear in a publication with that name, so
+#. at Bill’s suggestion it was renamed New Realities. The article appeared in
+#. April 1977, and the response was overwhelming and widespread. What remained
+#. of the first five thousand sets of the Course, printed a year earlier with
+#. Reed Erickson’s generous donation, quickly sold out, requiring an immediate
+#. second printing. Thousands of letters and inquiries flooded in, indicating
+#. ACIM’s immense impact on those first readers. With the word out far and
+#. wide, Bill, for better or worse, would never again enjoy anonymity
+#. regarding his role in birthing the Course.
+#: paragraph:10,sentence:2
+msgid ""
+"Bill and Helen felt it would be misleading to have it appear in a "
+"publication with that name, so at Bill’s suggestion it was renamed New "
+"Realities."
+msgstr ""
+
+#. Context: During the time of Bill’s sabbatical and leave-taking, Jim Bolen—a
+#. friend of Judy’s, devoted Course student, and editor of a popular magazine,
+#. Psychic—wanted to publish an article about ACIM. Bill and Helen felt it
+#. would be misleading to have it appear in a publication with that name, so
+#. at Bill’s suggestion it was renamed New Realities. The article appeared in
+#. April 1977, and the response was overwhelming and widespread. What remained
+#. of the first five thousand sets of the Course, printed a year earlier with
+#. Reed Erickson’s generous donation, quickly sold out, requiring an immediate
+#. second printing. Thousands of letters and inquiries flooded in, indicating
+#. ACIM’s immense impact on those first readers. With the word out far and
+#. wide, Bill, for better or worse, would never again enjoy anonymity
+#. regarding his role in birthing the Course.
+#: paragraph:10,sentence:3
+msgid ""
+"The article appeared in April 1977, and the response was overwhelming and "
+"widespread."
+msgstr ""
+
+#. Context: During the time of Bill’s sabbatical and leave-taking, Jim Bolen—a
+#. friend of Judy’s, devoted Course student, and editor of a popular magazine,
+#. Psychic—wanted to publish an article about ACIM. Bill and Helen felt it
+#. would be misleading to have it appear in a publication with that name, so
+#. at Bill’s suggestion it was renamed New Realities. The article appeared in
+#. April 1977, and the response was overwhelming and widespread. What remained
+#. of the first five thousand sets of the Course, printed a year earlier with
+#. Reed Erickson’s generous donation, quickly sold out, requiring an immediate
+#. second printing. Thousands of letters and inquiries flooded in, indicating
+#. ACIM’s immense impact on those first readers. With the word out far and
+#. wide, Bill, for better or worse, would never again enjoy anonymity
+#. regarding his role in birthing the Course.
+#: paragraph:10,sentence:4
+msgid ""
+"What remained of the first five thousand sets of the Course, printed a year "
+"earlier with Reed Erickson’s generous donation, quickly sold out, requiring "
+"an immediate second printing."
+msgstr ""
+
+#. Context: During the time of Bill’s sabbatical and leave-taking, Jim Bolen—a
+#. friend of Judy’s, devoted Course student, and editor of a popular magazine,
+#. Psychic—wanted to publish an article about ACIM. Bill and Helen felt it
+#. would be misleading to have it appear in a publication with that name, so
+#. at Bill’s suggestion it was renamed New Realities. The article appeared in
+#. April 1977, and the response was overwhelming and widespread. What remained
+#. of the first five thousand sets of the Course, printed a year earlier with
+#. Reed Erickson’s generous donation, quickly sold out, requiring an immediate
+#. second printing. Thousands of letters and inquiries flooded in, indicating
+#. ACIM’s immense impact on those first readers. With the word out far and
+#. wide, Bill, for better or worse, would never again enjoy anonymity
+#. regarding his role in birthing the Course.
+#: paragraph:10,sentence:5
+msgid ""
+"Thousands of letters and inquiries flooded in, indicating ACIM’s immense "
+"impact on those first readers."
+msgstr ""
+
+#. Context: During the time of Bill’s sabbatical and leave-taking, Jim Bolen—a
+#. friend of Judy’s, devoted Course student, and editor of a popular magazine,
+#. Psychic—wanted to publish an article about ACIM. Bill and Helen felt it
+#. would be misleading to have it appear in a publication with that name, so
+#. at Bill’s suggestion it was renamed New Realities. The article appeared in
+#. April 1977, and the response was overwhelming and widespread. What remained
+#. of the first five thousand sets of the Course, printed a year earlier with
+#. Reed Erickson’s generous donation, quickly sold out, requiring an immediate
+#. second printing. Thousands of letters and inquiries flooded in, indicating
+#. ACIM’s immense impact on those first readers. With the word out far and
+#. wide, Bill, for better or worse, would never again enjoy anonymity
+#. regarding his role in birthing the Course.
+#: paragraph:10,sentence:6
+msgid ""
+"With the word out far and wide, Bill, for better or worse, would never again"
+" enjoy anonymity regarding his role in birthing the Course."
+msgstr ""
+
+#. Context: In the spring of 1978, a friend gave our family a subscription to
+#. New Realities magazine and the inaugural issue featuring A Course In
+#. Miracles arrived soon after. As for many, it was my introduction to the
+#. Course. For many years, I had been looking for answers to only vaguely
+#. defined questions, reading endlessly, gradually getting in touch with
+#. feelings, looking more honestly at my motivations. I was fascinated with
+#. this article, and when I read the Introduction to the text, something in me
+#. responded. I could feel the power, the truth, and life coming through the
+#. words. I ordered the books, and when I finally held the newly delivered,
+#. unopened package, I knew without question that this was my way home. I had
+#. no clue about the enormity of the shift that was bound to take place; I
+#. only knew that my search was over.
+#: paragraph:11,sentence:1
+msgid ""
+"In the spring of 1978, a friend gave our family a subscription to New "
+"Realities magazine and the inaugural issue featuring A Course In Miracles "
+"arrived soon after."
+msgstr ""
+
+#. Context: In the spring of 1978, a friend gave our family a subscription to
+#. New Realities magazine and the inaugural issue featuring A Course In
+#. Miracles arrived soon after. As for many, it was my introduction to the
+#. Course. For many years, I had been looking for answers to only vaguely
+#. defined questions, reading endlessly, gradually getting in touch with
+#. feelings, looking more honestly at my motivations. I was fascinated with
+#. this article, and when I read the Introduction to the text, something in me
+#. responded. I could feel the power, the truth, and life coming through the
+#. words. I ordered the books, and when I finally held the newly delivered,
+#. unopened package, I knew without question that this was my way home. I had
+#. no clue about the enormity of the shift that was bound to take place; I
+#. only knew that my search was over.
+#: paragraph:11,sentence:2
+msgid "As for many, it was my introduction to the Course."
+msgstr ""
+
+#. Context: In the spring of 1978, a friend gave our family a subscription to
+#. New Realities magazine and the inaugural issue featuring A Course In
+#. Miracles arrived soon after. As for many, it was my introduction to the
+#. Course. For many years, I had been looking for answers to only vaguely
+#. defined questions, reading endlessly, gradually getting in touch with
+#. feelings, looking more honestly at my motivations. I was fascinated with
+#. this article, and when I read the Introduction to the text, something in me
+#. responded. I could feel the power, the truth, and life coming through the
+#. words. I ordered the books, and when I finally held the newly delivered,
+#. unopened package, I knew without question that this was my way home. I had
+#. no clue about the enormity of the shift that was bound to take place; I
+#. only knew that my search was over.
+#: paragraph:11,sentence:3
+msgid ""
+"For many years, I had been looking for answers to only vaguely defined "
+"questions, reading endlessly, gradually getting in touch with feelings, "
+"looking more honestly at my motivations."
+msgstr ""
+
+#. Context: In the spring of 1978, a friend gave our family a subscription to
+#. New Realities magazine and the inaugural issue featuring A Course In
+#. Miracles arrived soon after. As for many, it was my introduction to the
+#. Course. For many years, I had been looking for answers to only vaguely
+#. defined questions, reading endlessly, gradually getting in touch with
+#. feelings, looking more honestly at my motivations. I was fascinated with
+#. this article, and when I read the Introduction to the text, something in me
+#. responded. I could feel the power, the truth, and life coming through the
+#. words. I ordered the books, and when I finally held the newly delivered,
+#. unopened package, I knew without question that this was my way home. I had
+#. no clue about the enormity of the shift that was bound to take place; I
+#. only knew that my search was over.
+#: paragraph:11,sentence:4
+msgid ""
+"I was fascinated with this article, and when I read the Introduction to the "
+"text, something in me responded."
+msgstr ""
+
+#. Context: In the spring of 1978, a friend gave our family a subscription to
+#. New Realities magazine and the inaugural issue featuring A Course In
+#. Miracles arrived soon after. As for many, it was my introduction to the
+#. Course. For many years, I had been looking for answers to only vaguely
+#. defined questions, reading endlessly, gradually getting in touch with
+#. feelings, looking more honestly at my motivations. I was fascinated with
+#. this article, and when I read the Introduction to the text, something in me
+#. responded. I could feel the power, the truth, and life coming through the
+#. words. I ordered the books, and when I finally held the newly delivered,
+#. unopened package, I knew without question that this was my way home. I had
+#. no clue about the enormity of the shift that was bound to take place; I
+#. only knew that my search was over.
+#: paragraph:11,sentence:5
+msgid "I could feel the power, the truth, and life coming through the words."
+msgstr ""
+
+#. Context: In the spring of 1978, a friend gave our family a subscription to
+#. New Realities magazine and the inaugural issue featuring A Course In
+#. Miracles arrived soon after. As for many, it was my introduction to the
+#. Course. For many years, I had been looking for answers to only vaguely
+#. defined questions, reading endlessly, gradually getting in touch with
+#. feelings, looking more honestly at my motivations. I was fascinated with
+#. this article, and when I read the Introduction to the text, something in me
+#. responded. I could feel the power, the truth, and life coming through the
+#. words. I ordered the books, and when I finally held the newly delivered,
+#. unopened package, I knew without question that this was my way home. I had
+#. no clue about the enormity of the shift that was bound to take place; I
+#. only knew that my search was over.
+#: paragraph:11,sentence:6
+msgid ""
+"I ordered the books, and when I finally held the newly delivered, unopened "
+"package, I knew without question that this was my way home."
+msgstr ""
+
+#. Context: In the spring of 1978, a friend gave our family a subscription to
+#. New Realities magazine and the inaugural issue featuring A Course In
+#. Miracles arrived soon after. As for many, it was my introduction to the
+#. Course. For many years, I had been looking for answers to only vaguely
+#. defined questions, reading endlessly, gradually getting in touch with
+#. feelings, looking more honestly at my motivations. I was fascinated with
+#. this article, and when I read the Introduction to the text, something in me
+#. responded. I could feel the power, the truth, and life coming through the
+#. words. I ordered the books, and when I finally held the newly delivered,
+#. unopened package, I knew without question that this was my way home. I had
+#. no clue about the enormity of the shift that was bound to take place; I
+#. only knew that my search was over.
+#: paragraph:11,sentence:7
+msgid ""
+"I had no clue about the enormity of the shift that was bound to take place; "
+"I only knew that my search was over."
+msgstr ""
+
+#. Context: I often tell students that “one’s life has a life of its own” and
+#. Bill’s was no exception, nor was mine. During the year Bill was closing the
+#. doors on New York, I was devouring the Course as the most amazing work I
+#. had ever encountered. It was literally irresistible. Second in importance
+#. only to raising my children, it became the most all-encompassing element in
+#. my life. In May 1978, on the last of Bill’s several cross-country trips to
+#. finalize his move from New York to Tiburon, our paths crossed in Denver,
+#. Colorado, my home at that time. My life would never be the same again.
+#: paragraph:12,sentence:1
+msgid ""
+"I often tell students that “one’s life has a life of its own” and Bill’s was"
+" no exception, nor was mine."
+msgstr ""
+
+#. Context: I often tell students that “one’s life has a life of its own” and
+#. Bill’s was no exception, nor was mine. During the year Bill was closing the
+#. doors on New York, I was devouring the Course as the most amazing work I
+#. had ever encountered. It was literally irresistible. Second in importance
+#. only to raising my children, it became the most all-encompassing element in
+#. my life. In May 1978, on the last of Bill’s several cross-country trips to
+#. finalize his move from New York to Tiburon, our paths crossed in Denver,
+#. Colorado, my home at that time. My life would never be the same again.
+#: paragraph:12,sentence:2
+msgid ""
+"During the year Bill was closing the doors on New York, I was devouring the "
+"Course as the most amazing work I had ever encountered. It was literally "
+"irresistible."
+msgstr ""
+
+#. Context: I often tell students that “one’s life has a life of its own” and
+#. Bill’s was no exception, nor was mine. During the year Bill was closing the
+#. doors on New York, I was devouring the Course as the most amazing work I
+#. had ever encountered. It was literally irresistible. Second in importance
+#. only to raising my children, it became the most all-encompassing element in
+#. my life. In May 1978, on the last of Bill’s several cross-country trips to
+#. finalize his move from New York to Tiburon, our paths crossed in Denver,
+#. Colorado, my home at that time. My life would never be the same again.
+#: paragraph:12,sentence:3
+msgid ""
+"Second in importance only to raising my children, it became the most all-"
+"encompassing element in my life."
+msgstr ""
+
+#. Context: I often tell students that “one’s life has a life of its own” and
+#. Bill’s was no exception, nor was mine. During the year Bill was closing the
+#. doors on New York, I was devouring the Course as the most amazing work I
+#. had ever encountered. It was literally irresistible. Second in importance
+#. only to raising my children, it became the most all-encompassing element in
+#. my life. In May 1978, on the last of Bill’s several cross-country trips to
+#. finalize his move from New York to Tiburon, our paths crossed in Denver,
+#. Colorado, my home at that time. My life would never be the same again.
+#: paragraph:12,sentence:4
+msgid ""
+"In May 1978, on the last of Bill’s several cross-country trips to finalize "
+"his move from New York to Tiburon, our paths crossed in Denver, Colorado, my"
+" home at that time."
+msgstr ""
+
+#. Context: I often tell students that “one’s life has a life of its own” and
+#. Bill’s was no exception, nor was mine. During the year Bill was closing the
+#. doors on New York, I was devouring the Course as the most amazing work I
+#. had ever encountered. It was literally irresistible. Second in importance
+#. only to raising my children, it became the most all-encompassing element in
+#. my life. In May 1978, on the last of Bill’s several cross-country trips to
+#. finalize his move from New York to Tiburon, our paths crossed in Denver,
+#. Colorado, my home at that time. My life would never be the same again.
+#: paragraph:12,sentence:5
+msgid "My life would never be the same again."
+msgstr ""
+
+#. Context: [1]A Course In Miracles Text, 586–587.
+#: paragraph:13,sentence:1
+msgid "[1]A Course In Miracles Text, 586–587."
+msgstr ""
+
+#. Context: [2] Helen Schucman: Autobiography, in “Origins of A Course In
+#. Miracles,” 3:49, Foundation for Inner Peace Archives, Tiburon, CA (cited
+#. hereinafter as FIPA).
+#: paragraph:14,sentence:1
+msgid ""
+"[2] Helen Schucman: Autobiography, in “Origins of A Course In Miracles,” "
+"3:49, Foundation for Inner Peace Archives, Tiburon, CA (cited hereinafter as"
+" FIPA)."
+msgstr ""
+
+#. Context: [3] William W. Whitson, “William Newton Thetford and the Central
+#. Intelligence Agency,” manuscript, FIPA, 28.
+#: paragraph:15,sentence:1
+msgid "[3] William W."
+msgstr ""
+
+#. Context: [3] William W. Whitson, “William Newton Thetford and the Central
+#. Intelligence Agency,” manuscript, FIPA, 28.
+#: paragraph:15,sentence:2
+msgid ""
+"Whitson, “William Newton Thetford and the Central Intelligence Agency,” "
+"manuscript, FIPA, 28."
+msgstr ""
+
+#. Context: [4] This phrase is a shortened version of the complete sentence
+#. from the Introduction to ACIM: “It does aim, however, at removing the
+#. blocks to the awareness of love’s presence, which is your natural
+#. inheritance.”
+#: paragraph:16,sentence:1
+msgid ""
+"[4] This phrase is a shortened version of the complete sentence from the "
+"Introduction to ACIM: “It does aim, however, at removing the blocks to the "
+"awareness of love’s presence, which is your natural inheritance.”"
+msgstr ""
+
+#. Context: [5]William N. Thetford, “I Live Again,” personal essay written in
+#. 1938 as a class assignment in high school. Foundation for Inner Peace,
+#. Tiburon, CA, 6–14.
+#: paragraph:17,sentence:1
+msgid "[5]William N."
+msgstr ""
+
+#. Context: [5]William N. Thetford, “I Live Again,” personal essay written in
+#. 1938 as a class assignment in high school. Foundation for Inner Peace,
+#. Tiburon, CA, 6–14.
+#: paragraph:17,sentence:2
+msgid ""
+"Thetford, “I Live Again,” personal essay written in 1938 as a class "
+"assignment in high school."
+msgstr ""
+
+#. Context: [5]William N. Thetford, “I Live Again,” personal essay written in
+#. 1938 as a class assignment in high school. Foundation for Inner Peace,
+#. Tiburon, CA, 6–14.
+#: paragraph:17,sentence:3
+msgid "Foundation for Inner Peace, Tiburon, CA, 6–14."
+msgstr ""
+
+#. Context: [6]A Course In Miracles Workbook, Lesson 136, 258.
+#: paragraph:18,sentence:1
+msgid "[6]A Course In Miracles Workbook, Lesson 136, 258."
+msgstr ""
+
+#. Context: [7] Thetford, “I Live Again,” 15–16.
+#: paragraph:19,sentence:1
+msgid "[7] Thetford, “I Live Again,” 15–16."
+msgstr ""
+
+#. Context: [8] Catherine Prescott interview by Tamara Cohen, in “Origins of A
+#. Course In Miracles,” ed. James Bolen, 24:3, FIPA.
+#: paragraph:20,sentence:1
+msgid ""
+"[8] Catherine Prescott interview by Tamara Cohen, in “Origins of A Course In"
+" Miracles,” ed. James Bolen, 24:3, FIPA."
+msgstr ""
+
+#. Context: [9] Thetford, “I Live Again,” 20–21.
+#: paragraph:21,sentence:1
+msgid "[9] Thetford, “I Live Again,” 20–21."
+msgstr ""
+
+#. Context: [10]Edna Jo Hunter-King interview by Tamara Cohen, in “Origins of
+#. A Course In Miracles,” ed. James Bolen, 11:4, FIPA.
+#: paragraph:22,sentence:1
+msgid ""
+"[10]Edna Jo Hunter-King interview by Tamara Cohen, in “Origins of A Course "
+"In Miracles,” ed. James Bolen, 11:4, FIPA."
+msgstr ""
+
+#. Context: [11] Robert Skutch, Journey Without Distance: The Story Behind A
+#. Course In Miracles (Berkeley, CA: Celestial Arts, 1984), 3–4.
+#: paragraph:23,sentence:1
+msgid ""
+"[11] Robert Skutch, Journey Without Distance: The Story Behind A Course In "
+"Miracles (Berkeley, CA: Celestial Arts, 1984), 3–4."
+msgstr ""
+
+#. Context: [12] Gardner Murphy, Personality: A Biosocial Approach to Origins
+#. and Structure (New York: Harper and Brothers, 1947), Foreword.
+#: paragraph:24,sentence:1
+msgid ""
+"[12] Gardner Murphy, Personality: A Biosocial Approach to Origins and "
+"Structure (New York: Harper and Brothers, 1947), Foreword."
+msgstr ""
+
+#. Context: [14]David Keirsey, Please Understand Me, II (Del Mar, CA:
+#. Prometheus Nemesis Books, 1998), 26.
+#: paragraph:25,sentence:1
+msgid ""
+"[14]David Keirsey, Please Understand Me, II (Del Mar, CA: Prometheus Nemesis"
+" Books, 1998), 26."
+msgstr ""
+
+#. Context: [18]A Course In Miracles Workbook, Lesson 135, 255.
+#: paragraph:26,sentence:1
+msgid "[18]A Course In Miracles Workbook, Lesson 135, 255."
+msgstr ""
+
+#. Context: [19]A Course In Miracles Text, 172.
+#: paragraph:27,sentence:1
+msgid "[19]A Course In Miracles Text, 172."
+msgstr ""
+
+#. Context: [20]A Course In Miracles Workbook, Lesson 158, 298.
+#: paragraph:28,sentence:1
+msgid "[20]A Course In Miracles Workbook, Lesson 158, 298."
+msgstr ""
+
+#. Context: [21] Jack and Layle Luckett, email message to author, August 2007.
+#: paragraph:29,sentence:1
+msgid "[21] Jack and Layle Luckett, email message to author, August 2007."
+msgstr ""
+
+#. Context: [22] William W. Whitson, “William Newton Thetford and the Central
+#. Intelligence Agency,” manuscript, FIPA, 3–4.
+#: paragraph:30,sentence:1
+msgid "[22] William W."
+msgstr ""
+
+#. Context: [22] William W. Whitson, “William Newton Thetford and the Central
+#. Intelligence Agency,” manuscript, FIPA, 3–4.
+#: paragraph:30,sentence:2
+msgid ""
+"Whitson, “William Newton Thetford and the Central Intelligence Agency,” "
+"manuscript, FIPA, 3–4."
+msgstr ""
+
+#. Context: [23] Alice Stephens telephone interview by author, March 2007.
+#: paragraph:31,sentence:1
+msgid "[23] Alice Stephens telephone interview by author, March 2007."
+msgstr ""
+
+#. Context: [24] Whitson, “Thetford and the CIA,” 19.
+#: paragraph:32,sentence:1
+msgid "[24] Whitson, “Thetford and the CIA,” 19."
+msgstr ""
+
+#. Context: [25] David Goodrich telephone interview by author, February 2008.
+#: paragraph:33,sentence:1
+msgid "[25] David Goodrich telephone interview by author, February 2008."
+msgstr ""
+
+#. Context: [26] Internet site www.pasf.org
+#: paragraph:34,sentence:1
+msgid "[26] Internet site www.pasf.org"
+msgstr ""
+
+#. Context: [27]A Course In Miracles Text, 656.
+#: paragraph:35,sentence:1
+msgid "[27]A Course In Miracles Text, 656."
+msgstr ""
+
+#. Context: [29] Whitson, “Thetford and the CIA,” 11.
+#: paragraph:36,sentence:1
+msgid "[29] Whitson, “Thetford and the CIA,” 11."
+msgstr ""
+
+#. Context: [30] David Keirsey, Please Understand Me, II (Del Mar, CA:
+#. Prometheus Nemesis Books, 1998), 130.
+#: paragraph:37,sentence:1
+msgid ""
+"[30] David Keirsey, Please Understand Me, II (Del Mar, CA: Prometheus "
+"Nemesis Books, 1998), 130."
+msgstr ""
+
+#. Context: [31] Goodrich interview, February 2008.
+#: paragraph:38,sentence:1
+msgid "[31] Goodrich interview, February 2008."
+msgstr ""
+
+#. Context: [32] David Keirsey, Please Understand Me, II, 121.
+#: paragraph:39,sentence:1
+msgid "[32] David Keirsey, Please Understand Me, II, 121."
+msgstr ""
+
+#. Context: [33] Goodrich interview, February 2008.
+#: paragraph:40,sentence:1
+msgid "[33] Goodrich interview, February 2008."
+msgstr ""
+
+#. Context: [34] William Thetford: Life Story, in “Origins of A Course In
+#. Miracles,” 4:9, FIPA.
+#: paragraph:41,sentence:1
+msgid ""
+"[34] William Thetford: Life Story, in “Origins of A Course In Miracles,” "
+"4:9, FIPA."
+msgstr ""
+
+#. Context: [35]Personews, an in-house publication of the Institute for
+#. Living, Hartford, CT, March 1956, 10.
+#: paragraph:42,sentence:1
+msgid ""
+"[35]Personews, an in-house publication of the Institute for Living, "
+"Hartford, CT, March 1956, 10."
+msgstr ""
+
+#. Context: [36] Thetford: Life Story, 4:10, FIPA.
+#: paragraph:43,sentence:1
+msgid "[36] Thetford: Life Story, 4:10, FIPA."
+msgstr ""
+
+#. Context: [38]Neal Vahle, A Course In Miracles: The Lives of Helen Schucman
+#. & William Thetford (San Francisco: Open View Press, 2009), 60.
+#: paragraph:44,sentence:1
+msgid ""
+"[38]Neal Vahle, A Course In Miracles: The Lives of Helen Schucman & William "
+"Thetford (San Francisco: Open View Press, 2009), 60."
+msgstr ""
+
+#. Context: [39] Helen Schucman: Autobiography, in “Origins of A Course In
+#. Miracles,” 3:27–28, FIPA.
+#: paragraph:45,sentence:1
+msgid ""
+"[39] Helen Schucman: Autobiography, in “Origins of A Course In Miracles,” "
+"3:27–28, FIPA."
+msgstr ""
+
+#. Context: [42] Dorothy Ulmann interview by Tamara Cohen, in “Origins of A
+#. Course In Miracles,” ed. James Bolen, 8:4, FIPA.
+#: paragraph:46,sentence:1
+msgid ""
+"[42] Dorothy Ulmann interview by Tamara Cohen, in “Origins of A Course In "
+"Miracles,” ed. James Bolen, 8:4, FIPA."
+msgstr ""
+
+#. Context: [43]A Course In Miracles Text, 18.
+#: paragraph:47,sentence:1
+msgid "[43]A Course In Miracles Text, 18."
+msgstr ""
+
+#. Context: [44] William Thetford: Life Story, in “Origins of A Course In
+#. Miracles,” 4:29, FIPA.
+#: paragraph:48,sentence:1
+msgid ""
+"[44] William Thetford: Life Story, in “Origins of A Course In Miracles,” "
+"4:29, FIPA."
+msgstr ""
+
+#. Context: [45]The Story of A Course In Miracles, DVD, Tiburon, CA,
+#. Foundation for Inner Peace, 1987.
+#: paragraph:49,sentence:1
+msgid ""
+"[45]The Story of A Course In Miracles, DVD, Tiburon, CA, Foundation for "
+"Inner Peace, 1987."
+msgstr ""
+
+#. Context: [46] Charles Lehman interview by Tamara Cohen, in “Origins of A
+#. Course In Miracles,” ed. James Bolen, 9:2, FIPA.
+#: paragraph:50,sentence:1
+msgid ""
+"[46] Charles Lehman interview by Tamara Cohen, in “Origins of A Course In "
+"Miracles,” ed. James Bolen, 9:2, FIPA."
+msgstr ""
+
+#. Context: [47] Calvin Hatcher interview by Tamara Cohen, in “Origins of A
+#. Course In Miracles,” ed. James Bolen, 7:11, FIPA.
+#: paragraph:51,sentence:1
+msgid ""
+"[47] Calvin Hatcher interview by Tamara Cohen, in “Origins of A Course In "
+"Miracles,” ed. James Bolen, 7:11, FIPA."
+msgstr ""
+
+#. Context: [48]A Course In Miracles Text, 354–355.
+#: paragraph:52,sentence:1
+msgid "[48]A Course In Miracles Text, 354–355."
+msgstr ""
+
+#. Context: [51] Schucman: Autobiography, 3:30, FIPA.
+#: paragraph:53,sentence:1
+msgid "[51] Schucman: Autobiography, 3:30, FIPA."
+msgstr ""
+
+#. Context: [54] Helen Schucman: Autobiography, in “Origins of A Course In
+#. Miracles,” 3:35, FIPA.
+#: paragraph:54,sentence:1
+msgid ""
+"[54] Helen Schucman: Autobiography, in “Origins of A Course In Miracles,” "
+"3:35, FIPA."
+msgstr ""
+
+#. Context: [55] Introduction by Tamara Cohen, in “Origins of A Course In
+#. Miracles,” 1:2, FIPA.
+#: paragraph:55,sentence:1
+msgid ""
+"[55] Introduction by Tamara Cohen, in “Origins of A Course In Miracles,” "
+"1:2, FIPA."
+msgstr ""
+
+#. Context: [56] Schucman: Autobiography, 3:37, FIPA.
+#: paragraph:56,sentence:1
+msgid "[56] Schucman: Autobiography, 3:37, FIPA."
+msgstr ""
+
+#. Context: [58] William Thetford: Life Story, in “Origins of A Course In
+#. Miracles,” 4:18, FIPA.
+#: paragraph:57,sentence:1
+msgid ""
+"[58] William Thetford: Life Story, in “Origins of A Course In Miracles,” "
+"4:18, FIPA."
+msgstr ""
+
+#. Context: [59] Schucman: Autobiography, 3:50, FIPA.
+#: paragraph:58,sentence:1
+msgid "[59] Schucman: Autobiography, 3:50, FIPA."
+msgstr ""
+
+#. Context: [61] Thetford: Life Story, 4:21, FIPA.
+#: paragraph:59,sentence:1
+msgid "[61] Thetford: Life Story, 4:21, FIPA."
+msgstr ""
+
+#. Context: [62] Schucman: Autobiography, 3:52, FIPA.
+#: paragraph:60,sentence:1
+msgid "[62] Schucman: Autobiography, 3:52, FIPA."
+msgstr ""
+
+#. Context: [63] Thetford: Life Story, 4:58, FIPA.
+#: paragraph:61,sentence:1
+msgid "[63] Thetford: Life Story, 4:58, FIPA."
+msgstr ""
+
+#. Context: [64]A Course In Miracles Manual for Teachers, 58.
+#: paragraph:62,sentence:1
+msgid "[64]A Course In Miracles Manual for Teachers, 58."
+msgstr ""
+
+#. Context: [66] Kenneth Wapnick, “The History of the Manuscripts of A Course
+#. In Miracles,” manuscript, Foundation for A Course In Miracles, 9–10.
+#: paragraph:63,sentence:1
+msgid ""
+"[66] Kenneth Wapnick, “The History of the Manuscripts of A Course In "
+"Miracles,” manuscript, Foundation for A Course In Miracles, 9–10."
+msgstr ""
+
+#. Context: [67]A Course In Miracles Manual for Teachers, 60–61.
+#: paragraph:64,sentence:1
+msgid "[67]A Course In Miracles Manual for Teachers, 60–61."
+msgstr ""
+
+#. Context: [68] Transcription of Thetford personal reading, Paul Solomon,
+#. Spring 1976.
+#: paragraph:65,sentence:1
+msgid ""
+"[68] Transcription of Thetford personal reading, Paul Solomon, Spring 1976."
+msgstr ""
+
+#. Context: [72] Jaison Kayn telephone interview by author, February 2007.
+#: paragraph:66,sentence:1
+msgid "[72] Jaison Kayn telephone interview by author, February 2007."
+msgstr ""
+
+#. Context: [73] Transcription of Thetford personal reading, author’s copy,
+#. LeRoy Zemke, February 1980.
+#: paragraph:67,sentence:1
+msgid ""
+"[73] Transcription of Thetford personal reading, author’s copy, LeRoy Zemke,"
+" February 1980."
+msgstr ""
+
+#. Context: [74] William Whitson interview by Tamara Cohen, in “Origins of A
+#. Course In Miracles,” ed. James Bolen, 21:3–4, FIPA.
+#: paragraph:68,sentence:1
+msgid ""
+"[74] William Whitson interview by Tamara Cohen, in “Origins of A Course In "
+"Miracles,” ed. James Bolen, 21:3–4, FIPA."
+msgstr ""
+
+#. Context: [75] Kenneth Wapnick telephone interview by author, February 2009.
+#: paragraph:69,sentence:1
+msgid "[75] Kenneth Wapnick telephone interview by author, February 2009."
+msgstr ""
+
+#. Context: [76]A Course In Miracles Text, 587–588.
+#: paragraph:70,sentence:1
+msgid "[76]A Course In Miracles Text, 587–588."
+msgstr ""
+
+#. Context: [77]The American Heritage Dictionary of the English Language,
+#. Fifth edition, s.v. “urtext.”
+#: paragraph:71,sentence:1
+msgid ""
+"[77]The American Heritage Dictionary of the English Language, Fifth edition,"
+" s.v. “urtext.”"
+msgstr ""
+
+#. Context: [78] Urtext, 98 (second).  On Dec. 10, 1965, Bill began to
+#. renumber the pages of his typed notes to date; therefore, page references
+#. for the Urtext will be followed by “first” or “second” to denote the set of
+#. pages referred to. Because there is an on-going controversy concerning the
+#. Urtext itself, here included is an excerpt from Kenneth Wapnick’s
+#. manuscript, “The History of the Manuscripts of A Course In Miracles”:
+#. “Under false pretenses, the notebooks [Helen’s] and the Urtext were taken
+#. from the Library of Congress and copied, a violation of federal law. We
+#. talked to legal authorities at the Library, who were outraged. . . . The
+#. people who were now in possession of the illegally obtained material—the
+#. notebooks, Urtext, and Hugh Lynn Cayce version—had it scanned or retyped
+#. and have made it available on the Internet and elsewhere for purchase.”
+#: paragraph:72,sentence:1
+msgid "[78] Urtext, 98 (second)."
+msgstr ""
+
+#. Context: [78] Urtext, 98 (second).  On Dec. 10, 1965, Bill began to
+#. renumber the pages of his typed notes to date; therefore, page references
+#. for the Urtext will be followed by “first” or “second” to denote the set of
+#. pages referred to. Because there is an on-going controversy concerning the
+#. Urtext itself, here included is an excerpt from Kenneth Wapnick’s
+#. manuscript, “The History of the Manuscripts of A Course In Miracles”:
+#. “Under false pretenses, the notebooks [Helen’s] and the Urtext were taken
+#. from the Library of Congress and copied, a violation of federal law. We
+#. talked to legal authorities at the Library, who were outraged. . . . The
+#. people who were now in possession of the illegally obtained material—the
+#. notebooks, Urtext, and Hugh Lynn Cayce version—had it scanned or retyped
+#. and have made it available on the Internet and elsewhere for purchase.”
+#: paragraph:72,sentence:2
+msgid ""
+"On Dec. 10, 1965, Bill began to renumber the pages of his typed notes to "
+"date; therefore, page references for the Urtext will be followed by “first” "
+"or “second” to denote the set of pages referred to."
+msgstr ""
+
+#. Context: [78] Urtext, 98 (second).  On Dec. 10, 1965, Bill began to
+#. renumber the pages of his typed notes to date; therefore, page references
+#. for the Urtext will be followed by “first” or “second” to denote the set of
+#. pages referred to. Because there is an on-going controversy concerning the
+#. Urtext itself, here included is an excerpt from Kenneth Wapnick’s
+#. manuscript, “The History of the Manuscripts of A Course In Miracles”:
+#. “Under false pretenses, the notebooks [Helen’s] and the Urtext were taken
+#. from the Library of Congress and copied, a violation of federal law. We
+#. talked to legal authorities at the Library, who were outraged. . . . The
+#. people who were now in possession of the illegally obtained material—the
+#. notebooks, Urtext, and Hugh Lynn Cayce version—had it scanned or retyped
+#. and have made it available on the Internet and elsewhere for purchase.”
+#: paragraph:72,sentence:3
+msgid ""
+"Because there is an on-going controversy concerning the Urtext itself, here "
+"included is an excerpt from Kenneth Wapnick’s manuscript, “The History of "
+"the Manuscripts of A Course In Miracles”: “Under false pretenses, the "
+"notebooks [Helen’s] and the Urtext were taken from the Library of Congress "
+"and copied, a violation of federal law."
+msgstr ""
+
+#. Context: [78] Urtext, 98 (second).  On Dec. 10, 1965, Bill began to
+#. renumber the pages of his typed notes to date; therefore, page references
+#. for the Urtext will be followed by “first” or “second” to denote the set of
+#. pages referred to. Because there is an on-going controversy concerning the
+#. Urtext itself, here included is an excerpt from Kenneth Wapnick’s
+#. manuscript, “The History of the Manuscripts of A Course In Miracles”:
+#. “Under false pretenses, the notebooks [Helen’s] and the Urtext were taken
+#. from the Library of Congress and copied, a violation of federal law. We
+#. talked to legal authorities at the Library, who were outraged. . . . The
+#. people who were now in possession of the illegally obtained material—the
+#. notebooks, Urtext, and Hugh Lynn Cayce version—had it scanned or retyped
+#. and have made it available on the Internet and elsewhere for purchase.”
+#: paragraph:72,sentence:4
+msgid ""
+"We talked to legal authorities at the Library, who were outraged. . . ."
+msgstr ""
+
+#. Context: [78] Urtext, 98 (second).  On Dec. 10, 1965, Bill began to
+#. renumber the pages of his typed notes to date; therefore, page references
+#. for the Urtext will be followed by “first” or “second” to denote the set of
+#. pages referred to. Because there is an on-going controversy concerning the
+#. Urtext itself, here included is an excerpt from Kenneth Wapnick’s
+#. manuscript, “The History of the Manuscripts of A Course In Miracles”:
+#. “Under false pretenses, the notebooks [Helen’s] and the Urtext were taken
+#. from the Library of Congress and copied, a violation of federal law. We
+#. talked to legal authorities at the Library, who were outraged. . . . The
+#. people who were now in possession of the illegally obtained material—the
+#. notebooks, Urtext, and Hugh Lynn Cayce version—had it scanned or retyped
+#. and have made it available on the Internet and elsewhere for purchase.”
+#: paragraph:72,sentence:5
+msgid ""
+"The people who were now in possession of the illegally obtained material—the"
+" notebooks, Urtext, and Hugh Lynn Cayce version—had it scanned or retyped "
+"and have made it available on the Internet and elsewhere for purchase.”"
+msgstr ""
+
+#. Context: [79] Thetford: Life Story, 4:28, FIPA.
+#: paragraph:73,sentence:1
+msgid "[79] Thetford: Life Story, 4:28, FIPA."
+msgstr ""
+
+#. Context: [81] Judith Skutch Whitson interview by author, January 2008.
+#: paragraph:74,sentence:1
+msgid "[81] Judith Skutch Whitson interview by author, January 2008."
+msgstr ""
+
+#. Context: [82] Thetford: Life Story, 4:30, FIPA.
+#: paragraph:75,sentence:1
+msgid "[82] Thetford: Life Story, 4:30, FIPA."
+msgstr ""
+
+#. Context: [84] William Thetford: Life Story, in “Origins of A Course In
+#. Miracles,” 4:39, FIPA.
+#: paragraph:76,sentence:1
+msgid ""
+"[84] William Thetford: Life Story, in “Origins of A Course In Miracles,” "
+"4:39, FIPA."
+msgstr ""
+
+#. Context: [85] Kenneth Wapnick telephone interview by author, February 2009.
+#: paragraph:77,sentence:1
+msgid "[85] Kenneth Wapnick telephone interview by author, February 2009."
+msgstr ""
+
+#. Context: [86] Thetford: Life Story, 4:40, FIPA.
+#: paragraph:78,sentence:1
+msgid "[86] Thetford: Life Story, 4:40, FIPA."
+msgstr ""
+
+#. Context: [87] Wapnick interview, February 2009.
+#: paragraph:79,sentence:1
+msgid "[87] Wapnick interview, February 2009."
+msgstr ""
+
+#. Context: [89] Kenneth Wapnick, Absence From Felicity (Roscoe, NY:
+#. Foundation for A Course In Miracles, 1991).
+#: paragraph:80,sentence:1
+msgid ""
+"[89] Kenneth Wapnick, Absence From Felicity (Roscoe, NY: Foundation for A "
+"Course In Miracles, 1991)."
+msgstr ""
+
+#. Context: [90] Wapnick interview, February 2009.
+#: paragraph:81,sentence:1
+msgid "[90] Wapnick interview, February 2009."
+msgstr ""
+
+#. Context: [91] The Hugh Lynn Cayce version is the text partially edited by
+#. Helen and Bill and given to Cayce as a gift for his help and support with
+#. their project.
+#: paragraph:82,sentence:1
+msgid ""
+"[91] The Hugh Lynn Cayce version is the text partially edited by Helen and "
+"Bill and given to Cayce as a gift for his help and support with their "
+"project."
+msgstr ""
+
+#. Context: [92] Judith Skutch Whitson, email message to author, December
+#. 2008.
+#: paragraph:83,sentence:1
+msgid "[92] Judith Skutch Whitson, email message to author, December 2008."
+msgstr ""
+
+#. Context: [93] Thetford: Life Story, 4:40, FIPA.
+#: paragraph:84,sentence:1
+msgid "[93] Thetford: Life Story, 4:40, FIPA."
+msgstr ""
+
+#. Context: [94] Robert Skutch, Journey Without Distance: The Story Behind A
+#. Course In Miracles (Berkeley, CA: Celestial Arts, 1984), 88.
+#: paragraph:85,sentence:1
+msgid ""
+"[94] Robert Skutch, Journey Without Distance: The Story Behind A Course In "
+"Miracles (Berkeley, CA: Celestial Arts, 1984), 88."
+msgstr ""
+
+#. Context: [95] This cave is the one Helen saw in her vision that preceded
+#. the scribing of ACIM.
+#: paragraph:86,sentence:1
+msgid ""
+"[95] This cave is the one Helen saw in her vision that preceded the scribing"
+" of ACIM."
+msgstr ""
+
+#. Context: [96] Skutch, Journey Without Distance, 88.
+#: paragraph:87,sentence:1
+msgid "[96] Skutch, Journey Without Distance, 88."
+msgstr ""
+
+#. Context: [97] William Thetford: Life Story, in “Origins of A Course In
+#. Miracles,” 4:46, FIPA.
+#: paragraph:88,sentence:1
+msgid ""
+"[97] William Thetford: Life Story, in “Origins of A Course In Miracles,” "
+"4:46, FIPA."
+msgstr ""
+
+#. Context: [98] Wapnick telephone interview by author, February 2009.
+#: paragraph:89,sentence:1
+msgid "[98] Wapnick telephone interview by author, February 2009."
+msgstr ""
+
+#. Context: [99] Judith Skutch Whitson telephone interview by author, February
+#. 2008.
+#: paragraph:90,sentence:1
+msgid ""
+"[99] Judith Skutch Whitson telephone interview by author, February 2008."
+msgstr ""
+
+#. Context: [100] Judith Skutch Whitson interview, January 2008.
+#: paragraph:91,sentence:1
+msgid "[100] Judith Skutch Whitson interview, January 2008."
+msgstr ""
+
+#. Context: [101] William Congreve, The Mourning Bride,1697. Incorrectly
+#. attributed to Shakespeare, the full quote is “Heaven has no rage like love
+#. to hatred turned/ Nor hell a fury like a woman scorned.”
+#: paragraph:92,sentence:1
+msgid "[101] William Congreve, The Mourning Bride,1697."
+msgstr ""
+
+#. Context: [101] William Congreve, The Mourning Bride,1697. Incorrectly
+#. attributed to Shakespeare, the full quote is “Heaven has no rage like love
+#. to hatred turned/ Nor hell a fury like a woman scorned.”
+#: paragraph:92,sentence:2
+msgid ""
+"Incorrectly attributed to Shakespeare, the full quote is “Heaven has no rage"
+" like love to hatred turned/ Nor hell a fury like a woman scorned.”"
+msgstr ""
+
+#. Context: [102] Judith Skutch Whitson interview, January 2008.
+#: paragraph:93,sentence:1
+msgid "[102] Judith Skutch Whitson interview, January 2008."
+msgstr ""
+
+#. Context: [103] Thetford: Life Story, 4:50, FIPA.
+#: paragraph:94,sentence:1
+msgid "[103] Thetford: Life Story, 4:50, FIPA."
+msgstr ""
+
+#. Context: [104]A Course In Miracles Text, 530.
+#: paragraph:95,sentence:1
+msgid "[104]A Course In Miracles Text, 530."
+msgstr ""
+
+#. Context: [105]A Course In Miracles Text, 295.
+#: paragraph:96,sentence:1
+msgid "[105]A Course In Miracles Text, 295."
+msgstr ""
+
+#. Context: [106] Author’s transcription of Thetford Memorial Service, William
+#. Whitson, July 1988.
+#: paragraph:97,sentence:1
+msgid ""
+"[106] Author’s transcription of Thetford Memorial Service, William Whitson, "
+"July 1988."
+msgstr ""
+
+#. Context: [107] Thetford: Life Story, 4:33, FIPA.
+#: paragraph:98,sentence:1
+msgid "[107] Thetford: Life Story, 4:33, FIPA."
+msgstr ""
+
+#. Context: [108]A Course In Miracles Text, 346.
+#: paragraph:99,sentence:1
+msgid "[108]A Course In Miracles Text, 346."
+msgstr ""
+
+#. Context: The early Tiburon years
+#: paragraph:100,sentence:1
+msgid "The early Tiburon years"
+msgstr ""

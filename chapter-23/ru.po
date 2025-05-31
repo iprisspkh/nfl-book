@@ -1,0 +1,3069 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Context: It is evident by now that Bill’s hallmarks were his almost
+#. unparalleled ability to accept and support others and his fabulous sense of
+#. humor inviting everyone to lighten up. Their effect was healing—of body and
+#. spirit—both for Bill and those around him. There was often no conscious
+#. discussion of or focus on healing; it just happened. For some, it was
+#. merely being in his presence, for others it was hearing his voice; but in
+#. other cases, he intended for healing to occur. He never stated directly
+#. what he thought ought to be healed in a person. Layle Luckett remembers,
+#. “One thing I learned about myself during that process is that there is a
+#. wonderful indirect way of teaching [and healing]. Bill would usually tell
+#. us some story that would illustrate a point. For instance, he would never
+#. say, ‘Forgive your mother,’ but he’d talk about some instance of
+#. forgiveness.”[70]
+#: paragraph:1,sentence:1
+msgid ""
+"It is evident by now that Bill’s hallmarks were his almost unparalleled "
+"ability to accept and support others and his fabulous sense of humor "
+"inviting everyone to lighten up."
+msgstr ""
+
+#. Context: It is evident by now that Bill’s hallmarks were his almost
+#. unparalleled ability to accept and support others and his fabulous sense of
+#. humor inviting everyone to lighten up. Their effect was healing—of body and
+#. spirit—both for Bill and those around him. There was often no conscious
+#. discussion of or focus on healing; it just happened. For some, it was
+#. merely being in his presence, for others it was hearing his voice; but in
+#. other cases, he intended for healing to occur. He never stated directly
+#. what he thought ought to be healed in a person. Layle Luckett remembers,
+#. “One thing I learned about myself during that process is that there is a
+#. wonderful indirect way of teaching [and healing]. Bill would usually tell
+#. us some story that would illustrate a point. For instance, he would never
+#. say, ‘Forgive your mother,’ but he’d talk about some instance of
+#. forgiveness.”[70]
+#: paragraph:1,sentence:2
+msgid ""
+"Their effect was healing—of body and spirit—both for Bill and those around "
+"him."
+msgstr ""
+
+#. Context: It is evident by now that Bill’s hallmarks were his almost
+#. unparalleled ability to accept and support others and his fabulous sense of
+#. humor inviting everyone to lighten up. Their effect was healing—of body and
+#. spirit—both for Bill and those around him. There was often no conscious
+#. discussion of or focus on healing; it just happened. For some, it was
+#. merely being in his presence, for others it was hearing his voice; but in
+#. other cases, he intended for healing to occur. He never stated directly
+#. what he thought ought to be healed in a person. Layle Luckett remembers,
+#. “One thing I learned about myself during that process is that there is a
+#. wonderful indirect way of teaching [and healing]. Bill would usually tell
+#. us some story that would illustrate a point. For instance, he would never
+#. say, ‘Forgive your mother,’ but he’d talk about some instance of
+#. forgiveness.”[70]
+#: paragraph:1,sentence:3
+msgid ""
+"There was often no conscious discussion of or focus on healing; it just "
+"happened."
+msgstr ""
+
+#. Context: It is evident by now that Bill’s hallmarks were his almost
+#. unparalleled ability to accept and support others and his fabulous sense of
+#. humor inviting everyone to lighten up. Their effect was healing—of body and
+#. spirit—both for Bill and those around him. There was often no conscious
+#. discussion of or focus on healing; it just happened. For some, it was
+#. merely being in his presence, for others it was hearing his voice; but in
+#. other cases, he intended for healing to occur. He never stated directly
+#. what he thought ought to be healed in a person. Layle Luckett remembers,
+#. “One thing I learned about myself during that process is that there is a
+#. wonderful indirect way of teaching [and healing]. Bill would usually tell
+#. us some story that would illustrate a point. For instance, he would never
+#. say, ‘Forgive your mother,’ but he’d talk about some instance of
+#. forgiveness.”[70]
+#: paragraph:1,sentence:4
+msgid ""
+"For some, it was merely being in his presence, for others it was hearing his"
+" voice; but in other cases, he intended for healing to occur."
+msgstr ""
+
+#. Context: It is evident by now that Bill’s hallmarks were his almost
+#. unparalleled ability to accept and support others and his fabulous sense of
+#. humor inviting everyone to lighten up. Their effect was healing—of body and
+#. spirit—both for Bill and those around him. There was often no conscious
+#. discussion of or focus on healing; it just happened. For some, it was
+#. merely being in his presence, for others it was hearing his voice; but in
+#. other cases, he intended for healing to occur. He never stated directly
+#. what he thought ought to be healed in a person. Layle Luckett remembers,
+#. “One thing I learned about myself during that process is that there is a
+#. wonderful indirect way of teaching [and healing]. Bill would usually tell
+#. us some story that would illustrate a point. For instance, he would never
+#. say, ‘Forgive your mother,’ but he’d talk about some instance of
+#. forgiveness.”[70]
+#: paragraph:1,sentence:5
+msgid ""
+"He never stated directly what he thought ought to be healed in a person."
+msgstr ""
+
+#. Context: It is evident by now that Bill’s hallmarks were his almost
+#. unparalleled ability to accept and support others and his fabulous sense of
+#. humor inviting everyone to lighten up. Their effect was healing—of body and
+#. spirit—both for Bill and those around him. There was often no conscious
+#. discussion of or focus on healing; it just happened. For some, it was
+#. merely being in his presence, for others it was hearing his voice; but in
+#. other cases, he intended for healing to occur. He never stated directly
+#. what he thought ought to be healed in a person. Layle Luckett remembers,
+#. “One thing I learned about myself during that process is that there is a
+#. wonderful indirect way of teaching [and healing]. Bill would usually tell
+#. us some story that would illustrate a point. For instance, he would never
+#. say, ‘Forgive your mother,’ but he’d talk about some instance of
+#. forgiveness.”[70]
+#: paragraph:1,sentence:6
+msgid ""
+"Layle Luckett remembers, “One thing I learned about myself during that "
+"process is that there is a wonderful indirect way of teaching [and healing]."
+msgstr ""
+
+#. Context: It is evident by now that Bill’s hallmarks were his almost
+#. unparalleled ability to accept and support others and his fabulous sense of
+#. humor inviting everyone to lighten up. Their effect was healing—of body and
+#. spirit—both for Bill and those around him. There was often no conscious
+#. discussion of or focus on healing; it just happened. For some, it was
+#. merely being in his presence, for others it was hearing his voice; but in
+#. other cases, he intended for healing to occur. He never stated directly
+#. what he thought ought to be healed in a person. Layle Luckett remembers,
+#. “One thing I learned about myself during that process is that there is a
+#. wonderful indirect way of teaching [and healing]. Bill would usually tell
+#. us some story that would illustrate a point. For instance, he would never
+#. say, ‘Forgive your mother,’ but he’d talk about some instance of
+#. forgiveness.”[70]
+#: paragraph:1,sentence:7
+msgid "Bill would usually tell us some story that would illustrate a point."
+msgstr ""
+
+#. Context: It is evident by now that Bill’s hallmarks were his almost
+#. unparalleled ability to accept and support others and his fabulous sense of
+#. humor inviting everyone to lighten up. Their effect was healing—of body and
+#. spirit—both for Bill and those around him. There was often no conscious
+#. discussion of or focus on healing; it just happened. For some, it was
+#. merely being in his presence, for others it was hearing his voice; but in
+#. other cases, he intended for healing to occur. He never stated directly
+#. what he thought ought to be healed in a person. Layle Luckett remembers,
+#. “One thing I learned about myself during that process is that there is a
+#. wonderful indirect way of teaching [and healing]. Bill would usually tell
+#. us some story that would illustrate a point. For instance, he would never
+#. say, ‘Forgive your mother,’ but he’d talk about some instance of
+#. forgiveness.”[70]
+#: paragraph:1,sentence:8
+msgid ""
+"For instance, he would never say, ‘Forgive your mother,’ but he’d talk about"
+" some instance of forgiveness.”[70]"
+msgstr ""
+
+#. Context: Under any circumstances, the Course speaks eloquently and often
+#. about our own need for healing and why and how that is the only requirement
+#. for being truly helpful to everyone else. It also emphasizes that relevant
+#. healing is of the mind, and that with a healed mind, a healed body and/or
+#. situation can follow. Healing the body is never the direct focus of ACIM.
+#. “Come to the holy instant and be healed, for nothing that is there received
+#. is left behind on your returning to the world. And being blessed, you will
+#. bring blessing. . . . Thus is your healing everything the world requires,
+#. that it may be healed.”[71]
+#: paragraph:2,sentence:1
+msgid ""
+"Under any circumstances, the Course speaks eloquently and often about our "
+"own need for healing and why and how that is the only requirement for being "
+"truly helpful to everyone else."
+msgstr ""
+
+#. Context: Under any circumstances, the Course speaks eloquently and often
+#. about our own need for healing and why and how that is the only requirement
+#. for being truly helpful to everyone else. It also emphasizes that relevant
+#. healing is of the mind, and that with a healed mind, a healed body and/or
+#. situation can follow. Healing the body is never the direct focus of ACIM.
+#. “Come to the holy instant and be healed, for nothing that is there received
+#. is left behind on your returning to the world. And being blessed, you will
+#. bring blessing. . . . Thus is your healing everything the world requires,
+#. that it may be healed.”[71]
+#: paragraph:2,sentence:2
+msgid ""
+"It also emphasizes that relevant healing is of the mind, and that with a "
+"healed mind, a healed body and/or situation can follow."
+msgstr ""
+
+#. Context: Under any circumstances, the Course speaks eloquently and often
+#. about our own need for healing and why and how that is the only requirement
+#. for being truly helpful to everyone else. It also emphasizes that relevant
+#. healing is of the mind, and that with a healed mind, a healed body and/or
+#. situation can follow. Healing the body is never the direct focus of ACIM.
+#. “Come to the holy instant and be healed, for nothing that is there received
+#. is left behind on your returning to the world. And being blessed, you will
+#. bring blessing. . . . Thus is your healing everything the world requires,
+#. that it may be healed.”[71]
+#: paragraph:2,sentence:3
+msgid ""
+"Healing the body is never the direct focus of ACIM. “Come to the holy "
+"instant and be healed, for nothing that is there received is left behind on "
+"your returning to the world."
+msgstr ""
+
+#. Context: Under any circumstances, the Course speaks eloquently and often
+#. about our own need for healing and why and how that is the only requirement
+#. for being truly helpful to everyone else. It also emphasizes that relevant
+#. healing is of the mind, and that with a healed mind, a healed body and/or
+#. situation can follow. Healing the body is never the direct focus of ACIM.
+#. “Come to the holy instant and be healed, for nothing that is there received
+#. is left behind on your returning to the world. And being blessed, you will
+#. bring blessing. . . . Thus is your healing everything the world requires,
+#. that it may be healed.”[71]
+#: paragraph:2,sentence:4
+msgid "And being blessed, you will bring blessing. . . ."
+msgstr ""
+
+#. Context: Under any circumstances, the Course speaks eloquently and often
+#. about our own need for healing and why and how that is the only requirement
+#. for being truly helpful to everyone else. It also emphasizes that relevant
+#. healing is of the mind, and that with a healed mind, a healed body and/or
+#. situation can follow. Healing the body is never the direct focus of ACIM.
+#. “Come to the holy instant and be healed, for nothing that is there received
+#. is left behind on your returning to the world. And being blessed, you will
+#. bring blessing. . . . Thus is your healing everything the world requires,
+#. that it may be healed.”[71]
+#: paragraph:2,sentence:5
+msgid ""
+"Thus is your healing everything the world requires, that it may be "
+"healed.”[71]"
+msgstr ""
+
+#. Context: No one who subscribes to the worldview of dualism, who believes he
+#. is an entity separate from virtually everyone, can possibly make any sense
+#. of this statement, but those who had the good fortune of spending time with
+#. Bill did experience it directly, whether they understood it or not.
+#. Understanding is much less relevant when results occur right on the spot.
+#. ACIM promises that as we practice forgiveness, we automatically become a
+#. healing presence for those around us. Not only did Bill’s change of mind
+#. affect him but also those he was with. He recognized the Course was about
+#. both teaching and healing, but the healing part was more attractive to him
+#. than the teaching. He always emphasized that healing was not tied to some
+#. special skill, but was the automatic result of releasing grievances—a gift
+#. available to every man, woman, and child who chooses a defenseless,
+#. forgiving way of relating. Hugh Prather remembered,
+#: paragraph:3,sentence:1
+msgid ""
+"No one who subscribes to the worldview of dualism, who believes he is an "
+"entity separate from virtually everyone, can possibly make any sense of this"
+" statement, but those who had the good fortune of spending time with Bill "
+"did experience it directly, whether they understood it or not."
+msgstr ""
+
+#. Context: No one who subscribes to the worldview of dualism, who believes he
+#. is an entity separate from virtually everyone, can possibly make any sense
+#. of this statement, but those who had the good fortune of spending time with
+#. Bill did experience it directly, whether they understood it or not.
+#. Understanding is much less relevant when results occur right on the spot.
+#. ACIM promises that as we practice forgiveness, we automatically become a
+#. healing presence for those around us. Not only did Bill’s change of mind
+#. affect him but also those he was with. He recognized the Course was about
+#. both teaching and healing, but the healing part was more attractive to him
+#. than the teaching. He always emphasized that healing was not tied to some
+#. special skill, but was the automatic result of releasing grievances—a gift
+#. available to every man, woman, and child who chooses a defenseless,
+#. forgiving way of relating. Hugh Prather remembered,
+#: paragraph:3,sentence:2
+msgid ""
+"Understanding is much less relevant when results occur right on the spot."
+msgstr ""
+
+#. Context: No one who subscribes to the worldview of dualism, who believes he
+#. is an entity separate from virtually everyone, can possibly make any sense
+#. of this statement, but those who had the good fortune of spending time with
+#. Bill did experience it directly, whether they understood it or not.
+#. Understanding is much less relevant when results occur right on the spot.
+#. ACIM promises that as we practice forgiveness, we automatically become a
+#. healing presence for those around us. Not only did Bill’s change of mind
+#. affect him but also those he was with. He recognized the Course was about
+#. both teaching and healing, but the healing part was more attractive to him
+#. than the teaching. He always emphasized that healing was not tied to some
+#. special skill, but was the automatic result of releasing grievances—a gift
+#. available to every man, woman, and child who chooses a defenseless,
+#. forgiving way of relating. Hugh Prather remembered,
+#: paragraph:3,sentence:3
+msgid ""
+"ACIM promises that as we practice forgiveness, we automatically become a "
+"healing presence for those around us."
+msgstr ""
+
+#. Context: No one who subscribes to the worldview of dualism, who believes he
+#. is an entity separate from virtually everyone, can possibly make any sense
+#. of this statement, but those who had the good fortune of spending time with
+#. Bill did experience it directly, whether they understood it or not.
+#. Understanding is much less relevant when results occur right on the spot.
+#. ACIM promises that as we practice forgiveness, we automatically become a
+#. healing presence for those around us. Not only did Bill’s change of mind
+#. affect him but also those he was with. He recognized the Course was about
+#. both teaching and healing, but the healing part was more attractive to him
+#. than the teaching. He always emphasized that healing was not tied to some
+#. special skill, but was the automatic result of releasing grievances—a gift
+#. available to every man, woman, and child who chooses a defenseless,
+#. forgiving way of relating. Hugh Prather remembered,
+#: paragraph:3,sentence:4
+msgid ""
+"Not only did Bill’s change of mind affect him but also those he was with."
+msgstr ""
+
+#. Context: No one who subscribes to the worldview of dualism, who believes he
+#. is an entity separate from virtually everyone, can possibly make any sense
+#. of this statement, but those who had the good fortune of spending time with
+#. Bill did experience it directly, whether they understood it or not.
+#. Understanding is much less relevant when results occur right on the spot.
+#. ACIM promises that as we practice forgiveness, we automatically become a
+#. healing presence for those around us. Not only did Bill’s change of mind
+#. affect him but also those he was with. He recognized the Course was about
+#. both teaching and healing, but the healing part was more attractive to him
+#. than the teaching. He always emphasized that healing was not tied to some
+#. special skill, but was the automatic result of releasing grievances—a gift
+#. available to every man, woman, and child who chooses a defenseless,
+#. forgiving way of relating. Hugh Prather remembered,
+#: paragraph:3,sentence:5
+msgid ""
+"He recognized the Course was about both teaching and healing, but the "
+"healing part was more attractive to him than the teaching."
+msgstr ""
+
+#. Context: No one who subscribes to the worldview of dualism, who believes he
+#. is an entity separate from virtually everyone, can possibly make any sense
+#. of this statement, but those who had the good fortune of spending time with
+#. Bill did experience it directly, whether they understood it or not.
+#. Understanding is much less relevant when results occur right on the spot.
+#. ACIM promises that as we practice forgiveness, we automatically become a
+#. healing presence for those around us. Not only did Bill’s change of mind
+#. affect him but also those he was with. He recognized the Course was about
+#. both teaching and healing, but the healing part was more attractive to him
+#. than the teaching. He always emphasized that healing was not tied to some
+#. special skill, but was the automatic result of releasing grievances—a gift
+#. available to every man, woman, and child who chooses a defenseless,
+#. forgiving way of relating. Hugh Prather remembered,
+#: paragraph:3,sentence:6
+msgid ""
+"He always emphasized that healing was not tied to some special skill, but "
+"was the automatic result of releasing grievances—a gift available to every "
+"man, woman, and child who chooses a defenseless, forgiving way of relating. "
+"Hugh Prather remembered,"
+msgstr ""
+
+#. Context: Certainly, I would always regain my perspective when I was around
+#. Bill, because one of the things, as I’m sure you’ve found on your spiritual
+#. journey, is that it’s all so simple, so simple that it’s almost
+#. embarrassing. It just gets down to a matter of “Are you going to do it [let
+#. go of grievances] or not?” So his effect on me was how to make things
+#. unimportant. Something is important only in the sense that it provides an
+#. opportunity to know peace. Bill was a living example of the Course, rather
+#. than someone who teaches it or talks it. He actually lived it; that was his
+#. real intent.[72]
+#: paragraph:4,sentence:1
+msgid ""
+"Certainly, I would always regain my perspective when I was around Bill, "
+"because one of the things, as I’m sure you’ve found on your spiritual "
+"journey, is that it’s all so simple, so simple that it’s almost "
+"embarrassing."
+msgstr ""
+
+#. Context: Certainly, I would always regain my perspective when I was around
+#. Bill, because one of the things, as I’m sure you’ve found on your spiritual
+#. journey, is that it’s all so simple, so simple that it’s almost
+#. embarrassing. It just gets down to a matter of “Are you going to do it [let
+#. go of grievances] or not?” So his effect on me was how to make things
+#. unimportant. Something is important only in the sense that it provides an
+#. opportunity to know peace. Bill was a living example of the Course, rather
+#. than someone who teaches it or talks it. He actually lived it; that was his
+#. real intent.[72]
+#: paragraph:4,sentence:2
+msgid ""
+"It just gets down to a matter of “Are you going to do it [let go of "
+"grievances] or not?” So his effect on me was how to make things unimportant."
+msgstr ""
+
+#. Context: Certainly, I would always regain my perspective when I was around
+#. Bill, because one of the things, as I’m sure you’ve found on your spiritual
+#. journey, is that it’s all so simple, so simple that it’s almost
+#. embarrassing. It just gets down to a matter of “Are you going to do it [let
+#. go of grievances] or not?” So his effect on me was how to make things
+#. unimportant. Something is important only in the sense that it provides an
+#. opportunity to know peace. Bill was a living example of the Course, rather
+#. than someone who teaches it or talks it. He actually lived it; that was his
+#. real intent.[72]
+#: paragraph:4,sentence:3
+msgid ""
+"Something is important only in the sense that it provides an opportunity to "
+"know peace."
+msgstr ""
+
+#. Context: Certainly, I would always regain my perspective when I was around
+#. Bill, because one of the things, as I’m sure you’ve found on your spiritual
+#. journey, is that it’s all so simple, so simple that it’s almost
+#. embarrassing. It just gets down to a matter of “Are you going to do it [let
+#. go of grievances] or not?” So his effect on me was how to make things
+#. unimportant. Something is important only in the sense that it provides an
+#. opportunity to know peace. Bill was a living example of the Course, rather
+#. than someone who teaches it or talks it. He actually lived it; that was his
+#. real intent.[72]
+#: paragraph:4,sentence:4
+msgid ""
+"Bill was a living example of the Course, rather than someone who teaches it "
+"or talks it."
+msgstr ""
+
+#. Context: Certainly, I would always regain my perspective when I was around
+#. Bill, because one of the things, as I’m sure you’ve found on your spiritual
+#. journey, is that it’s all so simple, so simple that it’s almost
+#. embarrassing. It just gets down to a matter of “Are you going to do it [let
+#. go of grievances] or not?” So his effect on me was how to make things
+#. unimportant. Something is important only in the sense that it provides an
+#. opportunity to know peace. Bill was a living example of the Course, rather
+#. than someone who teaches it or talks it. He actually lived it; that was his
+#. real intent.[72]
+#: paragraph:4,sentence:5
+msgid "He actually lived it; that was his real intent.[72]"
+msgstr ""
+
+#. Context: Jack Luckett spoke of the healing that occurred when Bill was
+#. present: “He did not have to lay hands on people. He did not have to give
+#. them a diagnosis or something like that. His mere being was enough to alter
+#. something in their consciousness. What he actually did was to remind people
+#. of who they were, and with that reminder, they had the power to do what
+#. they wished.”[73]
+#: paragraph:5,sentence:1
+msgid ""
+"Jack Luckett spoke of the healing that occurred when Bill was present: “He "
+"did not have to lay hands on people."
+msgstr ""
+
+#. Context: Jack Luckett spoke of the healing that occurred when Bill was
+#. present: “He did not have to lay hands on people. He did not have to give
+#. them a diagnosis or something like that. His mere being was enough to alter
+#. something in their consciousness. What he actually did was to remind people
+#. of who they were, and with that reminder, they had the power to do what
+#. they wished.”[73]
+#: paragraph:5,sentence:2
+msgid "He did not have to give them a diagnosis or something like that."
+msgstr ""
+
+#. Context: Jack Luckett spoke of the healing that occurred when Bill was
+#. present: “He did not have to lay hands on people. He did not have to give
+#. them a diagnosis or something like that. His mere being was enough to alter
+#. something in their consciousness. What he actually did was to remind people
+#. of who they were, and with that reminder, they had the power to do what
+#. they wished.”[73]
+#: paragraph:5,sentence:3
+msgid "His mere being was enough to alter something in their consciousness."
+msgstr ""
+
+#. Context: Jack Luckett spoke of the healing that occurred when Bill was
+#. present: “He did not have to lay hands on people. He did not have to give
+#. them a diagnosis or something like that. His mere being was enough to alter
+#. something in their consciousness. What he actually did was to remind people
+#. of who they were, and with that reminder, they had the power to do what
+#. they wished.”[73]
+#: paragraph:5,sentence:4
+msgid ""
+"What he actually did was to remind people of who they were, and with that "
+"reminder, they had the power to do what they wished.”[73]"
+msgstr ""
+
+#. Context: In another instance Jerry remembers, “In Hawaii, a woman with a
+#. lot of orthopedic problems asked for a private audience [with Bill], and
+#. following that, her pain disappeared. Bill had trouble thinking it had
+#. anything to do with him, as if it almost threatened him. I think that kind
+#. of thing happened a lot.”[74]
+#: paragraph:6,sentence:1
+msgid ""
+"In another instance Jerry remembers, “In Hawaii, a woman with a lot of "
+"orthopedic problems asked for a private audience [with Bill], and following "
+"that, her pain disappeared."
+msgstr ""
+
+#. Context: In another instance Jerry remembers, “In Hawaii, a woman with a
+#. lot of orthopedic problems asked for a private audience [with Bill], and
+#. following that, her pain disappeared. Bill had trouble thinking it had
+#. anything to do with him, as if it almost threatened him. I think that kind
+#. of thing happened a lot.”[74]
+#: paragraph:6,sentence:2
+msgid ""
+"Bill had trouble thinking it had anything to do with him, as if it almost "
+"threatened him."
+msgstr ""
+
+#. Context: In another instance Jerry remembers, “In Hawaii, a woman with a
+#. lot of orthopedic problems asked for a private audience [with Bill], and
+#. following that, her pain disappeared. Bill had trouble thinking it had
+#. anything to do with him, as if it almost threatened him. I think that kind
+#. of thing happened a lot.”[74]
+#: paragraph:6,sentence:3
+msgid "I think that kind of thing happened a lot.”[74]"
+msgstr ""
+
+#. Context: Judy also recounts a healing that took place in her kitchen. On
+#. one of the many occasions when fascinating guests filled the Skutch
+#. household, Judy was preparing food while others enjoyed the lively company
+#. elsewhere. As she cooked French fries, she found herself a bit out of sorts
+#. about missing all the fun. While busy feeling sorry for herself and not
+#. paying attention to her work, she spilled hot grease on her hands. Bill
+#. heard the racket that ensued and came in to see what was happening.
+#. Completely serious, he asked if she wanted the burn and, of course, she
+#. said no. He held his hands above and below hers without touching them and
+#. the burn disappeared miraculously.
+#: paragraph:7,sentence:1
+msgid "Judy also recounts a healing that took place in her kitchen."
+msgstr ""
+
+#. Context: Judy also recounts a healing that took place in her kitchen. On
+#. one of the many occasions when fascinating guests filled the Skutch
+#. household, Judy was preparing food while others enjoyed the lively company
+#. elsewhere. As she cooked French fries, she found herself a bit out of sorts
+#. about missing all the fun. While busy feeling sorry for herself and not
+#. paying attention to her work, she spilled hot grease on her hands. Bill
+#. heard the racket that ensued and came in to see what was happening.
+#. Completely serious, he asked if she wanted the burn and, of course, she
+#. said no. He held his hands above and below hers without touching them and
+#. the burn disappeared miraculously.
+#: paragraph:7,sentence:2
+msgid ""
+"On one of the many occasions when fascinating guests filled the Skutch "
+"household, Judy was preparing food while others enjoyed the lively company "
+"elsewhere."
+msgstr ""
+
+#. Context: Judy also recounts a healing that took place in her kitchen. On
+#. one of the many occasions when fascinating guests filled the Skutch
+#. household, Judy was preparing food while others enjoyed the lively company
+#. elsewhere. As she cooked French fries, she found herself a bit out of sorts
+#. about missing all the fun. While busy feeling sorry for herself and not
+#. paying attention to her work, she spilled hot grease on her hands. Bill
+#. heard the racket that ensued and came in to see what was happening.
+#. Completely serious, he asked if she wanted the burn and, of course, she
+#. said no. He held his hands above and below hers without touching them and
+#. the burn disappeared miraculously.
+#: paragraph:7,sentence:3
+msgid ""
+"As she cooked French fries, she found herself a bit out of sorts about "
+"missing all the fun."
+msgstr ""
+
+#. Context: Judy also recounts a healing that took place in her kitchen. On
+#. one of the many occasions when fascinating guests filled the Skutch
+#. household, Judy was preparing food while others enjoyed the lively company
+#. elsewhere. As she cooked French fries, she found herself a bit out of sorts
+#. about missing all the fun. While busy feeling sorry for herself and not
+#. paying attention to her work, she spilled hot grease on her hands. Bill
+#. heard the racket that ensued and came in to see what was happening.
+#. Completely serious, he asked if she wanted the burn and, of course, she
+#. said no. He held his hands above and below hers without touching them and
+#. the burn disappeared miraculously.
+#: paragraph:7,sentence:4
+msgid ""
+"While busy feeling sorry for herself and not paying attention to her work, "
+"she spilled hot grease on her hands."
+msgstr ""
+
+#. Context: Judy also recounts a healing that took place in her kitchen. On
+#. one of the many occasions when fascinating guests filled the Skutch
+#. household, Judy was preparing food while others enjoyed the lively company
+#. elsewhere. As she cooked French fries, she found herself a bit out of sorts
+#. about missing all the fun. While busy feeling sorry for herself and not
+#. paying attention to her work, she spilled hot grease on her hands. Bill
+#. heard the racket that ensued and came in to see what was happening.
+#. Completely serious, he asked if she wanted the burn and, of course, she
+#. said no. He held his hands above and below hers without touching them and
+#. the burn disappeared miraculously.
+#: paragraph:7,sentence:5
+msgid ""
+"Bill heard the racket that ensued and came in to see what was happening."
+msgstr ""
+
+#. Context: Judy also recounts a healing that took place in her kitchen. On
+#. one of the many occasions when fascinating guests filled the Skutch
+#. household, Judy was preparing food while others enjoyed the lively company
+#. elsewhere. As she cooked French fries, she found herself a bit out of sorts
+#. about missing all the fun. While busy feeling sorry for herself and not
+#. paying attention to her work, she spilled hot grease on her hands. Bill
+#. heard the racket that ensued and came in to see what was happening.
+#. Completely serious, he asked if she wanted the burn and, of course, she
+#. said no. He held his hands above and below hers without touching them and
+#. the burn disappeared miraculously.
+#: paragraph:7,sentence:6
+msgid ""
+"Completely serious, he asked if she wanted the burn and, of course, she said"
+" no."
+msgstr ""
+
+#. Context: Judy also recounts a healing that took place in her kitchen. On
+#. one of the many occasions when fascinating guests filled the Skutch
+#. household, Judy was preparing food while others enjoyed the lively company
+#. elsewhere. As she cooked French fries, she found herself a bit out of sorts
+#. about missing all the fun. While busy feeling sorry for herself and not
+#. paying attention to her work, she spilled hot grease on her hands. Bill
+#. heard the racket that ensued and came in to see what was happening.
+#. Completely serious, he asked if she wanted the burn and, of course, she
+#. said no. He held his hands above and below hers without touching them and
+#. the burn disappeared miraculously.
+#: paragraph:7,sentence:7
+msgid ""
+"He held his hands above and below hers without touching them and the burn "
+"disappeared miraculously."
+msgstr ""
+
+#. Context: Carlagaye Olson recalled a life-changing moment of resolution
+#. while visiting Bill in La Jolla years later.
+#: paragraph:8,sentence:1
+msgid ""
+"Carlagaye Olson recalled a life-changing moment of resolution while visiting"
+" Bill in La Jolla years later."
+msgstr ""
+
+#. Context: When Bill moved to La Jolla, Jules [Finegold] and I went down to
+#. help him get settled. Jules had to return home, but I was still there, so
+#. Bill insisted that I stay in his room and he’d take the guest room. I felt
+#. treated like visiting royalty. In the morning when I woke up, I looked up
+#. through the clerestory window and the word in my mind was both—a simple
+#. word. I went down to the kitchen, he was already up, and I told him of this
+#. wonderful experience of the word both. Now whenever I feel any anxiety
+#. arise within me about my worth, my lessons, anybody else, I use that word,
+#. both, and just calm right down. The gift Bill gave me was passing into some
+#. place where I don’t have to choose.
+#: paragraph:9,sentence:1
+msgid ""
+"When Bill moved to La Jolla, Jules [Finegold] and I went down to help him "
+"get settled."
+msgstr ""
+
+#. Context: When Bill moved to La Jolla, Jules [Finegold] and I went down to
+#. help him get settled. Jules had to return home, but I was still there, so
+#. Bill insisted that I stay in his room and he’d take the guest room. I felt
+#. treated like visiting royalty. In the morning when I woke up, I looked up
+#. through the clerestory window and the word in my mind was both—a simple
+#. word. I went down to the kitchen, he was already up, and I told him of this
+#. wonderful experience of the word both. Now whenever I feel any anxiety
+#. arise within me about my worth, my lessons, anybody else, I use that word,
+#. both, and just calm right down. The gift Bill gave me was passing into some
+#. place where I don’t have to choose.
+#: paragraph:9,sentence:2
+msgid ""
+"Jules had to return home, but I was still there, so Bill insisted that I "
+"stay in his room and he’d take the guest room."
+msgstr ""
+
+#. Context: When Bill moved to La Jolla, Jules [Finegold] and I went down to
+#. help him get settled. Jules had to return home, but I was still there, so
+#. Bill insisted that I stay in his room and he’d take the guest room. I felt
+#. treated like visiting royalty. In the morning when I woke up, I looked up
+#. through the clerestory window and the word in my mind was both—a simple
+#. word. I went down to the kitchen, he was already up, and I told him of this
+#. wonderful experience of the word both. Now whenever I feel any anxiety
+#. arise within me about my worth, my lessons, anybody else, I use that word,
+#. both, and just calm right down. The gift Bill gave me was passing into some
+#. place where I don’t have to choose.
+#: paragraph:9,sentence:3
+msgid "I felt treated like visiting royalty."
+msgstr ""
+
+#. Context: When Bill moved to La Jolla, Jules [Finegold] and I went down to
+#. help him get settled. Jules had to return home, but I was still there, so
+#. Bill insisted that I stay in his room and he’d take the guest room. I felt
+#. treated like visiting royalty. In the morning when I woke up, I looked up
+#. through the clerestory window and the word in my mind was both—a simple
+#. word. I went down to the kitchen, he was already up, and I told him of this
+#. wonderful experience of the word both. Now whenever I feel any anxiety
+#. arise within me about my worth, my lessons, anybody else, I use that word,
+#. both, and just calm right down. The gift Bill gave me was passing into some
+#. place where I don’t have to choose.
+#: paragraph:9,sentence:4
+msgid ""
+"In the morning when I woke up, I looked up through the clerestory window and"
+" the word in my mind was both—a simple word."
+msgstr ""
+
+#. Context: When Bill moved to La Jolla, Jules [Finegold] and I went down to
+#. help him get settled. Jules had to return home, but I was still there, so
+#. Bill insisted that I stay in his room and he’d take the guest room. I felt
+#. treated like visiting royalty. In the morning when I woke up, I looked up
+#. through the clerestory window and the word in my mind was both—a simple
+#. word. I went down to the kitchen, he was already up, and I told him of this
+#. wonderful experience of the word both. Now whenever I feel any anxiety
+#. arise within me about my worth, my lessons, anybody else, I use that word,
+#. both, and just calm right down. The gift Bill gave me was passing into some
+#. place where I don’t have to choose.
+#: paragraph:9,sentence:5
+msgid ""
+"I went down to the kitchen, he was already up, and I told him of this "
+"wonderful experience of the word both."
+msgstr ""
+
+#. Context: When Bill moved to La Jolla, Jules [Finegold] and I went down to
+#. help him get settled. Jules had to return home, but I was still there, so
+#. Bill insisted that I stay in his room and he’d take the guest room. I felt
+#. treated like visiting royalty. In the morning when I woke up, I looked up
+#. through the clerestory window and the word in my mind was both—a simple
+#. word. I went down to the kitchen, he was already up, and I told him of this
+#. wonderful experience of the word both. Now whenever I feel any anxiety
+#. arise within me about my worth, my lessons, anybody else, I use that word,
+#. both, and just calm right down. The gift Bill gave me was passing into some
+#. place where I don’t have to choose.
+#: paragraph:9,sentence:6
+msgid ""
+"Now whenever I feel any anxiety arise within me about my worth, my lessons, "
+"anybody else, I use that word, both, and just calm right down."
+msgstr ""
+
+#. Context: When Bill moved to La Jolla, Jules [Finegold] and I went down to
+#. help him get settled. Jules had to return home, but I was still there, so
+#. Bill insisted that I stay in his room and he’d take the guest room. I felt
+#. treated like visiting royalty. In the morning when I woke up, I looked up
+#. through the clerestory window and the word in my mind was both—a simple
+#. word. I went down to the kitchen, he was already up, and I told him of this
+#. wonderful experience of the word both. Now whenever I feel any anxiety
+#. arise within me about my worth, my lessons, anybody else, I use that word,
+#. both, and just calm right down. The gift Bill gave me was passing into some
+#. place where I don’t have to choose.
+#: paragraph:9,sentence:7
+msgid ""
+"The gift Bill gave me was passing into some place where I don’t have to "
+"choose."
+msgstr ""
+
+#. Context: It’s not about here or there, or this or that, or them and me,
+#. where everything is pivotal about making the right choice. All of that went
+#. away. It’s both—just take a deep breath. In that feeling of being so
+#. honored with Bill, I finally got a word that would reduce me to grace.[75]
+#: paragraph:10,sentence:1
+msgid ""
+"It’s not about here or there, or this or that, or them and me, where "
+"everything is pivotal about making the right choice."
+msgstr ""
+
+#. Context: It’s not about here or there, or this or that, or them and me,
+#. where everything is pivotal about making the right choice. All of that went
+#. away. It’s both—just take a deep breath. In that feeling of being so
+#. honored with Bill, I finally got a word that would reduce me to grace.[75]
+#: paragraph:10,sentence:2
+msgid "All of that went away."
+msgstr ""
+
+#. Context: It’s not about here or there, or this or that, or them and me,
+#. where everything is pivotal about making the right choice. All of that went
+#. away. It’s both—just take a deep breath. In that feeling of being so
+#. honored with Bill, I finally got a word that would reduce me to grace.[75]
+#: paragraph:10,sentence:3
+msgid "It’s both—just take a deep breath."
+msgstr ""
+
+#. Context: It’s not about here or there, or this or that, or them and me,
+#. where everything is pivotal about making the right choice. All of that went
+#. away. It’s both—just take a deep breath. In that feeling of being so
+#. honored with Bill, I finally got a word that would reduce me to grace.[75]
+#: paragraph:10,sentence:4
+msgid ""
+"In that feeling of being so honored with Bill, I finally got a word that "
+"would reduce me to grace.[75]"
+msgstr ""
+
+#. Context: Another of Carlagaye’s stories illustrates not only Bill’s healing
+#. influence on her—indeed, their mutual healing—but also one of the
+#. foundational premises of the Course: that we must be willing to look at our
+#. “dark side,” our own unforgiving, judgmental thoughts.
+#: paragraph:11,sentence:1
+msgid ""
+"Another of Carlagaye’s stories illustrates not only Bill’s healing influence"
+" on her—indeed, their mutual healing—but also one of the foundational "
+"premises of the Course: that we must be willing to look at our “dark side,” "
+"our own unforgiving, judgmental thoughts."
+msgstr ""
+
+#. Context: Bill, Jules and I started doing our field trips together in the
+#. spring of 1981. I would arrive at 11:00 a.m., our meeting time, and we’d go
+#. someplace for lunch. Jules was our leader and he would line up things for
+#. us to do in the afternoon; we would take field trips to see unusual or
+#. natural sights. Bill, of course, was not a nature boy, not liking to be off
+#. the sidewalks, so we didn’t get too adventurous. He then would take a nap
+#. later in the afternoon for his meditative time. [Then they would have
+#. dinner, often with others, and attend the Tiburon ACIM meeting.] I was a
+#. very strict Course fundamentalist and that was very attractive to Bill,
+#. because there was such a spiritual sideshow going on. He liked it if I made
+#. comments in the group.
+#: paragraph:12,sentence:1
+msgid ""
+"Bill, Jules and I started doing our field trips together in the spring of "
+"1981."
+msgstr ""
+
+#. Context: Bill, Jules and I started doing our field trips together in the
+#. spring of 1981. I would arrive at 11:00 a.m., our meeting time, and we’d go
+#. someplace for lunch. Jules was our leader and he would line up things for
+#. us to do in the afternoon; we would take field trips to see unusual or
+#. natural sights. Bill, of course, was not a nature boy, not liking to be off
+#. the sidewalks, so we didn’t get too adventurous. He then would take a nap
+#. later in the afternoon for his meditative time. [Then they would have
+#. dinner, often with others, and attend the Tiburon ACIM meeting.] I was a
+#. very strict Course fundamentalist and that was very attractive to Bill,
+#. because there was such a spiritual sideshow going on. He liked it if I made
+#. comments in the group.
+#: paragraph:12,sentence:2
+msgid ""
+"I would arrive at 11:00 a.m., our meeting time, and we’d go someplace for "
+"lunch."
+msgstr ""
+
+#. Context: Bill, Jules and I started doing our field trips together in the
+#. spring of 1981. I would arrive at 11:00 a.m., our meeting time, and we’d go
+#. someplace for lunch. Jules was our leader and he would line up things for
+#. us to do in the afternoon; we would take field trips to see unusual or
+#. natural sights. Bill, of course, was not a nature boy, not liking to be off
+#. the sidewalks, so we didn’t get too adventurous. He then would take a nap
+#. later in the afternoon for his meditative time. [Then they would have
+#. dinner, often with others, and attend the Tiburon ACIM meeting.] I was a
+#. very strict Course fundamentalist and that was very attractive to Bill,
+#. because there was such a spiritual sideshow going on. He liked it if I made
+#. comments in the group.
+#: paragraph:12,sentence:3
+msgid ""
+"Jules was our leader and he would line up things for us to do in the "
+"afternoon; we would take field trips to see unusual or natural sights."
+msgstr ""
+
+#. Context: Bill, Jules and I started doing our field trips together in the
+#. spring of 1981. I would arrive at 11:00 a.m., our meeting time, and we’d go
+#. someplace for lunch. Jules was our leader and he would line up things for
+#. us to do in the afternoon; we would take field trips to see unusual or
+#. natural sights. Bill, of course, was not a nature boy, not liking to be off
+#. the sidewalks, so we didn’t get too adventurous. He then would take a nap
+#. later in the afternoon for his meditative time. [Then they would have
+#. dinner, often with others, and attend the Tiburon ACIM meeting.] I was a
+#. very strict Course fundamentalist and that was very attractive to Bill,
+#. because there was such a spiritual sideshow going on. He liked it if I made
+#. comments in the group.
+#: paragraph:12,sentence:4
+msgid ""
+"Bill, of course, was not a nature boy, not liking to be off the sidewalks, "
+"so we didn’t get too adventurous."
+msgstr ""
+
+#. Context: Bill, Jules and I started doing our field trips together in the
+#. spring of 1981. I would arrive at 11:00 a.m., our meeting time, and we’d go
+#. someplace for lunch. Jules was our leader and he would line up things for
+#. us to do in the afternoon; we would take field trips to see unusual or
+#. natural sights. Bill, of course, was not a nature boy, not liking to be off
+#. the sidewalks, so we didn’t get too adventurous. He then would take a nap
+#. later in the afternoon for his meditative time. [Then they would have
+#. dinner, often with others, and attend the Tiburon ACIM meeting.] I was a
+#. very strict Course fundamentalist and that was very attractive to Bill,
+#. because there was such a spiritual sideshow going on. He liked it if I made
+#. comments in the group.
+#: paragraph:12,sentence:5
+msgid ""
+"He then would take a nap later in the afternoon for his meditative time. "
+"[Then they would have dinner, often with others, and attend the Tiburon ACIM"
+" meeting.] I was a very strict Course fundamentalist and that was very "
+"attractive to Bill, because there was such a spiritual sideshow going on."
+msgstr ""
+
+#. Context: Bill, Jules and I started doing our field trips together in the
+#. spring of 1981. I would arrive at 11:00 a.m., our meeting time, and we’d go
+#. someplace for lunch. Jules was our leader and he would line up things for
+#. us to do in the afternoon; we would take field trips to see unusual or
+#. natural sights. Bill, of course, was not a nature boy, not liking to be off
+#. the sidewalks, so we didn’t get too adventurous. He then would take a nap
+#. later in the afternoon for his meditative time. [Then they would have
+#. dinner, often with others, and attend the Tiburon ACIM meeting.] I was a
+#. very strict Course fundamentalist and that was very attractive to Bill,
+#. because there was such a spiritual sideshow going on. He liked it if I made
+#. comments in the group.
+#: paragraph:12,sentence:6
+msgid "He liked it if I made comments in the group."
+msgstr ""
+
+#. Context: Time during the day with Bill was very playful, but the drive back
+#. home every week from Tiburon, leaving at 9:30 and getting back at 11:00
+#. p.m., was filled with just incredible reactions I was having—negative
+#. reactions to myself, to other people. My ego and its reactions to everyone
+#. and everything were incredibly intense! Things were bubbling up and I was
+#. responding in a very heightened way. I would have this wonderful day of fun
+#. and affection and then I can’t tell you the things that got dredged up in
+#. me. We would have so much fun and laugh and laugh and then I’d come home
+#. with this creepy, horrible ego and I would realize, “My God, this is really
+#. an incredible process going on and it doesn’t happen with people other than
+#. Bill!” I was such an imperfect student. Intellectually, I was fine with it,
+#. but the practice of it! So everything that was unlike Jesus in me would
+#. come up on those drives home and I was so grateful for being with Bill,
+#. because I came back every week into those loving arms of acceptance and
+#. then every week I would drive home seeing the worst in me. I just can
+#. hardly explain that!
+#: paragraph:13,sentence:1
+msgid ""
+"Time during the day with Bill was very playful, but the drive back home "
+"every week from Tiburon, leaving at 9:30 and getting back at 11:00 p.m., was"
+" filled with just incredible reactions I was having—negative reactions to "
+"myself, to other people."
+msgstr ""
+
+#. Context: Time during the day with Bill was very playful, but the drive back
+#. home every week from Tiburon, leaving at 9:30 and getting back at 11:00
+#. p.m., was filled with just incredible reactions I was having—negative
+#. reactions to myself, to other people. My ego and its reactions to everyone
+#. and everything were incredibly intense! Things were bubbling up and I was
+#. responding in a very heightened way. I would have this wonderful day of fun
+#. and affection and then I can’t tell you the things that got dredged up in
+#. me. We would have so much fun and laugh and laugh and then I’d come home
+#. with this creepy, horrible ego and I would realize, “My God, this is really
+#. an incredible process going on and it doesn’t happen with people other than
+#. Bill!” I was such an imperfect student. Intellectually, I was fine with it,
+#. but the practice of it! So everything that was unlike Jesus in me would
+#. come up on those drives home and I was so grateful for being with Bill,
+#. because I came back every week into those loving arms of acceptance and
+#. then every week I would drive home seeing the worst in me. I just can
+#. hardly explain that!
+#: paragraph:13,sentence:2
+msgid ""
+"My ego and its reactions to everyone and everything were incredibly intense!"
+msgstr ""
+
+#. Context: Time during the day with Bill was very playful, but the drive back
+#. home every week from Tiburon, leaving at 9:30 and getting back at 11:00
+#. p.m., was filled with just incredible reactions I was having—negative
+#. reactions to myself, to other people. My ego and its reactions to everyone
+#. and everything were incredibly intense! Things were bubbling up and I was
+#. responding in a very heightened way. I would have this wonderful day of fun
+#. and affection and then I can’t tell you the things that got dredged up in
+#. me. We would have so much fun and laugh and laugh and then I’d come home
+#. with this creepy, horrible ego and I would realize, “My God, this is really
+#. an incredible process going on and it doesn’t happen with people other than
+#. Bill!” I was such an imperfect student. Intellectually, I was fine with it,
+#. but the practice of it! So everything that was unlike Jesus in me would
+#. come up on those drives home and I was so grateful for being with Bill,
+#. because I came back every week into those loving arms of acceptance and
+#. then every week I would drive home seeing the worst in me. I just can
+#. hardly explain that!
+#: paragraph:13,sentence:3
+msgid "Things were bubbling up and I was responding in a very heightened way."
+msgstr ""
+
+#. Context: Time during the day with Bill was very playful, but the drive back
+#. home every week from Tiburon, leaving at 9:30 and getting back at 11:00
+#. p.m., was filled with just incredible reactions I was having—negative
+#. reactions to myself, to other people. My ego and its reactions to everyone
+#. and everything were incredibly intense! Things were bubbling up and I was
+#. responding in a very heightened way. I would have this wonderful day of fun
+#. and affection and then I can’t tell you the things that got dredged up in
+#. me. We would have so much fun and laugh and laugh and then I’d come home
+#. with this creepy, horrible ego and I would realize, “My God, this is really
+#. an incredible process going on and it doesn’t happen with people other than
+#. Bill!” I was such an imperfect student. Intellectually, I was fine with it,
+#. but the practice of it! So everything that was unlike Jesus in me would
+#. come up on those drives home and I was so grateful for being with Bill,
+#. because I came back every week into those loving arms of acceptance and
+#. then every week I would drive home seeing the worst in me. I just can
+#. hardly explain that!
+#: paragraph:13,sentence:4
+msgid ""
+"I would have this wonderful day of fun and affection and then I can’t tell "
+"you the things that got dredged up in me."
+msgstr ""
+
+#. Context: Time during the day with Bill was very playful, but the drive back
+#. home every week from Tiburon, leaving at 9:30 and getting back at 11:00
+#. p.m., was filled with just incredible reactions I was having—negative
+#. reactions to myself, to other people. My ego and its reactions to everyone
+#. and everything were incredibly intense! Things were bubbling up and I was
+#. responding in a very heightened way. I would have this wonderful day of fun
+#. and affection and then I can’t tell you the things that got dredged up in
+#. me. We would have so much fun and laugh and laugh and then I’d come home
+#. with this creepy, horrible ego and I would realize, “My God, this is really
+#. an incredible process going on and it doesn’t happen with people other than
+#. Bill!” I was such an imperfect student. Intellectually, I was fine with it,
+#. but the practice of it! So everything that was unlike Jesus in me would
+#. come up on those drives home and I was so grateful for being with Bill,
+#. because I came back every week into those loving arms of acceptance and
+#. then every week I would drive home seeing the worst in me. I just can
+#. hardly explain that!
+#: paragraph:13,sentence:5
+msgid ""
+"We would have so much fun and laugh and laugh and then I’d come home with "
+"this creepy, horrible ego and I would realize, “My God, this is really an "
+"incredible process going on and it doesn’t happen with people other than "
+"Bill!” I was such an imperfect student."
+msgstr ""
+
+#. Context: Time during the day with Bill was very playful, but the drive back
+#. home every week from Tiburon, leaving at 9:30 and getting back at 11:00
+#. p.m., was filled with just incredible reactions I was having—negative
+#. reactions to myself, to other people. My ego and its reactions to everyone
+#. and everything were incredibly intense! Things were bubbling up and I was
+#. responding in a very heightened way. I would have this wonderful day of fun
+#. and affection and then I can’t tell you the things that got dredged up in
+#. me. We would have so much fun and laugh and laugh and then I’d come home
+#. with this creepy, horrible ego and I would realize, “My God, this is really
+#. an incredible process going on and it doesn’t happen with people other than
+#. Bill!” I was such an imperfect student. Intellectually, I was fine with it,
+#. but the practice of it! So everything that was unlike Jesus in me would
+#. come up on those drives home and I was so grateful for being with Bill,
+#. because I came back every week into those loving arms of acceptance and
+#. then every week I would drive home seeing the worst in me. I just can
+#. hardly explain that!
+#: paragraph:13,sentence:6
+msgid "Intellectually, I was fine with it, but the practice of it!"
+msgstr ""
+
+#. Context: Time during the day with Bill was very playful, but the drive back
+#. home every week from Tiburon, leaving at 9:30 and getting back at 11:00
+#. p.m., was filled with just incredible reactions I was having—negative
+#. reactions to myself, to other people. My ego and its reactions to everyone
+#. and everything were incredibly intense! Things were bubbling up and I was
+#. responding in a very heightened way. I would have this wonderful day of fun
+#. and affection and then I can’t tell you the things that got dredged up in
+#. me. We would have so much fun and laugh and laugh and then I’d come home
+#. with this creepy, horrible ego and I would realize, “My God, this is really
+#. an incredible process going on and it doesn’t happen with people other than
+#. Bill!” I was such an imperfect student. Intellectually, I was fine with it,
+#. but the practice of it! So everything that was unlike Jesus in me would
+#. come up on those drives home and I was so grateful for being with Bill,
+#. because I came back every week into those loving arms of acceptance and
+#. then every week I would drive home seeing the worst in me. I just can
+#. hardly explain that!
+#: paragraph:13,sentence:7
+msgid ""
+"So everything that was unlike Jesus in me would come up on those drives home"
+" and I was so grateful for being with Bill, because I came back every week "
+"into those loving arms of acceptance and then every week I would drive home "
+"seeing the worst in me."
+msgstr ""
+
+#. Context: Time during the day with Bill was very playful, but the drive back
+#. home every week from Tiburon, leaving at 9:30 and getting back at 11:00
+#. p.m., was filled with just incredible reactions I was having—negative
+#. reactions to myself, to other people. My ego and its reactions to everyone
+#. and everything were incredibly intense! Things were bubbling up and I was
+#. responding in a very heightened way. I would have this wonderful day of fun
+#. and affection and then I can’t tell you the things that got dredged up in
+#. me. We would have so much fun and laugh and laugh and then I’d come home
+#. with this creepy, horrible ego and I would realize, “My God, this is really
+#. an incredible process going on and it doesn’t happen with people other than
+#. Bill!” I was such an imperfect student. Intellectually, I was fine with it,
+#. but the practice of it! So everything that was unlike Jesus in me would
+#. come up on those drives home and I was so grateful for being with Bill,
+#. because I came back every week into those loving arms of acceptance and
+#. then every week I would drive home seeing the worst in me. I just can
+#. hardly explain that!
+#: paragraph:13,sentence:8
+msgid "I just can hardly explain that!"
+msgstr ""
+
+#. Context: The relationship with Bill helped to settle me down, get quiet,
+#. and realize this is all happening internally. It’s happening to everybody
+#. and it’s taking its own course. I think I trust more in the whole deep
+#. process rather than expecting extraordinary things, events, and
+#. circumstances. Somehow it was a very gracious thing, a very blessed thing
+#. [to know him] and none of the words that say, “It was a great honor to be
+#. with him,” sound right. That has too much of a worldly cast, but there was
+#. grace involved in being with him.[76]
+#: paragraph:14,sentence:1
+msgid ""
+"The relationship with Bill helped to settle me down, get quiet, and realize "
+"this is all happening internally."
+msgstr ""
+
+#. Context: The relationship with Bill helped to settle me down, get quiet,
+#. and realize this is all happening internally. It’s happening to everybody
+#. and it’s taking its own course. I think I trust more in the whole deep
+#. process rather than expecting extraordinary things, events, and
+#. circumstances. Somehow it was a very gracious thing, a very blessed thing
+#. [to know him] and none of the words that say, “It was a great honor to be
+#. with him,” sound right. That has too much of a worldly cast, but there was
+#. grace involved in being with him.[76]
+#: paragraph:14,sentence:2
+msgid "It’s happening to everybody and it’s taking its own course."
+msgstr ""
+
+#. Context: The relationship with Bill helped to settle me down, get quiet,
+#. and realize this is all happening internally. It’s happening to everybody
+#. and it’s taking its own course. I think I trust more in the whole deep
+#. process rather than expecting extraordinary things, events, and
+#. circumstances. Somehow it was a very gracious thing, a very blessed thing
+#. [to know him] and none of the words that say, “It was a great honor to be
+#. with him,” sound right. That has too much of a worldly cast, but there was
+#. grace involved in being with him.[76]
+#: paragraph:14,sentence:3
+msgid ""
+"I think I trust more in the whole deep process rather than expecting "
+"extraordinary things, events, and circumstances."
+msgstr ""
+
+#. Context: The relationship with Bill helped to settle me down, get quiet,
+#. and realize this is all happening internally. It’s happening to everybody
+#. and it’s taking its own course. I think I trust more in the whole deep
+#. process rather than expecting extraordinary things, events, and
+#. circumstances. Somehow it was a very gracious thing, a very blessed thing
+#. [to know him] and none of the words that say, “It was a great honor to be
+#. with him,” sound right. That has too much of a worldly cast, but there was
+#. grace involved in being with him.[76]
+#: paragraph:14,sentence:4
+msgid ""
+"Somehow it was a very gracious thing, a very blessed thing [to know him] and"
+" none of the words that say, “It was a great honor to be with him,” sound "
+"right."
+msgstr ""
+
+#. Context: The relationship with Bill helped to settle me down, get quiet,
+#. and realize this is all happening internally. It’s happening to everybody
+#. and it’s taking its own course. I think I trust more in the whole deep
+#. process rather than expecting extraordinary things, events, and
+#. circumstances. Somehow it was a very gracious thing, a very blessed thing
+#. [to know him] and none of the words that say, “It was a great honor to be
+#. with him,” sound right. That has too much of a worldly cast, but there was
+#. grace involved in being with him.[76]
+#: paragraph:14,sentence:5
+msgid ""
+"That has too much of a worldly cast, but there was grace involved in being "
+"with him.[76]"
+msgstr ""
+
+#. Context: If this isn’t a perfect example of how ACIM works, I don’t know
+#. what is.
+#: paragraph:15,sentence:1
+msgid ""
+"If this isn’t a perfect example of how ACIM works, I don’t know what is."
+msgstr ""
+
+#. Context: What is healing but the removal of all that stands in the way of
+#. knowledge? And how else can one dispel illusions except by looking at them
+#. directly, without protecting them? Be not afraid, therefore, for what you
+#. will be looking at is the source of fear, and you are beginning to learn
+#. that fear is not real. . . . Do not be afraid, then, to look upon fear, for
+#. it cannot be seen. Clarity undoes confusion by definition, and to look upon
+#. darkness through light must dispel it.[77]
+#: paragraph:16,sentence:1
+msgid ""
+"What is healing but the removal of all that stands in the way of knowledge?"
+msgstr ""
+
+#. Context: What is healing but the removal of all that stands in the way of
+#. knowledge? And how else can one dispel illusions except by looking at them
+#. directly, without protecting them? Be not afraid, therefore, for what you
+#. will be looking at is the source of fear, and you are beginning to learn
+#. that fear is not real. . . . Do not be afraid, then, to look upon fear, for
+#. it cannot be seen. Clarity undoes confusion by definition, and to look upon
+#. darkness through light must dispel it.[77]
+#: paragraph:16,sentence:2
+msgid ""
+"And how else can one dispel illusions except by looking at them directly, "
+"without protecting them?"
+msgstr ""
+
+#. Context: What is healing but the removal of all that stands in the way of
+#. knowledge? And how else can one dispel illusions except by looking at them
+#. directly, without protecting them? Be not afraid, therefore, for what you
+#. will be looking at is the source of fear, and you are beginning to learn
+#. that fear is not real. . . . Do not be afraid, then, to look upon fear, for
+#. it cannot be seen. Clarity undoes confusion by definition, and to look upon
+#. darkness through light must dispel it.[77]
+#: paragraph:16,sentence:3
+msgid ""
+"Be not afraid, therefore, for what you will be looking at is the source of "
+"fear, and you are beginning to learn that fear is not real. . . ."
+msgstr ""
+
+#. Context: What is healing but the removal of all that stands in the way of
+#. knowledge? And how else can one dispel illusions except by looking at them
+#. directly, without protecting them? Be not afraid, therefore, for what you
+#. will be looking at is the source of fear, and you are beginning to learn
+#. that fear is not real. . . . Do not be afraid, then, to look upon fear, for
+#. it cannot be seen. Clarity undoes confusion by definition, and to look upon
+#. darkness through light must dispel it.[77]
+#: paragraph:16,sentence:4
+msgid "Do not be afraid, then, to look upon fear, for it cannot be seen."
+msgstr ""
+
+#. Context: What is healing but the removal of all that stands in the way of
+#. knowledge? And how else can one dispel illusions except by looking at them
+#. directly, without protecting them? Be not afraid, therefore, for what you
+#. will be looking at is the source of fear, and you are beginning to learn
+#. that fear is not real. . . . Do not be afraid, then, to look upon fear, for
+#. it cannot be seen. Clarity undoes confusion by definition, and to look upon
+#. darkness through light must dispel it.[77]
+#: paragraph:16,sentence:5
+msgid ""
+"Clarity undoes confusion by definition, and to look upon darkness through "
+"light must dispel it.[77]"
+msgstr ""
+
+#. Context: The Course dredges up that unconscious material for review, so we
+#. can choose whether to hang on to guilt or release it. It’s like comforting
+#. arms around us, with a voice saying, “Okay I’m going to be here with you
+#. while we look at these ugly thoughts.” Bill, to me, thoroughly personified
+#. the process of being there for so many as their dark sides surfaced. And,
+#. as promised, awareness expanded and healing happened.
+#: paragraph:17,sentence:1
+msgid ""
+"The Course dredges up that unconscious material for review, so we can choose"
+" whether to hang on to guilt or release it."
+msgstr ""
+
+#. Context: The Course dredges up that unconscious material for review, so we
+#. can choose whether to hang on to guilt or release it. It’s like comforting
+#. arms around us, with a voice saying, “Okay I’m going to be here with you
+#. while we look at these ugly thoughts.” Bill, to me, thoroughly personified
+#. the process of being there for so many as their dark sides surfaced. And,
+#. as promised, awareness expanded and healing happened.
+#: paragraph:17,sentence:2
+msgid ""
+"It’s like comforting arms around us, with a voice saying, “Okay I’m going to"
+" be here with you while we look at these ugly thoughts.” Bill, to me, "
+"thoroughly personified the process of being there for so many as their dark "
+"sides surfaced."
+msgstr ""
+
+#. Context: The Course dredges up that unconscious material for review, so we
+#. can choose whether to hang on to guilt or release it. It’s like comforting
+#. arms around us, with a voice saying, “Okay I’m going to be here with you
+#. while we look at these ugly thoughts.” Bill, to me, thoroughly personified
+#. the process of being there for so many as their dark sides surfaced. And,
+#. as promised, awareness expanded and healing happened.
+#: paragraph:17,sentence:3
+msgid "And, as promised, awareness expanded and healing happened."
+msgstr ""
+
+#. Context: The following is an excerpt from a dialogue between a student and
+#. Ramana Maharshi (Bhagavan in quote below)—an awakened Indian master who
+#. passed away in the 1950s. It addresses the phenomenon, from the Eastern
+#. perspective, of how healing one’s self facilitates the healing of
+#. everything else.
+#: paragraph:18,sentence:1
+msgid ""
+"The following is an excerpt from a dialogue between a student and Ramana "
+"Maharshi (Bhagavan in quote below)—an awakened Indian master who passed away"
+" in the 1950s."
+msgstr ""
+
+#. Context: The following is an excerpt from a dialogue between a student and
+#. Ramana Maharshi (Bhagavan in quote below)—an awakened Indian master who
+#. passed away in the 1950s. It addresses the phenomenon, from the Eastern
+#. perspective, of how healing one’s self facilitates the healing of
+#. everything else.
+#: paragraph:18,sentence:2
+msgid ""
+"It addresses the phenomenon, from the Eastern perspective, of how healing "
+"one’s self facilitates the healing of everything else."
+msgstr ""
+
+#. Context: Question: While sitting near you, what sort of mental state should
+#. we have so as to receive the transmission from your pure being, or Self?
+#: paragraph:19,sentence:1
+msgid ""
+"Question: While sitting near you, what sort of mental state should we have "
+"so as to receive the transmission from your pure being, or Self?"
+msgstr ""
+
+#. Context: Bhagavan: Keep your mind still, that is enough. You will get
+#. spiritual help sitting in this hall if you keep yourself still. The aim of
+#. all practices is to give up all practices. When the mind becomes still, the
+#. power of the Self will be experienced. The waves of the Self are pervading
+#. everywhere. If the mind is at peace, one begins to experience them.[78]
+#: paragraph:20,sentence:1
+msgid "Bhagavan: Keep your mind still, that is enough."
+msgstr ""
+
+#. Context: Bhagavan: Keep your mind still, that is enough. You will get
+#. spiritual help sitting in this hall if you keep yourself still. The aim of
+#. all practices is to give up all practices. When the mind becomes still, the
+#. power of the Self will be experienced. The waves of the Self are pervading
+#. everywhere. If the mind is at peace, one begins to experience them.[78]
+#: paragraph:20,sentence:2
+msgid ""
+"You will get spiritual help sitting in this hall if you keep yourself still."
+msgstr ""
+
+#. Context: Bhagavan: Keep your mind still, that is enough. You will get
+#. spiritual help sitting in this hall if you keep yourself still. The aim of
+#. all practices is to give up all practices. When the mind becomes still, the
+#. power of the Self will be experienced. The waves of the Self are pervading
+#. everywhere. If the mind is at peace, one begins to experience them.[78]
+#: paragraph:20,sentence:3
+msgid "The aim of all practices is to give up all practices."
+msgstr ""
+
+#. Context: Bhagavan: Keep your mind still, that is enough. You will get
+#. spiritual help sitting in this hall if you keep yourself still. The aim of
+#. all practices is to give up all practices. When the mind becomes still, the
+#. power of the Self will be experienced. The waves of the Self are pervading
+#. everywhere. If the mind is at peace, one begins to experience them.[78]
+#: paragraph:20,sentence:4
+msgid ""
+"When the mind becomes still, the power of the Self will be experienced."
+msgstr ""
+
+#. Context: Bhagavan: Keep your mind still, that is enough. You will get
+#. spiritual help sitting in this hall if you keep yourself still. The aim of
+#. all practices is to give up all practices. When the mind becomes still, the
+#. power of the Self will be experienced. The waves of the Self are pervading
+#. everywhere. If the mind is at peace, one begins to experience them.[78]
+#: paragraph:20,sentence:5
+msgid "The waves of the Self are pervading everywhere."
+msgstr ""
+
+#. Context: Bhagavan: Keep your mind still, that is enough. You will get
+#. spiritual help sitting in this hall if you keep yourself still. The aim of
+#. all practices is to give up all practices. When the mind becomes still, the
+#. power of the Self will be experienced. The waves of the Self are pervading
+#. everywhere. If the mind is at peace, one begins to experience them.[78]
+#: paragraph:20,sentence:6
+msgid "If the mind is at peace, one begins to experience them.[78]"
+msgstr ""
+
+#. Context: The noise within us decreased around Bill, and the loving “waves
+#. of the Self” could be felt. From my perspective, Ramana’s teaching of
+#. nondualism echos that of ACIM, and Bill thought so too. Ramana taught that
+#. attainment of Self-realization requires: a) diverting the mind from its
+#. object and ceasing the objective view of the world; b) bringing an end to
+#. the mind’s internal activities; c) rendering the mind characterless; and d)
+#. resting the mind in pure vichara (inquiry of “who am I?”). When one looks
+#. closely, we see this as a restatement of removing the blocks to the
+#. awareness of love’s presence. And like the Course, silence and stillness of
+#. mind is a prerequisite. Hence the need for mind training, which ACIM both
+#. refers to and provides. Noise and confusion subsided around Bill because it
+#. was reduced in him. As his focus on the intellect as a source of power and
+#. wisdom diminished, his mind grew more quiet. And, of course, when our
+#. intent is our own healing, we receive all the necessary assistance without
+#. fail.
+#: paragraph:21,sentence:1
+msgid ""
+"The noise within us decreased around Bill, and the loving “waves of the "
+"Self” could be felt."
+msgstr ""
+
+#. Context: The noise within us decreased around Bill, and the loving “waves
+#. of the Self” could be felt. From my perspective, Ramana’s teaching of
+#. nondualism echos that of ACIM, and Bill thought so too. Ramana taught that
+#. attainment of Self-realization requires: a) diverting the mind from its
+#. object and ceasing the objective view of the world; b) bringing an end to
+#. the mind’s internal activities; c) rendering the mind characterless; and d)
+#. resting the mind in pure vichara (inquiry of “who am I?”). When one looks
+#. closely, we see this as a restatement of removing the blocks to the
+#. awareness of love’s presence. And like the Course, silence and stillness of
+#. mind is a prerequisite. Hence the need for mind training, which ACIM both
+#. refers to and provides. Noise and confusion subsided around Bill because it
+#. was reduced in him. As his focus on the intellect as a source of power and
+#. wisdom diminished, his mind grew more quiet. And, of course, when our
+#. intent is our own healing, we receive all the necessary assistance without
+#. fail.
+#: paragraph:21,sentence:2
+msgid ""
+"From my perspective, Ramana’s teaching of nondualism echos that of ACIM, and"
+" Bill thought so too."
+msgstr ""
+
+#. Context: The noise within us decreased around Bill, and the loving “waves
+#. of the Self” could be felt. From my perspective, Ramana’s teaching of
+#. nondualism echos that of ACIM, and Bill thought so too. Ramana taught that
+#. attainment of Self-realization requires: a) diverting the mind from its
+#. object and ceasing the objective view of the world; b) bringing an end to
+#. the mind’s internal activities; c) rendering the mind characterless; and d)
+#. resting the mind in pure vichara (inquiry of “who am I?”). When one looks
+#. closely, we see this as a restatement of removing the blocks to the
+#. awareness of love’s presence. And like the Course, silence and stillness of
+#. mind is a prerequisite. Hence the need for mind training, which ACIM both
+#. refers to and provides. Noise and confusion subsided around Bill because it
+#. was reduced in him. As his focus on the intellect as a source of power and
+#. wisdom diminished, his mind grew more quiet. And, of course, when our
+#. intent is our own healing, we receive all the necessary assistance without
+#. fail.
+#: paragraph:21,sentence:3
+msgid ""
+"Ramana taught that attainment of Self-realization requires: a) diverting the"
+" mind from its object and ceasing the objective view of the world; b) "
+"bringing an end to the mind’s internal activities; c) rendering the mind "
+"characterless; and d) resting the mind in pure vichara (inquiry of “who am "
+"I?”)."
+msgstr ""
+
+#. Context: The noise within us decreased around Bill, and the loving “waves
+#. of the Self” could be felt. From my perspective, Ramana’s teaching of
+#. nondualism echos that of ACIM, and Bill thought so too. Ramana taught that
+#. attainment of Self-realization requires: a) diverting the mind from its
+#. object and ceasing the objective view of the world; b) bringing an end to
+#. the mind’s internal activities; c) rendering the mind characterless; and d)
+#. resting the mind in pure vichara (inquiry of “who am I?”). When one looks
+#. closely, we see this as a restatement of removing the blocks to the
+#. awareness of love’s presence. And like the Course, silence and stillness of
+#. mind is a prerequisite. Hence the need for mind training, which ACIM both
+#. refers to and provides. Noise and confusion subsided around Bill because it
+#. was reduced in him. As his focus on the intellect as a source of power and
+#. wisdom diminished, his mind grew more quiet. And, of course, when our
+#. intent is our own healing, we receive all the necessary assistance without
+#. fail.
+#: paragraph:21,sentence:4
+msgid ""
+"When one looks closely, we see this as a restatement of removing the blocks "
+"to the awareness of love’s presence."
+msgstr ""
+
+#. Context: The noise within us decreased around Bill, and the loving “waves
+#. of the Self” could be felt. From my perspective, Ramana’s teaching of
+#. nondualism echos that of ACIM, and Bill thought so too. Ramana taught that
+#. attainment of Self-realization requires: a) diverting the mind from its
+#. object and ceasing the objective view of the world; b) bringing an end to
+#. the mind’s internal activities; c) rendering the mind characterless; and d)
+#. resting the mind in pure vichara (inquiry of “who am I?”). When one looks
+#. closely, we see this as a restatement of removing the blocks to the
+#. awareness of love’s presence. And like the Course, silence and stillness of
+#. mind is a prerequisite. Hence the need for mind training, which ACIM both
+#. refers to and provides. Noise and confusion subsided around Bill because it
+#. was reduced in him. As his focus on the intellect as a source of power and
+#. wisdom diminished, his mind grew more quiet. And, of course, when our
+#. intent is our own healing, we receive all the necessary assistance without
+#. fail.
+#: paragraph:21,sentence:5
+msgid "And like the Course, silence and stillness of mind is a prerequisite."
+msgstr ""
+
+#. Context: The noise within us decreased around Bill, and the loving “waves
+#. of the Self” could be felt. From my perspective, Ramana’s teaching of
+#. nondualism echos that of ACIM, and Bill thought so too. Ramana taught that
+#. attainment of Self-realization requires: a) diverting the mind from its
+#. object and ceasing the objective view of the world; b) bringing an end to
+#. the mind’s internal activities; c) rendering the mind characterless; and d)
+#. resting the mind in pure vichara (inquiry of “who am I?”). When one looks
+#. closely, we see this as a restatement of removing the blocks to the
+#. awareness of love’s presence. And like the Course, silence and stillness of
+#. mind is a prerequisite. Hence the need for mind training, which ACIM both
+#. refers to and provides. Noise and confusion subsided around Bill because it
+#. was reduced in him. As his focus on the intellect as a source of power and
+#. wisdom diminished, his mind grew more quiet. And, of course, when our
+#. intent is our own healing, we receive all the necessary assistance without
+#. fail.
+#: paragraph:21,sentence:6
+msgid ""
+"Hence the need for mind training, which ACIM both refers to and provides."
+msgstr ""
+
+#. Context: The noise within us decreased around Bill, and the loving “waves
+#. of the Self” could be felt. From my perspective, Ramana’s teaching of
+#. nondualism echos that of ACIM, and Bill thought so too. Ramana taught that
+#. attainment of Self-realization requires: a) diverting the mind from its
+#. object and ceasing the objective view of the world; b) bringing an end to
+#. the mind’s internal activities; c) rendering the mind characterless; and d)
+#. resting the mind in pure vichara (inquiry of “who am I?”). When one looks
+#. closely, we see this as a restatement of removing the blocks to the
+#. awareness of love’s presence. And like the Course, silence and stillness of
+#. mind is a prerequisite. Hence the need for mind training, which ACIM both
+#. refers to and provides. Noise and confusion subsided around Bill because it
+#. was reduced in him. As his focus on the intellect as a source of power and
+#. wisdom diminished, his mind grew more quiet. And, of course, when our
+#. intent is our own healing, we receive all the necessary assistance without
+#. fail.
+#: paragraph:21,sentence:7
+msgid ""
+"Noise and confusion subsided around Bill because it was reduced in him."
+msgstr ""
+
+#. Context: The noise within us decreased around Bill, and the loving “waves
+#. of the Self” could be felt. From my perspective, Ramana’s teaching of
+#. nondualism echos that of ACIM, and Bill thought so too. Ramana taught that
+#. attainment of Self-realization requires: a) diverting the mind from its
+#. object and ceasing the objective view of the world; b) bringing an end to
+#. the mind’s internal activities; c) rendering the mind characterless; and d)
+#. resting the mind in pure vichara (inquiry of “who am I?”). When one looks
+#. closely, we see this as a restatement of removing the blocks to the
+#. awareness of love’s presence. And like the Course, silence and stillness of
+#. mind is a prerequisite. Hence the need for mind training, which ACIM both
+#. refers to and provides. Noise and confusion subsided around Bill because it
+#. was reduced in him. As his focus on the intellect as a source of power and
+#. wisdom diminished, his mind grew more quiet. And, of course, when our
+#. intent is our own healing, we receive all the necessary assistance without
+#. fail.
+#: paragraph:21,sentence:8
+msgid ""
+"As his focus on the intellect as a source of power and wisdom diminished, "
+"his mind grew more quiet."
+msgstr ""
+
+#. Context: The noise within us decreased around Bill, and the loving “waves
+#. of the Self” could be felt. From my perspective, Ramana’s teaching of
+#. nondualism echos that of ACIM, and Bill thought so too. Ramana taught that
+#. attainment of Self-realization requires: a) diverting the mind from its
+#. object and ceasing the objective view of the world; b) bringing an end to
+#. the mind’s internal activities; c) rendering the mind characterless; and d)
+#. resting the mind in pure vichara (inquiry of “who am I?”). When one looks
+#. closely, we see this as a restatement of removing the blocks to the
+#. awareness of love’s presence. And like the Course, silence and stillness of
+#. mind is a prerequisite. Hence the need for mind training, which ACIM both
+#. refers to and provides. Noise and confusion subsided around Bill because it
+#. was reduced in him. As his focus on the intellect as a source of power and
+#. wisdom diminished, his mind grew more quiet. And, of course, when our
+#. intent is our own healing, we receive all the necessary assistance without
+#. fail.
+#: paragraph:21,sentence:9
+msgid ""
+"And, of course, when our intent is our own healing, we receive all the "
+"necessary assistance without fail."
+msgstr ""
+
+#. Context: In the early 1980s, an unlikely event—but not uncommon when we are
+#. serious about practicing forgiveness—occurred at a presentation by Hugh
+#. Prather and Jerry Jampolsky at a Religious Science church in San Diego.
+#. There was a good crowd of over three hundred, including Bill, who sat in
+#. the back and frequently sneaked out for a smoke. The Lucketts remembered:
+#: paragraph:22,sentence:1
+msgid ""
+"In the early 1980s, an unlikely event—but not uncommon when we are serious "
+"about practicing forgiveness—occurred at a presentation by Hugh Prather and "
+"Jerry Jampolsky at a Religious Science church in San Diego."
+msgstr ""
+
+#. Context: In the early 1980s, an unlikely event—but not uncommon when we are
+#. serious about practicing forgiveness—occurred at a presentation by Hugh
+#. Prather and Jerry Jampolsky at a Religious Science church in San Diego.
+#. There was a good crowd of over three hundred, including Bill, who sat in
+#. the back and frequently sneaked out for a smoke. The Lucketts remembered:
+#: paragraph:22,sentence:2
+msgid ""
+"There was a good crowd of over three hundred, including Bill, who sat in the"
+" back and frequently sneaked out for a smoke. The Lucketts remembered:"
+msgstr ""
+
+#. Context: Shortly before lunch, Jerry or Hugh suggested that we each hug
+#. someone next to us. Billy tried to run, but got snared in the doorway by
+#. another escapee, a blonde woman who hugged him intensely (naturally) and
+#. forever! Then they leaned back and looked at each other. He exclaimed,
+#. “Jan!” as she screamed, “Bill!” They knew each other from Columbia. Her
+#. husband had worked for Bill and she had done her Ph.D. there. They had all
+#. been best of friends but then had a bitter falling out, I think because her
+#. husband had divorced her and moved in with Bill. She hated Bill intensely!
+#. At this point, she was in some cancer treatment. Imagine all the venom
+#. she’d stored up. And out of all people on earth, here these two were in
+#. each other’s arms at the end of a whole morning’s highly inspiring talk
+#. about forgiveness. As the past melted, they instantly forgave themselves
+#. and each other on the spot and spent some time together. Billy was actually
+#. very healing for her, though she eventually died of cancer. What a
+#. demonstration and what a kick-off for moving to San Diego over five years
+#. later![79]
+#: paragraph:23,sentence:1
+msgid ""
+"Shortly before lunch, Jerry or Hugh suggested that we each hug someone next "
+"to us."
+msgstr ""
+
+#. Context: Shortly before lunch, Jerry or Hugh suggested that we each hug
+#. someone next to us. Billy tried to run, but got snared in the doorway by
+#. another escapee, a blonde woman who hugged him intensely (naturally) and
+#. forever! Then they leaned back and looked at each other. He exclaimed,
+#. “Jan!” as she screamed, “Bill!” They knew each other from Columbia. Her
+#. husband had worked for Bill and she had done her Ph.D. there. They had all
+#. been best of friends but then had a bitter falling out, I think because her
+#. husband had divorced her and moved in with Bill. She hated Bill intensely!
+#. At this point, she was in some cancer treatment. Imagine all the venom
+#. she’d stored up. And out of all people on earth, here these two were in
+#. each other’s arms at the end of a whole morning’s highly inspiring talk
+#. about forgiveness. As the past melted, they instantly forgave themselves
+#. and each other on the spot and spent some time together. Billy was actually
+#. very healing for her, though she eventually died of cancer. What a
+#. demonstration and what a kick-off for moving to San Diego over five years
+#. later![79]
+#: paragraph:23,sentence:2
+msgid ""
+"Billy tried to run, but got snared in the doorway by another escapee, a "
+"blonde woman who hugged him intensely (naturally) and forever!"
+msgstr ""
+
+#. Context: Shortly before lunch, Jerry or Hugh suggested that we each hug
+#. someone next to us. Billy tried to run, but got snared in the doorway by
+#. another escapee, a blonde woman who hugged him intensely (naturally) and
+#. forever! Then they leaned back and looked at each other. He exclaimed,
+#. “Jan!” as she screamed, “Bill!” They knew each other from Columbia. Her
+#. husband had worked for Bill and she had done her Ph.D. there. They had all
+#. been best of friends but then had a bitter falling out, I think because her
+#. husband had divorced her and moved in with Bill. She hated Bill intensely!
+#. At this point, she was in some cancer treatment. Imagine all the venom
+#. she’d stored up. And out of all people on earth, here these two were in
+#. each other’s arms at the end of a whole morning’s highly inspiring talk
+#. about forgiveness. As the past melted, they instantly forgave themselves
+#. and each other on the spot and spent some time together. Billy was actually
+#. very healing for her, though she eventually died of cancer. What a
+#. demonstration and what a kick-off for moving to San Diego over five years
+#. later![79]
+#: paragraph:23,sentence:3
+msgid "Then they leaned back and looked at each other."
+msgstr ""
+
+#. Context: Shortly before lunch, Jerry or Hugh suggested that we each hug
+#. someone next to us. Billy tried to run, but got snared in the doorway by
+#. another escapee, a blonde woman who hugged him intensely (naturally) and
+#. forever! Then they leaned back and looked at each other. He exclaimed,
+#. “Jan!” as she screamed, “Bill!” They knew each other from Columbia. Her
+#. husband had worked for Bill and she had done her Ph.D. there. They had all
+#. been best of friends but then had a bitter falling out, I think because her
+#. husband had divorced her and moved in with Bill. She hated Bill intensely!
+#. At this point, she was in some cancer treatment. Imagine all the venom
+#. she’d stored up. And out of all people on earth, here these two were in
+#. each other’s arms at the end of a whole morning’s highly inspiring talk
+#. about forgiveness. As the past melted, they instantly forgave themselves
+#. and each other on the spot and spent some time together. Billy was actually
+#. very healing for her, though she eventually died of cancer. What a
+#. demonstration and what a kick-off for moving to San Diego over five years
+#. later![79]
+#: paragraph:23,sentence:4
+msgid ""
+"He exclaimed, “Jan!” as she screamed, “Bill!” They knew each other from "
+"Columbia."
+msgstr ""
+
+#. Context: Shortly before lunch, Jerry or Hugh suggested that we each hug
+#. someone next to us. Billy tried to run, but got snared in the doorway by
+#. another escapee, a blonde woman who hugged him intensely (naturally) and
+#. forever! Then they leaned back and looked at each other. He exclaimed,
+#. “Jan!” as she screamed, “Bill!” They knew each other from Columbia. Her
+#. husband had worked for Bill and she had done her Ph.D. there. They had all
+#. been best of friends but then had a bitter falling out, I think because her
+#. husband had divorced her and moved in with Bill. She hated Bill intensely!
+#. At this point, she was in some cancer treatment. Imagine all the venom
+#. she’d stored up. And out of all people on earth, here these two were in
+#. each other’s arms at the end of a whole morning’s highly inspiring talk
+#. about forgiveness. As the past melted, they instantly forgave themselves
+#. and each other on the spot and spent some time together. Billy was actually
+#. very healing for her, though she eventually died of cancer. What a
+#. demonstration and what a kick-off for moving to San Diego over five years
+#. later![79]
+#: paragraph:23,sentence:5
+msgid "Her husband had worked for Bill and she had done her Ph.D. there."
+msgstr ""
+
+#. Context: Shortly before lunch, Jerry or Hugh suggested that we each hug
+#. someone next to us. Billy tried to run, but got snared in the doorway by
+#. another escapee, a blonde woman who hugged him intensely (naturally) and
+#. forever! Then they leaned back and looked at each other. He exclaimed,
+#. “Jan!” as she screamed, “Bill!” They knew each other from Columbia. Her
+#. husband had worked for Bill and she had done her Ph.D. there. They had all
+#. been best of friends but then had a bitter falling out, I think because her
+#. husband had divorced her and moved in with Bill. She hated Bill intensely!
+#. At this point, she was in some cancer treatment. Imagine all the venom
+#. she’d stored up. And out of all people on earth, here these two were in
+#. each other’s arms at the end of a whole morning’s highly inspiring talk
+#. about forgiveness. As the past melted, they instantly forgave themselves
+#. and each other on the spot and spent some time together. Billy was actually
+#. very healing for her, though she eventually died of cancer. What a
+#. demonstration and what a kick-off for moving to San Diego over five years
+#. later![79]
+#: paragraph:23,sentence:6
+msgid ""
+"They had all been best of friends but then had a bitter falling out, I think"
+" because her husband had divorced her and moved in with Bill. She hated Bill"
+" intensely!"
+msgstr ""
+
+#. Context: Shortly before lunch, Jerry or Hugh suggested that we each hug
+#. someone next to us. Billy tried to run, but got snared in the doorway by
+#. another escapee, a blonde woman who hugged him intensely (naturally) and
+#. forever! Then they leaned back and looked at each other. He exclaimed,
+#. “Jan!” as she screamed, “Bill!” They knew each other from Columbia. Her
+#. husband had worked for Bill and she had done her Ph.D. there. They had all
+#. been best of friends but then had a bitter falling out, I think because her
+#. husband had divorced her and moved in with Bill. She hated Bill intensely!
+#. At this point, she was in some cancer treatment. Imagine all the venom
+#. she’d stored up. And out of all people on earth, here these two were in
+#. each other’s arms at the end of a whole morning’s highly inspiring talk
+#. about forgiveness. As the past melted, they instantly forgave themselves
+#. and each other on the spot and spent some time together. Billy was actually
+#. very healing for her, though she eventually died of cancer. What a
+#. demonstration and what a kick-off for moving to San Diego over five years
+#. later![79]
+#: paragraph:23,sentence:7
+msgid "At this point, she was in some cancer treatment."
+msgstr ""
+
+#. Context: Shortly before lunch, Jerry or Hugh suggested that we each hug
+#. someone next to us. Billy tried to run, but got snared in the doorway by
+#. another escapee, a blonde woman who hugged him intensely (naturally) and
+#. forever! Then they leaned back and looked at each other. He exclaimed,
+#. “Jan!” as she screamed, “Bill!” They knew each other from Columbia. Her
+#. husband had worked for Bill and she had done her Ph.D. there. They had all
+#. been best of friends but then had a bitter falling out, I think because her
+#. husband had divorced her and moved in with Bill. She hated Bill intensely!
+#. At this point, she was in some cancer treatment. Imagine all the venom
+#. she’d stored up. And out of all people on earth, here these two were in
+#. each other’s arms at the end of a whole morning’s highly inspiring talk
+#. about forgiveness. As the past melted, they instantly forgave themselves
+#. and each other on the spot and spent some time together. Billy was actually
+#. very healing for her, though she eventually died of cancer. What a
+#. demonstration and what a kick-off for moving to San Diego over five years
+#. later![79]
+#: paragraph:23,sentence:8
+msgid "Imagine all the venom she’d stored up."
+msgstr ""
+
+#. Context: Shortly before lunch, Jerry or Hugh suggested that we each hug
+#. someone next to us. Billy tried to run, but got snared in the doorway by
+#. another escapee, a blonde woman who hugged him intensely (naturally) and
+#. forever! Then they leaned back and looked at each other. He exclaimed,
+#. “Jan!” as she screamed, “Bill!” They knew each other from Columbia. Her
+#. husband had worked for Bill and she had done her Ph.D. there. They had all
+#. been best of friends but then had a bitter falling out, I think because her
+#. husband had divorced her and moved in with Bill. She hated Bill intensely!
+#. At this point, she was in some cancer treatment. Imagine all the venom
+#. she’d stored up. And out of all people on earth, here these two were in
+#. each other’s arms at the end of a whole morning’s highly inspiring talk
+#. about forgiveness. As the past melted, they instantly forgave themselves
+#. and each other on the spot and spent some time together. Billy was actually
+#. very healing for her, though she eventually died of cancer. What a
+#. demonstration and what a kick-off for moving to San Diego over five years
+#. later![79]
+#: paragraph:23,sentence:9
+msgid ""
+"And out of all people on earth, here these two were in each other’s arms at "
+"the end of a whole morning’s highly inspiring talk about forgiveness."
+msgstr ""
+
+#. Context: Shortly before lunch, Jerry or Hugh suggested that we each hug
+#. someone next to us. Billy tried to run, but got snared in the doorway by
+#. another escapee, a blonde woman who hugged him intensely (naturally) and
+#. forever! Then they leaned back and looked at each other. He exclaimed,
+#. “Jan!” as she screamed, “Bill!” They knew each other from Columbia. Her
+#. husband had worked for Bill and she had done her Ph.D. there. They had all
+#. been best of friends but then had a bitter falling out, I think because her
+#. husband had divorced her and moved in with Bill. She hated Bill intensely!
+#. At this point, she was in some cancer treatment. Imagine all the venom
+#. she’d stored up. And out of all people on earth, here these two were in
+#. each other’s arms at the end of a whole morning’s highly inspiring talk
+#. about forgiveness. As the past melted, they instantly forgave themselves
+#. and each other on the spot and spent some time together. Billy was actually
+#. very healing for her, though she eventually died of cancer. What a
+#. demonstration and what a kick-off for moving to San Diego over five years
+#. later![79]
+#: paragraph:23,sentence:10
+msgid ""
+"As the past melted, they instantly forgave themselves and each other on the "
+"spot and spent some time together."
+msgstr ""
+
+#. Context: Shortly before lunch, Jerry or Hugh suggested that we each hug
+#. someone next to us. Billy tried to run, but got snared in the doorway by
+#. another escapee, a blonde woman who hugged him intensely (naturally) and
+#. forever! Then they leaned back and looked at each other. He exclaimed,
+#. “Jan!” as she screamed, “Bill!” They knew each other from Columbia. Her
+#. husband had worked for Bill and she had done her Ph.D. there. They had all
+#. been best of friends but then had a bitter falling out, I think because her
+#. husband had divorced her and moved in with Bill. She hated Bill intensely!
+#. At this point, she was in some cancer treatment. Imagine all the venom
+#. she’d stored up. And out of all people on earth, here these two were in
+#. each other’s arms at the end of a whole morning’s highly inspiring talk
+#. about forgiveness. As the past melted, they instantly forgave themselves
+#. and each other on the spot and spent some time together. Billy was actually
+#. very healing for her, though she eventually died of cancer. What a
+#. demonstration and what a kick-off for moving to San Diego over five years
+#. later![79]
+#: paragraph:23,sentence:11
+msgid ""
+"Billy was actually very healing for her, though she eventually died of "
+"cancer."
+msgstr ""
+
+#. Context: Shortly before lunch, Jerry or Hugh suggested that we each hug
+#. someone next to us. Billy tried to run, but got snared in the doorway by
+#. another escapee, a blonde woman who hugged him intensely (naturally) and
+#. forever! Then they leaned back and looked at each other. He exclaimed,
+#. “Jan!” as she screamed, “Bill!” They knew each other from Columbia. Her
+#. husband had worked for Bill and she had done her Ph.D. there. They had all
+#. been best of friends but then had a bitter falling out, I think because her
+#. husband had divorced her and moved in with Bill. She hated Bill intensely!
+#. At this point, she was in some cancer treatment. Imagine all the venom
+#. she’d stored up. And out of all people on earth, here these two were in
+#. each other’s arms at the end of a whole morning’s highly inspiring talk
+#. about forgiveness. As the past melted, they instantly forgave themselves
+#. and each other on the spot and spent some time together. Billy was actually
+#. very healing for her, though she eventually died of cancer. What a
+#. demonstration and what a kick-off for moving to San Diego over five years
+#. later![79]
+#: paragraph:23,sentence:12
+msgid ""
+"What a demonstration and what a kick-off for moving to San Diego over five "
+"years later![79]"
+msgstr ""
+
+#. Context: As for healings that took place related to Bill’s speaking voice,
+#. Leroy Zemke commented:
+#: paragraph:24,sentence:1
+msgid ""
+"As for healings that took place related to Bill’s speaking voice, Leroy "
+"Zemke commented:"
+msgstr ""
+
+#. Context: Immediately now is another step, which has also been initiated
+#. elsewhere. There is before you a work that involves the uses of the voice,
+#. the uses of the mechanical energies of the material world involved in the
+#. engineering of sound. You are to involve yourself in the projection of
+#. voice in many different ways that can be utilized to inform the teachings
+#. already in print. It is simply another way to demonstrate the source of the
+#. power, the essence of Holy Spirit. . . . You have a quality of healing that
+#. is transmitted through your being. Your words become as tools through which
+#. this force, or focus, is directed. And all who hear them will experience a
+#. sense of direction and feel the vibratory patterns of their own being
+#. resonating with those flowing through you. Many will experience
+#. healing—some instantaneous, others through gradual forms of healing—but the
+#. process is the same.[80]
+#: paragraph:25,sentence:1
+msgid ""
+"Immediately now is another step, which has also been initiated elsewhere."
+msgstr ""
+
+#. Context: Immediately now is another step, which has also been initiated
+#. elsewhere. There is before you a work that involves the uses of the voice,
+#. the uses of the mechanical energies of the material world involved in the
+#. engineering of sound. You are to involve yourself in the projection of
+#. voice in many different ways that can be utilized to inform the teachings
+#. already in print. It is simply another way to demonstrate the source of the
+#. power, the essence of Holy Spirit. . . . You have a quality of healing that
+#. is transmitted through your being. Your words become as tools through which
+#. this force, or focus, is directed. And all who hear them will experience a
+#. sense of direction and feel the vibratory patterns of their own being
+#. resonating with those flowing through you. Many will experience
+#. healing—some instantaneous, others through gradual forms of healing—but the
+#. process is the same.[80]
+#: paragraph:25,sentence:2
+msgid ""
+"There is before you a work that involves the uses of the voice, the uses of "
+"the mechanical energies of the material world involved in the engineering of"
+" sound."
+msgstr ""
+
+#. Context: Immediately now is another step, which has also been initiated
+#. elsewhere. There is before you a work that involves the uses of the voice,
+#. the uses of the mechanical energies of the material world involved in the
+#. engineering of sound. You are to involve yourself in the projection of
+#. voice in many different ways that can be utilized to inform the teachings
+#. already in print. It is simply another way to demonstrate the source of the
+#. power, the essence of Holy Spirit. . . . You have a quality of healing that
+#. is transmitted through your being. Your words become as tools through which
+#. this force, or focus, is directed. And all who hear them will experience a
+#. sense of direction and feel the vibratory patterns of their own being
+#. resonating with those flowing through you. Many will experience
+#. healing—some instantaneous, others through gradual forms of healing—but the
+#. process is the same.[80]
+#: paragraph:25,sentence:3
+msgid ""
+"You are to involve yourself in the projection of voice in many different "
+"ways that can be utilized to inform the teachings already in print."
+msgstr ""
+
+#. Context: Immediately now is another step, which has also been initiated
+#. elsewhere. There is before you a work that involves the uses of the voice,
+#. the uses of the mechanical energies of the material world involved in the
+#. engineering of sound. You are to involve yourself in the projection of
+#. voice in many different ways that can be utilized to inform the teachings
+#. already in print. It is simply another way to demonstrate the source of the
+#. power, the essence of Holy Spirit. . . . You have a quality of healing that
+#. is transmitted through your being. Your words become as tools through which
+#. this force, or focus, is directed. And all who hear them will experience a
+#. sense of direction and feel the vibratory patterns of their own being
+#. resonating with those flowing through you. Many will experience
+#. healing—some instantaneous, others through gradual forms of healing—but the
+#. process is the same.[80]
+#: paragraph:25,sentence:4
+msgid ""
+"It is simply another way to demonstrate the source of the power, the essence"
+" of Holy Spirit. . . ."
+msgstr ""
+
+#. Context: Immediately now is another step, which has also been initiated
+#. elsewhere. There is before you a work that involves the uses of the voice,
+#. the uses of the mechanical energies of the material world involved in the
+#. engineering of sound. You are to involve yourself in the projection of
+#. voice in many different ways that can be utilized to inform the teachings
+#. already in print. It is simply another way to demonstrate the source of the
+#. power, the essence of Holy Spirit. . . . You have a quality of healing that
+#. is transmitted through your being. Your words become as tools through which
+#. this force, or focus, is directed. And all who hear them will experience a
+#. sense of direction and feel the vibratory patterns of their own being
+#. resonating with those flowing through you. Many will experience
+#. healing—some instantaneous, others through gradual forms of healing—but the
+#. process is the same.[80]
+#: paragraph:25,sentence:5
+msgid "You have a quality of healing that is transmitted through your being."
+msgstr ""
+
+#. Context: Immediately now is another step, which has also been initiated
+#. elsewhere. There is before you a work that involves the uses of the voice,
+#. the uses of the mechanical energies of the material world involved in the
+#. engineering of sound. You are to involve yourself in the projection of
+#. voice in many different ways that can be utilized to inform the teachings
+#. already in print. It is simply another way to demonstrate the source of the
+#. power, the essence of Holy Spirit. . . . You have a quality of healing that
+#. is transmitted through your being. Your words become as tools through which
+#. this force, or focus, is directed. And all who hear them will experience a
+#. sense of direction and feel the vibratory patterns of their own being
+#. resonating with those flowing through you. Many will experience
+#. healing—some instantaneous, others through gradual forms of healing—but the
+#. process is the same.[80]
+#: paragraph:25,sentence:6
+msgid ""
+"Your words become as tools through which this force, or focus, is directed."
+msgstr ""
+
+#. Context: Immediately now is another step, which has also been initiated
+#. elsewhere. There is before you a work that involves the uses of the voice,
+#. the uses of the mechanical energies of the material world involved in the
+#. engineering of sound. You are to involve yourself in the projection of
+#. voice in many different ways that can be utilized to inform the teachings
+#. already in print. It is simply another way to demonstrate the source of the
+#. power, the essence of Holy Spirit. . . . You have a quality of healing that
+#. is transmitted through your being. Your words become as tools through which
+#. this force, or focus, is directed. And all who hear them will experience a
+#. sense of direction and feel the vibratory patterns of their own being
+#. resonating with those flowing through you. Many will experience
+#. healing—some instantaneous, others through gradual forms of healing—but the
+#. process is the same.[80]
+#: paragraph:25,sentence:7
+msgid ""
+"And all who hear them will experience a sense of direction and feel the "
+"vibratory patterns of their own being resonating with those flowing through "
+"you."
+msgstr ""
+
+#. Context: Immediately now is another step, which has also been initiated
+#. elsewhere. There is before you a work that involves the uses of the voice,
+#. the uses of the mechanical energies of the material world involved in the
+#. engineering of sound. You are to involve yourself in the projection of
+#. voice in many different ways that can be utilized to inform the teachings
+#. already in print. It is simply another way to demonstrate the source of the
+#. power, the essence of Holy Spirit. . . . You have a quality of healing that
+#. is transmitted through your being. Your words become as tools through which
+#. this force, or focus, is directed. And all who hear them will experience a
+#. sense of direction and feel the vibratory patterns of their own being
+#. resonating with those flowing through you. Many will experience
+#. healing—some instantaneous, others through gradual forms of healing—but the
+#. process is the same.[80]
+#: paragraph:25,sentence:8
+msgid ""
+"Many will experience healing—some instantaneous, others through gradual "
+"forms of healing—but the process is the same.[80]"
+msgstr ""
+
+#. Context: Bill had a beautiful voice through which much healing
+#. automatically occurred, something of an embarrassment to him, but he was
+#. also mindful that it was his gift and always had been. Jerry recalled:
+#: paragraph:26,sentence:1
+msgid ""
+"Bill had a beautiful voice through which much healing automatically "
+"occurred, something of an embarrassment to him, but he was also mindful that"
+" it was his gift and always had been. Jerry recalled:"
+msgstr ""
+
+#. Context: For me, when he read passages from ACIM, there was a vibration in
+#. his voice, different from when he was just talking to you, that was the
+#. vibration of God and I bathed in that. It allowed people to experience the
+#. peace of God and I’m not the only one, I’m sure, who felt that. He was like
+#. an older brother. He was wearing the “cloak” of Bill Thetford, but as far
+#. as I’m concerned he was a manifestation of the Christ spirit.[81]
+#: paragraph:27,sentence:1
+msgid ""
+"For me, when he read passages from ACIM, there was a vibration in his voice,"
+" different from when he was just talking to you, that was the vibration of "
+"God and I bathed in that."
+msgstr ""
+
+#. Context: For me, when he read passages from ACIM, there was a vibration in
+#. his voice, different from when he was just talking to you, that was the
+#. vibration of God and I bathed in that. It allowed people to experience the
+#. peace of God and I’m not the only one, I’m sure, who felt that. He was like
+#. an older brother. He was wearing the “cloak” of Bill Thetford, but as far
+#. as I’m concerned he was a manifestation of the Christ spirit.[81]
+#: paragraph:27,sentence:2
+msgid ""
+"It allowed people to experience the peace of God and I’m not the only one, "
+"I’m sure, who felt that."
+msgstr ""
+
+#. Context: For me, when he read passages from ACIM, there was a vibration in
+#. his voice, different from when he was just talking to you, that was the
+#. vibration of God and I bathed in that. It allowed people to experience the
+#. peace of God and I’m not the only one, I’m sure, who felt that. He was like
+#. an older brother. He was wearing the “cloak” of Bill Thetford, but as far
+#. as I’m concerned he was a manifestation of the Christ spirit.[81]
+#: paragraph:27,sentence:3
+msgid "He was like an older brother."
+msgstr ""
+
+#. Context: For me, when he read passages from ACIM, there was a vibration in
+#. his voice, different from when he was just talking to you, that was the
+#. vibration of God and I bathed in that. It allowed people to experience the
+#. peace of God and I’m not the only one, I’m sure, who felt that. He was like
+#. an older brother. He was wearing the “cloak” of Bill Thetford, but as far
+#. as I’m concerned he was a manifestation of the Christ spirit.[81]
+#: paragraph:27,sentence:4
+msgid ""
+"He was wearing the “cloak” of Bill Thetford, but as far as I’m concerned he "
+"was a manifestation of the Christ spirit.[81]"
+msgstr ""
+
+#. Context: Judy recalled a situation that was typical of how people responded
+#. to Bill’s voice, particularly when he read from the Course. She had
+#. introduced him to some friends, both of them psychologists and students of
+#. Assagioli (an Italian psychotherapist who developed the technique known as
+#. psychosynthesis); they were well known in their field and had helped a
+#. great many. About twenty minutes into the visit, the woman, who was very
+#. matter of fact and down to earth, asked Bill if he would mind reading
+#. something from ACIM. Both Bill and Judy were surprised, as no one had ever
+#. made that request. He asked if she had a preference about what to read and
+#. she answered no. Judy recounts:
+#: paragraph:28,sentence:1
+msgid ""
+"Judy recalled a situation that was typical of how people responded to Bill’s"
+" voice, particularly when he read from the Course."
+msgstr ""
+
+#. Context: Judy recalled a situation that was typical of how people responded
+#. to Bill’s voice, particularly when he read from the Course. She had
+#. introduced him to some friends, both of them psychologists and students of
+#. Assagioli (an Italian psychotherapist who developed the technique known as
+#. psychosynthesis); they were well known in their field and had helped a
+#. great many. About twenty minutes into the visit, the woman, who was very
+#. matter of fact and down to earth, asked Bill if he would mind reading
+#. something from ACIM. Both Bill and Judy were surprised, as no one had ever
+#. made that request. He asked if she had a preference about what to read and
+#. she answered no. Judy recounts:
+#: paragraph:28,sentence:2
+msgid ""
+"She had introduced him to some friends, both of them psychologists and "
+"students of Assagioli (an Italian psychotherapist who developed the "
+"technique known as psychosynthesis); they were well known in their field and"
+" had helped a great many."
+msgstr ""
+
+#. Context: Judy recalled a situation that was typical of how people responded
+#. to Bill’s voice, particularly when he read from the Course. She had
+#. introduced him to some friends, both of them psychologists and students of
+#. Assagioli (an Italian psychotherapist who developed the technique known as
+#. psychosynthesis); they were well known in their field and had helped a
+#. great many. About twenty minutes into the visit, the woman, who was very
+#. matter of fact and down to earth, asked Bill if he would mind reading
+#. something from ACIM. Both Bill and Judy were surprised, as no one had ever
+#. made that request. He asked if she had a preference about what to read and
+#. she answered no. Judy recounts:
+#: paragraph:28,sentence:3
+msgid ""
+"About twenty minutes into the visit, the woman, who was very matter of fact "
+"and down to earth, asked Bill if he would mind reading something from ACIM."
+msgstr ""
+
+#. Context: Judy recalled a situation that was typical of how people responded
+#. to Bill’s voice, particularly when he read from the Course. She had
+#. introduced him to some friends, both of them psychologists and students of
+#. Assagioli (an Italian psychotherapist who developed the technique known as
+#. psychosynthesis); they were well known in their field and had helped a
+#. great many. About twenty minutes into the visit, the woman, who was very
+#. matter of fact and down to earth, asked Bill if he would mind reading
+#. something from ACIM. Both Bill and Judy were surprised, as no one had ever
+#. made that request. He asked if she had a preference about what to read and
+#. she answered no. Judy recounts:
+#: paragraph:28,sentence:4
+msgid ""
+"Both Bill and Judy were surprised, as no one had ever made that request."
+msgstr ""
+
+#. Context: Judy recalled a situation that was typical of how people responded
+#. to Bill’s voice, particularly when he read from the Course. She had
+#. introduced him to some friends, both of them psychologists and students of
+#. Assagioli (an Italian psychotherapist who developed the technique known as
+#. psychosynthesis); they were well known in their field and had helped a
+#. great many. About twenty minutes into the visit, the woman, who was very
+#. matter of fact and down to earth, asked Bill if he would mind reading
+#. something from ACIM. Both Bill and Judy were surprised, as no one had ever
+#. made that request. He asked if she had a preference about what to read and
+#. she answered no. Judy recounts:
+#: paragraph:28,sentence:5
+msgid ""
+"He asked if she had a preference about what to read and she answered no. "
+"Judy recounts:"
+msgstr ""
+
+#. Context: Bill opened the book at random, read for about fifteen minutes,
+#. and I saw the tears flowing down this woman’s face. She was holding her
+#. husband’s hand and I could still see her silently weeping, which was so
+#. powerful for me! When Bill put the book down, he suddenly saw them sitting
+#. there—he really did get into what he was reading—and the woman said, “I’ve
+#. heard the voice of God.” She wasn’t trying to be flattering. She meant,
+#. with his reading, she heard the voice of God, and when they left, she asked
+#. if he could be persuaded to record his favorite parts, which he later did.
+#. When he read the Course, it was transporting.[82]
+#: paragraph:29,sentence:1
+msgid ""
+"Bill opened the book at random, read for about fifteen minutes, and I saw "
+"the tears flowing down this woman’s face."
+msgstr ""
+
+#. Context: Bill opened the book at random, read for about fifteen minutes,
+#. and I saw the tears flowing down this woman’s face. She was holding her
+#. husband’s hand and I could still see her silently weeping, which was so
+#. powerful for me! When Bill put the book down, he suddenly saw them sitting
+#. there—he really did get into what he was reading—and the woman said, “I’ve
+#. heard the voice of God.” She wasn’t trying to be flattering. She meant,
+#. with his reading, she heard the voice of God, and when they left, she asked
+#. if he could be persuaded to record his favorite parts, which he later did.
+#. When he read the Course, it was transporting.[82]
+#: paragraph:29,sentence:2
+msgid ""
+"She was holding her husband’s hand and I could still see her silently "
+"weeping, which was so powerful for me!"
+msgstr ""
+
+#. Context: Bill opened the book at random, read for about fifteen minutes,
+#. and I saw the tears flowing down this woman’s face. She was holding her
+#. husband’s hand and I could still see her silently weeping, which was so
+#. powerful for me! When Bill put the book down, he suddenly saw them sitting
+#. there—he really did get into what he was reading—and the woman said, “I’ve
+#. heard the voice of God.” She wasn’t trying to be flattering. She meant,
+#. with his reading, she heard the voice of God, and when they left, she asked
+#. if he could be persuaded to record his favorite parts, which he later did.
+#. When he read the Course, it was transporting.[82]
+#: paragraph:29,sentence:3
+msgid ""
+"When Bill put the book down, he suddenly saw them sitting there—he really "
+"did get into what he was reading—and the woman said, “I’ve heard the voice "
+"of God.” She wasn’t trying to be flattering."
+msgstr ""
+
+#. Context: Bill opened the book at random, read for about fifteen minutes,
+#. and I saw the tears flowing down this woman’s face. She was holding her
+#. husband’s hand and I could still see her silently weeping, which was so
+#. powerful for me! When Bill put the book down, he suddenly saw them sitting
+#. there—he really did get into what he was reading—and the woman said, “I’ve
+#. heard the voice of God.” She wasn’t trying to be flattering. She meant,
+#. with his reading, she heard the voice of God, and when they left, she asked
+#. if he could be persuaded to record his favorite parts, which he later did.
+#. When he read the Course, it was transporting.[82]
+#: paragraph:29,sentence:4
+msgid ""
+"She meant, with his reading, she heard the voice of God, and when they left,"
+" she asked if he could be persuaded to record his favorite parts, which he "
+"later did."
+msgstr ""
+
+#. Context: Bill opened the book at random, read for about fifteen minutes,
+#. and I saw the tears flowing down this woman’s face. She was holding her
+#. husband’s hand and I could still see her silently weeping, which was so
+#. powerful for me! When Bill put the book down, he suddenly saw them sitting
+#. there—he really did get into what he was reading—and the woman said, “I’ve
+#. heard the voice of God.” She wasn’t trying to be flattering. She meant,
+#. with his reading, she heard the voice of God, and when they left, she asked
+#. if he could be persuaded to record his favorite parts, which he later did.
+#. When he read the Course, it was transporting.[82]
+#: paragraph:29,sentence:5
+msgid "When he read the Course, it was transporting.[82]"
+msgstr ""
+
+#. Context: Bill’s own healing, always related to relinquishing the ego, was a
+#. work in progress. He was still “unlearning” the storehouse of conflicting
+#. impressions he had amassed and was still partially an “unhealed healer.”
+#. The Course writes a great deal about “unhealed healers” because, obviously,
+#. it came through two experts in traditional psychotherapy. They must have
+#. been shocked to have their life’s work so roundly dismissed as unhelpful,
+#. at least as they assumed it should be practiced, in the section entitled
+#. “The Unhealed Healer”:
+#: paragraph:30,sentence:1
+msgid ""
+"Bill’s own healing, always related to relinquishing the ego, was a work in "
+"progress."
+msgstr ""
+
+#. Context: Bill’s own healing, always related to relinquishing the ego, was a
+#. work in progress. He was still “unlearning” the storehouse of conflicting
+#. impressions he had amassed and was still partially an “unhealed healer.”
+#. The Course writes a great deal about “unhealed healers” because, obviously,
+#. it came through two experts in traditional psychotherapy. They must have
+#. been shocked to have their life’s work so roundly dismissed as unhelpful,
+#. at least as they assumed it should be practiced, in the section entitled
+#. “The Unhealed Healer”:
+#: paragraph:30,sentence:2
+msgid ""
+"He was still “unlearning” the storehouse of conflicting impressions he had "
+"amassed and was still partially an “unhealed healer.” The Course writes a "
+"great deal about “unhealed healers” because, obviously, it came through two "
+"experts in traditional psychotherapy."
+msgstr ""
+
+#. Context: Bill’s own healing, always related to relinquishing the ego, was a
+#. work in progress. He was still “unlearning” the storehouse of conflicting
+#. impressions he had amassed and was still partially an “unhealed healer.”
+#. The Course writes a great deal about “unhealed healers” because, obviously,
+#. it came through two experts in traditional psychotherapy. They must have
+#. been shocked to have their life’s work so roundly dismissed as unhelpful,
+#. at least as they assumed it should be practiced, in the section entitled
+#. “The Unhealed Healer”:
+#: paragraph:30,sentence:3
+msgid ""
+"They must have been shocked to have their life’s work so roundly dismissed "
+"as unhelpful, at least as they assumed it should be practiced, in the "
+"section entitled “The Unhealed Healer”:"
+msgstr ""
+
+#. Context: The ego’s plan for forgiveness is far more widely used than God’s.
+#. This is because it is undertaken by unhealed healers, and is therefore of
+#. the ego. Let us consider the unhealed healer more carefully now. By
+#. definition, he is trying to give what he has not received. If an unhealed
+#. healer is a theologian, for example, he may begin with the premise, “I am a
+#. miserable sinner, and so are you.” If he is a psychotherapist, he is more
+#. likely to start with the equally incredible belief that attack is real for
+#. both himself and the patient, but that it does not matter for either of
+#. them. . . .
+#: paragraph:31,sentence:1
+msgid "The ego’s plan for forgiveness is far more widely used than God’s."
+msgstr ""
+
+#. Context: The ego’s plan for forgiveness is far more widely used than God’s.
+#. This is because it is undertaken by unhealed healers, and is therefore of
+#. the ego. Let us consider the unhealed healer more carefully now. By
+#. definition, he is trying to give what he has not received. If an unhealed
+#. healer is a theologian, for example, he may begin with the premise, “I am a
+#. miserable sinner, and so are you.” If he is a psychotherapist, he is more
+#. likely to start with the equally incredible belief that attack is real for
+#. both himself and the patient, but that it does not matter for either of
+#. them. . . .
+#: paragraph:31,sentence:2
+msgid ""
+"This is because it is undertaken by unhealed healers, and is therefore of "
+"the ego."
+msgstr ""
+
+#. Context: The ego’s plan for forgiveness is far more widely used than God’s.
+#. This is because it is undertaken by unhealed healers, and is therefore of
+#. the ego. Let us consider the unhealed healer more carefully now. By
+#. definition, he is trying to give what he has not received. If an unhealed
+#. healer is a theologian, for example, he may begin with the premise, “I am a
+#. miserable sinner, and so are you.” If he is a psychotherapist, he is more
+#. likely to start with the equally incredible belief that attack is real for
+#. both himself and the patient, but that it does not matter for either of
+#. them. . . .
+#: paragraph:31,sentence:3
+msgid "Let us consider the unhealed healer more carefully now."
+msgstr ""
+
+#. Context: The ego’s plan for forgiveness is far more widely used than God’s.
+#. This is because it is undertaken by unhealed healers, and is therefore of
+#. the ego. Let us consider the unhealed healer more carefully now. By
+#. definition, he is trying to give what he has not received. If an unhealed
+#. healer is a theologian, for example, he may begin with the premise, “I am a
+#. miserable sinner, and so are you.” If he is a psychotherapist, he is more
+#. likely to start with the equally incredible belief that attack is real for
+#. both himself and the patient, but that it does not matter for either of
+#. them. . . .
+#: paragraph:31,sentence:4
+msgid "By definition, he is trying to give what he has not received."
+msgstr ""
+
+#. Context: The ego’s plan for forgiveness is far more widely used than God’s.
+#. This is because it is undertaken by unhealed healers, and is therefore of
+#. the ego. Let us consider the unhealed healer more carefully now. By
+#. definition, he is trying to give what he has not received. If an unhealed
+#. healer is a theologian, for example, he may begin with the premise, “I am a
+#. miserable sinner, and so are you.” If he is a psychotherapist, he is more
+#. likely to start with the equally incredible belief that attack is real for
+#. both himself and the patient, but that it does not matter for either of
+#. them. . . .
+#: paragraph:31,sentence:5
+msgid ""
+"If an unhealed healer is a theologian, for example, he may begin with the "
+"premise, “I am a miserable sinner, and so are you.” If he is a "
+"psychotherapist, he is more likely to start with the equally incredible "
+"belief that attack is real for both himself and the patient, but that it "
+"does not matter for either of them. . . ."
+msgstr ""
+
+#. Context: A therapist does not heal; he lets healing be. He can point to
+#. darkness but he cannot bring light of himself, for light is not of him.
+#. Yet, being for him, it must also be for his patient. The Holy Spirit is the
+#. only Therapist. He makes healing clear in any situation in which He is the
+#. Guide. You can only let Him fulfill His function. He needs no help for
+#. this. He will tell you exactly what to do to help anyone He sends to you
+#. for help, and will speak to him through you if you do not interfere.[83]
+#: paragraph:32,sentence:1
+msgid "A therapist does not heal; he lets healing be."
+msgstr ""
+
+#. Context: A therapist does not heal; he lets healing be. He can point to
+#. darkness but he cannot bring light of himself, for light is not of him.
+#. Yet, being for him, it must also be for his patient. The Holy Spirit is the
+#. only Therapist. He makes healing clear in any situation in which He is the
+#. Guide. You can only let Him fulfill His function. He needs no help for
+#. this. He will tell you exactly what to do to help anyone He sends to you
+#. for help, and will speak to him through you if you do not interfere.[83]
+#: paragraph:32,sentence:2
+msgid ""
+"He can point to darkness but he cannot bring light of himself, for light is "
+"not of him."
+msgstr ""
+
+#. Context: A therapist does not heal; he lets healing be. He can point to
+#. darkness but he cannot bring light of himself, for light is not of him.
+#. Yet, being for him, it must also be for his patient. The Holy Spirit is the
+#. only Therapist. He makes healing clear in any situation in which He is the
+#. Guide. You can only let Him fulfill His function. He needs no help for
+#. this. He will tell you exactly what to do to help anyone He sends to you
+#. for help, and will speak to him through you if you do not interfere.[83]
+#: paragraph:32,sentence:3
+msgid "Yet, being for him, it must also be for his patient."
+msgstr ""
+
+#. Context: A therapist does not heal; he lets healing be. He can point to
+#. darkness but he cannot bring light of himself, for light is not of him.
+#. Yet, being for him, it must also be for his patient. The Holy Spirit is the
+#. only Therapist. He makes healing clear in any situation in which He is the
+#. Guide. You can only let Him fulfill His function. He needs no help for
+#. this. He will tell you exactly what to do to help anyone He sends to you
+#. for help, and will speak to him through you if you do not interfere.[83]
+#: paragraph:32,sentence:4
+msgid "The Holy Spirit is the only Therapist."
+msgstr ""
+
+#. Context: A therapist does not heal; he lets healing be. He can point to
+#. darkness but he cannot bring light of himself, for light is not of him.
+#. Yet, being for him, it must also be for his patient. The Holy Spirit is the
+#. only Therapist. He makes healing clear in any situation in which He is the
+#. Guide. You can only let Him fulfill His function. He needs no help for
+#. this. He will tell you exactly what to do to help anyone He sends to you
+#. for help, and will speak to him through you if you do not interfere.[83]
+#: paragraph:32,sentence:5
+msgid "He makes healing clear in any situation in which He is the Guide."
+msgstr ""
+
+#. Context: A therapist does not heal; he lets healing be. He can point to
+#. darkness but he cannot bring light of himself, for light is not of him.
+#. Yet, being for him, it must also be for his patient. The Holy Spirit is the
+#. only Therapist. He makes healing clear in any situation in which He is the
+#. Guide. You can only let Him fulfill His function. He needs no help for
+#. this. He will tell you exactly what to do to help anyone He sends to you
+#. for help, and will speak to him through you if you do not interfere.[83]
+#: paragraph:32,sentence:6
+msgid "You can only let Him fulfill His function."
+msgstr ""
+
+#. Context: A therapist does not heal; he lets healing be. He can point to
+#. darkness but he cannot bring light of himself, for light is not of him.
+#. Yet, being for him, it must also be for his patient. The Holy Spirit is the
+#. only Therapist. He makes healing clear in any situation in which He is the
+#. Guide. You can only let Him fulfill His function. He needs no help for
+#. this. He will tell you exactly what to do to help anyone He sends to you
+#. for help, and will speak to him through you if you do not interfere.[83]
+#: paragraph:32,sentence:7
+msgid "He needs no help for this."
+msgstr ""
+
+#. Context: A therapist does not heal; he lets healing be. He can point to
+#. darkness but he cannot bring light of himself, for light is not of him.
+#. Yet, being for him, it must also be for his patient. The Holy Spirit is the
+#. only Therapist. He makes healing clear in any situation in which He is the
+#. Guide. You can only let Him fulfill His function. He needs no help for
+#. this. He will tell you exactly what to do to help anyone He sends to you
+#. for help, and will speak to him through you if you do not interfere.[83]
+#: paragraph:32,sentence:8
+msgid ""
+"He will tell you exactly what to do to help anyone He sends to you for help,"
+" and will speak to him through you if you do not interfere.[83]"
+msgstr ""
+
+#. Context: Once when Bill was in Denver, he and Bob Beale had lunch with a
+#. well-known, “larger than life” financial guru. Bob remembers Fred (not his
+#. real name) as a self-promoting person with a strong ego, who talked at
+#. length about his accomplishments. Finally Bob said,
+#: paragraph:33,sentence:1
+msgid ""
+"Once when Bill was in Denver, he and Bob Beale had lunch with a well-known, "
+"“larger than life” financial guru."
+msgstr ""
+
+#. Context: Once when Bill was in Denver, he and Bob Beale had lunch with a
+#. well-known, “larger than life” financial guru. Bob remembers Fred (not his
+#. real name) as a self-promoting person with a strong ego, who talked at
+#. length about his accomplishments. Finally Bob said,
+#: paragraph:33,sentence:2
+msgid ""
+"Bob remembers Fred (not his real name) as a self-promoting person with a "
+"strong ego, who talked at length about his accomplishments. Finally Bob "
+"said,"
+msgstr ""
+
+#. Context: “Fred, this is Bill Thetford who is one of the two scribes who
+#. created A Course In Miracles.” That didn’t particularly impress Fred, who
+#. knew what it was but so what? Bill added, “Yes, I was part of the team that
+#. brought that in,” and started to be a little boastful. Then he just
+#. stopped, as if he thought, “I don’t really want to do this,” and said no
+#. more in that vein. It was an interesting meeting, watching him rise to the
+#. bait and then let it go. Bill started to relate on the same level as
+#. Fred—not a very pleasant one—and then he stopped. He just let it go and I
+#. thought that was commendable, to say the least.[84]
+#: paragraph:34,sentence:1
+msgid ""
+"“Fred, this is Bill Thetford who is one of the two scribes who created A "
+"Course In Miracles.” That didn’t particularly impress Fred, who knew what it"
+" was but so what?"
+msgstr ""
+
+#. Context: “Fred, this is Bill Thetford who is one of the two scribes who
+#. created A Course In Miracles.” That didn’t particularly impress Fred, who
+#. knew what it was but so what? Bill added, “Yes, I was part of the team that
+#. brought that in,” and started to be a little boastful. Then he just
+#. stopped, as if he thought, “I don’t really want to do this,” and said no
+#. more in that vein. It was an interesting meeting, watching him rise to the
+#. bait and then let it go. Bill started to relate on the same level as
+#. Fred—not a very pleasant one—and then he stopped. He just let it go and I
+#. thought that was commendable, to say the least.[84]
+#: paragraph:34,sentence:2
+msgid ""
+"Bill added, “Yes, I was part of the team that brought that in,” and started "
+"to be a little boastful."
+msgstr ""
+
+#. Context: “Fred, this is Bill Thetford who is one of the two scribes who
+#. created A Course In Miracles.” That didn’t particularly impress Fred, who
+#. knew what it was but so what? Bill added, “Yes, I was part of the team that
+#. brought that in,” and started to be a little boastful. Then he just
+#. stopped, as if he thought, “I don’t really want to do this,” and said no
+#. more in that vein. It was an interesting meeting, watching him rise to the
+#. bait and then let it go. Bill started to relate on the same level as
+#. Fred—not a very pleasant one—and then he stopped. He just let it go and I
+#. thought that was commendable, to say the least.[84]
+#: paragraph:34,sentence:3
+msgid ""
+"Then he just stopped, as if he thought, “I don’t really want to do this,” "
+"and said no more in that vein."
+msgstr ""
+
+#. Context: “Fred, this is Bill Thetford who is one of the two scribes who
+#. created A Course In Miracles.” That didn’t particularly impress Fred, who
+#. knew what it was but so what? Bill added, “Yes, I was part of the team that
+#. brought that in,” and started to be a little boastful. Then he just
+#. stopped, as if he thought, “I don’t really want to do this,” and said no
+#. more in that vein. It was an interesting meeting, watching him rise to the
+#. bait and then let it go. Bill started to relate on the same level as
+#. Fred—not a very pleasant one—and then he stopped. He just let it go and I
+#. thought that was commendable, to say the least.[84]
+#: paragraph:34,sentence:4
+msgid ""
+"It was an interesting meeting, watching him rise to the bait and then let it"
+" go."
+msgstr ""
+
+#. Context: “Fred, this is Bill Thetford who is one of the two scribes who
+#. created A Course In Miracles.” That didn’t particularly impress Fred, who
+#. knew what it was but so what? Bill added, “Yes, I was part of the team that
+#. brought that in,” and started to be a little boastful. Then he just
+#. stopped, as if he thought, “I don’t really want to do this,” and said no
+#. more in that vein. It was an interesting meeting, watching him rise to the
+#. bait and then let it go. Bill started to relate on the same level as
+#. Fred—not a very pleasant one—and then he stopped. He just let it go and I
+#. thought that was commendable, to say the least.[84]
+#: paragraph:34,sentence:5
+msgid ""
+"Bill started to relate on the same level as Fred—not a very pleasant one—and"
+" then he stopped."
+msgstr ""
+
+#. Context: “Fred, this is Bill Thetford who is one of the two scribes who
+#. created A Course In Miracles.” That didn’t particularly impress Fred, who
+#. knew what it was but so what? Bill added, “Yes, I was part of the team that
+#. brought that in,” and started to be a little boastful. Then he just
+#. stopped, as if he thought, “I don’t really want to do this,” and said no
+#. more in that vein. It was an interesting meeting, watching him rise to the
+#. bait and then let it go. Bill started to relate on the same level as
+#. Fred—not a very pleasant one—and then he stopped. He just let it go and I
+#. thought that was commendable, to say the least.[84]
+#: paragraph:34,sentence:6
+msgid ""
+"He just let it go and I thought that was commendable, to say the least.[84]"
+msgstr ""
+
+#. Context: Here is a marvelous object lesson—in mid-sentence you can choose
+#. to let something go when you realize your error. Bill did that frequently
+#. and remarkably well from the beginning. During my early visits to
+#. California, I saw him bow only once to an obvious ego inclination, as he
+#. showed me various books he had contributed to and more than one academic
+#. “Who’s Who” in which he was listed. It was almost as if he wanted to
+#. reassure himself, and me, of his value—“See, I really did do wonderful work
+#. before I left the academic world”—vacillating between wanting to be special
+#. and wanting to give that up. One friend said, “Bill’s only self-promotion
+#. was a conspicuous undersell.”
+#: paragraph:35,sentence:1
+msgid ""
+"Here is a marvelous object lesson—in mid-sentence you can choose to let "
+"something go when you realize your error."
+msgstr ""
+
+#. Context: Here is a marvelous object lesson—in mid-sentence you can choose
+#. to let something go when you realize your error. Bill did that frequently
+#. and remarkably well from the beginning. During my early visits to
+#. California, I saw him bow only once to an obvious ego inclination, as he
+#. showed me various books he had contributed to and more than one academic
+#. “Who’s Who” in which he was listed. It was almost as if he wanted to
+#. reassure himself, and me, of his value—“See, I really did do wonderful work
+#. before I left the academic world”—vacillating between wanting to be special
+#. and wanting to give that up. One friend said, “Bill’s only self-promotion
+#. was a conspicuous undersell.”
+#: paragraph:35,sentence:2
+msgid "Bill did that frequently and remarkably well from the beginning."
+msgstr ""
+
+#. Context: Here is a marvelous object lesson—in mid-sentence you can choose
+#. to let something go when you realize your error. Bill did that frequently
+#. and remarkably well from the beginning. During my early visits to
+#. California, I saw him bow only once to an obvious ego inclination, as he
+#. showed me various books he had contributed to and more than one academic
+#. “Who’s Who” in which he was listed. It was almost as if he wanted to
+#. reassure himself, and me, of his value—“See, I really did do wonderful work
+#. before I left the academic world”—vacillating between wanting to be special
+#. and wanting to give that up. One friend said, “Bill’s only self-promotion
+#. was a conspicuous undersell.”
+#: paragraph:35,sentence:3
+msgid ""
+"During my early visits to California, I saw him bow only once to an obvious "
+"ego inclination, as he showed me various books he had contributed to and "
+"more than one academic “Who’s Who” in which he was listed."
+msgstr ""
+
+#. Context: Here is a marvelous object lesson—in mid-sentence you can choose
+#. to let something go when you realize your error. Bill did that frequently
+#. and remarkably well from the beginning. During my early visits to
+#. California, I saw him bow only once to an obvious ego inclination, as he
+#. showed me various books he had contributed to and more than one academic
+#. “Who’s Who” in which he was listed. It was almost as if he wanted to
+#. reassure himself, and me, of his value—“See, I really did do wonderful work
+#. before I left the academic world”—vacillating between wanting to be special
+#. and wanting to give that up. One friend said, “Bill’s only self-promotion
+#. was a conspicuous undersell.”
+#: paragraph:35,sentence:4
+msgid ""
+"It was almost as if he wanted to reassure himself, and me, of his "
+"value—“See, I really did do wonderful work before I left the academic "
+"world”—vacillating between wanting to be special and wanting to give that "
+"up."
+msgstr ""
+
+#. Context: Here is a marvelous object lesson—in mid-sentence you can choose
+#. to let something go when you realize your error. Bill did that frequently
+#. and remarkably well from the beginning. During my early visits to
+#. California, I saw him bow only once to an obvious ego inclination, as he
+#. showed me various books he had contributed to and more than one academic
+#. “Who’s Who” in which he was listed. It was almost as if he wanted to
+#. reassure himself, and me, of his value—“See, I really did do wonderful work
+#. before I left the academic world”—vacillating between wanting to be special
+#. and wanting to give that up. One friend said, “Bill’s only self-promotion
+#. was a conspicuous undersell.”
+#: paragraph:35,sentence:5
+msgid ""
+"One friend said, “Bill’s only self-promotion was a conspicuous undersell.”"
+msgstr ""
+
+#. Context: Bill truly desired to give up the ego-enhancing needs to be right
+#. or to prove his value and he worked very hard at not taking things
+#. personally and recognizing what did and did not matter. Hugh Prather
+#. remembers,
+#: paragraph:36,sentence:1
+msgid ""
+"Bill truly desired to give up the ego-enhancing needs to be right or to "
+"prove his value and he worked very hard at not taking things personally and "
+"recognizing what did and did not matter. Hugh Prather remembers,"
+msgstr ""
+
+#. Context: Right from the beginning there were little things he would say,
+#. making it obvious that not everyone agreed on what had actually happened
+#. [in terms of the Course’s history]. I remember one detail. He said, “It’s
+#. now been decided that it only lasted eight years. It actually lasted ten,
+#. but it’s been decided that this process took place over a period of eight.”
+#. He made several comments like that, but the interesting thing to me was
+#. that he didn’t care. It was just fine for it to be eight years, whatever it
+#. was; he saw that it was not important; he had no ego in the details. He was
+#. happy to accept whatever.[85]
+#: paragraph:37,sentence:1
+msgid ""
+"Right from the beginning there were little things he would say, making it "
+"obvious that not everyone agreed on what had actually happened [in terms of "
+"the Course’s history]. I remember one detail."
+msgstr ""
+
+#. Context: Right from the beginning there were little things he would say,
+#. making it obvious that not everyone agreed on what had actually happened
+#. [in terms of the Course’s history]. I remember one detail. He said, “It’s
+#. now been decided that it only lasted eight years. It actually lasted ten,
+#. but it’s been decided that this process took place over a period of eight.”
+#. He made several comments like that, but the interesting thing to me was
+#. that he didn’t care. It was just fine for it to be eight years, whatever it
+#. was; he saw that it was not important; he had no ego in the details. He was
+#. happy to accept whatever.[85]
+#: paragraph:37,sentence:2
+msgid "He said, “It’s now been decided that it only lasted eight years."
+msgstr ""
+
+#. Context: Right from the beginning there were little things he would say,
+#. making it obvious that not everyone agreed on what had actually happened
+#. [in terms of the Course’s history]. I remember one detail. He said, “It’s
+#. now been decided that it only lasted eight years. It actually lasted ten,
+#. but it’s been decided that this process took place over a period of eight.”
+#. He made several comments like that, but the interesting thing to me was
+#. that he didn’t care. It was just fine for it to be eight years, whatever it
+#. was; he saw that it was not important; he had no ego in the details. He was
+#. happy to accept whatever.[85]
+#: paragraph:37,sentence:3
+msgid ""
+"It actually lasted ten, but it’s been decided that this process took place "
+"over a period of eight.” He made several comments like that, but the "
+"interesting thing to me was that he didn’t care."
+msgstr ""
+
+#. Context: Right from the beginning there were little things he would say,
+#. making it obvious that not everyone agreed on what had actually happened
+#. [in terms of the Course’s history]. I remember one detail. He said, “It’s
+#. now been decided that it only lasted eight years. It actually lasted ten,
+#. but it’s been decided that this process took place over a period of eight.”
+#. He made several comments like that, but the interesting thing to me was
+#. that he didn’t care. It was just fine for it to be eight years, whatever it
+#. was; he saw that it was not important; he had no ego in the details. He was
+#. happy to accept whatever.[85]
+#: paragraph:37,sentence:4
+msgid ""
+"It was just fine for it to be eight years, whatever it was; he saw that it "
+"was not important; he had no ego in the details."
+msgstr ""
+
+#. Context: Right from the beginning there were little things he would say,
+#. making it obvious that not everyone agreed on what had actually happened
+#. [in terms of the Course’s history]. I remember one detail. He said, “It’s
+#. now been decided that it only lasted eight years. It actually lasted ten,
+#. but it’s been decided that this process took place over a period of eight.”
+#. He made several comments like that, but the interesting thing to me was
+#. that he didn’t care. It was just fine for it to be eight years, whatever it
+#. was; he saw that it was not important; he had no ego in the details. He was
+#. happy to accept whatever.[85]
+#: paragraph:37,sentence:5
+msgid "He was happy to accept whatever.[85]"
+msgstr ""
+
+#. Context: Leroy Zemke noted how important music was to Bill’s healing and
+#. sense of well-being:
+#: paragraph:38,sentence:1
+msgid ""
+"Leroy Zemke noted how important music was to Bill’s healing and sense of "
+"well-being:"
+msgstr ""
+
+#. Context: Music, incidentally, is very, very much a trigger for you, and in
+#. former lives you have been involved musically. It has been very much a part
+#. of your training as a priest in Egypt, in Tibet, in India, and also when
+#. you have lived in Europe, particularly in Italy and Austria. There is a
+#. very strong, strong musical attachment. Voice comes forward particularly
+#. and instruments like the piano and stringed instruments are very, very,
+#. very, strong. [Bill took both voice and piano lessons when he was young.]
+#. There is a very powerful, powerful tie to that and it is a very
+#. transformative energy in you. Whenever you really need to touch that
+#. [healing] dimension of yourself, you can simply go to music.[86]
+#: paragraph:39,sentence:1
+msgid ""
+"Music, incidentally, is very, very much a trigger for you, and in former "
+"lives you have been involved musically."
+msgstr ""
+
+#. Context: Music, incidentally, is very, very much a trigger for you, and in
+#. former lives you have been involved musically. It has been very much a part
+#. of your training as a priest in Egypt, in Tibet, in India, and also when
+#. you have lived in Europe, particularly in Italy and Austria. There is a
+#. very strong, strong musical attachment. Voice comes forward particularly
+#. and instruments like the piano and stringed instruments are very, very,
+#. very, strong. [Bill took both voice and piano lessons when he was young.]
+#. There is a very powerful, powerful tie to that and it is a very
+#. transformative energy in you. Whenever you really need to touch that
+#. [healing] dimension of yourself, you can simply go to music.[86]
+#: paragraph:39,sentence:2
+msgid ""
+"It has been very much a part of your training as a priest in Egypt, in "
+"Tibet, in India, and also when you have lived in Europe, particularly in "
+"Italy and Austria."
+msgstr ""
+
+#. Context: Music, incidentally, is very, very much a trigger for you, and in
+#. former lives you have been involved musically. It has been very much a part
+#. of your training as a priest in Egypt, in Tibet, in India, and also when
+#. you have lived in Europe, particularly in Italy and Austria. There is a
+#. very strong, strong musical attachment. Voice comes forward particularly
+#. and instruments like the piano and stringed instruments are very, very,
+#. very, strong. [Bill took both voice and piano lessons when he was young.]
+#. There is a very powerful, powerful tie to that and it is a very
+#. transformative energy in you. Whenever you really need to touch that
+#. [healing] dimension of yourself, you can simply go to music.[86]
+#: paragraph:39,sentence:3
+msgid "There is a very strong, strong musical attachment."
+msgstr ""
+
+#. Context: Music, incidentally, is very, very much a trigger for you, and in
+#. former lives you have been involved musically. It has been very much a part
+#. of your training as a priest in Egypt, in Tibet, in India, and also when
+#. you have lived in Europe, particularly in Italy and Austria. There is a
+#. very strong, strong musical attachment. Voice comes forward particularly
+#. and instruments like the piano and stringed instruments are very, very,
+#. very, strong. [Bill took both voice and piano lessons when he was young.]
+#. There is a very powerful, powerful tie to that and it is a very
+#. transformative energy in you. Whenever you really need to touch that
+#. [healing] dimension of yourself, you can simply go to music.[86]
+#: paragraph:39,sentence:4
+msgid ""
+"Voice comes forward particularly and instruments like the piano and stringed"
+" instruments are very, very, very, strong. [Bill took both voice and piano "
+"lessons when he was young.] There is a very powerful, powerful tie to that "
+"and it is a very transformative energy in you."
+msgstr ""
+
+#. Context: Music, incidentally, is very, very much a trigger for you, and in
+#. former lives you have been involved musically. It has been very much a part
+#. of your training as a priest in Egypt, in Tibet, in India, and also when
+#. you have lived in Europe, particularly in Italy and Austria. There is a
+#. very strong, strong musical attachment. Voice comes forward particularly
+#. and instruments like the piano and stringed instruments are very, very,
+#. very, strong. [Bill took both voice and piano lessons when he was young.]
+#. There is a very powerful, powerful tie to that and it is a very
+#. transformative energy in you. Whenever you really need to touch that
+#. [healing] dimension of yourself, you can simply go to music.[86]
+#: paragraph:39,sentence:5
+msgid ""
+"Whenever you really need to touch that [healing] dimension of yourself, you "
+"can simply go to music.[86]"
+msgstr ""
+
+#. Context: As he dedicated himself to his healing through forgiveness, Bill
+#. continued to become more transparent and open. Catherine Prescott, with
+#. whom he spent much time in therapeutic exploration, commented on his
+#. noticeable healing:
+#: paragraph:40,sentence:1
+msgid ""
+"As he dedicated himself to his healing through forgiveness, Bill continued "
+"to become more transparent and open."
+msgstr ""
+
+#. Context: As he dedicated himself to his healing through forgiveness, Bill
+#. continued to become more transparent and open. Catherine Prescott, with
+#. whom he spent much time in therapeutic exploration, commented on his
+#. noticeable healing:
+#: paragraph:40,sentence:2
+msgid ""
+"Catherine Prescott, with whom he spent much time in therapeutic exploration,"
+" commented on his noticeable healing:"
+msgstr ""
+
+#. Context: He became happier, looser, less burdened, way more energized. We
+#. did voice dialogue work on his rheumatic heart condition and realized that
+#. part of him was still frozen from back then, so we woke that up again. It
+#. was almost like soul retrieval for the part of himself he had dedicated to
+#. his mother, to be sure she didn’t lose her third child. He and the sister
+#. made a contract, with her death, that he wasn’t going to live fully. That
+#. was the core of the work. So we looked at what it would it be like to wake
+#. up every cell in the body, get out of that rigid frozen state, and live
+#. fully. I feel that was part of his moving down to La Jolla. He became way
+#. more joyous. He always had such a great spirit, even from the beginning,
+#. but it was like he was wearing some kind of a mental straightjacket. He was
+#. really in a psychological shutdown and it felt so wonderful to watch the
+#. blooming.[87]
+#: paragraph:41,sentence:1
+msgid "He became happier, looser, less burdened, way more energized."
+msgstr ""
+
+#. Context: He became happier, looser, less burdened, way more energized. We
+#. did voice dialogue work on his rheumatic heart condition and realized that
+#. part of him was still frozen from back then, so we woke that up again. It
+#. was almost like soul retrieval for the part of himself he had dedicated to
+#. his mother, to be sure she didn’t lose her third child. He and the sister
+#. made a contract, with her death, that he wasn’t going to live fully. That
+#. was the core of the work. So we looked at what it would it be like to wake
+#. up every cell in the body, get out of that rigid frozen state, and live
+#. fully. I feel that was part of his moving down to La Jolla. He became way
+#. more joyous. He always had such a great spirit, even from the beginning,
+#. but it was like he was wearing some kind of a mental straightjacket. He was
+#. really in a psychological shutdown and it felt so wonderful to watch the
+#. blooming.[87]
+#: paragraph:41,sentence:2
+msgid ""
+"We did voice dialogue work on his rheumatic heart condition and realized "
+"that part of him was still frozen from back then, so we woke that up again."
+msgstr ""
+
+#. Context: He became happier, looser, less burdened, way more energized. We
+#. did voice dialogue work on his rheumatic heart condition and realized that
+#. part of him was still frozen from back then, so we woke that up again. It
+#. was almost like soul retrieval for the part of himself he had dedicated to
+#. his mother, to be sure she didn’t lose her third child. He and the sister
+#. made a contract, with her death, that he wasn’t going to live fully. That
+#. was the core of the work. So we looked at what it would it be like to wake
+#. up every cell in the body, get out of that rigid frozen state, and live
+#. fully. I feel that was part of his moving down to La Jolla. He became way
+#. more joyous. He always had such a great spirit, even from the beginning,
+#. but it was like he was wearing some kind of a mental straightjacket. He was
+#. really in a psychological shutdown and it felt so wonderful to watch the
+#. blooming.[87]
+#: paragraph:41,sentence:3
+msgid ""
+"It was almost like soul retrieval for the part of himself he had dedicated "
+"to his mother, to be sure she didn’t lose her third child."
+msgstr ""
+
+#. Context: He became happier, looser, less burdened, way more energized. We
+#. did voice dialogue work on his rheumatic heart condition and realized that
+#. part of him was still frozen from back then, so we woke that up again. It
+#. was almost like soul retrieval for the part of himself he had dedicated to
+#. his mother, to be sure she didn’t lose her third child. He and the sister
+#. made a contract, with her death, that he wasn’t going to live fully. That
+#. was the core of the work. So we looked at what it would it be like to wake
+#. up every cell in the body, get out of that rigid frozen state, and live
+#. fully. I feel that was part of his moving down to La Jolla. He became way
+#. more joyous. He always had such a great spirit, even from the beginning,
+#. but it was like he was wearing some kind of a mental straightjacket. He was
+#. really in a psychological shutdown and it felt so wonderful to watch the
+#. blooming.[87]
+#: paragraph:41,sentence:4
+msgid ""
+"He and the sister made a contract, with her death, that he wasn’t going to "
+"live fully."
+msgstr ""
+
+#. Context: He became happier, looser, less burdened, way more energized. We
+#. did voice dialogue work on his rheumatic heart condition and realized that
+#. part of him was still frozen from back then, so we woke that up again. It
+#. was almost like soul retrieval for the part of himself he had dedicated to
+#. his mother, to be sure she didn’t lose her third child. He and the sister
+#. made a contract, with her death, that he wasn’t going to live fully. That
+#. was the core of the work. So we looked at what it would it be like to wake
+#. up every cell in the body, get out of that rigid frozen state, and live
+#. fully. I feel that was part of his moving down to La Jolla. He became way
+#. more joyous. He always had such a great spirit, even from the beginning,
+#. but it was like he was wearing some kind of a mental straightjacket. He was
+#. really in a psychological shutdown and it felt so wonderful to watch the
+#. blooming.[87]
+#: paragraph:41,sentence:5
+msgid "That was the core of the work."
+msgstr ""
+
+#. Context: He became happier, looser, less burdened, way more energized. We
+#. did voice dialogue work on his rheumatic heart condition and realized that
+#. part of him was still frozen from back then, so we woke that up again. It
+#. was almost like soul retrieval for the part of himself he had dedicated to
+#. his mother, to be sure she didn’t lose her third child. He and the sister
+#. made a contract, with her death, that he wasn’t going to live fully. That
+#. was the core of the work. So we looked at what it would it be like to wake
+#. up every cell in the body, get out of that rigid frozen state, and live
+#. fully. I feel that was part of his moving down to La Jolla. He became way
+#. more joyous. He always had such a great spirit, even from the beginning,
+#. but it was like he was wearing some kind of a mental straightjacket. He was
+#. really in a psychological shutdown and it felt so wonderful to watch the
+#. blooming.[87]
+#: paragraph:41,sentence:6
+msgid ""
+"So we looked at what it would it be like to wake up every cell in the body, "
+"get out of that rigid frozen state, and live fully."
+msgstr ""
+
+#. Context: He became happier, looser, less burdened, way more energized. We
+#. did voice dialogue work on his rheumatic heart condition and realized that
+#. part of him was still frozen from back then, so we woke that up again. It
+#. was almost like soul retrieval for the part of himself he had dedicated to
+#. his mother, to be sure she didn’t lose her third child. He and the sister
+#. made a contract, with her death, that he wasn’t going to live fully. That
+#. was the core of the work. So we looked at what it would it be like to wake
+#. up every cell in the body, get out of that rigid frozen state, and live
+#. fully. I feel that was part of his moving down to La Jolla. He became way
+#. more joyous. He always had such a great spirit, even from the beginning,
+#. but it was like he was wearing some kind of a mental straightjacket. He was
+#. really in a psychological shutdown and it felt so wonderful to watch the
+#. blooming.[87]
+#: paragraph:41,sentence:7
+msgid "I feel that was part of his moving down to La Jolla."
+msgstr ""
+
+#. Context: He became happier, looser, less burdened, way more energized. We
+#. did voice dialogue work on his rheumatic heart condition and realized that
+#. part of him was still frozen from back then, so we woke that up again. It
+#. was almost like soul retrieval for the part of himself he had dedicated to
+#. his mother, to be sure she didn’t lose her third child. He and the sister
+#. made a contract, with her death, that he wasn’t going to live fully. That
+#. was the core of the work. So we looked at what it would it be like to wake
+#. up every cell in the body, get out of that rigid frozen state, and live
+#. fully. I feel that was part of his moving down to La Jolla. He became way
+#. more joyous. He always had such a great spirit, even from the beginning,
+#. but it was like he was wearing some kind of a mental straightjacket. He was
+#. really in a psychological shutdown and it felt so wonderful to watch the
+#. blooming.[87]
+#: paragraph:41,sentence:8
+msgid "He became way more joyous."
+msgstr ""
+
+#. Context: He became happier, looser, less burdened, way more energized. We
+#. did voice dialogue work on his rheumatic heart condition and realized that
+#. part of him was still frozen from back then, so we woke that up again. It
+#. was almost like soul retrieval for the part of himself he had dedicated to
+#. his mother, to be sure she didn’t lose her third child. He and the sister
+#. made a contract, with her death, that he wasn’t going to live fully. That
+#. was the core of the work. So we looked at what it would it be like to wake
+#. up every cell in the body, get out of that rigid frozen state, and live
+#. fully. I feel that was part of his moving down to La Jolla. He became way
+#. more joyous. He always had such a great spirit, even from the beginning,
+#. but it was like he was wearing some kind of a mental straightjacket. He was
+#. really in a psychological shutdown and it felt so wonderful to watch the
+#. blooming.[87]
+#: paragraph:41,sentence:9
+msgid ""
+"He always had such a great spirit, even from the beginning, but it was like "
+"he was wearing some kind of a mental straightjacket."
+msgstr ""
+
+#. Context: He became happier, looser, less burdened, way more energized. We
+#. did voice dialogue work on his rheumatic heart condition and realized that
+#. part of him was still frozen from back then, so we woke that up again. It
+#. was almost like soul retrieval for the part of himself he had dedicated to
+#. his mother, to be sure she didn’t lose her third child. He and the sister
+#. made a contract, with her death, that he wasn’t going to live fully. That
+#. was the core of the work. So we looked at what it would it be like to wake
+#. up every cell in the body, get out of that rigid frozen state, and live
+#. fully. I feel that was part of his moving down to La Jolla. He became way
+#. more joyous. He always had such a great spirit, even from the beginning,
+#. but it was like he was wearing some kind of a mental straightjacket. He was
+#. really in a psychological shutdown and it felt so wonderful to watch the
+#. blooming.[87]
+#: paragraph:41,sentence:10
+msgid ""
+"He was really in a psychological shutdown and it felt so wonderful to watch "
+"the blooming.[87]"
+msgstr ""
+
+#. Context: And bloom he did. Judy remembers reminiscing about Bill’s “olden
+#. days” at Columbia with a colleague who declared, “l can’t believe that the
+#. guy who smoked five packs a day and drank coffee all the time is the same
+#. gentle, loving, peaceful Bill we know now. ACIM works!”
+#: paragraph:42,sentence:1
+msgid "And bloom he did."
+msgstr ""
+
+#. Context: And bloom he did. Judy remembers reminiscing about Bill’s “olden
+#. days” at Columbia with a colleague who declared, “l can’t believe that the
+#. guy who smoked five packs a day and drank coffee all the time is the same
+#. gentle, loving, peaceful Bill we know now. ACIM works!”
+#: paragraph:42,sentence:2
+msgid ""
+"Judy remembers reminiscing about Bill’s “olden days” at Columbia with a "
+"colleague who declared, “l can’t believe that the guy who smoked five packs "
+"a day and drank coffee all the time is the same gentle, loving, peaceful "
+"Bill we know now. ACIM works!”"
+msgstr ""
+
+#. Context: Whit Whitson noted in his remarks at Bill’s memorial service,
+#: paragraph:43,sentence:1
+msgid "Whit Whitson noted in his remarks at Bill’s memorial service,"
+msgstr ""
+
+#. Context: It was then my privilege to watch Bill’s transformation into a
+#. healed healer. As he disciplined his mind to perceive the world and himself
+#. through the lenses of the Course, he became the personification of the
+#. process of inner growth. His courage and his pain were masked by his
+#. inspired sense of humor. His humor was a gentle expression of his
+#. compassion toward the glory and the absurdity of the human condition. He
+#. was a master teacher and while he would not wish such recognition,
+#. preferring anonymity, the day will come when his work in pioneering the PAS
+#. and helping Helen channel the Course will receive worldwide recognition.
+#. Knowledge sets us free. Bill truly understood the ego. His knowledge set
+#. him free and beckons each of us to follow.[88]
+#: paragraph:44,sentence:1
+msgid ""
+"It was then my privilege to watch Bill’s transformation into a healed "
+"healer."
+msgstr ""
+
+#. Context: It was then my privilege to watch Bill’s transformation into a
+#. healed healer. As he disciplined his mind to perceive the world and himself
+#. through the lenses of the Course, he became the personification of the
+#. process of inner growth. His courage and his pain were masked by his
+#. inspired sense of humor. His humor was a gentle expression of his
+#. compassion toward the glory and the absurdity of the human condition. He
+#. was a master teacher and while he would not wish such recognition,
+#. preferring anonymity, the day will come when his work in pioneering the PAS
+#. and helping Helen channel the Course will receive worldwide recognition.
+#. Knowledge sets us free. Bill truly understood the ego. His knowledge set
+#. him free and beckons each of us to follow.[88]
+#: paragraph:44,sentence:2
+msgid ""
+"As he disciplined his mind to perceive the world and himself through the "
+"lenses of the Course, he became the personification of the process of inner "
+"growth."
+msgstr ""
+
+#. Context: It was then my privilege to watch Bill’s transformation into a
+#. healed healer. As he disciplined his mind to perceive the world and himself
+#. through the lenses of the Course, he became the personification of the
+#. process of inner growth. His courage and his pain were masked by his
+#. inspired sense of humor. His humor was a gentle expression of his
+#. compassion toward the glory and the absurdity of the human condition. He
+#. was a master teacher and while he would not wish such recognition,
+#. preferring anonymity, the day will come when his work in pioneering the PAS
+#. and helping Helen channel the Course will receive worldwide recognition.
+#. Knowledge sets us free. Bill truly understood the ego. His knowledge set
+#. him free and beckons each of us to follow.[88]
+#: paragraph:44,sentence:3
+msgid "His courage and his pain were masked by his inspired sense of humor."
+msgstr ""
+
+#. Context: It was then my privilege to watch Bill’s transformation into a
+#. healed healer. As he disciplined his mind to perceive the world and himself
+#. through the lenses of the Course, he became the personification of the
+#. process of inner growth. His courage and his pain were masked by his
+#. inspired sense of humor. His humor was a gentle expression of his
+#. compassion toward the glory and the absurdity of the human condition. He
+#. was a master teacher and while he would not wish such recognition,
+#. preferring anonymity, the day will come when his work in pioneering the PAS
+#. and helping Helen channel the Course will receive worldwide recognition.
+#. Knowledge sets us free. Bill truly understood the ego. His knowledge set
+#. him free and beckons each of us to follow.[88]
+#: paragraph:44,sentence:4
+msgid ""
+"His humor was a gentle expression of his compassion toward the glory and the"
+" absurdity of the human condition."
+msgstr ""
+
+#. Context: It was then my privilege to watch Bill’s transformation into a
+#. healed healer. As he disciplined his mind to perceive the world and himself
+#. through the lenses of the Course, he became the personification of the
+#. process of inner growth. His courage and his pain were masked by his
+#. inspired sense of humor. His humor was a gentle expression of his
+#. compassion toward the glory and the absurdity of the human condition. He
+#. was a master teacher and while he would not wish such recognition,
+#. preferring anonymity, the day will come when his work in pioneering the PAS
+#. and helping Helen channel the Course will receive worldwide recognition.
+#. Knowledge sets us free. Bill truly understood the ego. His knowledge set
+#. him free and beckons each of us to follow.[88]
+#: paragraph:44,sentence:5
+msgid ""
+"He was a master teacher and while he would not wish such recognition, "
+"preferring anonymity, the day will come when his work in pioneering the PAS "
+"and helping Helen channel the Course will receive worldwide recognition. "
+"Knowledge sets us free."
+msgstr ""
+
+#. Context: It was then my privilege to watch Bill’s transformation into a
+#. healed healer. As he disciplined his mind to perceive the world and himself
+#. through the lenses of the Course, he became the personification of the
+#. process of inner growth. His courage and his pain were masked by his
+#. inspired sense of humor. His humor was a gentle expression of his
+#. compassion toward the glory and the absurdity of the human condition. He
+#. was a master teacher and while he would not wish such recognition,
+#. preferring anonymity, the day will come when his work in pioneering the PAS
+#. and helping Helen channel the Course will receive worldwide recognition.
+#. Knowledge sets us free. Bill truly understood the ego. His knowledge set
+#. him free and beckons each of us to follow.[88]
+#: paragraph:44,sentence:6
+msgid "Bill truly understood the ego."
+msgstr ""
+
+#. Context: It was then my privilege to watch Bill’s transformation into a
+#. healed healer. As he disciplined his mind to perceive the world and himself
+#. through the lenses of the Course, he became the personification of the
+#. process of inner growth. His courage and his pain were masked by his
+#. inspired sense of humor. His humor was a gentle expression of his
+#. compassion toward the glory and the absurdity of the human condition. He
+#. was a master teacher and while he would not wish such recognition,
+#. preferring anonymity, the day will come when his work in pioneering the PAS
+#. and helping Helen channel the Course will receive worldwide recognition.
+#. Knowledge sets us free. Bill truly understood the ego. His knowledge set
+#. him free and beckons each of us to follow.[88]
+#: paragraph:44,sentence:7
+msgid "His knowledge set him free and beckons each of us to follow.[88]"
+msgstr ""
