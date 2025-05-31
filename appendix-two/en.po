@@ -1,0 +1,1820 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: paragraph:1,sentence:1
+msgctxt "Curriculum Vitae — William N. Thetford"
+msgid "Curriculum Vitae — William N. Thetford"
+msgstr "Curriculum Vitae — William N. Thetford"
+
+#: paragraph:2,sentence:1
+msgctxt "A.B., DePauw University, 1944"
+msgid "A.B., DePauw University, 1944"
+msgstr "A.B., DePauw University, 1944"
+
+#: paragraph:3,sentence:1
+msgctxt "Ph.D., University of Chicago, 1949"
+msgid "Ph.D., University of Chicago, 1949"
+msgstr "Ph.D., University of Chicago, 1949"
+
+#: paragraph:4,sentence:1
+msgctxt "Post-Doctoral Training:"
+msgid "Post-Doctoral Training:"
+msgstr "Post-Doctoral Training:"
+
+#: paragraph:5,sentence:1
+msgctxt ""
+"Institute for Psychiatric and Psychosomatic Research and Training, Michael "
+"Reese Hospital, Chicago, 1949–1951 Washington School of Psychiatry, "
+"1951–1954"
+msgid ""
+"Institute for Psychiatric and Psychosomatic Research and Training, Michael "
+"Reese Hospital, Chicago, 1949–1951 Washington School of Psychiatry, "
+"1951–1954"
+msgstr ""
+"Institute for Psychiatric and Psychosomatic Research and Training, Michael "
+"Reese Hospital, Chicago, 1949–1951 Washington School of Psychiatry, "
+"1951–1954"
+
+#: paragraph:6,sentence:1
+msgctxt "Professional Experience:"
+msgid "Professional Experience:"
+msgstr "Professional Experience:"
+
+#: paragraph:7,sentence:1
+msgctxt ""
+"Professor of Medical Psychology, College of Physicians and Surgeons, "
+"Columbia University, 1971–1981"
+msgid ""
+"Professor of Medical Psychology, College of Physicians and Surgeons, "
+"Columbia University, 1971–1981"
+msgstr ""
+"Professor of Medical Psychology, College of Physicians and Surgeons, "
+"Columbia University, 1971–1981"
+
+#: paragraph:8,sentence:1
+msgctxt ""
+"Associate Professor of Medical Psychology, College of Physicians and "
+"Surgeons, Columbia University, 1958–1971; Department of Psychology, Columbia"
+" University, 1966–1970"
+msgid ""
+"Associate Professor of Medical Psychology, College of Physicians and "
+"Surgeons, Columbia University, 1958–1971; Department of Psychology, Columbia"
+" University, 1966–1970"
+msgstr ""
+"Associate Professor of Medical Psychology, College of Physicians and "
+"Surgeons, Columbia University, 1958–1971; Department of Psychology, Columbia"
+" University, 1966–1970"
+
+#: paragraph:9,sentence:1
+msgctxt "Director, Division of Psychology, Presbyterian Hospital, 1958–1978"
+msgid "Director, Division of Psychology, Presbyterian Hospital, 1958–1978"
+msgstr "Director, Division of Psychology, Presbyterian Hospital, 1958–1978"
+
+#: paragraph:10,sentence:1
+msgctxt ""
+"Assistant Project Director (Psychology), Study Program on the  Pathogenesis "
+"of Cerebral Palsy, Columbia University, College of  Physicians and Surgeons,"
+" 1959–1968"
+msgid ""
+"Assistant Project Director (Psychology), Study Program on the  Pathogenesis "
+"of Cerebral Palsy, Columbia University, College of  Physicians and Surgeons,"
+" 1959–1968"
+msgstr ""
+"Assistant Project Director (Psychology), Study Program on the  Pathogenesis "
+"of Cerebral Palsy, Columbia University, College of  Physicians and Surgeons,"
+" 1959–1968"
+
+#: paragraph:11,sentence:1
+msgctxt ""
+"Senior Psychological Consultant, Study Program in Human Ecology  and the "
+"Health of Man, Cornell University Medical College, 1962–1968"
+msgid ""
+"Senior Psychological Consultant, Study Program in Human Ecology  and the "
+"Health of Man, Cornell University Medical College, 1962–1968"
+msgstr ""
+"Senior Psychological Consultant, Study Program in Human Ecology  and the "
+"Health of Man, Cornell University Medical College, 1962–1968"
+
+#: paragraph:12,sentence:1
+msgctxt "Special Consultant, U.S. Public Health Service (NINDB), 1961"
+msgid "Special Consultant, U.S."
+msgstr "Special Consultant, U.S."
+
+#: paragraph:12,sentence:2
+msgctxt "Special Consultant, U.S. Public Health Service (NINDB), 1961"
+msgid "Public Health Service (NINDB), 1961"
+msgstr "Public Health Service (NINDB), 1961"
+
+#: paragraph:13,sentence:1
+msgctxt ""
+"Assistant Professor of Psychology, Department of Psychiatry,  Cornell "
+"University, 1955–1958"
+msgid ""
+"Assistant Professor of Psychology, Department of Psychiatry,  Cornell "
+"University, 1955–1958"
+msgstr ""
+"Assistant Professor of Psychology, Department of Psychiatry,  Cornell "
+"University, 1955–1958"
+
+#: paragraph:14,sentence:1
+msgctxt ""
+"Chief Psychologist, Study Program in Human Ecology, Departments of Medicine "
+"and Psychiatry, Cornell University Medical College, 1955–1957"
+msgid ""
+"Chief Psychologist, Study Program in Human Ecology, Departments of Medicine "
+"and Psychiatry, Cornell University Medical College, 1955–1957"
+msgstr ""
+"Chief Psychologist, Study Program in Human Ecology, Departments of Medicine "
+"and Psychiatry, Cornell University Medical College, 1955–1957"
+
+#: paragraph:15,sentence:1
+msgctxt ""
+"Director, Department of Psychology, Institute of Living,  Hartford, "
+"Connecticut, 1954–1955"
+msgid ""
+"Director, Department of Psychology, Institute of Living,  Hartford, "
+"Connecticut, 1954–1955"
+msgstr ""
+"Director, Department of Psychology, Institute of Living,  Hartford, "
+"Connecticut, 1954–1955"
+
+#: paragraph:16,sentence:1
+msgctxt "Senior Psychologist, U.S. Government, Washington, D.C. 1951–1954"
+msgid "Senior Psychologist, U.S. Government, Washington, D.C. 1951–1954"
+msgstr "Senior Psychologist, U.S. Government, Washington, D.C. 1951–1954"
+
+#: paragraph:17,sentence:1
+msgctxt ""
+"Research Consultant, Foreign Service Institute, U.S Department of State, at "
+"American University, Beirut, Lebanon, 1953"
+msgid ""
+"Research Consultant, Foreign Service Institute, U.S Department of State, at "
+"American University, Beirut, Lebanon, 1953"
+msgstr ""
+"Research Consultant, Foreign Service Institute, U.S Department of State, at "
+"American University, Beirut, Lebanon, 1953"
+
+#: paragraph:18,sentence:1
+msgctxt ""
+"Research Psychologist, Michael Reese Hospital, Chicago, Ill., 1949 –1951"
+msgid ""
+"Research Psychologist, Michael Reese Hospital, Chicago, Ill., 1949 –1951"
+msgstr ""
+"Research Psychologist, Michael Reese Hospital, Chicago, Ill., 1949 –1951"
+
+#: paragraph:19,sentence:1
+msgctxt "Clinical Psychologist, Roosevelt College, Chicago, Ill., 1948–1949"
+msgid "Clinical Psychologist, Roosevelt College, Chicago, Ill., 1948–1949"
+msgstr "Clinical Psychologist, Roosevelt College, Chicago, Ill., 1948–1949"
+
+#: paragraph:20,sentence:1
+msgctxt ""
+"Research Psychologist, Psychological Corporation, New York, N.Y., 1947"
+msgid "Research Psychologist, Psychological Corporation, New York, N.Y., 1947"
+msgstr ""
+"Research Psychologist, Psychological Corporation, New York, N.Y., 1947"
+
+#: paragraph:21,sentence:1
+msgctxt ""
+"Research Assistant and Counselor, Counseling Center,  University of Chicago,"
+" 1945–1946"
+msgid ""
+"Research Assistant and Counselor, Counseling Center,  University of Chicago,"
+" 1945–1946"
+msgstr ""
+"Research Assistant and Counselor, Counseling Center,  University of Chicago,"
+" 1945–1946"
+
+#: paragraph:22,sentence:1
+msgctxt ""
+"Administrative Office, University of Chicago, Metallurgical Laboratory, "
+"(Atomic Research Program), 1944–1945"
+msgid ""
+"Administrative Office, University of Chicago, Metallurgical Laboratory, "
+"(Atomic Research Program), 1944–1945"
+msgstr ""
+"Administrative Office, University of Chicago, Metallurgical Laboratory, "
+"(Atomic Research Program), 1944–1945"
+
+#: paragraph:23,sentence:1
+msgctxt "Professional Societies:"
+msgid "Professional Societies:"
+msgstr "Professional Societies:"
+
+#: paragraph:24,sentence:1
+msgctxt "Fellow, American Orthopsychiatric Association"
+msgid "Fellow, American Orthopsychiatric Association"
+msgstr "Fellow, American Orthopsychiatric Association"
+
+#: paragraph:25,sentence:1
+msgctxt "Fellow, American Psychological Association"
+msgid "Fellow, American Psychological Association"
+msgstr "Fellow, American Psychological Association"
+
+#: paragraph:26,sentence:1
+msgctxt "Fellow, International Council of Psychologists"
+msgid "Fellow, International Council of Psychologists"
+msgstr "Fellow, International Council of Psychologists"
+
+#: paragraph:27,sentence:1
+msgctxt "Fellow, Society for Projective Techniques"
+msgid "Fellow, Society for Projective Techniques"
+msgstr "Fellow, Society for Projective Techniques"
+
+#: paragraph:28,sentence:1
+msgctxt "American Association for the Advancement of Science"
+msgid "American Association for the Advancement of Science"
+msgstr "American Association for the Advancement of Science"
+
+#: paragraph:29,sentence:1
+msgctxt "American Association on Mental Deficiency"
+msgid "American Association on Mental Deficiency"
+msgstr "American Association on Mental Deficiency"
+
+#: paragraph:30,sentence:1
+msgctxt "American Association of University Professors"
+msgid "American Association of University Professors"
+msgstr "American Association of University Professors"
+
+#: paragraph:31,sentence:1
+msgctxt "American Federation for Clinical Research"
+msgid "American Federation for Clinical Research"
+msgstr "American Federation for Clinical Research"
+
+#: paragraph:32,sentence:1
+msgctxt "American Psychosomatic Society"
+msgid "American Psychosomatic Society"
+msgstr "American Psychosomatic Society"
+
+#: paragraph:33,sentence:1
+msgctxt "Association of American Medical Colleges"
+msgid "Association of American Medical Colleges"
+msgstr "Association of American Medical Colleges"
+
+#: paragraph:34,sentence:1
+msgctxt "Eastern Psychological Association"
+msgid "Eastern Psychological Association"
+msgstr "Eastern Psychological Association"
+
+#: paragraph:35,sentence:1
+msgctxt "Inter-American Psychological Association"
+msgid "Inter-American Psychological Association"
+msgstr "Inter-American Psychological Association"
+
+#: paragraph:36,sentence:1
+msgctxt "New York Academy of Sciences"
+msgid "New York Academy of Sciences"
+msgstr "New York Academy of Sciences"
+
+#: paragraph:37,sentence:1
+msgctxt "New York Society for Projective Techniques"
+msgid "New York Society for Projective Techniques"
+msgstr "New York Society for Projective Techniques"
+
+#: paragraph:38,sentence:1
+msgctxt "New York State Psychological Association"
+msgid "New York State Psychological Association"
+msgstr "New York State Psychological Association"
+
+#: paragraph:39,sentence:1
+msgctxt "World Federation for Mental Health"
+msgid "World Federation for Mental Health"
+msgstr "World Federation for Mental Health"
+
+#: paragraph:40,sentence:1
+msgctxt "President, New York Society for Projective Techniques, 1963–1966"
+msgid "President, New York Society for Projective Techniques, 1963–1966"
+msgstr "President, New York Society for Projective Techniques, 1963–1966"
+
+#: paragraph:41,sentence:1
+msgctxt "Who’s Who in the East, 1960 on"
+msgid "Who’s Who in the East, 1960 on"
+msgstr "Who’s Who in the East, 1960 on"
+
+#: paragraph:42,sentence:1
+msgctxt "American Men of Science, 1956 on"
+msgid "American Men of Science, 1956 on"
+msgstr "American Men of Science, 1956 on"
+
+#: paragraph:43,sentence:1
+msgctxt ""
+"Member, Committee on Orthopsychiatry in Pediatric Settings, American "
+"Orthopsychiatric Association, 1963–1965"
+msgid ""
+"Member, Committee on Orthopsychiatry in Pediatric Settings, American "
+"Orthopsychiatric Association, 1963–1965"
+msgstr ""
+"Member, Committee on Orthopsychiatry in Pediatric Settings, American "
+"Orthopsychiatric Association, 1963–1965"
+
+#: paragraph:44,sentence:1
+msgctxt ""
+"Member, Columbia University Seminar on the Role of the Health Professions, "
+"1961 on"
+msgid ""
+"Member, Columbia University Seminar on the Role of the Health Professions, "
+"1961 on"
+msgstr ""
+"Member, Columbia University Seminar on the Role of the Health Professions, "
+"1961 on"
+
+#: paragraph:45,sentence:1
+msgctxt ""
+"Member, Professional Standards Committee, ACCEPT (New York  Council on "
+"Alcoholism), 1970 on"
+msgid ""
+"Member, Professional Standards Committee, ACCEPT (New York  Council on "
+"Alcoholism), 1970 on"
+msgstr ""
+"Member, Professional Standards Committee, ACCEPT (New York  Council on "
+"Alcoholism), 1970 on"
+
+#: paragraph:46,sentence:1
+msgctxt ""
+"Certified by the State Education Department, University of the  State of New"
+" York"
+msgid ""
+"Certified by the State Education Department, University of the  State of New"
+" York"
+msgstr ""
+"Certified by the State Education Department, University of the  State of New"
+" York"
+
+#: paragraph:47,sentence:1
+msgctxt ""
+"Principal Investigator on following research grants awarded  by Human "
+"Ecology Fund:"
+msgid ""
+"Principal Investigator on following research grants awarded  by Human "
+"Ecology Fund:"
+msgstr ""
+"Principal Investigator on following research grants awarded  by Human "
+"Ecology Fund:"
+
+#: paragraph:48,sentence:1
+msgctxt ""
+"Investigations of the Personality Assessment System in Patients  with "
+"Psychosomatic Symptoms (1960–1961)"
+msgid ""
+"Investigations of the Personality Assessment System in Patients  with "
+"Psychosomatic Symptoms (1960–1961)"
+msgstr ""
+"Investigations of the Personality Assessment System in Patients  with "
+"Psychosomatic Symptoms (1960–1961)"
+
+#: paragraph:49,sentence:1
+msgctxt "Personality Assessment System and Learning Behavior (1961–1962)"
+msgid "Personality Assessment System and Learning Behavior (1961–1962)"
+msgstr "Personality Assessment System and Learning Behavior (1961–1962)"
+
+#: paragraph:50,sentence:1
+msgctxt "Formulation of a Personality Theory (1961)"
+msgid "Formulation of a Personality Theory (1961)"
+msgstr "Formulation of a Personality Theory (1961)"
+
+#: paragraph:51,sentence:1
+msgctxt "Learning Behavior and Personality Traits (1962–1963)"
+msgid "Learning Behavior and Personality Traits (1962–1963)"
+msgstr "Learning Behavior and Personality Traits (1962–1963)"
+
+#: paragraph:52,sentence:1
+msgctxt ""
+"Prediction of Overt Behavior by Means of the Personality  Assessment System "
+"(1963–1964)"
+msgid ""
+"Prediction of Overt Behavior by Means of the Personality  Assessment System "
+"(1963–1964)"
+msgstr ""
+"Prediction of Overt Behavior by Means of the Personality  Assessment System "
+"(1963–1964)"
+
+#: paragraph:53,sentence:1
+msgctxt ""
+"Principal Investigator on grant awarded by the Geschicter Foundation:"
+msgid "Principal Investigator on grant awarded by the Geschicter Foundation:"
+msgstr "Principal Investigator on grant awarded by the Geschicter Foundation:"
+
+#: paragraph:54,sentence:1
+msgctxt ""
+"Prediction of Overt Behavior by Means of the Personality  Assessment System "
+"(1965–1966)"
+msgid ""
+"Prediction of Overt Behavior by Means of the Personality  Assessment System "
+"(1965–1966)"
+msgstr ""
+"Prediction of Overt Behavior by Means of the Personality  Assessment System "
+"(1965–1966)"
+
+#: paragraph:55,sentence:1
+msgctxt ""
+"Principal Investigator on research contract awarded by Psychological  "
+"Assessment Associates:"
+msgid ""
+"Principal Investigator on research contract awarded by Psychological  "
+"Assessment Associates:"
+msgstr ""
+"Principal Investigator on research contract awarded by Psychological  "
+"Assessment Associates:"
+
+#: paragraph:56,sentence:1
+msgctxt ""
+"Brief Procedures for the Personality Assessment System  Evaluation "
+"(1967–1968)"
+msgid ""
+"Brief Procedures for the Personality Assessment System  Evaluation "
+"(1967–1968)"
+msgstr ""
+"Brief Procedures for the Personality Assessment System  Evaluation "
+"(1967–1968)"
+
+#: paragraph:57,sentence:1
+msgctxt ""
+"Co-Director, Training Program in Clinical Psychology (with H. Hunt,  "
+"|Director), National Institute of Mental Health, 1965 (continued support "
+"from 1958 on)"
+msgid "Co-Director, Training Program in Clinical Psychology (with H."
+msgstr "Co-Director, Training Program in Clinical Psychology (with H."
+
+#: paragraph:57,sentence:2
+msgctxt ""
+"Co-Director, Training Program in Clinical Psychology (with H. Hunt,  "
+"|Director), National Institute of Mental Health, 1965 (continued support "
+"from 1958 on)"
+msgid ""
+"Hunt,  |Director), National Institute of Mental Health, 1965 (continued "
+"support from 1958 on)"
+msgstr ""
+"Hunt,  |Director), National Institute of Mental Health, 1965 (continued "
+"support from 1958 on)"
+
+#: paragraph:58,sentence:1
+msgctxt "Publications and Papers:"
+msgid "Publications and Papers:"
+msgstr "Publications and Papers:"
+
+#: paragraph:59,sentence:1
+msgctxt ""
+"Thetford, W. N. The measurement of physiological responses to frustration "
+"before and after client-centered psychotherapy. American Psychologist, 1948,"
+" 3, 278 (ab.)."
+msgid "Thetford, W. N."
+msgstr "Thetford, W. N."
+
+#: paragraph:59,sentence:2
+msgctxt ""
+"Thetford, W. N. The measurement of physiological responses to frustration "
+"before and after client-centered psychotherapy. American Psychologist, 1948,"
+" 3, 278 (ab.)."
+msgid ""
+"The measurement of physiological responses to frustration before and after "
+"client-centered psychotherapy."
+msgstr ""
+"The measurement of physiological responses to frustration before and after "
+"client-centered psychotherapy."
+
+#: paragraph:59,sentence:3
+msgctxt ""
+"Thetford, W. N. The measurement of physiological responses to frustration "
+"before and after client-centered psychotherapy. American Psychologist, 1948,"
+" 3, 278 (ab.)."
+msgid "American Psychologist, 1948, 3, 278 (ab.)."
+msgstr "American Psychologist, 1948, 3, 278 (ab.)."
+
+#: paragraph:60,sentence:1
+msgctxt ""
+"Thetford, W. N. & Molish, H. B. Aspects of personality development in  "
+"normal children. American Journal of Orthopsychiatry, 1950, 20, 866 (ab.)."
+msgid "Thetford, W. N. & Molish, H. B."
+msgstr "Thetford, W. N. & Molish, H. B."
+
+#: paragraph:60,sentence:2
+msgctxt ""
+"Thetford, W. N. & Molish, H. B. Aspects of personality development in  "
+"normal children. American Journal of Orthopsychiatry, 1950, 20, 866 (ab.)."
+msgid "Aspects of personality development in  normal children."
+msgstr "Aspects of personality development in  normal children."
+
+#: paragraph:60,sentence:3
+msgctxt ""
+"Thetford, W. N. & Molish, H. B. Aspects of personality development in  "
+"normal children. American Journal of Orthopsychiatry, 1950, 20, 866 (ab.)."
+msgid "American Journal of Orthopsychiatry, 1950, 20, 866 (ab.)."
+msgstr "American Journal of Orthopsychiatry, 1950, 20, 866 (ab.)."
+
+#: paragraph:61,sentence:1
+msgctxt ""
+"Thetford, W. N. Developmental aspects of fantasy in normal and schizophrenic"
+" children. American Psychologist, 1950, 5, 295 (ab.)."
+msgid "Thetford, W. N."
+msgstr "Thetford, W. N."
+
+#: paragraph:61,sentence:2
+msgctxt ""
+"Thetford, W. N. Developmental aspects of fantasy in normal and schizophrenic"
+" children. American Psychologist, 1950, 5, 295 (ab.)."
+msgid "Developmental aspects of fantasy in normal and schizophrenic children."
+msgstr ""
+"Developmental aspects of fantasy in normal and schizophrenic children."
+
+#: paragraph:61,sentence:3
+msgctxt ""
+"Thetford, W. N. Developmental aspects of fantasy in normal and schizophrenic"
+" children. American Psychologist, 1950, 5, 295 (ab.)."
+msgid "American Psychologist, 1950, 5, 295 (ab.)."
+msgstr "American Psychologist, 1950, 5, 295 (ab.)."
+
+#: paragraph:62,sentence:1
+msgctxt ""
+"Beck, S. J., Thiesen, W., Rabin, A., Molish, H. B. & Thetford, W. N.  The "
+"normal personality as projected in the Rorschach test.  Journal of "
+"Psychology, 1950, 30, 241–298."
+msgid "Beck, S."
+msgstr "Beck, S."
+
+#: paragraph:62,sentence:2
+msgctxt ""
+"Beck, S. J., Thiesen, W., Rabin, A., Molish, H. B. & Thetford, W. N.  The "
+"normal personality as projected in the Rorschach test.  Journal of "
+"Psychology, 1950, 30, 241–298."
+msgid "J., Thiesen, W., Rabin, A., Molish, H. B. & Thetford, W. N."
+msgstr "J., Thiesen, W., Rabin, A., Molish, H. B. & Thetford, W. N."
+
+#: paragraph:62,sentence:3
+msgctxt ""
+"Beck, S. J., Thiesen, W., Rabin, A., Molish, H. B. & Thetford, W. N.  The "
+"normal personality as projected in the Rorschach test.  Journal of "
+"Psychology, 1950, 30, 241–298."
+msgid "The normal personality as projected in the Rorschach test."
+msgstr "The normal personality as projected in the Rorschach test."
+
+#: paragraph:62,sentence:4
+msgctxt ""
+"Beck, S. J., Thiesen, W., Rabin, A., Molish, H. B. & Thetford, W. N.  The "
+"normal personality as projected in the Rorschach test.  Journal of "
+"Psychology, 1950, 30, 241–298."
+msgid "Journal of Psychology, 1950, 30, 241–298."
+msgstr "Journal of Psychology, 1950, 30, 241–298."
+
+#: paragraph:63,sentence:1
+msgctxt ""
+"Thetford, W. N. Childhood schizophrenia and the Rorschach test.  Human "
+"Development Bulletin. University of Chicago, 1951, 10–14."
+msgid "Thetford, W. N."
+msgstr "Thetford, W. N."
+
+#: paragraph:63,sentence:2
+msgctxt ""
+"Thetford, W. N. Childhood schizophrenia and the Rorschach test.  Human "
+"Development Bulletin. University of Chicago, 1951, 10–14."
+msgid ""
+"Childhood schizophrenia and the Rorschach test. Human Development Bulletin."
+msgstr ""
+"Childhood schizophrenia and the Rorschach test. Human Development Bulletin."
+
+#: paragraph:63,sentence:3
+msgctxt ""
+"Thetford, W. N. Childhood schizophrenia and the Rorschach test.  Human "
+"Development Bulletin. University of Chicago, 1951, 10–14."
+msgid "University of Chicago, 1951, 10–14."
+msgstr "University of Chicago, 1951, 10–14."
+
+#: paragraph:64,sentence:1
+msgctxt ""
+"Thetford, W. N., Molish, H. B. & Beck, S. J. Developmental aspects of "
+"personality structure in normal children. Journal of Projective Techniques, "
+"1951, 15, 58–78."
+msgid "Thetford, W. N., Molish, H. B. & Beck, S. J."
+msgstr "Thetford, W. N., Molish, H. B. & Beck, S. J."
+
+#: paragraph:64,sentence:2
+msgctxt ""
+"Thetford, W. N., Molish, H. B. & Beck, S. J. Developmental aspects of "
+"personality structure in normal children. Journal of Projective Techniques, "
+"1951, 15, 58–78."
+msgid "Developmental aspects of personality structure in normal children."
+msgstr "Developmental aspects of personality structure in normal children."
+
+#: paragraph:64,sentence:3
+msgctxt ""
+"Thetford, W. N., Molish, H. B. & Beck, S. J. Developmental aspects of "
+"personality structure in normal children. Journal of Projective Techniques, "
+"1951, 15, 58–78."
+msgid "Journal of Projective Techniques, 1951, 15, 58–78."
+msgstr "Journal of Projective Techniques, 1951, 15, 58–78."
+
+#: paragraph:65,sentence:1
+msgctxt ""
+"Thetford, W. N. The development of fantasy perceptions in children.  "
+"American Journal of Orthopsychiatry, 1951, 21, 860 (ab.)."
+msgid "Thetford, W. N."
+msgstr "Thetford, W. N."
+
+#: paragraph:65,sentence:2
+msgctxt ""
+"Thetford, W. N. The development of fantasy perceptions in children.  "
+"American Journal of Orthopsychiatry, 1951, 21, 860 (ab.)."
+msgid "The development of fantasy perceptions in children."
+msgstr "The development of fantasy perceptions in children."
+
+#: paragraph:65,sentence:3
+msgctxt ""
+"Thetford, W. N. The development of fantasy perceptions in children.  "
+"American Journal of Orthopsychiatry, 1951, 21, 860 (ab.)."
+msgid "American Journal of Orthopsychiatry, 1951, 21, 860 (ab.)."
+msgstr "American Journal of Orthopsychiatry, 1951, 21, 860 (ab.)."
+
+#: paragraph:66,sentence:1
+msgctxt ""
+"Thetford, W. N. An Organismic approach to frustration. Personality:  "
+"Symposia on topical issues. New York: Grune & Stratton, 1951, 1–19."
+msgid "Thetford, W. N."
+msgstr "Thetford, W. N."
+
+#: paragraph:66,sentence:2
+msgctxt ""
+"Thetford, W. N. An Organismic approach to frustration. Personality:  "
+"Symposia on topical issues. New York: Grune & Stratton, 1951, 1–19."
+msgid "An Organismic approach to frustration."
+msgstr "An Organismic approach to frustration."
+
+#: paragraph:66,sentence:3
+msgctxt ""
+"Thetford, W. N. An Organismic approach to frustration. Personality:  "
+"Symposia on topical issues. New York: Grune & Stratton, 1951, 1–19."
+msgid "Personality:  Symposia on topical issues."
+msgstr "Personality:  Symposia on topical issues."
+
+#: paragraph:66,sentence:4
+msgctxt ""
+"Thetford, W. N. An Organismic approach to frustration. Personality:  "
+"Symposia on topical issues. New York: Grune & Stratton, 1951, 1–19."
+msgid "New York: Grune & Stratton, 1951, 1–19."
+msgstr "New York: Grune & Stratton, 1951, 1–19."
+
+#: paragraph:67,sentence:1
+msgctxt ""
+"Thetford, W. N. & DeVos, G. A Rorschach study of clinical groups by means of"
+" Fisher’s maladjustment index. American Psychologist, 1951, 6, 505 (ab.)."
+msgid "Thetford, W. N. & DeVos, G."
+msgstr "Thetford, W. N. & DeVos, G."
+
+#: paragraph:67,sentence:2
+msgctxt ""
+"Thetford, W. N. & DeVos, G. A Rorschach study of clinical groups by means of"
+" Fisher’s maladjustment index. American Psychologist, 1951, 6, 505 (ab.)."
+msgid ""
+"A Rorschach study of clinical groups by means of Fisher’s maladjustment "
+"index."
+msgstr ""
+"A Rorschach study of clinical groups by means of Fisher’s maladjustment "
+"index."
+
+#: paragraph:67,sentence:3
+msgctxt ""
+"Thetford, W. N. & DeVos, G. A Rorschach study of clinical groups by means of"
+" Fisher’s maladjustment index. American Psychologist, 1951, 6, 505 (ab.)."
+msgid "American Psychologist, 1951, 6, 505 (ab.)."
+msgstr "American Psychologist, 1951, 6, 505 (ab.)."
+
+#: paragraph:68,sentence:1
+msgctxt ""
+"Thetford, W. N. Fantasy perceptions in the personality development of normal"
+" and deviant children. American Journal of Orthopsychiatry, 1952, 22, "
+"532–550."
+msgid "Thetford, W. N."
+msgstr "Thetford, W. N."
+
+#: paragraph:68,sentence:2
+msgctxt ""
+"Thetford, W. N. Fantasy perceptions in the personality development of normal"
+" and deviant children. American Journal of Orthopsychiatry, 1952, 22, "
+"532–550."
+msgid ""
+"Fantasy perceptions in the personality development of normal and deviant "
+"children."
+msgstr ""
+"Fantasy perceptions in the personality development of normal and deviant "
+"children."
+
+#: paragraph:68,sentence:3
+msgctxt ""
+"Thetford, W. N. Fantasy perceptions in the personality development of normal"
+" and deviant children. American Journal of Orthopsychiatry, 1952, 22, "
+"532–550."
+msgid "American Journal of Orthopsychiatry, 1952, 22, 532–550."
+msgstr "American Journal of Orthopsychiatry, 1952, 22, 532–550."
+
+#: paragraph:69,sentence:1
+msgctxt ""
+"Thetford, W. N. An objective measurement of frustration tolerance in "
+"evaluating psychotherapy. In W. Wolff & J. Precker (Eds.), Success in "
+"Psychotherapy. New York: Grune & Stratton, 1952, 26–62."
+msgid "Thetford, W. N."
+msgstr "Thetford, W. N."
+
+#: paragraph:69,sentence:2
+msgctxt ""
+"Thetford, W. N. An objective measurement of frustration tolerance in "
+"evaluating psychotherapy. In W. Wolff & J. Precker (Eds.), Success in "
+"Psychotherapy. New York: Grune & Stratton, 1952, 26–62."
+msgid ""
+"An objective measurement of frustration tolerance in evaluating "
+"psychotherapy. In W. Wolff & J."
+msgstr ""
+"An objective measurement of frustration tolerance in evaluating "
+"psychotherapy. In W. Wolff & J."
+
+#: paragraph:69,sentence:3
+msgctxt ""
+"Thetford, W. N. An objective measurement of frustration tolerance in "
+"evaluating psychotherapy. In W. Wolff & J. Precker (Eds.), Success in "
+"Psychotherapy. New York: Grune & Stratton, 1952, 26–62."
+msgid "Precker (Eds.), Success in Psychotherapy."
+msgstr "Precker (Eds.), Success in Psychotherapy."
+
+#: paragraph:69,sentence:4
+msgctxt ""
+"Thetford, W. N. An objective measurement of frustration tolerance in "
+"evaluating psychotherapy. In W. Wolff & J. Precker (Eds.), Success in "
+"Psychotherapy. New York: Grune & Stratton, 1952, 26–62."
+msgid "New York: Grune & Stratton, 1952, 26–62."
+msgstr "New York: Grune & Stratton, 1952, 26–62."
+
+#: paragraph:70,sentence:1
+msgctxt ""
+"Thetford, W. N. Personality characteristics of schizophrenic children. "
+"American Psychologist, 1952, 7, 301 (ab.)."
+msgid "Thetford, W. N."
+msgstr "Thetford, W. N."
+
+#: paragraph:70,sentence:2
+msgctxt ""
+"Thetford, W. N. Personality characteristics of schizophrenic children. "
+"American Psychologist, 1952, 7, 301 (ab.)."
+msgid "Personality characteristics of schizophrenic children."
+msgstr "Personality characteristics of schizophrenic children."
+
+#: paragraph:70,sentence:3
+msgctxt ""
+"Thetford, W. N. Personality characteristics of schizophrenic children. "
+"American Psychologist, 1952, 7, 301 (ab.)."
+msgid "American Psychologist, 1952, 7, 301 (ab.)."
+msgstr "American Psychologist, 1952, 7, 301 (ab.)."
+
+#: paragraph:71,sentence:1
+msgctxt ""
+"Thetford, W. N. Educational therapy as an integral part of the "
+"psychotherapeutic process. Proceedings of the Inter-American Psychological "
+"Association, Mexico, 1954, 24–25."
+msgid "Thetford, W. N."
+msgstr "Thetford, W. N."
+
+#: paragraph:71,sentence:2
+msgctxt ""
+"Thetford, W. N. Educational therapy as an integral part of the "
+"psychotherapeutic process. Proceedings of the Inter-American Psychological "
+"Association, Mexico, 1954, 24–25."
+msgid ""
+"Educational therapy as an integral part of the psychotherapeutic process."
+msgstr ""
+"Educational therapy as an integral part of the psychotherapeutic process."
+
+#: paragraph:71,sentence:3
+msgctxt ""
+"Thetford, W. N. Educational therapy as an integral part of the "
+"psychotherapeutic process. Proceedings of the Inter-American Psychological "
+"Association, Mexico, 1954, 24–25."
+msgid ""
+"Proceedings of the Inter-American Psychological Association, Mexico, 1954, "
+"24–25."
+msgstr ""
+"Proceedings of the Inter-American Psychological Association, Mexico, 1954, "
+"24–25."
+
+#: paragraph:72,sentence:1
+msgctxt ""
+"Thetford, W. N. (Chm.). Diagnostic techniques in clinical psychology. "
+"Proceedings of the International Applied Psychology Association, London, "
+"1955, 56."
+msgid "Thetford, W. N. (Chm.)."
+msgstr "Thetford, W. N. (Chm.)."
+
+#: paragraph:72,sentence:2
+msgctxt ""
+"Thetford, W. N. (Chm.). Diagnostic techniques in clinical psychology. "
+"Proceedings of the International Applied Psychology Association, London, "
+"1955, 56."
+msgid "Diagnostic techniques in clinical psychology."
+msgstr "Diagnostic techniques in clinical psychology."
+
+#: paragraph:72,sentence:3
+msgctxt ""
+"Thetford, W. N. (Chm.). Diagnostic techniques in clinical psychology. "
+"Proceedings of the International Applied Psychology Association, London, "
+"1955, 56."
+msgid ""
+"Proceedings of the International Applied Psychology Association, London, "
+"1955, 56."
+msgstr ""
+"Proceedings of the International Applied Psychology Association, London, "
+"1955, 56."
+
+#: paragraph:73,sentence:1
+msgctxt ""
+"Nicholas, Alma & Thetford, W. N. The use of the Hewson ratios in the "
+"diagnosis of cerebral pathology. American Psychologist, 1955, 10, 563 (ab.)."
+msgid "Nicholas, Alma & Thetford, W. N."
+msgstr "Nicholas, Alma & Thetford, W. N."
+
+#: paragraph:73,sentence:2
+msgctxt ""
+"Nicholas, Alma & Thetford, W. N. The use of the Hewson ratios in the "
+"diagnosis of cerebral pathology. American Psychologist, 1955, 10, 563 (ab.)."
+msgid "The use of the Hewson ratios in the diagnosis of cerebral pathology."
+msgstr "The use of the Hewson ratios in the diagnosis of cerebral pathology."
+
+#: paragraph:73,sentence:3
+msgctxt ""
+"Nicholas, Alma & Thetford, W. N. The use of the Hewson ratios in the "
+"diagnosis of cerebral pathology. American Psychologist, 1955, 10, 563 (ab.)."
+msgid "American Psychologist, 1955, 10, 563 (ab.)."
+msgstr "American Psychologist, 1955, 10, 563 (ab.)."
+
+#: paragraph:74,sentence:1
+msgctxt ""
+"Thetford, W. N. & Goldberger, L. Personality features and reactions in a "
+"group of Chinese. American Psychologist, 1956, 11, 385 (ab.)."
+msgid "Thetford, W. N. & Goldberger, L."
+msgstr "Thetford, W. N. & Goldberger, L."
+
+#: paragraph:74,sentence:2
+msgctxt ""
+"Thetford, W. N. & Goldberger, L. Personality features and reactions in a "
+"group of Chinese. American Psychologist, 1956, 11, 385 (ab.)."
+msgid "Personality features and reactions in a group of Chinese."
+msgstr "Personality features and reactions in a group of Chinese."
+
+#: paragraph:74,sentence:3
+msgctxt ""
+"Thetford, W. N. & Goldberger, L. Personality features and reactions in a "
+"group of Chinese. American Psychologist, 1956, 11, 385 (ab.)."
+msgid "American Psychologist, 1956, 11, 385 (ab.)."
+msgstr "American Psychologist, 1956, 11, 385 (ab.)."
+
+#: paragraph:75,sentence:1
+msgctxt ""
+"Thetford, W. N., Goldberger, L. & Wolff, H. G. A cross-cultural approach to "
+"the study of personality and illness. American Psychologist, 1957, 12, 375 "
+"(ab.)."
+msgid "Thetford, W."
+msgstr "Thetford, W."
+
+#: paragraph:75,sentence:2
+msgctxt ""
+"Thetford, W. N., Goldberger, L. & Wolff, H. G. A cross-cultural approach to "
+"the study of personality and illness. American Psychologist, 1957, 12, 375 "
+"(ab.)."
+msgid "N., Goldberger, L. & Wolff, H. G."
+msgstr "N., Goldberger, L. & Wolff, H. G."
+
+#: paragraph:75,sentence:3
+msgctxt ""
+"Thetford, W. N., Goldberger, L. & Wolff, H. G. A cross-cultural approach to "
+"the study of personality and illness. American Psychologist, 1957, 12, 375 "
+"(ab.)."
+msgid "A cross-cultural approach to the study of personality and illness."
+msgstr "A cross-cultural approach to the study of personality and illness."
+
+#: paragraph:75,sentence:4
+msgctxt ""
+"Thetford, W. N., Goldberger, L. & Wolff, H. G. A cross-cultural approach to "
+"the study of personality and illness. American Psychologist, 1957, 12, 375 "
+"(ab.)."
+msgid "American Psychologist, 1957, 12, 375 (ab.)."
+msgstr "American Psychologist, 1957, 12, 375 (ab.)."
+
+#: paragraph:76,sentence:1
+msgctxt ""
+"Chapman, L. F., Berlin, L., Guthrie, T. C., Thetford, W. N. & Wolff, H. G. "
+"Human cerebral hemisphere function. The Physiologist, 1957, 1, 4."
+msgid "Chapman, L."
+msgstr "Chapman, L."
+
+#: paragraph:76,sentence:2
+msgctxt ""
+"Chapman, L. F., Berlin, L., Guthrie, T. C., Thetford, W. N. & Wolff, H. G. "
+"Human cerebral hemisphere function. The Physiologist, 1957, 1, 4."
+msgid ""
+"F., Berlin, L., Guthrie, T. C., Thetford, W. N. & Wolff, H. G. Human "
+"cerebral hemisphere function."
+msgstr ""
+"F., Berlin, L., Guthrie, T. C., Thetford, W. N. & Wolff, H. G. Human "
+"cerebral hemisphere function."
+
+#: paragraph:76,sentence:3
+msgctxt ""
+"Chapman, L. F., Berlin, L., Guthrie, T. C., Thetford, W. N. & Wolff, H. G. "
+"Human cerebral hemisphere function. The Physiologist, 1957, 1, 4."
+msgid "The Physiologist, 1957, 1, 4."
+msgstr "The Physiologist, 1957, 1, 4."
+
+#: paragraph:77,sentence:1
+msgctxt ""
+"Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wolff, H. G. "
+"Impairment of cerebral hemispheric functions following prolonged life stress"
+" in man. Transactions VIth International Congress of Neurology, Brussels, "
+"1957, 203–218."
+msgid "Chapman, L., Thetford, W."
+msgstr "Chapman, L., Thetford, W."
+
+#: paragraph:77,sentence:2
+msgctxt ""
+"Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wolff, H. G. "
+"Impairment of cerebral hemispheric functions following prolonged life stress"
+" in man. Transactions VIth International Congress of Neurology, Brussels, "
+"1957, 203–218."
+msgid "N., Berlin, L., Guthrie, T. & Wolff, H. G."
+msgstr "N., Berlin, L., Guthrie, T. & Wolff, H. G."
+
+#: paragraph:77,sentence:3
+msgctxt ""
+"Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wolff, H. G. "
+"Impairment of cerebral hemispheric functions following prolonged life stress"
+" in man. Transactions VIth International Congress of Neurology, Brussels, "
+"1957, 203–218."
+msgid ""
+"Impairment of cerebral hemispheric functions following prolonged life stress"
+" in man."
+msgstr ""
+"Impairment of cerebral hemispheric functions following prolonged life stress"
+" in man."
+
+#: paragraph:77,sentence:4
+msgctxt ""
+"Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wolff, H. G. "
+"Impairment of cerebral hemispheric functions following prolonged life stress"
+" in man. Transactions VIth International Congress of Neurology, Brussels, "
+"1957, 203–218."
+msgid ""
+"Transactions VIth International Congress of Neurology, Brussels, 1957, "
+"203–218."
+msgstr ""
+"Transactions VIth International Congress of Neurology, Brussels, 1957, "
+"203–218."
+
+#: paragraph:78,sentence:1
+msgctxt ""
+"Thetford, W. N., Goldberger, L., Hinkle, L. & Wolff, H. G. Personality "
+"features and their cultural interrelationships in a group of Chinese. "
+"Brussels: Proceedings of 15th International Congress of Psychology, 1957, "
+"541–542."
+msgid "Thetford, W."
+msgstr "Thetford, W."
+
+#: paragraph:78,sentence:2
+msgctxt ""
+"Thetford, W. N., Goldberger, L., Hinkle, L. & Wolff, H. G. Personality "
+"features and their cultural interrelationships in a group of Chinese. "
+"Brussels: Proceedings of 15th International Congress of Psychology, 1957, "
+"541–542."
+msgid "N., Goldberger, L., Hinkle, L. & Wolff, H. G."
+msgstr "N., Goldberger, L., Hinkle, L. & Wolff, H. G."
+
+#: paragraph:78,sentence:3
+msgctxt ""
+"Thetford, W. N., Goldberger, L., Hinkle, L. & Wolff, H. G. Personality "
+"features and their cultural interrelationships in a group of Chinese. "
+"Brussels: Proceedings of 15th International Congress of Psychology, 1957, "
+"541–542."
+msgid ""
+"Personality features and their cultural interrelationships in a group of "
+"Chinese."
+msgstr ""
+"Personality features and their cultural interrelationships in a group of "
+"Chinese."
+
+#: paragraph:78,sentence:4
+msgctxt ""
+"Thetford, W. N., Goldberger, L., Hinkle, L. & Wolff, H. G. Personality "
+"features and their cultural interrelationships in a group of Chinese. "
+"Brussels: Proceedings of 15th International Congress of Psychology, 1957, "
+"541–542."
+msgid ""
+"Brussels: Proceedings of 15th International Congress of Psychology, 1957, "
+"541–542."
+msgstr ""
+"Brussels: Proceedings of 15th International Congress of Psychology, 1957, "
+"541–542."
+
+#: paragraph:79,sentence:1
+msgctxt ""
+"Hinkle, L. E., Christenson, W., Kane, F. D., Ostfeld, A., Thetford, W. N. & "
+"Wolff, H. G. Some relationships between health, personality and "
+"environmental factors in a group of adult Chinese. Psychosomatic Medicine, "
+"1957, 19, 159 (ab.)."
+msgid "Hinkle, L."
+msgstr "Hinkle, L."
+
+#: paragraph:79,sentence:2
+msgctxt ""
+"Hinkle, L. E., Christenson, W., Kane, F. D., Ostfeld, A., Thetford, W. N. & "
+"Wolff, H. G. Some relationships between health, personality and "
+"environmental factors in a group of adult Chinese. Psychosomatic Medicine, "
+"1957, 19, 159 (ab.)."
+msgid "E., Christenson, W., Kane, F."
+msgstr "E., Christenson, W., Kane, F."
+
+#: paragraph:79,sentence:3
+msgctxt ""
+"Hinkle, L. E., Christenson, W., Kane, F. D., Ostfeld, A., Thetford, W. N. & "
+"Wolff, H. G. Some relationships between health, personality and "
+"environmental factors in a group of adult Chinese. Psychosomatic Medicine, "
+"1957, 19, 159 (ab.)."
+msgid "D., Ostfeld, A., Thetford, W. N. & Wolff, H. G."
+msgstr "D., Ostfeld, A., Thetford, W. N. & Wolff, H. G."
+
+#: paragraph:79,sentence:4
+msgctxt ""
+"Hinkle, L. E., Christenson, W., Kane, F. D., Ostfeld, A., Thetford, W. N. & "
+"Wolff, H. G. Some relationships between health, personality and "
+"environmental factors in a group of adult Chinese. Psychosomatic Medicine, "
+"1957, 19, 159 (ab.)."
+msgid ""
+"Some relationships between health, personality and environmental factors in "
+"a group of adult Chinese."
+msgstr ""
+"Some relationships between health, personality and environmental factors in "
+"a group of adult Chinese."
+
+#: paragraph:79,sentence:5
+msgctxt ""
+"Hinkle, L. E., Christenson, W., Kane, F. D., Ostfeld, A., Thetford, W. N. & "
+"Wolff, H. G. Some relationships between health, personality and "
+"environmental factors in a group of adult Chinese. Psychosomatic Medicine, "
+"1957, 19, 159 (ab.)."
+msgid "Psychosomatic Medicine, 1957, 19, 159 (ab.)."
+msgstr "Psychosomatic Medicine, 1957, 19, 159 (ab.)."
+
+#: paragraph:80,sentence:1
+msgctxt ""
+"Chapman, L. F., Thetford, W. N., Berlin, L., Guthrie, T. C. & Wolff, H. G. "
+"Studies in human cerebral function: Prolonged stress and the highest "
+"integrative functions of man. Excerpta Medica, Free Communication 24, VIth "
+"International Congress of Neurology, Brussels, 1957."
+msgid "Chapman, L. F., Thetford, W."
+msgstr "Chapman, L. F., Thetford, W."
+
+#: paragraph:80,sentence:2
+msgctxt ""
+"Chapman, L. F., Thetford, W. N., Berlin, L., Guthrie, T. C. & Wolff, H. G. "
+"Studies in human cerebral function: Prolonged stress and the highest "
+"integrative functions of man. Excerpta Medica, Free Communication 24, VIth "
+"International Congress of Neurology, Brussels, 1957."
+msgid "N., Berlin, L., Guthrie, T. C. & Wolff, H. G."
+msgstr "N., Berlin, L., Guthrie, T. C. & Wolff, H. G."
+
+#: paragraph:80,sentence:3
+msgctxt ""
+"Chapman, L. F., Thetford, W. N., Berlin, L., Guthrie, T. C. & Wolff, H. G. "
+"Studies in human cerebral function: Prolonged stress and the highest "
+"integrative functions of man. Excerpta Medica, Free Communication 24, VIth "
+"International Congress of Neurology, Brussels, 1957."
+msgid ""
+"Studies in human cerebral function: Prolonged stress and the highest "
+"integrative functions of man."
+msgstr ""
+"Studies in human cerebral function: Prolonged stress and the highest "
+"integrative functions of man."
+
+#: paragraph:80,sentence:4
+msgctxt ""
+"Chapman, L. F., Thetford, W. N., Berlin, L., Guthrie, T. C. & Wolff, H. G. "
+"Studies in human cerebral function: Prolonged stress and the highest "
+"integrative functions of man. Excerpta Medica, Free Communication 24, VIth "
+"International Congress of Neurology, Brussels, 1957."
+msgid ""
+"Excerpta Medica, Free Communication 24, VIth International Congress of "
+"Neurology, Brussels, 1957."
+msgstr ""
+"Excerpta Medica, Free Communication 24, VIth International Congress of "
+"Neurology, Brussels, 1957."
+
+#: paragraph:81,sentence:1
+msgctxt ""
+"Chapman, L., Thetford, W. N., Guthrie, T., Berlin, L. & Wolff, H. G. Studies"
+" in human cerebral hemisphere functions. Transactions of American "
+"Neurological Association, 1957, 95–96."
+msgid "Chapman, L., Thetford, W."
+msgstr "Chapman, L., Thetford, W."
+
+#: paragraph:81,sentence:2
+msgctxt ""
+"Chapman, L., Thetford, W. N., Guthrie, T., Berlin, L. & Wolff, H. G. Studies"
+" in human cerebral hemisphere functions. Transactions of American "
+"Neurological Association, 1957, 95–96."
+msgid "N., Guthrie, T., Berlin, L. & Wolff, H. G."
+msgstr "N., Guthrie, T., Berlin, L. & Wolff, H. G."
+
+#: paragraph:81,sentence:3
+msgctxt ""
+"Chapman, L., Thetford, W. N., Guthrie, T., Berlin, L. & Wolff, H. G. Studies"
+" in human cerebral hemisphere functions. Transactions of American "
+"Neurological Association, 1957, 95–96."
+msgid "Studies in human cerebral hemisphere functions."
+msgstr "Studies in human cerebral hemisphere functions."
+
+#: paragraph:81,sentence:4
+msgctxt ""
+"Chapman, L., Thetford, W. N., Guthrie, T., Berlin, L. & Wolff, H. G. Studies"
+" in human cerebral hemisphere functions. Transactions of American "
+"Neurological Association, 1957, 95–96."
+msgid "Transactions of American Neurological Association, 1957, 95–96."
+msgstr "Transactions of American Neurological Association, 1957, 95–96."
+
+#: paragraph:82,sentence:1
+msgctxt ""
+"Hinkle, L. E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., "
+"Thetford, W. N. et al. Studies in human ecology: factors relevant to the "
+"occurrence of bodily illness and disturbances in need, thought, and behavior"
+" in three homogeneous population groups. American Journal of Psychiatry, "
+"1957, 114, 212–220."
+msgid "Hinkle, L."
+msgstr "Hinkle, L."
+
+#: paragraph:82,sentence:2
+msgctxt ""
+"Hinkle, L. E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., "
+"Thetford, W. N. et al. Studies in human ecology: factors relevant to the "
+"occurrence of bodily illness and disturbances in need, thought, and behavior"
+" in three homogeneous population groups. American Journal of Psychiatry, "
+"1957, 114, 212–220."
+msgid ""
+"E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., Thetford, W. N."
+" et al."
+msgstr ""
+"E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., Thetford, W. N."
+" et al."
+
+#: paragraph:82,sentence:3
+msgctxt ""
+"Hinkle, L. E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., "
+"Thetford, W. N. et al. Studies in human ecology: factors relevant to the "
+"occurrence of bodily illness and disturbances in need, thought, and behavior"
+" in three homogeneous population groups. American Journal of Psychiatry, "
+"1957, 114, 212–220."
+msgid ""
+"Studies in human ecology: factors relevant to the occurrence of bodily "
+"illness and disturbances in need, thought, and behavior in three homogeneous"
+" population groups."
+msgstr ""
+"Studies in human ecology: factors relevant to the occurrence of bodily "
+"illness and disturbances in need, thought, and behavior in three homogeneous"
+" population groups."
+
+#: paragraph:82,sentence:4
+msgctxt ""
+"Hinkle, L. E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., "
+"Thetford, W. N. et al. Studies in human ecology: factors relevant to the "
+"occurrence of bodily illness and disturbances in need, thought, and behavior"
+" in three homogeneous population groups. American Journal of Psychiatry, "
+"1957, 114, 212–220."
+msgid "American Journal of Psychiatry, 1957, 114, 212–220."
+msgstr "American Journal of Psychiatry, 1957, 114, 212–220."
+
+#: paragraph:83,sentence:1
+msgctxt ""
+"Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wolff, H. G. Highest"
+" integrative functions in man during stress. The Brain and Human Behavior. "
+"Baltimore: William and Wilkins, 1958, 491–534."
+msgid "Chapman, L., Thetford, W."
+msgstr "Chapman, L., Thetford, W."
+
+#: paragraph:83,sentence:2
+msgctxt ""
+"Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wolff, H. G. Highest"
+" integrative functions in man during stress. The Brain and Human Behavior. "
+"Baltimore: William and Wilkins, 1958, 491–534."
+msgid "N., Berlin, L., Guthrie, T. & Wolff, H. G."
+msgstr "N., Berlin, L., Guthrie, T. & Wolff, H. G."
+
+#: paragraph:83,sentence:3
+msgctxt ""
+"Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wolff, H. G. Highest"
+" integrative functions in man during stress. The Brain and Human Behavior. "
+"Baltimore: William and Wilkins, 1958, 491–534."
+msgid "Highest integrative functions in man during stress."
+msgstr "Highest integrative functions in man during stress."
+
+#: paragraph:83,sentence:4
+msgctxt ""
+"Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wolff, H. G. Highest"
+" integrative functions in man during stress. The Brain and Human Behavior. "
+"Baltimore: William and Wilkins, 1958, 491–534."
+msgid "The Brain and Human Behavior."
+msgstr "The Brain and Human Behavior."
+
+#: paragraph:83,sentence:5
+msgctxt ""
+"Chapman, L., Thetford, W. N., Berlin, L., Guthrie, T. & Wolff, H. G. Highest"
+" integrative functions in man during stress. The Brain and Human Behavior. "
+"Baltimore: William and Wilkins, 1958, 491–534."
+msgid "Baltimore: William and Wilkins, 1958, 491–534."
+msgstr "Baltimore: William and Wilkins, 1958, 491–534."
+
+#: paragraph:84,sentence:1
+msgctxt ""
+"Hinkle, L. E., Christenson, W., Kane, F. D., Ostfeld, A., Thetford, W. N. & "
+"Wolff, H. G. An investigation of the relation between life experience, "
+"personality characteristics, and general susceptibility to illness. "
+"Psychosomatic Medicine, 1958, 20, 278–295."
+msgid "Hinkle, L."
+msgstr "Hinkle, L."
+
+#: paragraph:84,sentence:2
+msgctxt ""
+"Hinkle, L. E., Christenson, W., Kane, F. D., Ostfeld, A., Thetford, W. N. & "
+"Wolff, H. G. An investigation of the relation between life experience, "
+"personality characteristics, and general susceptibility to illness. "
+"Psychosomatic Medicine, 1958, 20, 278–295."
+msgid "E., Christenson, W., Kane, F."
+msgstr "E., Christenson, W., Kane, F."
+
+#: paragraph:84,sentence:3
+msgctxt ""
+"Hinkle, L. E., Christenson, W., Kane, F. D., Ostfeld, A., Thetford, W. N. & "
+"Wolff, H. G. An investigation of the relation between life experience, "
+"personality characteristics, and general susceptibility to illness. "
+"Psychosomatic Medicine, 1958, 20, 278–295."
+msgid "D., Ostfeld, A., Thetford, W. N. & Wolff, H. G."
+msgstr "D., Ostfeld, A., Thetford, W. N. & Wolff, H. G."
+
+#: paragraph:84,sentence:4
+msgctxt ""
+"Hinkle, L. E., Christenson, W., Kane, F. D., Ostfeld, A., Thetford, W. N. & "
+"Wolff, H. G. An investigation of the relation between life experience, "
+"personality characteristics, and general susceptibility to illness. "
+"Psychosomatic Medicine, 1958, 20, 278–295."
+msgid ""
+"An investigation of the relation between life experience, personality "
+"characteristics, and general susceptibility to illness."
+msgstr ""
+"An investigation of the relation between life experience, personality "
+"characteristics, and general susceptibility to illness."
+
+#: paragraph:84,sentence:5
+msgctxt ""
+"Hinkle, L. E., Christenson, W., Kane, F. D., Ostfeld, A., Thetford, W. N. & "
+"Wolff, H. G. An investigation of the relation between life experience, "
+"personality characteristics, and general susceptibility to illness. "
+"Psychosomatic Medicine, 1958, 20, 278–295."
+msgid "Psychosomatic Medicine, 1958, 20, 278–295."
+msgstr "Psychosomatic Medicine, 1958, 20, 278–295."
+
+#: paragraph:85,sentence:1
+msgctxt ""
+"Thetford, W. N. The place of projective techniques in the medical "
+"curriculum. American Psychologist, 1958, 13, 346 (ab.)."
+msgid "Thetford, W. N."
+msgstr "Thetford, W. N."
+
+#: paragraph:85,sentence:2
+msgctxt ""
+"Thetford, W. N. The place of projective techniques in the medical "
+"curriculum. American Psychologist, 1958, 13, 346 (ab.)."
+msgid "The place of projective techniques in the medical curriculum."
+msgstr "The place of projective techniques in the medical curriculum."
+
+#: paragraph:85,sentence:3
+msgctxt ""
+"Thetford, W. N. The place of projective techniques in the medical "
+"curriculum. American Psychologist, 1958, 13, 346 (ab.)."
+msgid "American Psychologist, 1958, 13, 346 (ab.)."
+msgstr "American Psychologist, 1958, 13, 346 (ab.)."
+
+#: paragraph:86,sentence:1
+msgctxt ""
+"Thetford, W. N. & Carr, A. C. The role of clinical psychology in medical "
+"education. Journal of Medical Education, 1960, 35, 62–66."
+msgid "Thetford, W. N. & Carr, A. C."
+msgstr "Thetford, W. N. & Carr, A. C."
+
+#: paragraph:86,sentence:2
+msgctxt ""
+"Thetford, W. N. & Carr, A. C. The role of clinical psychology in medical "
+"education. Journal of Medical Education, 1960, 35, 62–66."
+msgid "The role of clinical psychology in medical education."
+msgstr "The role of clinical psychology in medical education."
+
+#: paragraph:86,sentence:3
+msgctxt ""
+"Thetford, W. N. & Carr, A. C. The role of clinical psychology in medical "
+"education. Journal of Medical Education, 1960, 35, 62–66."
+msgid "Journal of Medical Education, 1960, 35, 62–66."
+msgstr "Journal of Medical Education, 1960, 35, 62–66."
+
+#: paragraph:87,sentence:1
+msgctxt ""
+"Thetford, W. N. Theoretical formulations in personality evaluation. American"
+" Psychologist, 1961, 16, 431 (ab.)."
+msgid "Thetford, W. N."
+msgstr "Thetford, W. N."
+
+#: paragraph:87,sentence:2
+msgctxt ""
+"Thetford, W. N. Theoretical formulations in personality evaluation. American"
+" Psychologist, 1961, 16, 431 (ab.)."
+msgid "Theoretical formulations in personality evaluation."
+msgstr "Theoretical formulations in personality evaluation."
+
+#: paragraph:87,sentence:3
+msgctxt ""
+"Thetford, W. N. Theoretical formulations in personality evaluation. American"
+" Psychologist, 1961, 16, 431 (ab.)."
+msgid "American Psychologist, 1961, 16, 431 (ab.)."
+msgstr "American Psychologist, 1961, 16, 431 (ab.)."
+
+#: paragraph:88,sentence:1
+msgctxt ""
+"Schucman, H., Saunders, D. R. & Thetford, W. N. An application of syndrome "
+"analysis. American Psychologist, 1962, 17, 359 (ab.)."
+msgid "Schucman, H., Saunders, D. R. & Thetford, W. N."
+msgstr "Schucman, H., Saunders, D. R. & Thetford, W. N."
+
+#: paragraph:88,sentence:2
+msgctxt ""
+"Schucman, H., Saunders, D. R. & Thetford, W. N. An application of syndrome "
+"analysis. American Psychologist, 1962, 17, 359 (ab.)."
+msgid "An application of syndrome analysis."
+msgstr "An application of syndrome analysis."
+
+#: paragraph:88,sentence:3
+msgctxt ""
+"Schucman, H., Saunders, D. R. & Thetford, W. N. An application of syndrome "
+"analysis. American Psychologist, 1962, 17, 359 (ab.)."
+msgid "American Psychologist, 1962, 17, 359 (ab.)."
+msgstr "American Psychologist, 1962, 17, 359 (ab.)."
+
+#: paragraph:89,sentence:1
+msgctxt ""
+"Thetford, W. N. & Schucman, H. The personality assessment system. Human "
+"Ecology Fund, 1962. (Preliminary monograph)"
+msgid "Thetford, W. N. & Schucman, H. The personality assessment system."
+msgstr "Thetford, W. N. & Schucman, H. The personality assessment system."
+
+#: paragraph:89,sentence:2
+msgctxt ""
+"Thetford, W. N. & Schucman, H. The personality assessment system. Human "
+"Ecology Fund, 1962. (Preliminary monograph)"
+msgid "Human Ecology Fund, 1962. (Preliminary monograph)"
+msgstr "Human Ecology Fund, 1962. (Preliminary monograph)"
+
+#: paragraph:90,sentence:1
+msgctxt ""
+"Thetford, W. N. Principles of administrative development: technical "
+"developments. Presented at Psychology Conference, New York State Department "
+"of Mental Hygiene, 1962."
+msgid "Thetford, W. N."
+msgstr "Thetford, W. N."
+
+#: paragraph:90,sentence:2
+msgctxt ""
+"Thetford, W. N. Principles of administrative development: technical "
+"developments. Presented at Psychology Conference, New York State Department "
+"of Mental Hygiene, 1962."
+msgid "Principles of administrative development: technical developments."
+msgstr "Principles of administrative development: technical developments."
+
+#: paragraph:90,sentence:3
+msgctxt ""
+"Thetford, W. N. Principles of administrative development: technical "
+"developments. Presented at Psychology Conference, New York State Department "
+"of Mental Hygiene, 1962."
+msgid ""
+"Presented at Psychology Conference, New York State Department of Mental "
+"Hygiene, 1962."
+msgstr ""
+"Presented at Psychology Conference, New York State Department of Mental "
+"Hygiene, 1962."
+
+#: paragraph:91,sentence:1
+msgctxt ""
+"Thetford, W. N. Psychodynamics of intelligence: a projective approach. "
+"Address as president-elect, New York Society for Projective Techniques, "
+"1962."
+msgid "Thetford, W. N."
+msgstr "Thetford, W. N."
+
+#: paragraph:91,sentence:2
+msgctxt ""
+"Thetford, W. N. Psychodynamics of intelligence: a projective approach. "
+"Address as president-elect, New York Society for Projective Techniques, "
+"1962."
+msgid "Psychodynamics of intelligence: a projective approach."
+msgstr "Psychodynamics of intelligence: a projective approach."
+
+#: paragraph:91,sentence:3
+msgctxt ""
+"Thetford, W. N. Psychodynamics of intelligence: a projective approach. "
+"Address as president-elect, New York Society for Projective Techniques, "
+"1962."
+msgid ""
+"Address as president-elect, New York Society for Projective Techniques, "
+"1962."
+msgstr ""
+"Address as president-elect, New York Society for Projective Techniques, "
+"1962."
+
+#: paragraph:92,sentence:1
+msgctxt ""
+"Thetford, W. N. Theoretical formulations underlying research. Measurement of"
+" personality traits resulting from the interaction of ability and "
+"environment. New York: Human Ecology Fund, 1962, 1–3. (Foundation monograph)"
+msgid "Thetford, W. N. Theoretical formulations underlying research."
+msgstr "Thetford, W. N. Theoretical formulations underlying research."
+
+#: paragraph:92,sentence:2
+msgctxt ""
+"Thetford, W. N. Theoretical formulations underlying research. Measurement of"
+" personality traits resulting from the interaction of ability and "
+"environment. New York: Human Ecology Fund, 1962, 1–3. (Foundation monograph)"
+msgid ""
+"Measurement of personality traits resulting from the interaction of ability "
+"and environment."
+msgstr ""
+"Measurement of personality traits resulting from the interaction of ability "
+"and environment."
+
+#: paragraph:92,sentence:3
+msgctxt ""
+"Thetford, W. N. Theoretical formulations underlying research. Measurement of"
+" personality traits resulting from the interaction of ability and "
+"environment. New York: Human Ecology Fund, 1962, 1–3. (Foundation monograph)"
+msgid "New York: Human Ecology Fund, 1962, 1–3. (Foundation monograph)"
+msgstr "New York: Human Ecology Fund, 1962, 1–3. (Foundation monograph)"
+
+#: paragraph:93,sentence:1
+msgctxt ""
+"Thetford, W. N. (Chm.). Symposium: Approaches to integrated concepts of "
+"personality theory and assessment. New York Academy of Science, June, 1964."
+msgid "Thetford, W. N. (Chm.)."
+msgstr "Thetford, W. N. (Chm.)."
+
+#: paragraph:93,sentence:2
+msgctxt ""
+"Thetford, W. N. (Chm.). Symposium: Approaches to integrated concepts of "
+"personality theory and assessment. New York Academy of Science, June, 1964."
+msgid ""
+"Symposium: Approaches to integrated concepts of personality theory and "
+"assessment."
+msgstr ""
+"Symposium: Approaches to integrated concepts of personality theory and "
+"assessment."
+
+#: paragraph:93,sentence:3
+msgctxt ""
+"Thetford, W. N. (Chm.). Symposium: Approaches to integrated concepts of "
+"personality theory and assessment. New York Academy of Science, June, 1964."
+msgid "New York Academy of Science, June, 1964."
+msgstr "New York Academy of Science, June, 1964."
+
+#: paragraph:94,sentence:1
+msgctxt ""
+"Thetford, W. N. (Ed.). Multitrait, multilevel personality assessment. New "
+"York: Human Ecology Fund, 1964 (Foundation monograph)"
+msgid "Thetford, W. N. (Ed.). Multitrait, multilevel personality assessment."
+msgstr "Thetford, W. N. (Ed.). Multitrait, multilevel personality assessment."
+
+#: paragraph:94,sentence:2
+msgctxt ""
+"Thetford, W. N. (Ed.). Multitrait, multilevel personality assessment. New "
+"York: Human Ecology Fund, 1964 (Foundation monograph)"
+msgid "New York: Human Ecology Fund, 1964 (Foundation monograph)"
+msgstr "New York: Human Ecology Fund, 1964 (Foundation monograph)"
+
+#: paragraph:95,sentence:1
+msgctxt ""
+"Thetford, W. N. (Chm.) Symposium: Multitrait, multilevel personality "
+"assessment: theory, measurement, evaluation. American Psychologist, 1963, "
+"18, 411 (ab.)."
+msgid "Thetford, W."
+msgstr "Thetford, W."
+
+#: paragraph:95,sentence:2
+msgctxt ""
+"Thetford, W. N. (Chm.) Symposium: Multitrait, multilevel personality "
+"assessment: theory, measurement, evaluation. American Psychologist, 1963, "
+"18, 411 (ab.)."
+msgid ""
+"N. (Chm.) Symposium: Multitrait, multilevel personality assessment: theory, "
+"measurement, evaluation."
+msgstr ""
+"N. (Chm.) Symposium: Multitrait, multilevel personality assessment: theory, "
+"measurement, evaluation."
+
+#: paragraph:95,sentence:3
+msgctxt ""
+"Thetford, W. N. (Chm.) Symposium: Multitrait, multilevel personality "
+"assessment: theory, measurement, evaluation. American Psychologist, 1963, "
+"18, 411 (ab.)."
+msgid "American Psychologist, 1963, 18, 411 (ab.)."
+msgstr "American Psychologist, 1963, 18, 411 (ab.)."
+
+#: paragraph:96,sentence:1
+msgctxt ""
+"Hunt, H. F. & Thetford, W. N. Editorial. Journal of Abnormal Psychology, "
+"1965, 70, 1."
+msgid "Hunt, H. F. & Thetford, W. N. Editorial."
+msgstr "Hunt, H. F. & Thetford, W. N. Editorial."
+
+#: paragraph:96,sentence:2
+msgctxt ""
+"Hunt, H. F. & Thetford, W. N. Editorial. Journal of Abnormal Psychology, "
+"1965, 70, 1."
+msgid "Journal of Abnormal Psychology, 1965, 70, 1."
+msgstr "Journal of Abnormal Psychology, 1965, 70, 1."
+
+#: paragraph:97,sentence:1
+msgctxt ""
+"Thetford, W. N. The Holtzman inkblot test. In O. Buros (Ed.), The sixth "
+"mental measurements yearbook. Highland Park, N.J.: The Gryphon Press, 1965, "
+"442–444."
+msgid "Thetford, W. N. The Holtzman inkblot test. In O."
+msgstr "Thetford, W. N. The Holtzman inkblot test. In O."
+
+#: paragraph:97,sentence:2
+msgctxt ""
+"Thetford, W. N. The Holtzman inkblot test. In O. Buros (Ed.), The sixth "
+"mental measurements yearbook. Highland Park, N.J.: The Gryphon Press, 1965, "
+"442–444."
+msgid "Buros (Ed.), The sixth mental measurements yearbook."
+msgstr "Buros (Ed.), The sixth mental measurements yearbook."
+
+#: paragraph:97,sentence:3
+msgctxt ""
+"Thetford, W. N. The Holtzman inkblot test. In O. Buros (Ed.), The sixth "
+"mental measurements yearbook. Highland Park, N.J.: The Gryphon Press, 1965, "
+"442–444."
+msgid "Highland Park, N.J.: The Gryphon Press, 1965, 442–444."
+msgstr "Highland Park, N.J.: The Gryphon Press, 1965, 442–444."
+
+#: paragraph:98,sentence:1
+msgctxt ""
+"Thetford, W. N., Schucman, H. & Farmer, C. Psychological testing of children"
+" with headaches. In A. P. Friedman & E. Harms (Eds.), Headaches in children."
+" Springfield: C. C. Thomas, 1967, 82–114."
+msgid "Thetford, W."
+msgstr "Thetford, W."
+
+#: paragraph:98,sentence:2
+msgctxt ""
+"Thetford, W. N., Schucman, H. & Farmer, C. Psychological testing of children"
+" with headaches. In A. P. Friedman & E. Harms (Eds.), Headaches in children."
+" Springfield: C. C. Thomas, 1967, 82–114."
+msgid "N., Schucman, H. & Farmer, C."
+msgstr "N., Schucman, H. & Farmer, C."
+
+#: paragraph:98,sentence:3
+msgctxt ""
+"Thetford, W. N., Schucman, H. & Farmer, C. Psychological testing of children"
+" with headaches. In A. P. Friedman & E. Harms (Eds.), Headaches in children."
+" Springfield: C. C. Thomas, 1967, 82–114."
+msgid ""
+"Psychological testing of children with headaches. In A. P. Friedman & E."
+msgstr ""
+"Psychological testing of children with headaches. In A. P. Friedman & E."
+
+#: paragraph:98,sentence:4
+msgctxt ""
+"Thetford, W. N., Schucman, H. & Farmer, C. Psychological testing of children"
+" with headaches. In A. P. Friedman & E. Harms (Eds.), Headaches in children."
+" Springfield: C. C. Thomas, 1967, 82–114."
+msgid ""
+"Harms (Eds.), Headaches in children. Springfield: C. C. Thomas, 1967, "
+"82–114."
+msgstr ""
+"Harms (Eds.), Headaches in children. Springfield: C. C. Thomas, 1967, "
+"82–114."
+
+#: paragraph:99,sentence:1
+msgctxt ""
+"Thetford, W. N. Problems of assessment and evaluation of the mentally "
+"retarded and the culturally deprived (symposium discussant). Excerpta "
+"Medica, International Congress, Series No. 153, 1967, 33–34."
+msgid "Thetford, W. N."
+msgstr "Thetford, W. N."
+
+#: paragraph:99,sentence:2
+msgctxt ""
+"Thetford, W. N. Problems of assessment and evaluation of the mentally "
+"retarded and the culturally deprived (symposium discussant). Excerpta "
+"Medica, International Congress, Series No. 153, 1967, 33–34."
+msgid ""
+"Problems of assessment and evaluation of the mentally retarded and the "
+"culturally deprived (symposium discussant)."
+msgstr ""
+"Problems of assessment and evaluation of the mentally retarded and the "
+"culturally deprived (symposium discussant)."
+
+#: paragraph:99,sentence:3
+msgctxt ""
+"Thetford, W. N. Problems of assessment and evaluation of the mentally "
+"retarded and the culturally deprived (symposium discussant). Excerpta "
+"Medica, International Congress, Series No. 153, 1967, 33–34."
+msgid "Excerpta Medica, International Congress, Series No. 153, 1967, 33–34."
+msgstr "Excerpta Medica, International Congress, Series No. 153, 1967, 33–34."
+
+#: paragraph:100,sentence:1
+msgctxt ""
+"Hinkle, L. E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., "
+"Thetford, W. N.et al. Studies in human ecology. In L. Y. Rabkin & J. E. Carr"
+" (Eds.), Sourcebook in Abnormal Psychology. Boston: Houghton Mifflin, 1967, "
+"342–350."
+msgid "Hinkle, L."
+msgstr "Hinkle, L."
+
+#: paragraph:100,sentence:2
+msgctxt ""
+"Hinkle, L. E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., "
+"Thetford, W. N.et al. Studies in human ecology. In L. Y. Rabkin & J. E. Carr"
+" (Eds.), Sourcebook in Abnormal Psychology. Boston: Houghton Mifflin, 1967, "
+"342–350."
+msgid ""
+"E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., Thetford, W. "
+"N.et al. Studies in human ecology. In L. Y. Rabkin & J. E."
+msgstr ""
+"E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., Thetford, W. "
+"N.et al. Studies in human ecology. In L. Y. Rabkin & J. E."
+
+#: paragraph:100,sentence:3
+msgctxt ""
+"Hinkle, L. E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., "
+"Thetford, W. N.et al. Studies in human ecology. In L. Y. Rabkin & J. E. Carr"
+" (Eds.), Sourcebook in Abnormal Psychology. Boston: Houghton Mifflin, 1967, "
+"342–350."
+msgid "Carr (Eds.), Sourcebook in Abnormal Psychology."
+msgstr "Carr (Eds.), Sourcebook in Abnormal Psychology."
+
+#: paragraph:100,sentence:4
+msgctxt ""
+"Hinkle, L. E., Plummer, N., Metraux, R., Richter, P., Gittinger, J. W., "
+"Thetford, W. N.et al. Studies in human ecology. In L. Y. Rabkin & J. E. Carr"
+" (Eds.), Sourcebook in Abnormal Psychology. Boston: Houghton Mifflin, 1967, "
+"342–350."
+msgid "Boston: Houghton Mifflin, 1967, 342–350."
+msgstr "Boston: Houghton Mifflin, 1967, 342–350."
+
+#: paragraph:101,sentence:1
+msgctxt ""
+"Schucman, H. & Thetford, W. N. Expressed symptoms and personality traits in "
+"conversion hysteria. Psychological Reports, 1968, 23, 231–243."
+msgid "Schucman, H. & Thetford, W. N."
+msgstr "Schucman, H. & Thetford, W. N."
+
+#: paragraph:101,sentence:2
+msgctxt ""
+"Schucman, H. & Thetford, W. N. Expressed symptoms and personality traits in "
+"conversion hysteria. Psychological Reports, 1968, 23, 231–243."
+msgid "Expressed symptoms and personality traits in conversion hysteria."
+msgstr "Expressed symptoms and personality traits in conversion hysteria."
+
+#: paragraph:101,sentence:3
+msgctxt ""
+"Schucman, H. & Thetford, W. N. Expressed symptoms and personality traits in "
+"conversion hysteria. Psychological Reports, 1968, 23, 231–243."
+msgid "Psychological Reports, 1968, 23, 231–243."
+msgstr "Psychological Reports, 1968, 23, 231–243."
+
+#: paragraph:102,sentence:1
+msgctxt ""
+"Thetford, W. N. & Schucman, H. Personality patterns in migraine and "
+"ulcerative colitis patients. Psychological Reports, 1968, 23, 1206."
+msgid "Thetford, W. N. & Schucman, H."
+msgstr "Thetford, W. N. & Schucman, H."
+
+#: paragraph:102,sentence:2
+msgctxt ""
+"Thetford, W. N. & Schucman, H. Personality patterns in migraine and "
+"ulcerative colitis patients. Psychological Reports, 1968, 23, 1206."
+msgid "Personality patterns in migraine and ulcerative colitis patients."
+msgstr "Personality patterns in migraine and ulcerative colitis patients."
+
+#: paragraph:102,sentence:3
+msgctxt ""
+"Thetford, W. N. & Schucman, H. Personality patterns in migraine and "
+"ulcerative colitis patients. Psychological Reports, 1968, 23, 1206."
+msgid "Psychological Reports, 1968, 23, 1206."
+msgstr "Psychological Reports, 1968, 23, 1206."
+
+#: paragraph:103,sentence:1
+msgctxt ""
+"Thetford, W. N. & Schucman, H. Self-choices, preferences, and personality "
+"traits. Psychological Reports, 1969, 25, 659–667."
+msgid "Thetford, W. N. & Schucman, H."
+msgstr "Thetford, W. N. & Schucman, H."
+
+#: paragraph:103,sentence:2
+msgctxt ""
+"Thetford, W. N. & Schucman, H. Self-choices, preferences, and personality "
+"traits. Psychological Reports, 1969, 25, 659–667."
+msgid "Self-choices, preferences, and personality traits."
+msgstr "Self-choices, preferences, and personality traits."
+
+#: paragraph:103,sentence:3
+msgctxt ""
+"Thetford, W. N. & Schucman, H. Self-choices, preferences, and personality "
+"traits. Psychological Reports, 1969, 25, 659–667."
+msgid "Psychological Reports, 1969, 25, 659–667."
+msgstr "Psychological Reports, 1969, 25, 659–667."
+
+#: paragraph:104,sentence:1
+msgctxt ""
+"Schucman, H. & Thetford, W. N. A comparison of personality traits in "
+"ulcerative colitis and migraine patients. Journal of Abnormal Psychology, "
+"1970, 76."
+msgid "Schucman, H. & Thetford, W. N."
+msgstr "Schucman, H. & Thetford, W. N."
+
+#: paragraph:104,sentence:2
+msgctxt ""
+"Schucman, H. & Thetford, W. N. A comparison of personality traits in "
+"ulcerative colitis and migraine patients. Journal of Abnormal Psychology, "
+"1970, 76."
+msgid ""
+"A comparison of personality traits in ulcerative colitis and migraine "
+"patients."
+msgstr ""
+"A comparison of personality traits in ulcerative colitis and migraine "
+"patients."
+
+#: paragraph:104,sentence:3
+msgctxt ""
+"Schucman, H. & Thetford, W. N. A comparison of personality traits in "
+"ulcerative colitis and migraine patients. Journal of Abnormal Psychology, "
+"1970, 76."
+msgid "Journal of Abnormal Psychology, 1970, 76."
+msgstr "Journal of Abnormal Psychology, 1970, 76."
+
+#: paragraph:105,sentence:1
+msgctxt ""
+"Thetford, W. N. & Schucman, H. Conversion reactions and personality traits. "
+"Psychological Reports, 1970."
+msgid "Thetford, W. N. & Schucman, H."
+msgstr "Thetford, W. N. & Schucman, H."
+
+#: paragraph:105,sentence:2
+msgctxt ""
+"Thetford, W. N. & Schucman, H. Conversion reactions and personality traits. "
+"Psychological Reports, 1970."
+msgid ""
+"Conversion reactions and personality traits. Psychological Reports, 1970."
+msgstr ""
+"Conversion reactions and personality traits. Psychological Reports, 1970."
+
+#: paragraph:106,sentence:1
+msgctxt ""
+"Thetford, W. N. & Schucman, H. Motivational factors and adaptive behavior "
+"(Chapter 17). In J. A. Downey & R. C. Darling (Eds.). The physiologic basis "
+"of rehabilitation medicine. Philadelphia: W. B. Saunders, 1971."
+msgid "Thetford, W. N. & Schucman, H."
+msgstr "Thetford, W. N. & Schucman, H."
+
+#: paragraph:106,sentence:2
+msgctxt ""
+"Thetford, W. N. & Schucman, H. Motivational factors and adaptive behavior "
+"(Chapter 17). In J. A. Downey & R. C. Darling (Eds.). The physiologic basis "
+"of rehabilitation medicine. Philadelphia: W. B. Saunders, 1971."
+msgid ""
+"Motivational factors and adaptive behavior (Chapter 17). In J. A. Downey & "
+"R. C. Darling (Eds.)."
+msgstr ""
+"Motivational factors and adaptive behavior (Chapter 17). In J. A. Downey & "
+"R. C. Darling (Eds.)."
+
+#: paragraph:106,sentence:3
+msgctxt ""
+"Thetford, W. N. & Schucman, H. Motivational factors and adaptive behavior "
+"(Chapter 17). In J. A. Downey & R. C. Darling (Eds.). The physiologic basis "
+"of rehabilitation medicine. Philadelphia: W. B. Saunders, 1971."
+msgid ""
+"The physiologic basis of rehabilitation medicine. Philadelphia: W. B. "
+"Saunders, 1971."
+msgstr ""
+"The physiologic basis of rehabilitation medicine. Philadelphia: W. B. "
+"Saunders, 1971."
+
+#: paragraph:107,sentence:1
+msgctxt ""
+"Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. "
+"Hunt, Ed.)"
+msgid ""
+"Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. "
+"Hunt, Ed.)"
+msgstr ""
+"Associate Editor, Journal of Abnormal Psychology, 1965–1970 (with Howard F. "
+"Hunt, Ed.)"
